@@ -47,6 +47,6 @@ CREATE TABLE rincian_pesanan (
     no_produk INT(11) NOT NULL,
     sku INT(11) NOT NULL,
     jumlah INT(11) NOT NULL,
-    PRIMARY KEY(rincian_id),
+    PRIMARY KEY(rincian_id, no_produk sku),
     FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
 );
