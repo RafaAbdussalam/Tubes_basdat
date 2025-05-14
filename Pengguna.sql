@@ -1,0 +1,50 @@
+CREATE TABLE Pengguna (
+    email VARCHAR(255) PRIMARY KEY,
+    kata_sandi VARCHAR(20) NOT NULL,
+    nama_panjang VARCHAR(50),
+    no_telp 
+    tanggal_lahir DATE,
+    foto_profil ,
+    tipe ENUM('penjual', 'pembeli') NOT NULL,
+)
+
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (bagas83@outlook.com, bagX$&*Kh5, Bagas Prabowo, +62-752-851-991, 1974-11-14, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (ratih65@outlook.com, ratulG+NRG, Ratih Simanjuntak, +62-337-305-704, 1976-12-15, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (emas80@mail.com, emaGBgU^yT, Emas Marpaung, +62-281-015-684, 1955-09-01, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (umi31@mail.com, umiP2pmpFX, Umi Suryono, +62-647-974-776, 1992-02-22, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (fitria38@yahoo.com, fitVEyYOUT, Fitria Kusumo, +62-942-293-933, 1945-11-29, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (jaka13@aol.com, jak5sDC&S&, Jaka Palastri, +62-823-387-031, 1993-10-10, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (sabar90@mail.com, sabMS9@N^E, Sabar Simbolon, +62-401-900-705, 1993-05-04, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (maman60@outlook.com, mam0&FPihT, Maman Agustina, +62-730-757-210, 1962-01-14, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (yono32@yahoo.com, yonBimJa6M, Yono Mahendra, +62-021-063-251, 2010-01-05, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (prima36@mail.com, pricFfQAyt, Prima Prabowo, +62-403-354-840, 1948-10-11, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (hasta35@yahoo.com, hasOH9p7L#, Hasta Budiman, +62-720-164-418, 1970-02-17, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (taswir29@hotmail.com, tasLc6uvLh, Taswir Susanti, +62-375-164-938, 1991-05-03, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (opan61@mail.com, opaX#jGlDV, Opan Kuswandari, +62-786-929-482, 1967-03-03, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (purwa49@protonmail.com, purqq5w2y!, Purwa Tarihoran, +62-756-350-391, 1999-10-24, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (balamantri55@hotmail.com, baldKR9onl, Balamantri Waluyo, +62-353-339-491, 1961-02-16, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (daruna6@mail.com, dar67IQ0zc, Daruna Saefullah, +62-930-066-292, 1951-07-22, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (kiandra70@mail.com, kiacugkVCt, Kiandra Hutagalung, +62-362-314-477, 1964-10-02, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (dimaz90@gmail.com, dimTCMV+av, Dimaz Hakim, +62-231-108-602, 1949-12-22, penjual)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (virman97@protonmail.com, vir3QIAX_l, Virman Napitupulu, +62-113-897-964, 1999-12-17, pembeli)
+INSERT INTO Pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, tipe)
+             VALUES (emin75@hotmail.com, emin&-xVkj, Emin Purwanti, +62-242-750-564, 1988-01-29, penjual)
