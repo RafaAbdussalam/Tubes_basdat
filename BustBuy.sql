@@ -76,7 +76,6 @@ CREATE TABLE pesanan (
     metode_kirim VARCHAR(50) NOT NULL,
     email_pembeli VARCHAR(100) NOT NULL,
     alamat_id INT NOT NULL,
-    rincian_id INT NOT NULL UNIQUE,
     email_penjual VARCHAR(50) NOT NULL,
     PRIMARY KEY(no_pesanan), 
     FOREIGN KEY(email_pembeli) REFERENCES pembeli(email),
@@ -97,11 +96,12 @@ CREATE TABLE ulasan (
 );
 
 CREATE TABLE rincian_pesanan (
-    rincian_id INT NOT NULL,
+    no_pesanan INT NOT NULL,
     no_produk INT NOT NULL,
     sku INT NOT NULL,
     jumlah INT NOT NULL,
-    PRIMARY KEY(rincian_id, no_produk sku),
+    PRIMARY KEY(no_pesanan, no_produk, sku),
+    FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan),
     FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
 );
 
@@ -142,4 +142,25 @@ CREATE TRIGGER trg_unset_is_penjual
         UPDATE pengguna SET is_penjual = FALSE WHERE email = OLD.email;
     END;
 //
+DELIMITER ;
+
+-- TRIGGER (tidak boleh delete rincian pesanan terakhir kalau pesanan masihh ada)
+DELIMITER //
+CREATE TRIGGER prevent_orphan_pesanan
+BEFORE DELETE ON rincian_pesanan
+FOR EACH ROW
+BEGIN
+    DECLARE cnt INT;
+
+    -- Hitung berapa rincian yang masih tersisa untuk pesanan terkait
+    SELECT COUNT(*) INTO cnt
+    FROM rincian_pesanan
+    WHERE no_pesanan = OLD.no_pesanan;
+
+    -- Jika hanya ada satu, tolak penghapusan
+    IF cnt = 1 THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Tidak bisa menghapus rincian terakhir dari pesanan (melanggar total participation)';
+    END IF;
+END//
 DELIMITER ;
