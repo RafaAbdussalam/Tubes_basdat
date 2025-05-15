@@ -10,6 +10,19 @@ CREATE TABLE pengguna (
     PRIMARY KEY (email)
 );
 
+CREATE VIEW pengguna_dengan_umur AS
+SELECT
+    email,
+    kata_sandi,
+    nama_panjang,
+    no_telp,
+    tgl_lahir,
+    foto_profil,
+    is_pembeli,
+    is_penjual,
+    TIMESTAMPDIFF(YEAR, tgl_lahir, CURDATE()) AS umur
+FROM pengguna;
+
 CREATE TABLE friend (
     email VARCHAR(100),
     email_following VARCHAR(100),
