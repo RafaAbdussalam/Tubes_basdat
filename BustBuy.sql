@@ -10,6 +10,14 @@ CREATE TABLE pengguna (
     PRIMARY KEY (email)
 );
 
+CREATE TABLE alamat (
+    alamat_id INT NOT NULL AUTO_INCREMENT,
+    provinsi VARCHAR(50) NOT NULL,
+    kota VARCHAR(50) NOT NULL,
+    jalan VARCHAR(50) NOT NULL,
+    PRIMARY KEY (alamat_id)
+);
+
 CREATE OR REPLACE VIEW pengguna_dengan_umur AS
 SELECT
     email,
@@ -48,17 +56,6 @@ CREATE TABLE penjual (
     FOREIGN KEY (email) REFERENCES pengguna(email) ON DELETE CASCADE
 );
 
-
--- ================================
-
-CREATE TABLE alamat (
-    alamat_id INT NOT NULL AUTO_INCREMENT,
-    provinsi VARCHAR(50) NOT NULL,
-    kota VARCHAR(50) NOT NULL,
-    jalan VARCHAR(50) NOT NULL,
-    PRIMARY KEY (alamat_id)
-);
-
 CREATE TABLE alamat_alternatif (
     email VARCHAR(50) NOT NULL,
     alamat_id INT NOT NULL,
@@ -95,18 +92,6 @@ CREATE TABLE ulasan (
     FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan)
 );
 
-CREATE TABLE rincian_pesanan (
-    no_pesanan INT NOT NULL,
-    no_produk INT NOT NULL,
-    sku VARCHAR(50) NOT NULL,
-    jumlah INT NOT NULL,
-    PRIMARY KEY(no_pesanan, no_produk, sku),
-    FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan),
-    FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
-);
-
--- ===============================
-
 CREATE TABLE produk (
     no_produk INT NOT NULL AUTO_INCREMENT,
     nama_produk VARCHAR(100) NOT NULL,
@@ -141,6 +126,17 @@ CREATE TABLE varian (
     PRIMARY KEY (no_produk, sku),
     FOREIGN KEY (no_produk) REFERENCES produk(no_produk)
 );
+
+CREATE TABLE rincian_pesanan (
+    no_pesanan INT NOT NULL,
+    no_produk INT NOT NULL,
+    sku VARCHAR(50) NOT NULL,
+    jumlah INT NOT NULL,
+    PRIMARY KEY(no_pesanan, no_produk, sku),
+    FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan),
+    FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
+);
+
 
 -- ======================== TRIGGERS ===============================
 
