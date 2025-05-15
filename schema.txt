@@ -1,0 +1,62 @@
+# Skema Relasional Basis Data Sistem E-Commerce:
+
+pengguna(email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
+friend(email, email_following)
+pembeli(email, alamat_utama_id)
+penjual(email, foto_ktp, foto_diri, is_verified )
+
+alamat( alamat_id, provinsi, kota, jalan)
+alamat_alternatif(email, alamat_id)
+pesanan(no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
+ulasan(email_pembeli, no_pesanan, ulasan_id, konten, nilai)
+rincian_pesanan(no_pesanan, no_produk, sku, jumlah)
+
+produk(no_produk, nama_produk, deskripsi, email_penjual)
+gambar_produk(no_produk, gambar)
+tag_produk(no_produk, tag)
+varian(no_produk, sku, nama_varian, stok, harga)
+
+wishlist(wishlist_id, email_pembeli)
+keranjang(keranjang_id, email_pembeli)
+rincian_wishlist(wishlist_id, no_produk)
+rincian_keranjang(keranjang_id, no_produk, sku, jumlah)
+
+# PRIMARY KEY:
+pengguna(email)
+pembeli(email)
+penjual(email)
+alamat(alamat_id)
+pesanan(no_pesanan)
+ulasan(email_pembeli, no_pesanan, ulasan_id)
+rincian_pesanan(no_pesanan, no_produk, sku)
+produk(no_produk)
+varian(no_produk, sku)
+wishlist(wishlist_id)
+keranjang(keranjang_id)
+
+# FOREIGN KEY:
+friend(email) --> pengguna(email)
+friend(email_following) --> pengguna(email)
+pembeli(email) --> pengguna(email)
+pembeli(alamat_utama_id) --> alamat(alamat_id)
+penjual(email) --> pengguna(email)
+alamat_alternatif(email) --> pembeli(email)
+alamat_alternatif(alamat_id) --> alamat(alamat_id)
+pesanan(email_pembeli) --> pembeli(email)
+pesanan(alamat_id) --> alamat_id
+pesanan(email_penjual) --> penjual(email)
+ulasan(email_pembeli) --> pembeli(email)
+ulasan(no_pesanan) --> pesanan(no_pesanan)
+rincian_pesanan(no_produk, sku) --> varian(no_produk, sku)
+produk(email_penjual) --> penjual(email)
+gambar_produk(no_produk) --> produk(no_produk)
+tag_produk(no_produk) --> produk(no_produk)
+varian(no_produk) --> produk(no_produk)
+wishlist(email_pembeli) --> pembeli(email)
+keranjang(email_pembeli) --> pembeli(email)
+rincian_wishlist(wishlist_id) --> wishlist(wishlist_id)
+rincian_wishlist(no_produk) --> produk(no_produk)
+rincian_keranjang(keranjang_id) --> keranjang(keranjang_id)
+rincian_keranjang(no_produk, sku) --> varian(no_produk, sku)
+
+
