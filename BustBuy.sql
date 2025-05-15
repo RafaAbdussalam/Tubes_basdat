@@ -1,3 +1,6 @@
+CREATE DATABASE IF NOT EXISTS BustBuyDB;
+USE BustBuyDB;
+
 CREATE TABLE pengguna (
     email VARCHAR(50) NOT NULL,
     kata_sandi VARCHAR(255) NOT NULL,
@@ -17,19 +20,6 @@ CREATE TABLE alamat (
     jalan VARCHAR(50) NOT NULL,
     PRIMARY KEY (alamat_id)
 );
-
-CREATE OR REPLACE VIEW pengguna_dengan_umur AS
-SELECT
-    email,
-    kata_sandi,
-    nama_panjang,
-    no_telp,
-    tgl_lahir,
-    foto_profil,
-    is_pembeli,
-    is_penjual,
-    TIMESTAMPDIFF(YEAR, tgl_lahir, CURDATE()) AS umur
-FROM pengguna;
 
 CREATE TABLE friend (
     email VARCHAR(50) NOT NULL,
@@ -75,6 +65,9 @@ CREATE TABLE pesanan (
     email_pembeli VARCHAR(50) NOT NULL,
     alamat_id INT NOT NULL,
     email_penjual VARCHAR(50) NOT NULL,
+    CHECK (status_pesanan IN ('Menunggu Pembayaran', 'Diproses', 'Dikirim', 'Selesai', 'Dibatalkan')),
+    CHECK (metode_bayar IN ('Transfer Bank', 'COD', 'E-Wallet', 'Kartu Kredit')),
+    CHECK (metode_kirim IN ('Kurir Standar', 'Same Day', 'Ambil di Tempat', 'Instant Courier')),
     PRIMARY KEY(no_pesanan), 
     FOREIGN KEY(email_pembeli) REFERENCES pembeli(email),
     FOREIGN KEY(alamat_id) REFERENCES alamat(alamat_id),
@@ -136,6 +129,54 @@ CREATE TABLE rincian_pesanan (
     FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan),
     FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
 );
+
+
+-- ======================== INDEXING ===============================
+-- untuk meningkatkan performa
+
+-- Tabel pengguna
+CREATE INDEX idx_pengguna_is_pembeli ON pengguna(is_pembeli);
+CREATE INDEX idx_pengguna_is_penjual ON pengguna(is_penjual);
+-- Tabel friend
+CREATE INDEX idx_friend_email_following ON friend(email_following);
+-- Tabel pembeli dan penjual
+CREATE INDEX idx_pembeli_alamat ON pembeli(alamat_utama_id);
+CREATE INDEX idx_penjual_is_verified ON penjual(is_verified);
+-- Tabel alamat_alternatif
+CREATE INDEX idx_alternatif_alamat ON alamat_alternatif(alamat_id);
+-- Tabel pesanan
+CREATE INDEX idx_pesanan_email_pembeli ON pesanan(email_pembeli);
+CREATE INDEX idx_pesanan_email_penjual ON pesanan(email_penjual);
+CREATE INDEX idx_pesanan_alamat_id ON pesanan(alamat_id);
+-- Tabel ulasan
+CREATE INDEX idx_ulasan_nilai ON ulasan(nilai);
+-- Tabel rincian_pesanan
+CREATE INDEX idx_rincian_no_produk_sku ON rincian_pesanan(no_produk, sku);
+-- Tabel produk
+CREATE INDEX idx_produk_email_penjual ON produk(email_penjual);
+-- Tabel gambar_produk
+CREATE INDEX idx_gambar_produk ON gambar_produk(no_produk);
+-- Tabel tag_produk
+CREATE INDEX idx_tag_produk ON tag_produk(tag);
+-- Tabel varian
+CREATE INDEX idx_varian_stok ON varian(stok);
+CREATE INDEX idx_varian_harga ON varian(harga);
+
+
+-- ======================== VIEWS ===============================
+-- VIEW: menampilkan umur
+CREATE OR REPLACE VIEW pengguna_dengan_umur AS
+SELECT
+    email,
+    kata_sandi,
+    nama_panjang,
+    no_telp,
+    tgl_lahir,
+    foto_profil,
+    is_pembeli,
+    is_penjual,
+    TIMESTAMPDIFF(YEAR, tgl_lahir, CURDATE()) AS umur
+FROM pengguna;
 
 
 -- ======================== TRIGGERS ===============================
@@ -227,35 +268,3 @@ BEGIN
 END;
 //
 DELIMITER ;
-
-
-
--- INDEXING: untuk meningkatkan performa
-
--- Tabel pengguna
-CREATE INDEX idx_pengguna_is_pembeli ON pengguna(is_pembeli);
-CREATE INDEX idx_pengguna_is_penjual ON pengguna(is_penjual);
--- Tabel friend
-CREATE INDEX idx_friend_email_following ON friend(email_following);
--- Tabel pembeli dan penjual
-CREATE INDEX idx_pembeli_alamat ON pembeli(alamat_utama_id);
-CREATE INDEX idx_penjual_is_verified ON penjual(is_verified);
--- Tabel alamat_alternatif
-CREATE INDEX idx_alternatif_alamat ON alamat_alternatif(alamat_id);
--- Tabel pesanan
-CREATE INDEX idx_pesanan_email_pembeli ON pesanan(email_pembeli);
-CREATE INDEX idx_pesanan_email_penjual ON pesanan(email_penjual);
-CREATE INDEX idx_pesanan_alamat_id ON pesanan(alamat_id);
--- Tabel ulasan
-CREATE INDEX idx_ulasan_nilai ON ulasan(nilai);
--- Tabel rincian_pesanan
-CREATE INDEX idx_rincian_no_produk_sku ON rincian_pesanan(no_produk, sku);
--- Tabel produk
-CREATE INDEX idx_produk_email_penjual ON produk(email_penjual);
--- Tabel gambar_produk
-CREATE INDEX idx_gambar_produk ON gambar_produk(no_produk);
--- Tabel tag_produk
-CREATE INDEX idx_tag_produk ON tag_produk(tag);
--- Tabel varian
-CREATE INDEX idx_varian_stok ON varian(stok);
-CREATE INDEX idx_varian_harga ON varian(harga);
