@@ -456,7 +456,7 @@ INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
 (9, 'Handphone Case', 'Pelindung handphone dengan desain premium', 'ajiono27@mail.com'),
 (10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'bakidin22@hotmail.com');
 
--- GAMBAR PRODUK
+-- GAMBAR_PRODUK
 INSERT INTO gambar_produk (no_produk, gambar) VALUES
 (1, "/path/to/kemeja1.jpg"),
 (1, "/path/to/kemeja2.jpg"),
@@ -470,7 +470,7 @@ INSERT INTO gambar_produk (no_produk, gambar) VALUES
 (9, "/path/to/case1.jpg"),
 (10, "/path/to/kaos1.jpg");
 
--- TAG PRODUK
+-- TAG_PRODUK
 INSERT INTO tag_produk (no_produk, tag) VALUES
 (1, 'Formal'),
 (1, 'Kemeja'),
@@ -520,3 +520,98 @@ INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) VALUES
 (5, '5-BLACK', 'Jam Tangan Digital Hitam', 20, 175000.00),
 (5, '5-SILVER', 'Jam Tangan Digital Silver', 18, 175000.00),
 (5, '5-GOLD', 'Jam Tangan Digital Gold', 10, 190000.00);
+
+-- WISHLIST
+INSERT INTO wishlist (wishlist_id, email_pembeli) VALUES
+(1, 'oskar64@aol.com'), 
+(2, 'argono11@aol.com'), 
+(3, 'jindra4@protonmail.com'), 
+(4, 'tantri37@outlook.com'), 
+(5, 'rini38@outlook.com'), 
+(6, 'bakidin22@hotmail.com'), 
+(7, 'asirwada33@aol.com'), 
+(8, 'jaiman22@mail.com'), 
+(9, 'ajiono27@mail.com'), 
+(10, 'maria7@hotmail.com'), 
+(11, 'jarwi97@mail.com'),
+(12, 'harimurti20@yahoo.com'),
+(13, 'unjani96@hotmail.com'),
+(14, 'jagapati36@gmail.com'),
+(15, 'halim35@protonmail.com');
+
+-- KERANJANG
+INSERT INTO keranjang (keranjang_id, email_pembeli) VALUES
+(1, 'oskar64@aol.com'),
+(2, 'argono11@aol.com'),
+(3, 'jindra4@protonmail.com'),
+(4, 'tantri37@outlook.com'),
+(5, 'rini38@outlook.com'),
+(6, 'bakidin22@hotmail.com'),
+(7, 'asirwada33@aol.com'),
+(8, 'jaiman22@mail.com'),
+(9, 'ajiono27@mail.com'),
+(10, 'maria7@hotmail.com'),
+(11, 'jarwi97@mail.com'),
+(12, 'harimurti20@yahoo.com'),
+(13, 'unjani96@hotmail.com'),
+(14, 'jagapati36@gmail.com'),
+(15, 'halim35@protonmail.com');
+
+-- RINCIAN_WISHLIST
+INSERT INTO rincian_wishlist (wishlist_id, no_produk) VALUES
+(1, 1),
+(1, 2),
+(2, 10),
+(3, 7),
+(4, 5),
+(4, 9),
+(4, 10),
+(5, 8),
+(5, 1),
+(6, 2),
+(6, 1),
+(7, 10),
+(8, 7),
+(8, 5),
+(8, 9),
+(9, 4),
+(9, 1),
+(10, 6),
+(10, 2),
+(10, 8),
+(11, 8),
+(11, 3),
+(12, 2),
+(13, 7),
+(14, 1),
+(15, 5),
+(15, 6);
+
+-- RINCIAN_KERANJANG
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) VALUES
+(1, 2, '2-BLACK-28'),
+(1, 1, '1-BLUE-S'),
+(2, 1, '1-BLUE-M'),
+(2, 2, '2-BLACK-28'),
+(3, 4, '4-NAVY'),
+(3, 2, '2-NAVY-30'),
+(4, 4, '4-NAVY'),
+(5, 3, '3-WHITE-41'),
+(6, 2, '2-NAVY-30'),
+(7, 3, '3-WHITE-41'),
+(8, 1, '1-BLUE-M'),
+(8, 2, '2-NAVY-30'),
+(9, 2, '2-NAVY-30'),
+(10, 4, '4-NAVY'),
+(10, 2, '2-BLACK-28'),
+(10, 3, '3-WHITE-41'),
+(11, 2, '2-NAVY-30'),
+(11, 5, '5-GOLD'),
+(11, 1, '1-BLUE-L'),
+(12, 1, '1-BLUE-M'),
+(13, 2, '2-NAVY-30'),
+(13, 4, '4-NAVY'),
+(13, 1, '1-BLUE-L'),
+(14, 1, '1-BLUE-L'),
+(15, 4, '4-NAVY');
+
