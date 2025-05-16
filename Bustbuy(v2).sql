@@ -27,6 +27,7 @@ CREATE TABLE friend (
     email VARCHAR(50) NOT NULL,
     email_following VARCHAR(50) NOT NULL,
     UNIQUE (email, email_following),
+    CHECK (email <> email_following),
     FOREIGN KEY (email) REFERENCES pengguna(email),
     FOREIGN KEY (email_following) REFERENCES pengguna(email)
 );
@@ -134,14 +135,16 @@ CREATE TABLE rincian_pesanan (
 
 CREATE TABLE wishlist (
     wishlist_id INT NOT NULL AUTO_INCREMENT,
-    email_pembeli VARCHAR(100) NOT NULL UNIQUE,
+    email_pembeli VARCHAR(100) NOT NULL,
+    nama_wishlist VARCHAR(20) DEFAULT NULL,
     PRIMARY KEY (wishlist_id),
     FOREIGN KEY (email_pembeli) REFERENCES pembeli(email)
 );
 
 CREATE TABLE keranjang (
     keranjang_id INT NOT NULL AUTO_INCREMENT,
-    email_pembeli VARCHAR(100) NOT NULL UNIQUE,
+    email_pembeli VARCHAR(100) NOT NULL,
+    nama_keranjang VARCHAR(20) DEFAULT NULL,
     PRIMARY KEY (keranjang_id),
     FOREIGN KEY (email_pembeli) REFERENCES pembeli(email)
 );
