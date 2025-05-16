@@ -127,7 +127,8 @@ CREATE TABLE rincian_pesanan (
     no_pesanan INT NOT NULL,
     no_produk INT NOT NULL,
     sku VARCHAR(50) NOT NULL,
-    jumlah INT NOT NULL,
+    jumlah INT NOT NULL DEFAULT 1,
+    CHECK (jumlah > 0),
     PRIMARY KEY(no_pesanan, no_produk, sku),
     FOREIGN KEY(no_pesanan) REFERENCES pesanan(no_pesanan),
     FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
@@ -161,6 +162,8 @@ CREATE TABLE rincian_keranjang (
     keranjang_id INT NOT NULL,
     no_produk INT NOT NULL,
     sku VARCHAR(50) NOT NULL,
+    jumlah INT NOT NULL DEFAULT 1,
+    CHECK (jumlah > 0),
     UNIQUE (keranjang_id, no_produk, sku),
     FOREIGN KEY (keranjang_id) REFERENCES keranjang(keranjang_id),
     FOREIGN KEY (no_produk, sku) REFERENCES varian(no_produk, sku)
