@@ -132,6 +132,36 @@ CREATE TABLE rincian_pesanan (
     FOREIGN KEY(no_produk, sku) REFERENCES varian(no_produk, sku)
 );
 
+CREATE TABLE wishlist (
+    wishlist_id INT NOT NULL AUTO_INCREMENT,
+    email_pembeli VARCHAR(100) NOT NULL UNIQUE,
+    PRIMARY KEY (wishlist_id),
+    FOREIGN KEY (email_pembeli) REFERENCES pembeli(email)
+);
+
+CREATE TABLE keranjang (
+    keranjang_id INT NOT NULL AUTO_INCREMENT,
+    email_pembeli VARCHAR(100) NOT NULL UNIQUE,
+    PRIMARY KEY (keranjang_id),
+    FOREIGN KEY (email_pembeli) REFERENCES pembeli(email)
+);
+
+CREATE TABLE rincian_wishlist (
+    wishlist_id INT NOT NULL,
+    no_produk INT NOT NULL,
+    UNIQUE (wishlist_id, no_produk),
+    FOREIGN KEY (wishlist_id) REFERENCES wishlist(wishlist_id),
+    FOREIGN KEY (no_produk) REFERENCES produk(no_produk)
+);
+
+CREATE TABLE rincian_keranjang (
+    keranjang_id INT NOT NULL,
+    no_produk INT NOT NULL,
+    sku VARCHAR(50) NOT NULL,
+    UNIQUE (keranjang_id, no_produk, sku),
+    FOREIGN KEY (keranjang_id) REFERENCES keranjang(keranjang_id),
+    FOREIGN KEY (no_produk, sku) REFERENCES varian(no_produk, sku)
+);
 
 -- ======================== INDEXING ===============================
 -- untuk meningkatkan performa
@@ -163,6 +193,12 @@ CREATE INDEX idx_tag_produk ON tag_produk(tag);
 -- Tabel varian
 CREATE INDEX idx_varian_stok ON varian(stok);
 CREATE INDEX idx_varian_harga ON varian(harga);
+-- Tabel wishlist
+CREATE INDEX idx_wishlist_id ON wishlist(wishlist_id);
+CREATE INDEX idx_rincian_wishlist ON rincian_wishlist(wishlist_id);
+-- Tabel keranjang
+CREATE INDEX idx_keranjang_id ON keranjang(keranjang_id);
+CREATE INDEX idx_rincian_keranjang ON rincian_keranjang(keranjang_id);
 
 
 -- ======================== VIEWS ===============================
