@@ -1,5 +1,7 @@
-CREATE DATABASE IF NOT EXISTS BustBuyDB;
-USE BustBuyDB;
+DROP DATABASE IF EXISTS bustbuydb;
+DROP DATABASE IF EXISTS bustbuy_db;
+CREATE DATABASE IF NOT EXISTS bustbuy_db;
+USE bustbuy_db;
 
 CREATE TABLE pengguna (
     email VARCHAR(50) NOT NULL,
@@ -268,3 +270,197 @@ BEGIN
 END;
 //
 DELIMITER ;
+
+
+-- ======================== INSERT DATA ===============================
+
+-- PENGGUNA
+INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual) VALUES
+('oskar64@aol.com', 'oskd3%4qJj', 'Oskar Pertiwi', '+62-527-118-537', '2003-06-29', NULL, True, False),
+('argono11@aol.com', 'arg9-adbb_', 'Argono Nurdiyanti', '+62-015-017-362', '1973-01-29', NULL, True, True),
+('jindra4@protonmail.com', 'jinm+Tzz7&', 'Jindra Hassanah', '+62-243-379-819', '2000-12-15', NULL, True, True),
+('jane49@protonmail.com', 'jant$1%F@c', 'Jane Rahimah', '+62-259-350-649', '1974-06-21', NULL, False, True),
+('dono72@gmail.com', 'donjmG^NuH', 'Dono Puspasari', '+62-793-255-250', '1984-10-02', NULL, False, True),
+('tantri37@outlook.com', 'tan5h5HPpN', 'Tantri Wahyuni', '+62-130-508-252', '1982-09-23', NULL, True, True),
+('rini38@outlook.com', 'rins^V^Iyw', 'Rini Hariyah', '+62-843-898-446', '1974-11-22', NULL, True, False),
+('bakidin22@hotmail.com', 'bakXB%!Jr%', 'Bakidin Siregar', '+62-761-390-963', '1981-05-03', NULL, True, True),
+('asirwada33@aol.com', 'asiACWE7wH', 'Asirwada Farida', '+62-723-744-422', '1957-12-09', NULL, True, False),
+('jaiman22@mail.com', 'jaix8w-u7A', 'Jaiman Maheswara', '+62-454-467-458', '2009-07-02', NULL, True, True),
+('ajiono27@mail.com', 'ajieyj7B_&', 'Ajiono Wijayanti', '+62-606-937-971', '1998-12-27', NULL, True, True),
+('maria7@hotmail.com', 'marqye&zG0', 'Maria Prasasta', '+62-597-712-575', '1948-08-22', NULL, True, True),
+('jarwi97@mail.com', 'jar--@@hVu', 'Jarwi Kusumo', '+62-457-350-036', '1986-06-22', NULL, True, True),
+('adinata11@gmail.com', 'adit&63*9c', 'Adinata Simbolon', '+62-644-762-003', '1986-11-09', NULL, False, True),
+('harimurti20@yahoo.com', 'har654LQX9', 'Harimurti Nashiruddin', '+62-458-455-391', '1977-11-07', NULL, True, True),
+('luwes56@gmail.com', 'luwn7xh*zH', 'Luwes Winarno', '+62-060-938-860', '1999-03-17', NULL, False, True),
+('halim35@protonmail.com', 'hal8ZNz0Py', 'Halim Pertiwi', '+62-539-194-413', '1973-04-01', NULL, True, False),
+('unjani96@hotmail.com', 'unj6kvoc@Q', 'Unjani Yuniar', '+62-413-113-161', '2002-05-24', NULL, True, True),
+('jagapati36@gmail.com', 'jagW*pQyQu', 'Jagapati Laksmiwati', '+62-508-905-549', '1999-05-09', NULL, True, True),
+('anastasia68@outlook.com', 'anadAs!v8a', 'Anastasia Mahendra', '+62-988-870-238', '1983-07-15', NULL, False, True);
+
+-- ALAMAT
+INSERT INTO alamat (alamat_id, provinsi, kota, jalan) VALUES
+(1,'Pennsylvania','Lake Retha','11192 Annette Run Apt. 066'),
+(2,'Connecticut','Maximofort','112 Branson Lane Suite 535'),
+(3,'Mississippi','Kuhicborough','253 Rodrick Fields Apt. 758'),
+(4,'Nebraska','Lelandside','86680 Rocio Well'),
+(5,'Montana','North Abigale','565 Wunsch Drives Suite 590'),
+(6,'Wisconsin','Lake Boyd','603 Myrl Junction'),
+(7,'Delaware','East Ramirofurt','545 Korey Ridge'),
+(8,'Virginia','New Ramonmouth','06608 Harris Radial Suite 205'),
+(9,'NewMexico','Aprilshire','955 Grady Expressway'),
+(10,'Connecticut','South Harmonfurt','292 Meagan Spurs'),
+(11,'Ohio','West Rebekastad','2074 Imogene Ways Suite 445'),
+(12,'Florida','Cummerataland','2011 Klein Union'),
+(13,'Maine','West Rogers','49790 Abigayle Lights'),
+(14,'Massachusetts','Sherwoodtown','82666 Barton Lakes'),
+(15,'Idaho','Shaniyaview','573 Brekke Mountains'),
+(16,'Louisiana','Leuschkeside','718 Ressie Trail Apt. 762'),
+(17,'NewJersey','Port Ofelia','321 Klein Prairie Apt. 884'),
+(18,'NewHampshire','West Colin','61434 Botsford Loaf Suite 588'),
+(19,'Alaska','Kyraburgh','47284 Estevan Island Apt. 832'),
+(20,'NewYork','Skyemouth','963 Louvenia Fort'),
+(21,'Florida','Elisabethfort','12455 Maxine Drives Suite 312'),
+(22,'Hawaii','Lake Roelborough','70705 Howe Landing'),
+(23,'Michigan','New Vena','1861 Dooley Skyway'),
+(24,'NewHampshire','East Eric','91209 Zemlak Center Suite 711'),
+(25,'Wisconsin','Port Billie','8226 Bennie Vista'),
+(26,'Connecticut','Collierport','9435 Elmo Courts Suite 612'),
+(27,'California','Sengertown','2858 Granville Extensions Suite 731'),
+(28,'Mississippi','West Floydshire','557 Giovanna Lights Apt. 950'),
+(29,'SouthCarolina','Sanfordport','8228 Wava Plain Apt. 864'),
+(30,'NewHampshire','New Lexieshire','6917 Mireille Skyway Suite 383'),
+(31,'Connecticut','South Sallyshire','6565 Richard Pine Suite 870'),
+(32,'NewMexico','Port Davin','14931 Jarred Trafficway Apt. 908'),
+(33,'NewMexico','Port Leora','9212 Erdman Summit'),
+(34,'Alaska','Khalilberg','88271 Opal Burg Suite 272'),
+(35,'Louisiana','South Tevin','351 Morar Light'),
+(36,'Iowa','Mertzshire','71846 Landen Oval'),
+(37,'Alaska','Dawsonfort','86543 Ramiro Cliff Apt. 278'),
+(38,'Mississippi','North Danny','757 Willms Grove'),
+(39,'Iowa','South Trudie','807 Jade Fork Suite 767'),
+(40,'Wyoming','Lubowitzside','72495 Glover Courts Apt. 131'),
+(41,'Nevada','Lake Yeseniaberg','791 Nicolas Alley Suite 860'),
+(42,'Mississippi','East Noemiemouth','66379 Rempel Mount Apt. 929'),
+(43,'Oklahoma','Lake Bernie','946 Norval Crossroad'),
+(44,'NewHampshire','Breitenbergchester','757 Hyatt Cliff Suite 646'),
+(45,'Mississippi','Jacobiborough','16084 Heidi Circle Apt. 391'),
+(46,'Arkansas','North Lexi','01393 Murray Estates Suite 387'),
+(47,'Massachusetts','Fadelchester','5856 Mayra Plains'),
+(48,'District of Columbia','Janaeton','5561 Goyette Branch Suite 694'),
+(49,'NewMexico','Jastton','949 Leuschke Orchard'),
+(50,'Georgia','Ankundingfurt','3574 Desiree Mills');
+
+-- PEMBELI
+INSERT INTO pembeli (email, alamat_utama_id) VALUES
+('oskar64@aol.com', 1),
+('argono11@aol.com', 2),
+('jindra4@protonmail.com', 3),
+('tantri37@outlook.com', 6),
+('rini38@outlook.com', 7),
+('bakidin22@hotmail.com', 8),
+('asirwada33@aol.com', 9),
+('jaiman22@mail.com', 10),
+('ajiono27@mail.com', 11),
+('maria7@hotmail.com', 12),
+('jarwi97@mail.com', 13),
+('harimurti20@yahoo.com', 15),
+('unjani96@hotmail.com', 17),
+('jagapati36@gmail.com', 18),
+('halim35@protonmail.com', 16);
+
+-- PENJUAL
+INSERT INTO penjual (email) VALUES
+('argono11@aol.com'),
+('jindra4@protonmail.com'),
+('jane49@protonmail.com'),
+('dono72@gmail.com'),
+('tantri37@outlook.com'),
+('bakidin22@hotmail.com'),
+('jaiman22@mail.com'),
+('ajiono27@mail.com'),
+('maria7@hotmail.com'),
+('jarwi97@mail.com'),
+('adinata11@gmail.com'),
+('harimurti20@yahoo.com'),
+('luwes56@gmail.com'),
+('unjani96@hotmail.com'),
+('jagapati36@gmail.com'),
+('anastasia68@outlook.com');
+
+-- PRODUK
+INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
+(1, 'Kemeja Formal Pria', 'Kemeja formal untuk acara resmi dan kantor', 'argono11@aol.com'),
+(2, 'Celana Chino', 'Celana casual yang nyaman untuk aktivitas sehari-hari', 'jindra4@protonmail.com'),
+(3, 'Sepatu Sneakers', 'Sepatu olahraga yang stylish dan nyaman', 'jane49@protonmail.com'),
+(4, 'Tas Ransel', 'Tas multifungsi dengan kapasitas besar', 'dono72@gmail.com'),
+(5, 'Jam Tangan Digital', 'Jam tangan dengan fitur lengkap dan tahan air', 'tantri37@outlook.com'),
+(6, 'Kacamata Fashion', 'Kacamata gaya dengan filter cahaya biru', 'bakidin22@hotmail.com'),
+(7, 'Topi Baseball', 'Topi dengan desain modern untuk aktivitas outdoor', 'jaiman22@mail.com'),
+(8, 'Masker Kain', 'Masker kain dengan 3 lapisan yang dapat dicuci ulang', 'ajiono27@mail.com'),
+(9, 'Handphone Case', 'Pelindung handphone dengan desain premium', 'maria7@hotmail.com'),
+(10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'jarwi97@mail.com');
+
+-- GAMBAR PRODUK
+INSERT INTO gambar_produk (no_produk, gambar) VALUES
+(1, "/path/to/kemeja1.jpg"),
+(1, "/path/to/kemeja2.jpg"),
+(2, "/path/to/celana1.jpg"),
+(3, "/path/to/sepatu1.jpg"),
+(4, "/path/to/tas1.jpg"),
+(5, "/path/to/jam1.jpg"),
+(6, "/path/to/kacamata1.jpg"),
+(7, "/path/to/topi1.jpg"),
+(8, "/path/to/masker1.jpg"),
+(9, "/path/to/case1.jpg"),
+(10, "/path/to/kaos1.jpg");
+
+-- TAG PRODUK
+INSERT INTO tag_produk (no_produk, tag) VALUES
+(1, 'Formal'),
+(1, 'Kemeja'),
+(1, 'Kantor'),
+(2, 'Casual'),
+(2, 'Celana'),
+(3, 'Sepatu'),
+(3, 'Olahraga'),
+(4, 'Tas'),
+(4, 'Travel'),
+(5, 'Jam'),
+(5, 'Aksesoris'),
+(6, 'Fashion'),
+(6, 'Kacamata'),
+(7, 'Outdoor'),
+(7, 'Topi'),
+(8, 'Kesehatan'),
+(8, 'Masker'),
+(9, 'Gadget'),
+(9, 'Aksesoris'),
+(10, 'Pakaian'),
+(10, 'Kaos');
+
+-- VARIAN
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) VALUES
+(1, '1-BLUE-S', 'Kemeja Biru Ukuran S', 10, 150000.00),
+(1, '1-BLUE-M', 'Kemeja Biru Ukuran M', 15, 150000.00),
+(1, '1-BLUE-L', 'Kemeja Biru Ukuran L', 12, 155000.00),
+(1, '1-WHITE-S', 'Kemeja Putih Ukuran S', 8, 150000.00),
+(1, '1-WHITE-M', 'Kemeja Putih Ukuran M', 20, 150000.00),
+(1, '1-WHITE-L', 'Kemeja Putih Ukuran L', 15, 155000.00),
+(2, '2-BLACK-28', 'Celana Chino Hitam Ukuran 28', 7, 200000.00),
+(2, '2-BLACK-30', 'Celana Chino Hitam Ukuran 30', 10, 200000.00),
+(2, '2-BLACK-32', 'Celana Chino Hitam Ukuran 32', 5, 200000.00),
+(2, '2-NAVY-28', 'Celana Chino Navy Ukuran 28', 8, 200000.00),
+(2, '2-NAVY-30', 'Celana Chino Navy Ukuran 30', 12, 200000.00),
+(2, '2-NAVY-32', 'Celana Chino Navy Ukuran 32', 6, 200000.00),
+(3, '3-BLACK-39', 'Sepatu Sneakers Hitam Ukuran 39', 5, 350000.00),
+(3, '3-BLACK-40', 'Sepatu Sneakers Hitam Ukuran 40', 8, 350000.00),
+(3, '3-BLACK-41', 'Sepatu Sneakers Hitam Ukuran 41', 7, 350000.00),
+(3, '3-WHITE-39', 'Sepatu Sneakers Putih Ukuran 39', 4, 350000.00),
+(3, '3-WHITE-40', 'Sepatu Sneakers Putih Ukuran 40', 10, 350000.00),
+(3, '3-WHITE-41', 'Sepatu Sneakers Putih Ukuran 41', 9, 350000.00),
+(4, '4-BLACK', 'Tas Ransel Hitam', 15, 225000.00),
+(4, '4-NAVY', 'Tas Ransel Navy', 12, 225000.00),
+(4, '4-RED', 'Tas Ransel Merah', 8, 225000.00),
+(5, '5-BLACK', 'Jam Tangan Digital Hitam', 20, 175000.00),
+(5, '5-SILVER', 'Jam Tangan Digital Silver', 18, 175000.00),
+(5, '5-GOLD', 'Jam Tangan Digital Gold', 10, 190000.00);
