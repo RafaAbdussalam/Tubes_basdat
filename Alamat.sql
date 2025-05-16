@@ -1,4 +1,4 @@
-CREATE TABLE Alamat (
+CREATE TABLE alamat (
     alamat_id INT AUTO_INCREMENT,
     provinsi VARCHAR(50) NOT NULL,
     kota VARCHAR(50) NOT NULL,
@@ -6,7 +6,7 @@ CREATE TABLE Alamat (
     PRIMARY KEY (alamat_id)
 );
 
-INSERT INTO `Alamat` VALUES
+INSERT INTO `alamat` VALUES
 (1,'Pennsylvania','Lake Retha','11192 Annette Run Apt. 066'),
 (2,'Connecticut','Maximofort','112 Branson Lane Suite 535'),
 (3,'Mississippi','Kuhicborough','253 Rodrick Fields Apt. 758'),
@@ -56,4 +56,4 @@ INSERT INTO `Alamat` VALUES
 (47,'Massachusetts','Fadelchester','5856 Mayra Plains'),
 (48,'District of Columbia','Janaeton','5561 Goyette Branch Suite 694'),
 (49,'NewMexico','Jastton','949 Leuschke Orchard'),
-(50,'Georgia','Ankundingfurt','3574 Desiree Mills')
+(50,'Georgia','Ankundingfurt','3574 Desiree Mills');
