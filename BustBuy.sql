@@ -331,7 +331,7 @@ DELIMITER ;
 -- ======================== INSERT DATA ===============================
 
 -- PENGGUNA
-INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual) VALUES
+INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual) 
 ('oskar64@aol.com', 'oskd3%4qJj', 'Oskar Pertiwi', '+62-527-118-537', '2003-06-29', NULL, True, False),
 ('argono11@aol.com', 'arg9-adbb_', 'Argono Nurdiyanti', '+62-015-017-362', '1973-01-29', NULL, True, True),
 ('jindra4@protonmail.com', 'jinm+Tzz7&', 'Jindra Hassanah', '+62-243-379-819', '2000-12-15', NULL, True, True),
@@ -354,7 +354,7 @@ INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_
 ('anastasia68@outlook.com', 'anadAs!v8a', 'Anastasia Mahendra', '+62-988-870-238', '1983-07-15', NULL, False, True);
 
 -- ALAMAT
-INSERT INTO alamat (alamat_id, provinsi, kota, jalan) VALUES
+INSERT INTO alamat (alamat_id, provinsi, kota, jalan) 
 (1,'Pennsylvania','Lake Retha','11192 Annette Run Apt. 066'),
 (2,'Connecticut','Maximofort','112 Branson Lane Suite 535'),
 (3,'Mississippi','Kuhicborough','253 Rodrick Fields Apt. 758'),
@@ -407,7 +407,7 @@ INSERT INTO alamat (alamat_id, provinsi, kota, jalan) VALUES
 (50,'Georgia','Ankundingfurt','3574 Desiree Mills');
 
 -- PEMBELI
-INSERT INTO pembeli (email, alamat_utama_id) VALUES
+INSERT INTO pembeli (email, alamat_utama_id) 
 ('oskar64@aol.com', 1),
 ('argono11@aol.com', 2),
 ('jindra4@protonmail.com', 3),
@@ -425,7 +425,7 @@ INSERT INTO pembeli (email, alamat_utama_id) VALUES
 ('halim35@protonmail.com', 16);
 
 -- PENJUAL
-INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) VALUES
+INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) 
 ('argono11@aol.com', '/path/ktp/argono11.png', '/path/diri/argono11.png', TRUE),
 ('jindra4@protonmail.com', '/path/ktp/jindra4.png', '/path/diri/jindra4.png', TRUE),
 ('jane49@protonmail.com', '/path/ktp/jane49.png', '/path/diri/jane49.png', TRUE),
@@ -444,7 +444,7 @@ INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) VALUES
 ('anastasia68@outlook.com', NULL, NULL, FALSE);
 
 -- PRODUK
-INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
+INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) 
 (1, 'Kemeja Formal Pria', 'Kemeja formal untuk acara resmi dan kantor', 'argono11@aol.com'),
 (2, 'Celana Chino', 'Celana casual yang nyaman untuk aktivitas sehari-hari', 'jindra4@protonmail.com'),
 (3, 'Sepatu Sneakers', 'Sepatu olahraga yang stylish dan nyaman', 'jane49@protonmail.com'),
@@ -457,7 +457,7 @@ INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
 (10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'bakidin22@hotmail.com');
 
 -- GAMBAR_PRODUK
-INSERT INTO gambar_produk (no_produk, gambar) VALUES
+INSERT INTO gambar_produk (no_produk, gambar) 
 (1, "/path/to/kemeja1.jpg"),
 (1, "/path/to/kemeja2.jpg"),
 (2, "/path/to/celana1.jpg"),
@@ -471,7 +471,7 @@ INSERT INTO gambar_produk (no_produk, gambar) VALUES
 (10, "/path/to/kaos1.jpg");
 
 -- TAG_PRODUK
-INSERT INTO tag_produk (no_produk, tag) VALUES
+INSERT INTO tag_produk (no_produk, tag) 
 (1, 'Formal'),
 (1, 'Kemeja'),
 (1, 'Kantor'),
@@ -495,7 +495,7 @@ INSERT INTO tag_produk (no_produk, tag) VALUES
 (10, 'Kaos');
 
 -- VARIAN
-INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) VALUES
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) 
 (1, '1-BLUE-S', 'Kemeja Biru Ukuran S', 10, 150000.00),
 (1, '1-BLUE-M', 'Kemeja Biru Ukuran M', 15, 150000.00),
 (1, '1-BLUE-L', 'Kemeja Biru Ukuran L', 12, 155000.00),
@@ -522,7 +522,7 @@ INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) VALUES
 (5, '5-GOLD', 'Jam Tangan Digital Gold', 10, 190000.00);
 
 -- WISHLIST
-INSERT INTO wishlist (wishlist_id, email_pembeli) VALUES
+INSERT INTO wishlist (wishlist_id, email_pembeli) 
 (1, 'oskar64@aol.com'), 
 (2, 'argono11@aol.com'), 
 (3, 'jindra4@protonmail.com'), 
@@ -540,7 +540,7 @@ INSERT INTO wishlist (wishlist_id, email_pembeli) VALUES
 (15, 'halim35@protonmail.com');
 
 -- KERANJANG
-INSERT INTO keranjang (keranjang_id, email_pembeli) VALUES
+INSERT INTO keranjang (keranjang_id, email_pembeli) 
 (1, 'oskar64@aol.com'),
 (2, 'argono11@aol.com'),
 (3, 'jindra4@protonmail.com'),
@@ -558,7 +558,7 @@ INSERT INTO keranjang (keranjang_id, email_pembeli) VALUES
 (15, 'halim35@protonmail.com');
 
 -- RINCIAN_WISHLIST
-INSERT INTO rincian_wishlist (wishlist_id, no_produk) VALUES
+INSERT INTO rincian_wishlist (wishlist_id, no_produk) 
 (1, 1),
 (1, 2),
 (2, 10),
@@ -588,7 +588,7 @@ INSERT INTO rincian_wishlist (wishlist_id, no_produk) VALUES
 (15, 6);
 
 -- RINCIAN_KERANJANG
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) VALUES
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) 
 (1, 2, '2-BLACK-28'),
 (1, 1, '1-BLUE-S'),
 (2, 1, '1-BLUE-M'),
@@ -617,104 +617,88 @@ INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) VALUES
 
 
 -- friend
-INSERT INTO friend (email, email_following)
-             VALUES ('unjani96@hotmail.com', 'halim35@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('anastasia68@outlook.com', 'adinata11@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('anastasia68@outlook.com', 'jagapati36@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('maria7@hotmail.com', 'jane49@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jarwi97@mail.com', 'anastasia68@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('harimurti20@yahoo.com', 'anastasia68@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('luwes56@gmail.com', 'maria7@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('halim35@protonmail.com', 'argono11@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('halim35@protonmail.com', 'unjani96@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('dono72@gmail.com', 'jane49@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jindra4@protonmail.com', 'jarwi97@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('bakidin22@hotmail.com', 'argono11@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('dono72@gmail.com', 'unjani96@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('oskar64@aol.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('maria7@hotmail.com', 'tantri37@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('asirwada33@aol.com', 'anastasia68@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('dono72@gmail.com', 'maria7@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('asirwada33@aol.com', 'maria7@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('bakidin22@hotmail.com', 'oskar64@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('ajiono27@mail.com', 'asirwada33@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('harimurti20@yahoo.com', 'bakidin22@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jaiman22@mail.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('rini38@outlook.com', 'halim35@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jane49@protonmail.com', 'oskar64@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('argono11@aol.com', 'jindra4@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('rini38@outlook.com', 'maria7@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('halim35@protonmail.com', 'tantri37@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('dono72@gmail.com', 'adinata11@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jagapati36@gmail.com', 'luwes56@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('argono11@aol.com', 'oskar64@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('oskar64@aol.com', 'asirwada33@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jaiman22@mail.com', 'bakidin22@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('rini38@outlook.com', 'harimurti20@yahoo.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('maria7@hotmail.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('dono72@gmail.com', 'bakidin22@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jaiman22@mail.com', 'anastasia68@outlook.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jagapati36@gmail.com', 'halim35@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jindra4@protonmail.com', 'asirwada33@aol.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('argono11@aol.com', 'jarwi97@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('tantri37@outlook.com', 'jarwi97@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('bakidin22@hotmail.com', 'unjani96@hotmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('asirwada33@aol.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('anastasia68@outlook.com', 'harimurti20@yahoo.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('adinata11@gmail.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('anastasia68@outlook.com', 'halim35@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('rini38@outlook.com', 'jane49@protonmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('halim35@protonmail.com', 'luwes56@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('harimurti20@yahoo.com', 'ajiono27@mail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('anastasia68@outlook.com', 'dono72@gmail.com')
-INSERT INTO friend (email, email_following)
-             VALUES ('jaiman22@mail.com', 'maria7@hotmail.com')
+INSERT INTO friend (email, email_following) VALUES
+('unjani96@hotmail.com', 'halim35@protonmail.com'),
+('anastasia68@outlook.com', 'adinata11@gmail.com'),
+('anastasia68@outlook.com', 'jagapati36@gmail.com'),
+('maria7@hotmail.com', 'jane49@protonmail.com'),
+('jarwi97@mail.com', 'anastasia68@outlook.com'),
+('harimurti20@yahoo.com', 'anastasia68@outlook.com'),
+('luwes56@gmail.com', 'maria7@hotmail.com'),
+('halim35@protonmail.com', 'argono11@aol.com'),
+('halim35@protonmail.com', 'unjani96@hotmail.com'),
+('dono72@gmail.com', 'jane49@protonmail.com'),
+('jindra4@protonmail.com', 'jarwi97@mail.com'),
+('bakidin22@hotmail.com', 'argono11@aol.com'),
+('dono72@gmail.com', 'unjani96@hotmail.com'),
+('oskar64@aol.com', 'ajiono27@mail.com'),
+('maria7@hotmail.com', 'tantri37@outlook.com'),
+('asirwada33@aol.com', 'anastasia68@outlook.com'),
+('dono72@gmail.com', 'maria7@hotmail.com'),
+('asirwada33@aol.com', 'maria7@hotmail.com'),
+('bakidin22@hotmail.com', 'oskar64@aol.com'),
+('ajiono27@mail.com', 'asirwada33@aol.com'),
+('harimurti20@yahoo.com', 'bakidin22@hotmail.com'),
+('jaiman22@mail.com', 'ajiono27@mail.com'),
+('rini38@outlook.com', 'halim35@protonmail.com'),
+('jane49@protonmail.com', 'oskar64@aol.com'),
+('argono11@aol.com', 'jindra4@protonmail.com'),
+('rini38@outlook.com', 'maria7@hotmail.com'),
+('halim35@protonmail.com', 'tantri37@outlook.com'),
+('dono72@gmail.com', 'adinata11@gmail.com'),
+('jagapati36@gmail.com', 'luwes56@gmail.com'),
+('argono11@aol.com', 'oskar64@aol.com'),
+('oskar64@aol.com', 'asirwada33@aol.com'),
+('jaiman22@mail.com', 'bakidin22@hotmail.com'),
+('rini38@outlook.com', 'harimurti20@yahoo.com'),
+('maria7@hotmail.com', 'ajiono27@mail.com'),
+('dono72@gmail.com', 'bakidin22@hotmail.com'),
+('jaiman22@mail.com', 'anastasia68@outlook.com'),
+('jagapati36@gmail.com', 'halim35@protonmail.com'),
+('jindra4@protonmail.com', 'asirwada33@aol.com'),
+('argono11@aol.com', 'jarwi97@mail.com'),
+('tantri37@outlook.com', 'jarwi97@mail.com'),
+('bakidin22@hotmail.com', 'unjani96@hotmail.com'),
+('asirwada33@aol.com', 'ajiono27@mail.com'),
+('anastasia68@outlook.com', 'harimurti20@yahoo.com'),
+('adinata11@gmail.com', 'ajiono27@mail.com'),
+('anastasia68@outlook.com', 'halim35@protonmail.com'),
+('rini38@outlook.com', 'jane49@protonmail.com'),
+('halim35@protonmail.com', 'luwes56@gmail.com'),
+('harimurti20@yahoo.com', 'ajiono27@mail.com'),
+('anastasia68@outlook.com', 'dono72@gmail.com'),
+('jaiman22@mail.com', 'maria7@hotmail.com');
 
+
+-- alamat alternatif
+INSERT INTO alamat_alternatif (email, alamat_id) VALUES
+('jarwi97@mail.com', 2),
+('maria7@hotmail.com', 40),
+('bakidin22@hotmail.com', 19),
+('maria7@hotmail.com', 47),
+('asirwada33@aol.com', 42),
+('asirwada33@aol.com', 18),
+('bakidin22@hotmail.com', 3),
+('ajiono27@mail.com', 28),
+('jaiman22@mail.com', 48),
+('ajiono27@mail.com', 38),
+('jarwi97@mail.com', 34),
+('harimurti20@yahoo.com', 43),
+('tantri37@outlook.com', 36),
+('halim35@protonmail.com', 19),
+('tantri37@outlook.com', 9),
+('oskar64@aol.com', 35),
+('argono11@aol.com', 34),
+('maria7@hotmail.com', 1),
+('oskar64@aol.com', 41),
+('maria7@hotmail.com', 5),
+('jarwi97@mail.com', 32),
+('oskar64@aol.com', 10),
+('maria7@hotmail.com', 41),
+('jarwi97@mail.com', 22),
+('jindra4@protonmail.com', 5),
+('bakidin22@hotmail.com', 27),
+('jarwi97@mail.com', 5),
+('maria7@hotmail.com', 42),
+('jagapati36@gmail.com', 37),
+('argono11@aol.com', 31);
