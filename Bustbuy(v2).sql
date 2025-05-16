@@ -336,2677 +336,2653 @@ DELIMITER ;
 -- INSERT INTO pengguna
 -- INSERT INTO pengguna
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('ayu65@hotmail.com', 'ayu9fXbIo^', 'Ayu Rahayu', '+62-545-029-172', '1991-09-13', NULL, FALSE, TRUE);
+                 VALUES ('garan31@aol.com', 'gar6BDtWJt', 'Garan Hutasoit', '+62-508-030-330', '1983-10-21', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('yuni97@gmail.com', 'yunuwJX^LL', 'Yuni Prayoga', '+62-188-279-849', '2008-04-03', NULL, FALSE, FALSE);
+                 VALUES ('heru90@hotmail.com', 'herxyns+Oj', 'Heru Namaga', '+62-254-004-988', '1987-01-06', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('asmadi11@outlook.com', 'asmRwv4Vn1', 'Asmadi Haryanti', '+62-927-533-172', '1953-06-19', NULL, TRUE, TRUE);
+                 VALUES ('gawati55@mail.com', 'gawfl-5oCd', 'Gawati Mustofa', '+62-247-010-419', '1964-11-04', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('nyana52@yahoo.com', 'nyaR5%i&^B', 'Nyana Rajata', '+62-235-354-193', '1963-10-01', NULL, TRUE, TRUE);
+                 VALUES ('opung93@gmail.com', 'opuSPAfuUo', 'Opung Setiawan', '+62-210-990-034', '1982-12-16', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('legawa24@protonmail.com', 'legHYmm*w6', 'Legawa Hartati', '+62-526-258-817', '2000-04-16', NULL, TRUE, TRUE);
+                 VALUES ('cemplunk31@aol.com', 'cemCdSpKzs', 'Cemplunk Gunawan', '+62-187-087-813', '1993-02-18', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('eman5@aol.com', 'emayr_yX@E', 'Eman Hidayanto', '+62-793-288-894', '1968-10-05', NULL, TRUE, FALSE);
+                 VALUES ('teguh75@aol.com', 'tegT6Q#0Z2', 'Teguh Sudiati', '+62-152-501-016', '1961-09-06', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('salman90@protonmail.com', 'salc6A@qHx', 'Salman Saragih', '+62-945-488-446', '1988-12-01', NULL, TRUE, TRUE);
+                 VALUES ('abyasa18@protonmail.com', 'abyr12EBYu', 'Abyasa Yuliarti', '+62-003-834-289', '1974-07-10', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('zahra10@mail.com', 'zahZHfUA#R', 'Zahra Ardianto', '+62-454-212-379', '2010-02-23', NULL, TRUE, FALSE);
+                 VALUES ('rudi57@aol.com', 'rud8eH10U7', 'Rudi Hidayanto', '+62-169-076-273', '1956-12-17', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('kusuma42@hotmail.com', 'kusBt9%1Tl', 'Kusuma Natsir', '+62-188-687-495', '2003-12-17', NULL, TRUE, TRUE);
+                 VALUES ('vivi67@mail.com', 'vivyPRGcPL', 'Vivi Maryati', '+62-920-529-785', '1950-02-05', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('danuja30@yahoo.com', 'danW21xEL%', 'Danuja Waluyo', '+62-568-919-300', '1996-10-04', NULL, TRUE, TRUE);
+                 VALUES ('harimurti12@outlook.com', 'har9LX-LNy', 'Harimurti Suartini', '+62-194-831-503', '1989-09-21', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('budi58@gmail.com', 'budBs!ZsW%', 'Budi Agustina', '+62-306-969-078', '2001-01-27', NULL, TRUE, TRUE);
+                 VALUES ('gara24@hotmail.com', 'gar6#0I$Ng', 'Gara Firmansyah', '+62-810-224-784', '1963-01-17', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('mulyono88@protonmail.com', 'mul1uPbWWa', 'Mulyono Halimah', '+62-051-909-774', '1961-01-14', NULL, TRUE, TRUE);
+                 VALUES ('ade21@protonmail.com', 'adeJ-61i6Q', 'Ade Safitri', '+62-211-286-713', '1975-05-18', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('wadi81@hotmail.com', 'wad5Quwdll', 'Wadi Kusmawati', '+62-125-423-153', '1992-01-24', NULL, TRUE, TRUE);
+                 VALUES ('rachel31@mail.com', 'rac^%VH25j', 'Rachel Wibowo', '+62-482-939-997', '1984-09-18', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('pranawa90@aol.com', 'praVPYrAaZ', 'Pranawa Hakim', '+62-249-643-158', '2007-03-26', NULL, FALSE, FALSE);
+                 VALUES ('laswi20@aol.com', 'las%4uCJoA', 'Laswi Prasasta', '+62-899-477-697', '1967-11-14', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('nrima45@outlook.com', 'nri35@3pW#', 'Nrima Pratiwi', '+62-425-250-073', '2010-01-23', NULL, TRUE, TRUE);
+                 VALUES ('lasmono10@gmail.com', 'lasKFM-53m', 'Lasmono Prasetya', '+62-830-757-996', '1953-11-11', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('jumadi52@gmail.com', 'jumn&8lzZ@', 'Jumadi Zulkarnain', '+62-821-272-577', '1984-07-09', NULL, TRUE, TRUE);
+                 VALUES ('nugraha66@mail.com', 'nug@XhdT$O', 'Nugraha Wibisono', '+62-322-611-945', '1966-01-22', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('maimunah64@yahoo.com', 'mai%@N8qJ2', 'Maimunah Maheswara', '+62-288-035-678', '2005-05-25', NULL, TRUE, TRUE);
+                 VALUES ('edi69@hotmail.com', 'ediD9JCzr1', 'Edi Nugroho', '+62-271-056-212', '1997-02-13', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('puji19@gmail.com', 'pujN24VW^^', 'Puji Adriansyah', '+62-190-390-465', '1978-10-04', NULL, TRUE, FALSE);
+                 VALUES ('oni39@yahoo.com', 'onio8%deGV', 'Oni Siregar', '+62-946-552-260', '1965-11-08', NULL, FALSE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('jaya68@outlook.com', 'jayNG9+etb', 'Jaya Kusmawati', '+62-083-505-749', '1954-09-28', NULL, TRUE, TRUE);
+                 VALUES ('jati14@gmail.com', 'jatW4ZILuX', 'Jati Mayasari', '+62-669-110-283', '1991-12-21', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('jarwadi70@mail.com', 'jariX10kF#', 'Jarwadi Jailani', '+62-442-142-531', '1944-08-28', NULL, TRUE, FALSE);
+                 VALUES ('daniswara51@yahoo.com', 'danI47Ckql', 'Daniswara Tarihoran', '+62-114-263-237', '1947-05-24', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('iriana68@yahoo.com', 'iri-jrkt%3', 'Iriana Siregar', '+62-054-492-815', '1958-03-20', NULL, FALSE, FALSE);
+                 VALUES ('nasim25@aol.com', 'nasGCHs^*J', 'Nasim Sitompul', '+62-286-950-967', '2003-05-22', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('sakura70@aol.com', 'sakuNkX2wL', 'Sakura Napitupulu', '+62-922-597-767', '1976-05-22', NULL, TRUE, TRUE);
+                 VALUES ('irwan13@yahoo.com', 'irw#zsLuhc', 'Irwan Marpaung', '+62-302-117-432', '1960-01-09', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('umay10@aol.com', 'uma2Eto*g1', 'Umay Gunawan', '+62-952-387-015', '1958-12-08', NULL, TRUE, TRUE);
+                 VALUES ('irnanto43@protonmail.com', 'irnjKHGSz$', 'Irnanto Saptono', '+62-464-983-970', '1988-11-28', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('ivan42@aol.com', 'ivaBSOToP#', 'Ivan Wahyudin', '+62-764-074-100', '1959-07-29', NULL, TRUE, TRUE);
+                 VALUES ('gilda79@gmail.com', 'gilpOIf&tV', 'Gilda Sudiati', '+62-263-440-845', '2005-10-10', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('olga77@gmail.com', 'olgprz6^Ot', 'Olga Mulyani', '+62-534-305-609', '1984-01-20', NULL, FALSE, TRUE);
+                 VALUES ('siska88@gmail.com', 'sis_M2YXq6', 'Siska Haryanti', '+62-080-173-386', '1977-11-02', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('elisa62@gmail.com', 'elirZVPG%k', 'Elisa Tamba', '+62-788-159-176', '1949-03-24', NULL, TRUE, TRUE);
+                 VALUES ('cinta78@outlook.com', 'cinAy!O@DS', 'Cinta Prastuti', '+62-221-131-286', '1996-08-26', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('dimaz63@outlook.com', 'dimuoFRRV0', 'Dimaz Wahyudin', '+62-282-958-505', '2009-01-09', NULL, FALSE, FALSE);
+                 VALUES ('rangga32@gmail.com', 'ranh$m-_Ex', 'Rangga Samosir', '+62-105-372-080', '1950-03-03', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('nadia54@gmail.com', 'nadUFreoBZ', 'Nadia Iswahyudi', '+62-564-546-084', '1970-01-07', NULL, TRUE, TRUE);
+                 VALUES ('kusuma34@gmail.com', 'kusVxK-D!U', 'Kusuma Pradipta', '+62-538-307-238', '2001-07-26', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('oskar15@aol.com', 'oskqxW9xEu', 'Oskar Waluyo', '+62-993-293-652', '2003-02-15', NULL, FALSE, TRUE);
+                 VALUES ('mariadi4@outlook.com', 'marPYSW!_-', 'Mariadi Astuti', '+62-145-675-066', '1997-06-07', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('ivan20@gmail.com', 'ivacwzk#yW', 'Ivan Andriani', '+62-301-520-073', '1958-07-18', NULL, TRUE, FALSE);
+                 VALUES ('cornelia71@outlook.com', 'corsAmc_Q^', 'Cornelia Gunarto', '+62-576-854-707', '1965-01-07', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('kala24@hotmail.com', 'kalC#RoNOo', 'Kala Laksita', '+62-946-950-977', '2003-06-02', NULL, TRUE, FALSE);
+                 VALUES ('atma30@outlook.com', 'atmVV9NXo_', 'Atma Wahyuni', '+62-089-840-394', '1993-01-20', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('zulaikha2@outlook.com', 'zuludE@@OA', 'Zulaikha Yulianti', '+62-030-859-200', '1963-07-13', NULL, TRUE, TRUE);
+                 VALUES ('umar49@yahoo.com', 'umaV0#5MyH', 'Umar Yulianti', '+62-506-868-655', '1965-12-03', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('irfan87@gmail.com', 'irfkz&yuZ-', 'Irfan Samosir', '+62-973-513-946', '1999-09-25', NULL, TRUE, TRUE);
+                 VALUES ('purwa5@protonmail.com', 'purHR6UuoK', 'Purwa Palastri', '+62-220-878-888', '1974-09-12', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('ida22@yahoo.com', 'idaUKwVLxM', 'Ida Saefullah', '+62-141-785-647', '1996-03-24', NULL, FALSE, TRUE);
+                 VALUES ('cakrabuana55@gmail.com', 'cakB32Brje', 'Cakrabuana Haryanti', '+62-867-364-090', '1972-07-20', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('harsanto74@mail.com', 'harXaGSLsN', 'Harsanto Suryono', '+62-938-782-715', '1967-06-24', NULL, TRUE, TRUE);
+                 VALUES ('umi33@outlook.com', 'umiO@NC1tJ', 'Umi Nashiruddin', '+62-056-632-225', '1971-01-09', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('patricia49@gmail.com', 'patLQYrPOU', 'Patricia Hidayat', '+62-577-067-268', '1976-04-17', NULL, TRUE, TRUE);
+                 VALUES ('hairyanto16@aol.com', 'haih4mJa-D', 'Hairyanto Maryadi', '+62-728-548-904', '1957-09-16', NULL, FALSE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('catur70@protonmail.com', 'cat-9pU1k_', 'Catur Nashiruddin', '+62-216-739-201', '2002-12-27', NULL, TRUE, FALSE);
+                 VALUES ('pardi19@protonmail.com', 'parPRn^mQw', 'Pardi Winarno', '+62-269-514-251', '2003-11-23', NULL, FALSE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('yani96@mail.com', 'yan^LbkMQ3', 'Yani Usamah', '+62-911-375-469', '1999-08-07', NULL, TRUE, FALSE);
+                 VALUES ('ophelia59@protonmail.com', 'ophl%*JM7A', 'Ophelia Iswahyudi', '+62-327-832-477', '1959-10-21', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('dono69@aol.com', 'donmQUOhAc', 'Dono Tamba', '+62-266-037-299', '2000-01-19', NULL, TRUE, TRUE);
+                 VALUES ('naradi89@yahoo.com', 'narfj-tqUP', 'Naradi Budiyanto', '+62-145-209-533', '1980-07-02', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('jamalia36@aol.com', 'jamO^z7v_P', 'Jamalia Waluyo', '+62-597-361-088', '1957-11-15', NULL, TRUE, FALSE);
+                 VALUES ('karma17@protonmail.com', 'kar3WekXBn', 'Karma Andriani', '+62-695-149-496', '2009-06-05', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('rahmi63@gmail.com', 'rahN!9$TK_', 'Rahmi Maryadi', '+62-452-468-918', '2006-03-19', NULL, TRUE, TRUE);
+                 VALUES ('kani82@hotmail.com', 'kanByXatt#', 'Kani Sirait', '+62-524-094-631', '2005-01-22', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('ciaobella63@protonmail.com', 'ciau0GMA3e', 'Ciaobella Handayani', '+62-458-053-312', '1956-04-09', NULL, TRUE, FALSE);
+                 VALUES ('kayla22@gmail.com', 'kayq1o^1YC', 'Kayla Saputra', '+62-459-252-221', '2004-08-22', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('wage52@yahoo.com', 'wagd77Q8Cn', 'Wage Ramadan', '+62-280-756-760', '1989-11-27', NULL, TRUE, FALSE);
+                 VALUES ('luis86@protonmail.com', 'luiLW7JCO0', 'Luis Prayoga', '+62-907-821-905', '1953-04-10', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('hendri93@yahoo.com', 'hen$Xl97rQ', 'Hendri Yulianti', '+62-115-404-947', '1968-05-26', NULL, TRUE, FALSE);
+                 VALUES ('irsad44@protonmail.com', 'irsBiEUvZ&', 'Irsad Suartini', '+62-180-117-389', '2003-03-13', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('lulut53@aol.com', 'lulCmPUMBA', 'Lulut Hakim', '+62-736-591-954', '1999-10-10', NULL, TRUE, TRUE);
+                 VALUES ('asmianto10@yahoo.com', 'asmnU15-VQ', 'Asmianto Manullang', '+62-139-239-307', '1976-05-12', NULL, TRUE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('cawisadi28@yahoo.com', 'cawj+F3PsO', 'Cawisadi Simbolon', '+62-860-886-563', '1946-12-14', NULL, TRUE, TRUE);
+                 VALUES ('prayitna38@gmail.com', 'praHKE-Nrk', 'Prayitna Irawan', '+62-878-155-856', '1984-05-06', NULL, TRUE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('mahfud5@protonmail.com', 'maht+a$yFS', 'Mahfud Saputra', '+62-892-879-781', '1987-07-27', NULL, TRUE, TRUE);
+                 VALUES ('rini42@yahoo.com', 'riniXK9egu', 'Rini Haryanto', '+62-962-959-431', '2000-02-09', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('perkasa91@outlook.com', 'perA7UDQV9', 'Perkasa Kurniawan', '+62-758-817-496', '2009-01-10', NULL, TRUE, FALSE);
+                 VALUES ('najib31@hotmail.com', 'naj#ixILSI', 'Najib Siregar', '+62-112-750-228', '1946-06-26', NULL, FALSE, FALSE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('heryanto85@mail.com', 'herc%uR^uC', 'Heryanto Fujiati', '+62-766-915-206', '2001-03-31', NULL, TRUE, TRUE);
+                 VALUES ('talia73@yahoo.com', 'tal1%G1KY2', 'Talia Setiawan', '+62-973-484-854', '1962-10-02', NULL, FALSE, TRUE);
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
-                 VALUES ('maria16@outlook.com', 'marA!6^a74', 'Maria Prakasa', '+62-167-116-040', '1955-03-08', NULL, FALSE, TRUE);
+                 VALUES ('kenari19@gmail.com', 'ken8tnlLRY', 'Kenari Wijayanti', '+62-142-823-441', '1981-07-05', NULL, FALSE, FALSE);
+-- Total pengguna: 50
 
 -- INSERT INTO alamat
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (1, 'Kalimantan Utara', 'Salatiga', 'Gang Pacuan Kuda No. 25');
+                 VALUES (1, 'Kalimantan Timur', 'Kendari', 'Gang Astana Anyar No. 71');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (2, 'Lampung', 'Banjar', 'Jalan Indragiri No. 861');
+                 VALUES (2, 'Maluku', 'Jayapura', 'Jalan Kutisari Selatan No. 256');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (3, 'Banten', 'Tangerang', 'Gg. Sukabumi No. 4');
+                 VALUES (3, 'Kepulauan Bangka Belitung', 'Palu', 'Jl. Gedebage Selatan No. 84');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (4, 'Nusa Tenggara Barat', 'Probolinggo', 'Gg. Cihampelas No. 451');
+                 VALUES (4, 'Bengkulu', 'Jayapura', 'Gang Cikutra Timur No. 48');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (5, 'DKI Jakarta', 'Bau-Bau', 'Gang Cikutra Barat No. 707');
+                 VALUES (5, 'Papua Barat', 'Madiun', 'Gg. H.J Maemunah No. 7');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (6, 'Jawa Barat', 'Semarang', 'Jl. Medokan Ayu No. 55');
+                 VALUES (6, 'Lampung', 'Singkawang', 'Gang S. Parman No. 094');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (7, 'Kepulauan Riau', 'Medan', 'Jl. Jamika No. 217');
+                 VALUES (7, 'Aceh', 'Solok', 'Jl. Jakarta No. 24');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (8, 'Sulawesi Tengah', 'Pekalongan', 'Gang Antapani Lama No. 5');
+                 VALUES (8, 'Lampung', 'Binjai', 'Gang K.H. Wahid Hasyim No. 9');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (9, 'Jawa Timur', 'Probolinggo', 'Jl. Jamika No. 739');
+                 VALUES (9, 'Kalimantan Selatan', 'Lhokseumawe', 'Gg. Waringin No. 36');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (10, 'Lampung', 'Palangkaraya', 'Gg. R.E Martadinata No. 42');
+                 VALUES (10, 'Sumatera Barat', 'Jambi', 'Jl. Pasirkoja No. 124');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (11, 'Kalimantan Selatan', 'Subulussalam', 'Gang Ciumbuleuit No. 373');
+                 VALUES (11, 'Maluku Utara', 'Blitar', 'Gg. Kiaracondong No. 66');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (12, 'Maluku Utara', 'Langsa', 'Gg. Raya Ujungberung No. 8');
+                 VALUES (12, 'Jambi', 'Pekanbaru', 'Gg. M.T Haryono No. 3');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (13, 'Sulawesi Utara', 'Banjar', 'Jalan Lembong No. 384');
+                 VALUES (13, 'Jambi', 'Palembang', 'Gg. M.H Thamrin No. 940');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (14, 'Kepulauan Bangka Belitung', 'Tangerang Selatan', 'Jalan K.H. Wahid Hasyim No. 27');
+                 VALUES (14, 'Kalimantan Timur', 'Bitung', 'Jl. Ciumbuleuit No. 931');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (15, 'Kalimantan Utara', 'Pekalongan', 'Jl. Waringin No. 745');
+                 VALUES (15, 'Kepulauan Bangka Belitung', 'Banjar', 'Gang R.E Martadinata No. 32');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (16, 'Papua Barat', 'Padangpanjang', 'Gg. Gegerkalong Hilir No. 0');
+                 VALUES (16, 'Sumatera Barat', 'Kota Administrasi Jakarta Selatan', 'Jl. Sadang Serang No. 0');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (17, 'Lampung', 'Banjar', 'Jl. Merdeka No. 07');
+                 VALUES (17, 'Maluku', 'Palopo', 'Jl. Abdul Muis No. 7');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (18, 'DI Yogyakarta', 'Palangkaraya', 'Gang Abdul Muis No. 319');
+                 VALUES (18, 'Kepulauan Bangka Belitung', 'Surabaya', 'Gang Kutisari Selatan No. 7');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (19, 'Jawa Tengah', 'Lubuklinggau', 'Jl. S. Parman No. 990');
+                 VALUES (19, 'Kalimantan Utara', 'Pagaralam', 'Jalan Soekarno Hatta No. 2');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (20, 'Kepulauan Riau', 'Sibolga', 'Jalan Rumah Sakit No. 55');
+                 VALUES (20, 'Sulawesi Utara', 'Makassar', 'Jalan Cikutra Barat No. 03');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (21, 'Nusa Tenggara Timur', 'Kota Administrasi Jakarta Barat', 'Gang Pelajar Pejuang No. 724');
+                 VALUES (21, 'Banten', 'Banda Aceh', 'Gang Kapten Muslihat No. 087');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (22, 'Jambi', 'Sibolga', 'Gg. Moch. Ramdan No. 189');
+                 VALUES (22, 'Jawa Tengah', 'Kota Administrasi Jakarta Selatan', 'Jalan Stasiun Wonokromo No. 20');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (23, 'Sulawesi Selatan', 'Pagaralam', 'Jl. Ahmad Dahlan No. 4');
+                 VALUES (23, 'Sulawesi Barat', 'Tual', 'Jl. PHH. Mustofa No. 6');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (24, 'DKI Jakarta', 'Pematangsiantar', 'Jl. Kendalsari No. 6');
+                 VALUES (24, 'Sumatera Utara', 'Mataram', 'Gg. Rawamangun No. 5');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (25, 'DKI Jakarta', 'Tebingtinggi', 'Gg. Jakarta No. 951');
+                 VALUES (25, 'Sumatera Barat', 'Semarang', 'Gg. S. Parman No. 385');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (26, 'Sulawesi Tengah', 'Meulaboh', 'Jalan Erlangga No. 0');
+                 VALUES (26, 'Jambi', 'Ambon', 'Gang Suniaraja No. 2');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (27, 'Sulawesi Utara', 'Tangerang Selatan', 'Jalan Gedebage Selatan No. 29');
+                 VALUES (27, 'Kepulauan Riau', 'Sabang', 'Jalan Waringin No. 6');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (28, 'Kepulauan Riau', 'Blitar', 'Jalan Kutisari Selatan No. 12');
+                 VALUES (28, 'Jawa Barat', 'Samarinda', 'Gg. Monginsidi No. 033');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (29, 'Gorontalo', 'Bitung', 'Jalan Setiabudhi No. 1');
+                 VALUES (29, 'Papua', 'Dumai', 'Gang M.T Haryono No. 002');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (30, 'Nusa Tenggara Timur', 'Blitar', 'Jalan Rajawali Barat No. 87');
+                 VALUES (30, 'Jawa Timur', 'Surabaya', 'Jl. Stasiun Wonokromo No. 916');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (31, 'Kalimantan Tengah', 'Manado', 'Gang Suniaraja No. 795');
+                 VALUES (31, 'Sulawesi Barat', 'Sorong', 'Jalan H.J Maemunah No. 65');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (32, 'Sulawesi Tenggara', 'Meulaboh', 'Jl. Merdeka No. 4');
+                 VALUES (32, 'Sulawesi Barat', 'Cimahi', 'Gg. Erlangga No. 136');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (33, 'Bali', 'Bandung', 'Gg. Siliwangi No. 45');
+                 VALUES (33, 'DKI Jakarta', 'Kota Administrasi Jakarta Barat', 'Jl. Pasir Koja No. 17');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (34, 'DI Yogyakarta', 'Depok', 'Gang Dr. Djunjunan No. 879');
+                 VALUES (34, 'Kalimantan Timur', 'Pontianak', 'Gg. Medokan Ayu No. 24');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (35, 'Jambi', 'Banjarmasin', 'Jalan Monginsidi No. 1');
+                 VALUES (35, 'Kalimantan Selatan', 'Balikpapan', 'Gang Rajiman No. 80');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (36, 'Jambi', 'Balikpapan', 'Gang Rajawali Timur No. 613');
+                 VALUES (36, 'Sumatera Utara', 'Medan', 'Jalan Joyoboyo No. 1');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (37, 'Kalimantan Utara', 'Sungai Penuh', 'Gang Rumah Sakit No. 95');
+                 VALUES (37, 'Maluku', 'Tanjungbalai', 'Jl. Astana Anyar No. 27');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (38, 'Riau', 'Tebingtinggi', 'Gang Cihampelas No. 94');
+                 VALUES (38, 'Sulawesi Barat', 'Balikpapan', 'Jalan Asia Afrika No. 56');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (39, 'Kalimantan Barat', 'Tanjungpinang', 'Jalan Monginsidi No. 31');
+                 VALUES (39, 'Maluku Utara', 'Dumai', 'Gang Jend. Sudirman No. 95');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (40, 'Sulawesi Selatan', 'Solok', 'Gg. Rajawali Barat No. 9');
+                 VALUES (40, 'Bengkulu', 'Pekalongan', 'Jl. Moch. Toha No. 5');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (41, 'Jambi', 'Pagaralam', 'Gang Raya Setiabudhi No. 767');
+                 VALUES (41, 'Nusa Tenggara Barat', 'Kotamobagu', 'Jl. Lembong No. 3');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (42, 'Sumatera Utara', 'Parepare', 'Jl. Stasiun Wonokromo No. 4');
+                 VALUES (42, 'Riau', 'Palopo', 'Jl. Cihampelas No. 033');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (43, 'Kalimantan Timur', 'Madiun', 'Jl. Rungkut Industri No. 020');
+                 VALUES (43, 'Sulawesi Selatan', 'Pontianak', 'Gg. HOS. Cokroaminoto No. 1');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (44, 'Maluku', 'Surakarta', 'Jalan Monginsidi No. 03');
+                 VALUES (44, 'Lampung', 'Tanjungbalai', 'Gg. Raya Ujungberung No. 9');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (45, 'Kalimantan Barat', 'Banjar', 'Gg. Pacuan Kuda No. 1');
+                 VALUES (45, 'Sulawesi Utara', 'Malang', 'Gang Medokan Ayu No. 2');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (46, 'Jawa Barat', 'Lhokseumawe', 'Gg. Rungkut Industri No. 246');
+                 VALUES (46, 'Lampung', 'Pekanbaru', 'Jalan Kutisari Selatan No. 37');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (47, 'Kalimantan Barat', 'Tomohon', 'Jl. Raya Ujungberung No. 92');
+                 VALUES (47, 'Sulawesi Barat', 'Sorong', 'Gang Kiaracondong No. 457');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (48, 'Kalimantan Timur', 'Tomohon', 'Jl. Cikutra Barat No. 200');
+                 VALUES (48, 'Sulawesi Utara', 'Jambi', 'Gang Astana Anyar No. 7');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (49, 'Riau', 'Palangkaraya', 'Jalan HOS. Cokroaminoto No. 1');
+                 VALUES (49, 'Bali', 'Madiun', 'Jl. Otto Iskandardinata No. 5');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (50, 'Riau', 'Cilegon', 'Gang Wonoayu No. 42');
+                 VALUES (50, 'Papua', 'Tegal', 'Jl. M.H Thamrin No. 5');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (51, 'Sumatera Barat', 'Bukittinggi', 'Jl. Kendalsari No. 9');
+                 VALUES (51, 'Maluku', 'Palu', 'Gang Merdeka No. 9');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (52, 'Kalimantan Selatan', 'Banda Aceh', 'Jalan M.H Thamrin No. 34');
+                 VALUES (52, 'Nusa Tenggara Timur', 'Tebingtinggi', 'Jalan Siliwangi No. 69');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (53, 'Kalimantan Barat', 'Sibolga', 'Jalan Pelajar Pejuang No. 369');
+                 VALUES (53, 'Aceh', 'Jayapura', 'Jl. Medokan Ayu No. 4');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (54, 'Bali', 'Jambi', 'Jl. Bangka Raya No. 914');
+                 VALUES (54, 'Kepulauan Bangka Belitung', 'Pematangsiantar', 'Gang Jayawijaya No. 315');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (55, 'Maluku', 'Bandung', 'Jalan Yos Sudarso No. 4');
+                 VALUES (55, 'Papua Barat', 'Sukabumi', 'Jalan Veteran No. 5');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (56, 'Jawa Barat', 'Serang', 'Gang Waringin No. 00');
+                 VALUES (56, 'Gorontalo', 'Sungai Penuh', 'Gang M.H Thamrin No. 09');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (57, 'Sulawesi Selatan', 'Batu', 'Gg. Gegerkalong Hilir No. 2');
+                 VALUES (57, 'Jambi', 'Balikpapan', 'Gang Soekarno Hatta No. 817');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (58, 'Banten', 'Metro', 'Jalan Ahmad Dahlan No. 24');
+                 VALUES (58, 'Jawa Timur', 'Kota Administrasi Jakarta Timur', 'Jl. Kebonjati No. 1');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (59, 'Sumatera Barat', 'Sukabumi', 'Gang Suryakencana No. 2');
+                 VALUES (59, 'Maluku Utara', 'Bengkulu', 'Gang Ciwastra No. 099');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (60, 'Kepulauan Bangka Belitung', 'Sawahlunto', 'Jalan Jend. Sudirman No. 3');
+                 VALUES (60, 'Sulawesi Tengah', 'Denpasar', 'Jalan Otto Iskandardinata No. 6');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (61, 'Riau', 'Sorong', 'Jalan Cikutra Timur No. 420');
+                 VALUES (61, 'Kalimantan Utara', 'Padangpanjang', 'Gg. Pasteur No. 4');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (62, 'Sulawesi Tengah', 'Banjarbaru', 'Jalan Pasirkoja No. 77');
+                 VALUES (62, 'Maluku Utara', 'Denpasar', 'Jl. Gegerkalong Hilir No. 1');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (63, 'Kalimantan Barat', 'Tanjungbalai', 'Jalan Siliwangi No. 45');
+                 VALUES (63, 'Lampung', 'Kendari', 'Gg. Gedebage Selatan No. 4');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (64, 'Riau', 'Cilegon', 'Gang KH Amin Jasuta No. 333');
+                 VALUES (64, 'Sulawesi Barat', 'Medan', 'Jalan Moch. Toha No. 306');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (65, 'Sumatera Utara', 'Sorong', 'Jalan PHH. Mustofa No. 0');
+                 VALUES (65, 'DKI Jakarta', 'Malang', 'Jalan Sentot Alibasa No. 9');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (66, 'Banten', 'Palangkaraya', 'Gang Jamika No. 07');
+                 VALUES (66, 'Sulawesi Barat', 'Padang', 'Jalan Gardujati No. 441');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (67, 'Jawa Barat', 'Sibolga', 'Jl. Erlangga No. 675');
+                 VALUES (67, 'Kepulauan Riau', 'Kota Administrasi Jakarta Pusat', 'Jalan Wonoayu No. 391');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (68, 'DI Yogyakarta', 'Pariaman', 'Gang Rajiman No. 3');
+                 VALUES (68, 'Riau', 'Kota Administrasi Jakarta Barat', 'Jl. Gegerkalong Hilir No. 91');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (69, 'Sumatera Utara', 'Manado', 'Gg. M.H Thamrin No. 393');
+                 VALUES (69, 'Bali', 'Samarinda', 'Jl. Sentot Alibasa No. 8');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (70, 'Jawa Barat', 'Pariaman', 'Jl. Cihampelas No. 39');
+                 VALUES (70, 'Sumatera Selatan', 'Subulussalam', 'Jalan Asia Afrika No. 726');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (71, 'Sulawesi Selatan', 'Pekalongan', 'Jl. Ahmad Yani No. 7');
+                 VALUES (71, 'Sulawesi Utara', 'Prabumulih', 'Gg. Setiabudhi No. 06');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (72, 'Papua', 'Tanjungbalai', 'Gang Siliwangi No. 7');
+                 VALUES (72, 'Sumatera Utara', 'Blitar', 'Jalan Joyoboyo No. 681');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (73, 'DI Yogyakarta', 'Kota Administrasi Jakarta Barat', 'Jalan Surapati No. 8');
+                 VALUES (73, 'Sulawesi Tenggara', 'Bontang', 'Gang Ciwastra No. 78');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (74, 'DKI Jakarta', 'Surakarta', 'Gg. Asia Afrika No. 111');
+                 VALUES (74, 'Maluku Utara', 'Kotamobagu', 'Gang Kutai No. 57');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (75, 'Gorontalo', 'Ambon', 'Jl. Sentot Alibasa No. 7');
+                 VALUES (75, 'Sumatera Selatan', 'Bengkulu', 'Jalan Sukajadi No. 55');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (76, 'Kalimantan Utara', 'Banda Aceh', 'Jl. Cikapayang No. 3');
+                 VALUES (76, 'Sumatera Barat', 'Gorontalo', 'Jl. Cempaka No. 7');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (77, 'Jambi', 'Makassar', 'Gang Pacuan Kuda No. 9');
+                 VALUES (77, 'DKI Jakarta', 'Ternate', 'Jl. Abdul Muis No. 50');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (78, 'Gorontalo', 'Metro', 'Jl. Kebonjati No. 241');
+                 VALUES (78, 'Nusa Tenggara Barat', 'Jayapura', 'Gang Jakarta No. 819');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (79, 'Lampung', 'Pematangsiantar', 'Gang Bangka Raya No. 4');
+                 VALUES (79, 'Kepulauan Bangka Belitung', 'Tangerang', 'Gang Ronggowarsito No. 649');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (80, 'Kalimantan Barat', 'Sukabumi', 'Jl. Waringin No. 98');
+                 VALUES (80, 'Sulawesi Tengah', 'Denpasar', 'Gang Ciumbuleuit No. 891');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (81, 'Sulawesi Selatan', 'Meulaboh', 'Jalan Kendalsari No. 03');
+                 VALUES (81, 'Aceh', 'Malang', 'Jalan Yos Sudarso No. 90');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (82, 'Kepulauan Bangka Belitung', 'Sabang', 'Gg. Veteran No. 617');
+                 VALUES (82, 'Sumatera Utara', 'Malang', 'Jl. Rajiman No. 84');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (83, 'Sulawesi Selatan', 'Singkawang', 'Gang Merdeka No. 38');
+                 VALUES (83, 'Sulawesi Selatan', 'Mataram', 'Gg. M.T Haryono No. 8');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (84, 'Kepulauan Riau', 'Gorontalo', 'Gang Dr. Djunjunan No. 2');
+                 VALUES (84, 'DKI Jakarta', 'Palu', 'Gang Kutisari Selatan No. 02');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (85, 'Sumatera Utara', 'Bekasi', 'Gg. Rungkut Industri No. 7');
+                 VALUES (85, 'Kalimantan Barat', 'Bitung', 'Jl. Sentot Alibasa No. 513');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (86, 'Banten', 'Banjar', 'Gg. Kutai No. 81');
+                 VALUES (86, 'Papua', 'Samarinda', 'Gang Cikutra Barat No. 596');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (87, 'Jambi', 'Tangerang Selatan', 'Gang Wonoayu No. 604');
+                 VALUES (87, 'Sumatera Utara', 'Palangkaraya', 'Jalan Laswi No. 95');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (88, 'Sumatera Barat', 'Tangerang', 'Gang Ahmad Dahlan No. 08');
+                 VALUES (88, 'Sumatera Utara', 'Ternate', 'Jl. Kutai No. 839');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (89, 'Nusa Tenggara Barat', 'Singkawang', 'Gg. Suniaraja No. 7');
+                 VALUES (89, 'Kepulauan Riau', 'Metro', 'Gg. Sadang Serang No. 6');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (90, 'Papua', 'Pekanbaru', 'Gang H.J Maemunah No. 50');
+                 VALUES (90, 'Sulawesi Utara', 'Subulussalam', 'Gg. Gegerkalong Hilir No. 8');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (91, 'Kepulauan Riau', 'Pematangsiantar', 'Gang Astana Anyar No. 8');
+                 VALUES (91, 'Nusa Tenggara Barat', 'Ternate', 'Gang Peta No. 3');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (92, 'Jawa Timur', 'Makassar', 'Gang M.T Haryono No. 670');
+                 VALUES (92, 'Kalimantan Selatan', 'Pagaralam', 'Jalan KH Amin Jasuta No. 35');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (93, 'Kalimantan Utara', 'Metro', 'Jl. Merdeka No. 932');
+                 VALUES (93, 'Nusa Tenggara Barat', 'Sorong', 'Gang Kiaracondong No. 294');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (94, 'Jawa Tengah', 'Metro', 'Gang Moch. Ramdan No. 380');
+                 VALUES (94, 'Sumatera Utara', 'Payakumbuh', 'Gg. Pelajar Pejuang No. 99');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (95, 'Jambi', 'Gorontalo', 'Gg. Siliwangi No. 80');
+                 VALUES (95, 'Kepulauan Riau', 'Bontang', 'Gg. Ahmad Yani No. 59');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (96, 'Kalimantan Barat', 'Prabumulih', 'Gang Setiabudhi No. 25');
+                 VALUES (96, 'Kepulauan Riau', 'Padang', 'Jalan Sukabumi No. 712');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (97, 'DI Yogyakarta', 'Pekanbaru', 'Jl. Gegerkalong Hilir No. 9');
+                 VALUES (97, 'Sulawesi Barat', 'Tangerang Selatan', 'Gang Medokan Ayu No. 06');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (98, 'Sumatera Selatan', 'Mataram', 'Gang Pelajar Pejuang No. 60');
+                 VALUES (98, 'Nusa Tenggara Barat', 'Metro', 'Gang Setiabudhi No. 102');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (99, 'DKI Jakarta', 'Lubuklinggau', 'Gg. Pasirkoja No. 036');
+                 VALUES (99, 'Aceh', 'Pekalongan', 'Jl. Siliwangi No. 594');
 INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
-                 VALUES (100, 'Maluku Utara', 'Tangerang', 'Gang Ahmad Yani No. 0');
+                 VALUES (100, 'Lampung', 'Bau-Bau', 'Jalan Pasteur No. 1');
+-- Total alamat: 100
 
 -- INSERT INTO pembeli
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('ayu65@hotmail.com', 71);
+                     VALUES ('heru90@hotmail.com', 31);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('yuni97@gmail.com', 28);
+                     VALUES ('gawati55@mail.com', 46);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('asmadi11@outlook.com', 77);
+                     VALUES ('opung93@gmail.com', 69);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('nyana52@yahoo.com', 21);
+                     VALUES ('cemplunk31@aol.com', 88);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('legawa24@protonmail.com', 87);
+                     VALUES ('vivi67@mail.com', 86);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('eman5@aol.com', 33);
+                     VALUES ('gara24@hotmail.com', 36);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('zahra10@mail.com', 23);
+                     VALUES ('ade21@protonmail.com', 81);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('kusuma42@hotmail.com', 94);
+                     VALUES ('rachel31@mail.com', 8);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('budi58@gmail.com', 44);
+                     VALUES ('laswi20@aol.com', 23);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('mulyono88@protonmail.com', 65);
+                     VALUES ('edi69@hotmail.com', 63);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('wadi81@hotmail.com', 2);
+                     VALUES ('oni39@yahoo.com', 50);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('jumadi52@gmail.com', 44);
+                     VALUES ('jati14@gmail.com', 52);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('maimunah64@yahoo.com', 6);
+                     VALUES ('nasim25@aol.com', 6);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('puji19@gmail.com', 16);
+                     VALUES ('irnanto43@protonmail.com', 89);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('jaya68@outlook.com', 42);
+                     VALUES ('gilda79@gmail.com', 25);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('jarwadi70@mail.com', 68);
+                     VALUES ('siska88@gmail.com', 35);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('iriana68@yahoo.com', 36);
+                     VALUES ('cinta78@outlook.com', 25);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('sakura70@aol.com', 48);
+                     VALUES ('rangga32@gmail.com', 16);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('umay10@aol.com', 23);
+                     VALUES ('kusuma34@gmail.com', 43);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('ivan42@aol.com', 19);
+                     VALUES ('mariadi4@outlook.com', 35);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('olga77@gmail.com', 50);
+                     VALUES ('cornelia71@outlook.com', 52);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('elisa62@gmail.com', 46);
+                     VALUES ('atma30@outlook.com', 71);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('dimaz63@outlook.com', 92);
+                     VALUES ('umar49@yahoo.com', 80);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('oskar15@aol.com', 41);
+                     VALUES ('umi33@outlook.com', 75);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('kala24@hotmail.com', 57);
+                     VALUES ('hairyanto16@aol.com', 92);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('zulaikha2@outlook.com', 5);
+                     VALUES ('pardi19@protonmail.com', 1);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('irfan87@gmail.com', 46);
+                     VALUES ('ophelia59@protonmail.com', 61);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('patricia49@gmail.com', 81);
+                     VALUES ('naradi89@yahoo.com', 14);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('yani96@mail.com', 72);
+                     VALUES ('kani82@hotmail.com', 17);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('rahmi63@gmail.com', 84);
+                     VALUES ('kayla22@gmail.com', 3);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('ciaobella63@protonmail.com', 97);
+                     VALUES ('luis86@protonmail.com', 15);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('hendri93@yahoo.com', 3);
+                     VALUES ('irsad44@protonmail.com', 92);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('cawisadi28@yahoo.com', 42);
+                     VALUES ('asmianto10@yahoo.com', 34);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('mahfud5@protonmail.com', 15);
+                     VALUES ('prayitna38@gmail.com', 26);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('perkasa91@outlook.com', 28);
+                     VALUES ('rini42@yahoo.com', 7);
 INSERT INTO pembeli (email, alamat_utama_id)
-                     VALUES ('maria16@outlook.com', 17);
+                     VALUES ('najib31@hotmail.com', 47);
+-- Total pembeli: 36
 
 -- INSERT INTO penjual
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('ayu65@hotmail.com', 'ktp/2d29d969-de68-4f60-a0bf-41ff4c4dcef1.jpg', 'selfie/45b1d8d2-dfdd-4d00-b2fb-effbe847e1f1.jpg', FALSE);
+                     VALUES ('garan31@aol.com', 'ktp/6390769c-d846-4f39-9979-984191d120b9.jpg', 'selfie/737329cb-33ee-4b77-8ffa-19f3a192fa8d.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('asmadi11@outlook.com', 'ktp/64e0b831-094c-405e-99f3-99ab66f912f5.jpg', 'selfie/6b82de15-bbd7-4e59-b246-4404ab6b9a07.jpg', FALSE);
+                     VALUES ('heru90@hotmail.com', 'ktp/94a78c29-248f-439a-b892-3a9ad8da10d0.jpg', 'selfie/51cd941c-f561-4bee-a576-85ac362c5d51.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('salman90@protonmail.com', 'ktp/b6f9ea2b-1152-48d6-92f2-360bf54fc7a7.jpg', 'selfie/32811981-7fad-4704-8e7b-aa10c558d293.jpg', TRUE);
+                     VALUES ('gawati55@mail.com', 'ktp/edd7c65c-e153-4328-bb8e-92508cba8976.jpg', 'selfie/8ccdc8ea-43ab-47d1-9683-ea2015778340.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('zahra10@mail.com', 'ktp/c830e69a-f598-40a5-80ed-bf2ac84978fd.jpg', 'selfie/06c4aecf-cb2f-4e31-9d95-89dd5559ea7c.jpg', FALSE);
+                     VALUES ('cemplunk31@aol.com', 'ktp/6700fa7d-51ab-42a0-968d-bfc66b0d5a0d.jpg', 'selfie/558c47ad-b6d7-4f0e-be5c-6e7eb26821a2.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('kusuma42@hotmail.com', 'ktp/9821dafb-907c-4e08-a757-20f88678da1b.jpg', 'selfie/56bbd682-1bfa-4c80-96c6-27a06577bec2.jpg', FALSE);
+                     VALUES ('teguh75@aol.com', 'ktp/c0340497-d569-4a58-9f4d-4ca3f75f6eed.jpg', 'selfie/7a69e77c-230b-4618-9da4-2afa14a3b580.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('danuja30@yahoo.com', 'ktp/16c91303-d82f-4c15-9da8-ab30e5b4165c.jpg', 'selfie/65998abf-00ad-4876-b6b7-000a759d51c7.jpg', TRUE);
+                     VALUES ('abyasa18@protonmail.com', 'ktp/43ebead3-d15c-4787-a543-181822518f1a.jpg', 'selfie/22d0b320-faa1-4c28-a36e-f301ffafd70f.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('budi58@gmail.com', 'ktp/aada7db8-6adf-4351-8f56-113427745bb1.jpg', 'selfie/7c6e4fce-6aa6-4871-b48a-712a0f6df76a.jpg', TRUE);
+                     VALUES ('rudi57@aol.com', 'ktp/4e94cea3-060d-4cd2-9deb-173943291047.jpg', 'selfie/70cbb2bf-aa8b-48a2-bf9a-ec136e8d3152.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('wadi81@hotmail.com', 'ktp/62f5dbc7-3e37-4f83-b258-50b8d40408a4.jpg', 'selfie/ee5de2fe-67d6-4e75-835d-ffd2979c3279.jpg', FALSE);
+                     VALUES ('vivi67@mail.com', 'ktp/e2d805a4-5662-49ee-b92f-ed6f64a8eebe.jpg', 'selfie/22fcb3ad-1f94-4b0c-b3f1-b593deb175d5.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('pranawa90@aol.com', 'ktp/ba574775-c317-49af-baa3-af4bd83c25f6.jpg', 'selfie/87a65c8e-18b3-45fa-ae49-a0704e4de002.jpg', FALSE);
+                     VALUES ('harimurti12@outlook.com', 'ktp/65d1abca-b913-482a-9c43-6f3c660dd323.jpg', 'selfie/4f60221c-991a-4223-9407-cb321c2e6e30.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('jumadi52@gmail.com', 'ktp/9ecf6e79-ea6f-4b09-b61b-77b1be50c53d.jpg', 'selfie/93ab63f0-160f-49be-a1a5-d616dc562733.jpg', FALSE);
+                     VALUES ('gara24@hotmail.com', 'ktp/88d59def-8d72-487a-93ba-6ea631a3f993.jpg', 'selfie/6519c04a-4dc1-4395-81fb-7b5ba27c30fd.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('puji19@gmail.com', 'ktp/dad44a44-d2cc-439d-84f7-c08f25f82ae6.jpg', 'selfie/99837f62-b795-4eef-97c2-0073891df03f.jpg', TRUE);
+                     VALUES ('ade21@protonmail.com', 'ktp/ac6b2237-5829-4c0c-b219-d00adbe4536c.jpg', 'selfie/241607d6-e577-4852-9741-3b6d09e7d240.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('iriana68@yahoo.com', 'ktp/aacc1167-dc7a-482d-82c8-0cda67ec2e3a.jpg', 'selfie/da3398b9-f68d-4102-87f3-8db350dbc748.jpg', TRUE);
+                     VALUES ('rachel31@mail.com', 'ktp/69710c39-6501-476d-b949-139c7f20aca4.jpg', 'selfie/d1cf6891-94cb-40c7-a686-fe6896f64295.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('sakura70@aol.com', 'ktp/93ae688d-f59f-46bd-ad4c-b193497a9be2.jpg', 'selfie/7ebc26d7-73e8-40b5-91c1-190ab9899e52.jpg', TRUE);
+                     VALUES ('laswi20@aol.com', 'ktp/b94eacb0-ad2d-4416-bcd2-7a2786a68ce3.jpg', 'selfie/a8e6529c-c660-4bb0-b3e4-ddad1905ddf4.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('umay10@aol.com', 'ktp/660bb5cb-3fd7-4dd8-9724-9c1b23e0ebb1.jpg', 'selfie/a0986113-d025-48a0-b388-e8d272787a56.jpg', TRUE);
+                     VALUES ('nugraha66@mail.com', 'ktp/a2eca021-9ae6-423a-85c4-f3b6b8401a57.jpg', 'selfie/a942f630-89aa-4336-86c5-f6e6e50f37e9.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('ivan42@aol.com', 'ktp/49cf22f0-ee85-4e76-8311-754629066ade.jpg', 'selfie/312fa535-c2df-411a-8d76-6a3b322d2b3f.jpg', FALSE);
+                     VALUES ('edi69@hotmail.com', 'ktp/f0e8f402-18b1-4b93-b67c-afe3bf756917.jpg', 'selfie/c68b36cd-72b4-4c44-afe8-9d92937a81f4.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('olga77@gmail.com', 'ktp/af3517d6-2781-4a82-adb1-0db40acff268.jpg', 'selfie/00b2101c-913c-4d7c-bff5-d8f05152bbbb.jpg', FALSE);
+                     VALUES ('oni39@yahoo.com', 'ktp/409d8dc9-8a76-4b91-8b67-08e51e6d462a.jpg', 'selfie/ca87c7df-770e-4aa9-8f85-923f83738411.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('dimaz63@outlook.com', 'ktp/42026eef-e97f-4c5c-9ddd-ae2352b2942a.jpg', 'selfie/8dac1f1e-7788-40ba-96ad-43c6c7af317e.jpg', TRUE);
+                     VALUES ('jati14@gmail.com', 'ktp/00a1e19c-6fe5-467c-8956-dd1eb8e40af0.jpg', 'selfie/aa412e11-8c99-4329-8bce-f9b17aa7eab1.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('nadia54@gmail.com', 'ktp/21ced126-80fb-447d-b05c-a2ee27c82c3b.jpg', 'selfie/014da7e2-b46e-41d2-9264-3693f1c51442.jpg', TRUE);
+                     VALUES ('gilda79@gmail.com', 'ktp/a1b65390-e3a7-44b4-a476-24b20141ad10.jpg', 'selfie/33dd43c6-671d-48a7-9cd3-9a3306ec114a.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('oskar15@aol.com', 'ktp/05c1ab31-0239-4e77-b78a-3817a330a337.jpg', 'selfie/d00f5699-c939-4eb7-ab33-da87edf6fd84.jpg', TRUE);
+                     VALUES ('siska88@gmail.com', 'ktp/72ee8f4a-fb7d-47f5-8770-f423eb6ced37.jpg', 'selfie/738ad815-faa6-4e99-a318-864a64b0ce36.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('ivan20@gmail.com', 'ktp/ca777f10-6019-4d0e-b647-b13cc7427922.jpg', 'selfie/f4fbb8e5-5a95-43cf-98f9-562ee2a59367.jpg', TRUE);
+                     VALUES ('rangga32@gmail.com', 'ktp/f40ac237-0ac1-41e1-a76d-f24a47e96c40.jpg', 'selfie/bb3b184d-d7b5-4523-ba58-080c0cc78190.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('zulaikha2@outlook.com', 'ktp/47283601-438e-417d-ab6a-b28131bca9f6.jpg', 'selfie/f29c5dee-c640-4ff4-9803-6faf6e8710cc.jpg', TRUE);
+                     VALUES ('atma30@outlook.com', 'ktp/0ee846f6-1ebf-4534-a57d-c47256ef0df1.jpg', 'selfie/36e72d40-5f43-49f9-a767-9e5d78e652cb.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('irfan87@gmail.com', 'ktp/fccf003a-c68b-4c35-b27d-e25fc2d25031.jpg', 'selfie/1d927ea2-1802-4b9a-aca6-52ded26dc987.jpg', FALSE);
+                     VALUES ('umar49@yahoo.com', 'ktp/659bfbae-0895-4bbf-acfb-bd8ff49cb2a3.jpg', 'selfie/8569b90e-126c-4179-a08c-98108dd8e641.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('harsanto74@mail.com', 'ktp/f06a8809-5288-4bf4-be4a-823ec5af95c6.jpg', 'selfie/61fa1791-79fd-420d-8917-2e61f1cf598d.jpg', TRUE);
+                     VALUES ('cakrabuana55@gmail.com', 'ktp/33745e5b-f6b1-4457-96d2-96428260b0a2.jpg', 'selfie/e194f31e-981e-475c-a111-676d82e70aac.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('patricia49@gmail.com', 'ktp/9adb9c65-04ce-4887-98bd-de585c5599ed.jpg', 'selfie/cdb40723-7a03-4499-9f84-b22a2c866c25.jpg', FALSE);
+                     VALUES ('umi33@outlook.com', 'ktp/5531a25f-4468-425d-b525-ec489d9c8278.jpg', 'selfie/64fbff06-55c8-46d6-85ac-533d123977a5.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('catur70@protonmail.com', 'ktp/376853e6-2eec-4b4c-b9cc-888606d102f8.jpg', 'selfie/071f058d-0139-4caa-914c-4ce95c17d166.jpg', FALSE);
+                     VALUES ('hairyanto16@aol.com', 'ktp/dd7493ca-9f2c-49f1-a85c-3a03c6f48654.jpg', 'selfie/2f1cfb47-399d-4d6d-b50c-e2d038b0d6e0.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('yani96@mail.com', 'ktp/43f4c4af-4805-4861-9821-8e27501c8a24.jpg', 'selfie/0c49c7a0-672a-4c06-a1e7-95c8d0d13499.jpg', FALSE);
+                     VALUES ('ophelia59@protonmail.com', 'ktp/4fcd13b0-9625-42dd-96b4-d92875f96065.jpg', 'selfie/e064e80c-b932-44a7-b7bc-08abe107525b.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('jamalia36@aol.com', 'ktp/8ed9a55c-cf0a-476f-82eb-ec938fc64828.jpg', 'selfie/99f35e3e-3336-4879-88d0-2c33e3e4e7b3.jpg', TRUE);
+                     VALUES ('naradi89@yahoo.com', 'ktp/2926aeea-a2fd-44e3-abe0-8d31ca60be1b.jpg', 'selfie/61916bd8-d339-4f7e-99ec-8b7a108c6b85.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('hendri93@yahoo.com', 'ktp/4642762b-8dce-48ae-8669-cd47fd3310a1.jpg', 'selfie/a3aa85d3-0845-4dc7-9cba-49d1196a3b7c.jpg', FALSE);
+                     VALUES ('karma17@protonmail.com', 'ktp/c25ebdc0-7950-4159-87db-aa4738c6a7e0.jpg', 'selfie/a3b722f3-65bf-48e6-96d6-f3e2a5c2131b.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('lulut53@aol.com', 'ktp/57db5649-d818-4148-856d-87303724a75f.jpg', 'selfie/bcd9064b-3d0f-4c4b-a084-483da1ec8e49.jpg', TRUE);
+                     VALUES ('kani82@hotmail.com', 'ktp/852e92b5-f619-4d5d-91ff-762dc473031c.jpg', 'selfie/95a2b1f9-b459-4a34-9fd2-c34ac57c02d7.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('mahfud5@protonmail.com', 'ktp/21d9c987-b757-4368-93bd-8a85fc26cfc1.jpg', 'selfie/a44e30ac-e4a3-4d33-80d9-d6380b7e4f2f.jpg', FALSE);
+                     VALUES ('kayla22@gmail.com', 'ktp/4769d047-5a73-41c3-937a-7c04e074b088.jpg', 'selfie/ab4a1b30-bf74-45e6-b6fc-4b30d8495856.jpg', FALSE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('perkasa91@outlook.com', 'ktp/077127c2-2fd2-4cf1-807a-75dd175ab888.jpg', 'selfie/2741c125-5a12-4fab-99bd-90c9eae049e3.jpg', TRUE);
+                     VALUES ('luis86@protonmail.com', 'ktp/0e93e5a9-e8bf-4b80-b826-158ca193059b.jpg', 'selfie/604258c1-f115-4565-908a-51b332173f27.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('heryanto85@mail.com', 'ktp/412c17e6-c9d6-4f4f-b0a2-9c2592345a32.jpg', 'selfie/7268a2e3-c145-4706-b9b2-6cb4e780741e.jpg', TRUE);
+                     VALUES ('najib31@hotmail.com', 'ktp/f7ff5cfb-8374-40a8-aa29-9932b0e8593b.jpg', 'selfie/8066fd5f-a083-4dca-aaa7-485689ea73a9.jpg', TRUE);
 INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
-                     VALUES ('maria16@outlook.com', 'ktp/2c40a3bd-5746-4806-9a37-fa8567710c76.jpg', 'selfie/a5e9f0b1-8322-4bc5-8e33-25c4549868a7.jpg', FALSE);
+                     VALUES ('talia73@yahoo.com', 'ktp/91d12463-017c-47ba-8d30-fca4fac0632e.jpg', 'selfie/ac78c0fb-49a1-4c60-8f41-f7eddcdf7bba.jpg', TRUE);
+-- Total penjual: 33, terverifikasi: 18
 
 -- INSERT INTO friend
 INSERT INTO friend (email, email_following)
-                 VALUES ('sakura70@aol.com', 'dimaz63@outlook.com');
+                 VALUES ('cemplunk31@aol.com', 'cornelia71@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('irfan87@gmail.com', 'dono69@aol.com');
+                 VALUES ('cemplunk31@aol.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wadi81@hotmail.com', 'rahmi63@gmail.com');
+                 VALUES ('nugraha66@mail.com', 'najib31@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jamalia36@aol.com', 'dono69@aol.com');
+                 VALUES ('irnanto43@protonmail.com', 'gilda79@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('mulyono88@protonmail.com', 'rahmi63@gmail.com');
+                 VALUES ('mariadi4@outlook.com', 'luis86@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ivan42@aol.com', 'patricia49@gmail.com');
+                 VALUES ('irsad44@protonmail.com', 'opung93@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('pranawa90@aol.com', 'catur70@protonmail.com');
+                 VALUES ('heru90@hotmail.com', 'siska88@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nyana52@yahoo.com', 'iriana68@yahoo.com');
+                 VALUES ('mariadi4@outlook.com', 'nugraha66@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('oskar15@aol.com', 'umay10@aol.com');
+                 VALUES ('kayla22@gmail.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('heryanto85@mail.com', 'salman90@protonmail.com');
+                 VALUES ('daniswara51@yahoo.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('yani96@mail.com', 'legawa24@protonmail.com');
+                 VALUES ('najib31@hotmail.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('heryanto85@mail.com', 'nadia54@gmail.com');
+                 VALUES ('kusuma34@gmail.com', 'laswi20@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ciaobella63@protonmail.com', 'perkasa91@outlook.com');
+                 VALUES ('kusuma34@gmail.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ivan42@aol.com', 'salman90@protonmail.com');
+                 VALUES ('purwa5@protonmail.com', 'vivi67@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ivan42@aol.com', 'iriana68@yahoo.com');
+                 VALUES ('teguh75@aol.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('oskar15@aol.com', 'heryanto85@mail.com');
+                 VALUES ('lasmono10@gmail.com', 'mariadi4@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('catur70@protonmail.com', 'jaya68@outlook.com');
+                 VALUES ('irwan13@yahoo.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('perkasa91@outlook.com', 'lulut53@aol.com');
+                 VALUES ('atma30@outlook.com', 'siska88@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jumadi52@gmail.com', 'legawa24@protonmail.com');
+                 VALUES ('siska88@gmail.com', 'atma30@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('iriana68@yahoo.com', 'rahmi63@gmail.com');
+                 VALUES ('jati14@gmail.com', 'ophelia59@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('puji19@gmail.com', 'yani96@mail.com');
+                 VALUES ('daniswara51@yahoo.com', 'cornelia71@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('heryanto85@mail.com', 'patricia49@gmail.com');
+                 VALUES ('nugraha66@mail.com', 'irwan13@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jaya68@outlook.com', 'mulyono88@protonmail.com');
+                 VALUES ('nasim25@aol.com', 'laswi20@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nadia54@gmail.com', 'danuja30@yahoo.com');
+                 VALUES ('purwa5@protonmail.com', 'garan31@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('maria16@outlook.com', 'eman5@aol.com');
+                 VALUES ('heru90@hotmail.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('zahra10@mail.com', 'ciaobella63@protonmail.com');
+                 VALUES ('heru90@hotmail.com', 'karma17@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ciaobella63@protonmail.com', 'nyana52@yahoo.com');
+                 VALUES ('irsad44@protonmail.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wage52@yahoo.com', 'danuja30@yahoo.com');
+                 VALUES ('jati14@gmail.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('yuni97@gmail.com', 'yani96@mail.com');
+                 VALUES ('karma17@protonmail.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('dimaz63@outlook.com', 'salman90@protonmail.com');
+                 VALUES ('prayitna38@gmail.com', 'cakrabuana55@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jarwadi70@mail.com', 'irfan87@gmail.com');
+                 VALUES ('kenari19@gmail.com', 'opung93@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nadia54@gmail.com', 'ida22@yahoo.com');
+                 VALUES ('cemplunk31@aol.com', 'hairyanto16@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jaya68@outlook.com', 'zulaikha2@outlook.com');
+                 VALUES ('cornelia71@outlook.com', 'gawati55@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nrima45@outlook.com', 'elisa62@gmail.com');
+                 VALUES ('vivi67@mail.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ayu65@hotmail.com', 'kusuma42@hotmail.com');
+                 VALUES ('opung93@gmail.com', 'siska88@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ivan42@aol.com', 'harsanto74@mail.com');
+                 VALUES ('edi69@hotmail.com', 'cemplunk31@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('kala24@hotmail.com', 'nadia54@gmail.com');
+                 VALUES ('rini42@yahoo.com', 'najib31@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nyana52@yahoo.com', 'legawa24@protonmail.com');
+                 VALUES ('ophelia59@protonmail.com', 'kani82@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('mahfud5@protonmail.com', 'ciaobella63@protonmail.com');
+                 VALUES ('talia73@yahoo.com', 'vivi67@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jumadi52@gmail.com', 'zahra10@mail.com');
+                 VALUES ('vivi67@mail.com', 'karma17@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('oskar15@aol.com', 'lulut53@aol.com');
+                 VALUES ('teguh75@aol.com', 'laswi20@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('mahfud5@protonmail.com', 'patricia49@gmail.com');
+                 VALUES ('nasim25@aol.com', 'cemplunk31@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('maria16@outlook.com', 'nyana52@yahoo.com');
+                 VALUES ('umar49@yahoo.com', 'rachel31@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('maria16@outlook.com', 'catur70@protonmail.com');
+                 VALUES ('rini42@yahoo.com', 'vivi67@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('puji19@gmail.com', 'ivan20@gmail.com');
+                 VALUES ('siska88@gmail.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('cawisadi28@yahoo.com', 'nyana52@yahoo.com');
+                 VALUES ('najib31@hotmail.com', 'cornelia71@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('pranawa90@aol.com', 'kusuma42@hotmail.com');
+                 VALUES ('gara24@hotmail.com', 'mariadi4@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('kusuma42@hotmail.com', 'iriana68@yahoo.com');
+                 VALUES ('cakrabuana55@gmail.com', 'jati14@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('salman90@protonmail.com', 'ida22@yahoo.com');
+                 VALUES ('naradi89@yahoo.com', 'siska88@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('harsanto74@mail.com', 'legawa24@protonmail.com');
+                 VALUES ('hairyanto16@aol.com', 'irsad44@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('elisa62@gmail.com', 'kusuma42@hotmail.com');
+                 VALUES ('irwan13@yahoo.com', 'gara24@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jaya68@outlook.com', 'wage52@yahoo.com');
+                 VALUES ('pardi19@protonmail.com', 'garan31@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('budi58@gmail.com', 'jumadi52@gmail.com');
+                 VALUES ('hairyanto16@aol.com', 'kenari19@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('patricia49@gmail.com', 'yani96@mail.com');
+                 VALUES ('edi69@hotmail.com', 'ade21@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('kala24@hotmail.com', 'ivan20@gmail.com');
+                 VALUES ('kusuma34@gmail.com', 'oni39@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wage52@yahoo.com', 'jarwadi70@mail.com');
+                 VALUES ('heru90@hotmail.com', 'naradi89@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jumadi52@gmail.com', 'dimaz63@outlook.com');
+                 VALUES ('rudi57@aol.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('hendri93@yahoo.com', 'yani96@mail.com');
+                 VALUES ('najib31@hotmail.com', 'jati14@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('catur70@protonmail.com', 'danuja30@yahoo.com');
+                 VALUES ('naradi89@yahoo.com', 'rangga32@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('eman5@aol.com', 'nadia54@gmail.com');
+                 VALUES ('gawati55@mail.com', 'umar49@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jamalia36@aol.com', 'eman5@aol.com');
+                 VALUES ('kayla22@gmail.com', 'gawati55@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wadi81@hotmail.com', 'eman5@aol.com');
+                 VALUES ('luis86@protonmail.com', 'kusuma34@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jaya68@outlook.com', 'legawa24@protonmail.com');
+                 VALUES ('oni39@yahoo.com', 'teguh75@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('kala24@hotmail.com', 'ida22@yahoo.com');
+                 VALUES ('kenari19@gmail.com', 'lasmono10@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('iriana68@yahoo.com', 'legawa24@protonmail.com');
+                 VALUES ('opung93@gmail.com', 'cinta78@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ida22@yahoo.com', 'catur70@protonmail.com');
+                 VALUES ('cemplunk31@aol.com', 'irnanto43@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('dimaz63@outlook.com', 'elisa62@gmail.com');
+                 VALUES ('cakrabuana55@gmail.com', 'purwa5@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('danuja30@yahoo.com', 'hendri93@yahoo.com');
+                 VALUES ('oni39@yahoo.com', 'luis86@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('puji19@gmail.com', 'jaya68@outlook.com');
+                 VALUES ('edi69@hotmail.com', 'umar49@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('nrima45@outlook.com', 'rahmi63@gmail.com');
+                 VALUES ('edi69@hotmail.com', 'gara24@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('budi58@gmail.com', 'cawisadi28@yahoo.com');
+                 VALUES ('ophelia59@protonmail.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jamalia36@aol.com', 'wage52@yahoo.com');
+                 VALUES ('irwan13@yahoo.com', 'najib31@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('lulut53@aol.com', 'jaya68@outlook.com');
+                 VALUES ('hairyanto16@aol.com', 'siska88@gmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wadi81@hotmail.com', 'asmadi11@outlook.com');
+                 VALUES ('cinta78@outlook.com', 'harimurti12@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('irfan87@gmail.com', 'wage52@yahoo.com');
+                 VALUES ('laswi20@aol.com', 'gara24@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('mahfud5@protonmail.com', 'yani96@mail.com');
+                 VALUES ('gilda79@gmail.com', 'rini42@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('perkasa91@outlook.com', 'iriana68@yahoo.com');
+                 VALUES ('lasmono10@gmail.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('elisa62@gmail.com', 'puji19@gmail.com');
+                 VALUES ('heru90@hotmail.com', 'umar49@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('puji19@gmail.com', 'zahra10@mail.com');
+                 VALUES ('cakrabuana55@gmail.com', 'atma30@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('iriana68@yahoo.com', 'oskar15@aol.com');
+                 VALUES ('siska88@gmail.com', 'daniswara51@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('eman5@aol.com', 'sakura70@aol.com');
+                 VALUES ('edi69@hotmail.com', 'rini42@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('olga77@gmail.com', 'irfan87@gmail.com');
+                 VALUES ('atma30@outlook.com', 'hairyanto16@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('asmadi11@outlook.com', 'nrima45@outlook.com');
+                 VALUES ('ophelia59@protonmail.com', 'rudi57@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('perkasa91@outlook.com', 'hendri93@yahoo.com');
+                 VALUES ('cinta78@outlook.com', 'irsad44@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ciaobella63@protonmail.com', 'irfan87@gmail.com');
+                 VALUES ('cinta78@outlook.com', 'nugraha66@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ayu65@hotmail.com', 'nyana52@yahoo.com');
+                 VALUES ('asmianto10@yahoo.com', 'najib31@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('irfan87@gmail.com', 'kusuma42@hotmail.com');
+                 VALUES ('luis86@protonmail.com', 'heru90@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('catur70@protonmail.com', 'maria16@outlook.com');
+                 VALUES ('cinta78@outlook.com', 'cornelia71@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('olga77@gmail.com', 'sakura70@aol.com');
+                 VALUES ('karma17@protonmail.com', 'cemplunk31@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('legawa24@protonmail.com', 'nyana52@yahoo.com');
+                 VALUES ('cakrabuana55@gmail.com', 'cornelia71@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('catur70@protonmail.com', 'legawa24@protonmail.com');
+                 VALUES ('siska88@gmail.com', 'edi69@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('zahra10@mail.com', 'cawisadi28@yahoo.com');
+                 VALUES ('laswi20@aol.com', 'naradi89@yahoo.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('jamalia36@aol.com', 'dimaz63@outlook.com');
+                 VALUES ('jati14@gmail.com', 'atma30@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('umay10@aol.com', 'jamalia36@aol.com');
+                 VALUES ('irwan13@yahoo.com', 'rachel31@mail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('yani96@mail.com', 'nrima45@outlook.com');
+                 VALUES ('rangga32@gmail.com', 'purwa5@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('elisa62@gmail.com', 'salman90@protonmail.com');
+                 VALUES ('gilda79@gmail.com', 'atma30@outlook.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('iriana68@yahoo.com', 'umay10@aol.com');
+                 VALUES ('ophelia59@protonmail.com', 'pardi19@protonmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('wadi81@hotmail.com', 'ivan42@aol.com');
+                 VALUES ('talia73@yahoo.com', 'rudi57@aol.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('ayu65@hotmail.com', 'sakura70@aol.com');
+                 VALUES ('umi33@outlook.com', 'gara24@hotmail.com');
 INSERT INTO friend (email, email_following)
-                 VALUES ('olga77@gmail.com', 'jumadi52@gmail.com');
+                 VALUES ('laswi20@aol.com', 'kayla22@gmail.com');
+-- Total friend: 100
 
 -- INSERT INTO alamat_alternatif
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('ayu65@hotmail.com', 50);
+                 VALUES ('umi33@outlook.com', 2);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('umay10@aol.com', 28);
+                 VALUES ('opung93@gmail.com', 40);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('zahra10@mail.com', 50);
+                 VALUES ('hairyanto16@aol.com', 32);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('olga77@gmail.com', 14);
+                 VALUES ('gilda79@gmail.com', 38);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('cawisadi28@yahoo.com', 48);
+                 VALUES ('naradi89@yahoo.com', 75);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('mahfud5@protonmail.com', 9);
+                 VALUES ('rangga32@gmail.com', 92);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('nyana52@yahoo.com', 15);
+                 VALUES ('gawati55@mail.com', 4);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('umay10@aol.com', 69);
+                 VALUES ('mariadi4@outlook.com', 8);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('iriana68@yahoo.com', 74);
+                 VALUES ('umi33@outlook.com', 75);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('mulyono88@protonmail.com', 69);
+                 VALUES ('opung93@gmail.com', 32);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('yani96@mail.com', 27);
+                 VALUES ('cornelia71@outlook.com', 37);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('puji19@gmail.com', 30);
+                 VALUES ('gara24@hotmail.com', 64);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('sakura70@aol.com', 72);
+                 VALUES ('kayla22@gmail.com', 33);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('yani96@mail.com', 7);
+                 VALUES ('rachel31@mail.com', 35);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('mulyono88@protonmail.com', 99);
+                 VALUES ('mariadi4@outlook.com', 72);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('jumadi52@gmail.com', 5);
+                 VALUES ('kayla22@gmail.com', 100);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('jumadi52@gmail.com', 43);
+                 VALUES ('ade21@protonmail.com', 6);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('maimunah64@yahoo.com', 66);
+                 VALUES ('ade21@protonmail.com', 16);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('maria16@outlook.com', 76);
+                 VALUES ('cemplunk31@aol.com', 12);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('rahmi63@gmail.com', 51);
+                 VALUES ('naradi89@yahoo.com', 77);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('umay10@aol.com', 72);
+                 VALUES ('heru90@hotmail.com', 67);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('ivan42@aol.com', 60);
+                 VALUES ('kayla22@gmail.com', 37);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('oskar15@aol.com', 36);
+                 VALUES ('ophelia59@protonmail.com', 1);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('eman5@aol.com', 8);
+                 VALUES ('nasim25@aol.com', 41);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('rahmi63@gmail.com', 41);
+                 VALUES ('umar49@yahoo.com', 49);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('asmadi11@outlook.com', 94);
+                 VALUES ('irsad44@protonmail.com', 66);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('cawisadi28@yahoo.com', 45);
+                 VALUES ('gilda79@gmail.com', 14);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('legawa24@protonmail.com', 50);
+                 VALUES ('cemplunk31@aol.com', 83);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('maria16@outlook.com', 2);
+                 VALUES ('luis86@protonmail.com', 6);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('yuni97@gmail.com', 33);
+                 VALUES ('vivi67@mail.com', 34);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('oskar15@aol.com', 59);
+                 VALUES ('kusuma34@gmail.com', 100);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('maria16@outlook.com', 86);
+                 VALUES ('laswi20@aol.com', 47);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('jumadi52@gmail.com', 95);
+                 VALUES ('rini42@yahoo.com', 39);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('zahra10@mail.com', 51);
+                 VALUES ('rini42@yahoo.com', 65);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('patricia49@gmail.com', 41);
+                 VALUES ('rachel31@mail.com', 39);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('legawa24@protonmail.com', 86);
+                 VALUES ('gawati55@mail.com', 71);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('maimunah64@yahoo.com', 88);
+                 VALUES ('kayla22@gmail.com', 31);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('budi58@gmail.com', 21);
+                 VALUES ('kayla22@gmail.com', 41);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('sakura70@aol.com', 97);
+                 VALUES ('laswi20@aol.com', 41);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('kala24@hotmail.com', 55);
+                 VALUES ('prayitna38@gmail.com', 16);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('puji19@gmail.com', 78);
+                 VALUES ('umi33@outlook.com', 25);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('yuni97@gmail.com', 56);
+                 VALUES ('hairyanto16@aol.com', 31);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('iriana68@yahoo.com', 68);
+                 VALUES ('edi69@hotmail.com', 100);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('zulaikha2@outlook.com', 39);
+                 VALUES ('rachel31@mail.com', 28);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('zulaikha2@outlook.com', 68);
+                 VALUES ('irnanto43@protonmail.com', 67);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('eman5@aol.com', 90);
+                 VALUES ('rangga32@gmail.com', 68);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('ivan42@aol.com', 48);
+                 VALUES ('umar49@yahoo.com', 66);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('kala24@hotmail.com', 37);
+                 VALUES ('najib31@hotmail.com', 68);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('jarwadi70@mail.com', 91);
+                 VALUES ('laswi20@aol.com', 61);
 INSERT INTO alamat_alternatif (email, alamat_id)
-                 VALUES ('jarwadi70@mail.com', 52);
+                 VALUES ('naradi89@yahoo.com', 38);
+-- Total alamat_alternatif: 50
 
 -- INSERT INTO produk
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (1, 'Celana Jeans Amet', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (1, 'Kaos Polos Vel', 'Desain modern', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (2, 'Celana Jeans Est', 'Tahan lama', 'ivan20@gmail.com');
+                         VALUES (2, 'Jaket Hoodie Dolores', 'Desain modern', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (3, 'Kaos Polos Omnis', 'Desain modern', 'zulaikha2@outlook.com');
+                         VALUES (3, 'Topi Baseball Harum', 'Nyaman dipakai', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (4, 'Topi Baseball Occaecati', 'Nyaman dipakai', 'budi58@gmail.com');
+                         VALUES (4, 'Kemeja Formal Qui', 'Produk berkualitas tinggi', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (5, 'Sepatu Sneakers Excepturi', 'Tahan lama', 'oskar15@aol.com');
+                         VALUES (5, 'Topi Baseball Sunt', 'Tahan lama', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (6, 'Topi Baseball Natus', 'Desain modern', 'lulut53@aol.com');
+                         VALUES (6, 'Topi Baseball Recusandae', 'Produk berkualitas tinggi', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (7, 'Tas Ransel Perspiciatis', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (7, 'Kaos Polos Dicta', 'Produk berkualitas tinggi', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (8, 'Jaket Hoodie Harum', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (8, 'Jaket Hoodie At', 'Produk berkualitas tinggi', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (9, 'Kaos Polos Facere', 'Desain modern', 'ivan20@gmail.com');
+                         VALUES (9, 'Topi Baseball Corporis', 'Desain modern', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (10, 'Dress Midi Autem', 'Nyaman dipakai', 'puji19@gmail.com');
+                         VALUES (10, 'Dress Midi Tempore', 'Desain modern', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (11, 'Kemeja Formal Accusamus', 'Desain modern', 'lulut53@aol.com');
+                         VALUES (11, 'Topi Baseball Voluptatibus', 'Tahan lama', 'gawati55@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (12, 'Tas Ransel Minima', 'Tahan lama', 'zulaikha2@outlook.com');
+                         VALUES (12, 'Sepatu Sneakers Cupiditate', 'Nyaman dipakai', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (13, 'Kemeja Formal Culpa', 'Tahan lama', 'sakura70@aol.com');
+                         VALUES (13, 'Celana Jeans Culpa', 'Tahan lama', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (14, 'Kaos Polos Laudantium', 'Nyaman dipakai', 'nadia54@gmail.com');
+                         VALUES (14, 'Dress Midi Illum', 'Nyaman dipakai', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (15, 'Celana Jeans Fuga', 'Desain modern', 'ivan20@gmail.com');
+                         VALUES (15, 'Topi Baseball Corrupti', 'Nyaman dipakai', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (16, 'Jaket Hoodie Eum', 'Tahan lama', 'danuja30@yahoo.com');
+                         VALUES (16, 'Tas Ransel Deserunt', 'Produk berkualitas tinggi', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (17, 'Kaos Polos Autem', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (17, 'Topi Baseball Harum', 'Desain modern', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (18, 'Celana Jeans Illum', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (18, 'Kemeja Formal Laborum', 'Produk berkualitas tinggi', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (19, 'Topi Baseball Nostrum', 'Nyaman dipakai', 'jamalia36@aol.com');
+                         VALUES (19, 'Tas Ransel Rerum', 'Tahan lama', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (20, 'Tas Ransel Voluptate', 'Desain modern', 'salman90@protonmail.com');
+                         VALUES (20, 'Celana Jeans Quod', 'Desain modern', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (21, 'Jaket Hoodie Quaerat', 'Desain modern', 'iriana68@yahoo.com');
+                         VALUES (21, 'Sepatu Sneakers Quibusdam', 'Produk berkualitas tinggi', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (22, 'Tas Ransel Quo', 'Desain modern', 'zulaikha2@outlook.com');
+                         VALUES (22, 'Celana Jeans Nulla', 'Nyaman dipakai', 'abyasa18@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (23, 'Kemeja Formal Impedit', 'Desain modern', 'dimaz63@outlook.com');
+                         VALUES (23, 'Sepatu Sneakers Consequuntur', 'Nyaman dipakai', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (24, 'Sepatu Sneakers Accusamus', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (24, 'Sepatu Sneakers Repudiandae', 'Nyaman dipakai', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (25, 'Tas Ransel Natus', 'Nyaman dipakai', 'umay10@aol.com');
+                         VALUES (25, 'Kemeja Formal Omnis', 'Produk berkualitas tinggi', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (26, 'Sepatu Sneakers Nemo', 'Produk berkualitas tinggi', 'lulut53@aol.com');
+                         VALUES (26, 'Dress Midi Ad', 'Tahan lama', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (27, 'Kaos Polos Fugiat', 'Desain modern', 'danuja30@yahoo.com');
+                         VALUES (27, 'Jaket Hoodie Unde', 'Nyaman dipakai', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (28, 'Celana Jeans Consequatur', 'Desain modern', 'harsanto74@mail.com');
+                         VALUES (28, 'Tas Ransel Voluptates', 'Tahan lama', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (29, 'Celana Jeans Earum', 'Desain modern', 'lulut53@aol.com');
+                         VALUES (29, 'Kemeja Formal Non', 'Tahan lama', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (30, 'Sepatu Sneakers Voluptatibus', 'Tahan lama', 'iriana68@yahoo.com');
+                         VALUES (30, 'Kaos Polos Fugiat', 'Nyaman dipakai', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (31, 'Kemeja Formal Rerum', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (31, 'Celana Jeans Suscipit', 'Tahan lama', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (32, 'Dress Midi Eius', 'Produk berkualitas tinggi', 'zulaikha2@outlook.com');
+                         VALUES (32, 'Celana Jeans Inventore', 'Tahan lama', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (33, 'Kaos Polos Illo', 'Nyaman dipakai', 'iriana68@yahoo.com');
+                         VALUES (33, 'Kemeja Formal Aliquid', 'Desain modern', 'rudi57@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (34, 'Topi Baseball Repellendus', 'Tahan lama', 'puji19@gmail.com');
+                         VALUES (34, 'Kaos Polos Quidem', 'Nyaman dipakai', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (35, 'Topi Baseball Repellat', 'Desain modern', 'dimaz63@outlook.com');
+                         VALUES (35, 'Jaket Hoodie Suscipit', 'Produk berkualitas tinggi', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (36, 'Celana Jeans Esse', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (36, 'Celana Jeans Exercitationem', 'Tahan lama', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (37, 'Dress Midi Molestias', 'Produk berkualitas tinggi', 'heryanto85@mail.com');
+                         VALUES (37, 'Topi Baseball Atque', 'Nyaman dipakai', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (38, 'Sepatu Sneakers Assumenda', 'Desain modern', 'perkasa91@outlook.com');
+                         VALUES (38, 'Kemeja Formal Id', 'Produk berkualitas tinggi', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (39, 'Kaos Polos Cumque', 'Tahan lama', 'perkasa91@outlook.com');
+                         VALUES (39, 'Kaos Polos Quas', 'Nyaman dipakai', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (40, 'Jaket Hoodie Reiciendis', 'Desain modern', 'danuja30@yahoo.com');
+                         VALUES (40, 'Celana Jeans Repellat', 'Nyaman dipakai', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (41, 'Jaket Hoodie Perferendis', 'Tahan lama', 'dimaz63@outlook.com');
+                         VALUES (41, 'Sepatu Sneakers Voluptatibus', 'Desain modern', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (42, 'Sepatu Sneakers Dolore', 'Nyaman dipakai', 'lulut53@aol.com');
+                         VALUES (42, 'Celana Jeans Recusandae', 'Desain modern', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (43, 'Dress Midi Eos', 'Tahan lama', 'zulaikha2@outlook.com');
+                         VALUES (43, 'Sepatu Sneakers Natus', 'Desain modern', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (44, 'Kemeja Formal Tempore', 'Nyaman dipakai', 'dimaz63@outlook.com');
+                         VALUES (44, 'Tas Ransel Eaque', 'Desain modern', 'harimurti12@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (45, 'Dress Midi Labore', 'Desain modern', 'salman90@protonmail.com');
+                         VALUES (45, 'Dress Midi Distinctio', 'Tahan lama', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (46, 'Sepatu Sneakers Necessitatibus', 'Desain modern', 'umay10@aol.com');
+                         VALUES (46, 'Topi Baseball Possimus', 'Produk berkualitas tinggi', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (47, 'Tas Ransel Maxime', 'Desain modern', 'ivan20@gmail.com');
+                         VALUES (47, 'Kemeja Formal Cumque', 'Produk berkualitas tinggi', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (48, 'Dress Midi Quibusdam', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (48, 'Tas Ransel Repudiandae', 'Tahan lama', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (49, 'Dress Midi Ea', 'Desain modern', 'iriana68@yahoo.com');
+                         VALUES (49, 'Jaket Hoodie Veritatis', 'Tahan lama', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (50, 'Celana Jeans Voluptatem', 'Desain modern', 'nadia54@gmail.com');
+                         VALUES (50, 'Kemeja Formal Iste', 'Produk berkualitas tinggi', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (51, 'Sepatu Sneakers Fugiat', 'Tahan lama', 'harsanto74@mail.com');
+                         VALUES (51, 'Dress Midi Minus', 'Nyaman dipakai', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (52, 'Kemeja Formal Minus', 'Desain modern', 'zulaikha2@outlook.com');
+                         VALUES (52, 'Kemeja Formal Aspernatur', 'Produk berkualitas tinggi', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (53, 'Jaket Hoodie Officia', 'Produk berkualitas tinggi', 'harsanto74@mail.com');
+                         VALUES (53, 'Kaos Polos Dolor', 'Nyaman dipakai', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (54, 'Kemeja Formal Velit', 'Nyaman dipakai', 'harsanto74@mail.com');
+                         VALUES (54, 'Sepatu Sneakers Debitis', 'Tahan lama', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (55, 'Kaos Polos Veritatis', 'Nyaman dipakai', 'oskar15@aol.com');
+                         VALUES (55, 'Sepatu Sneakers Minima', 'Nyaman dipakai', 'gara24@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (56, 'Topi Baseball Rerum', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (56, 'Jaket Hoodie Dolor', 'Produk berkualitas tinggi', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (57, 'Tas Ransel Ad', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (57, 'Tas Ransel Rem', 'Nyaman dipakai', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (58, 'Sepatu Sneakers Eaque', 'Nyaman dipakai', 'dimaz63@outlook.com');
+                         VALUES (58, 'Tas Ransel Adipisci', 'Desain modern', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (59, 'Jaket Hoodie Quidem', 'Tahan lama', 'budi58@gmail.com');
+                         VALUES (59, 'Jaket Hoodie Eveniet', 'Desain modern', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (60, 'Topi Baseball Tempore', 'Tahan lama', 'perkasa91@outlook.com');
+                         VALUES (60, 'Topi Baseball Porro', 'Desain modern', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (61, 'Topi Baseball Delectus', 'Desain modern', 'nadia54@gmail.com');
+                         VALUES (61, 'Topi Baseball Nam', 'Produk berkualitas tinggi', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (62, 'Sepatu Sneakers Numquam', 'Desain modern', 'harsanto74@mail.com');
+                         VALUES (62, 'Tas Ransel Consequuntur', 'Desain modern', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (63, 'Topi Baseball Ratione', 'Desain modern', 'puji19@gmail.com');
+                         VALUES (63, 'Topi Baseball Itaque', 'Produk berkualitas tinggi', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (64, 'Jaket Hoodie Perferendis', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (64, 'Jaket Hoodie Nulla', 'Produk berkualitas tinggi', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (65, 'Kaos Polos In', 'Desain modern', 'oskar15@aol.com');
+                         VALUES (65, 'Jaket Hoodie Harum', 'Nyaman dipakai', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (66, 'Topi Baseball Sint', 'Produk berkualitas tinggi', 'sakura70@aol.com');
+                         VALUES (66, 'Celana Jeans Sequi', 'Produk berkualitas tinggi', 'ade21@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (67, 'Kaos Polos Blanditiis', 'Tahan lama', 'ivan20@gmail.com');
+                         VALUES (67, 'Jaket Hoodie Expedita', 'Tahan lama', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (68, 'Kaos Polos Id', 'Produk berkualitas tinggi', 'nadia54@gmail.com');
+                         VALUES (68, 'Dress Midi Fugiat', 'Desain modern', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (69, 'Kemeja Formal Temporibus', 'Desain modern', 'iriana68@yahoo.com');
+                         VALUES (69, 'Kemeja Formal Eveniet', 'Tahan lama', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (70, 'Topi Baseball Voluptatem', 'Produk berkualitas tinggi', 'nadia54@gmail.com');
+                         VALUES (70, 'Topi Baseball Minima', 'Nyaman dipakai', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (71, 'Jaket Hoodie Facilis', 'Produk berkualitas tinggi', 'lulut53@aol.com');
+                         VALUES (71, 'Sepatu Sneakers Hic', 'Nyaman dipakai', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (72, 'Tas Ransel Molestias', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (72, 'Celana Jeans Distinctio', 'Produk berkualitas tinggi', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (73, 'Kaos Polos Quod', 'Produk berkualitas tinggi', 'zulaikha2@outlook.com');
+                         VALUES (73, 'Topi Baseball Laboriosam', 'Desain modern', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (74, 'Celana Jeans Esse', 'Tahan lama', 'iriana68@yahoo.com');
+                         VALUES (74, 'Celana Jeans Porro', 'Nyaman dipakai', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (75, 'Jaket Hoodie Dolore', 'Nyaman dipakai', 'salman90@protonmail.com');
+                         VALUES (75, 'Kemeja Formal Incidunt', 'Desain modern', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (76, 'Celana Jeans Reprehenderit', 'Nyaman dipakai', 'dimaz63@outlook.com');
+                         VALUES (76, 'Kemeja Formal Voluptate', 'Nyaman dipakai', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (77, 'Dress Midi Deleniti', 'Tahan lama', 'perkasa91@outlook.com');
+                         VALUES (77, 'Dress Midi Explicabo', 'Nyaman dipakai', 'nugraha66@mail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (78, 'Celana Jeans Quo', 'Tahan lama', 'jamalia36@aol.com');
+                         VALUES (78, 'Celana Jeans Nam', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (79, 'Tas Ransel Corporis', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (79, 'Celana Jeans Dolores', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (80, 'Kaos Polos Delectus', 'Nyaman dipakai', 'oskar15@aol.com');
+                         VALUES (80, 'Kemeja Formal Perferendis', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (81, 'Kaos Polos Corrupti', 'Tahan lama', 'iriana68@yahoo.com');
+                         VALUES (81, 'Celana Jeans Commodi', 'Tahan lama', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (82, 'Kemeja Formal Itaque', 'Desain modern', 'sakura70@aol.com');
+                         VALUES (82, 'Kemeja Formal Nam', 'Produk berkualitas tinggi', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (83, 'Celana Jeans Corporis', 'Tahan lama', 'oskar15@aol.com');
+                         VALUES (83, 'Kaos Polos Assumenda', 'Produk berkualitas tinggi', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (84, 'Kaos Polos Illo', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (84, 'Kemeja Formal Quia', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (85, 'Celana Jeans Odio', 'Desain modern', 'dimaz63@outlook.com');
+                         VALUES (85, 'Sepatu Sneakers Voluptatibus', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (86, 'Kemeja Formal Voluptas', 'Tahan lama', 'nadia54@gmail.com');
+                         VALUES (86, 'Jaket Hoodie Quae', 'Produk berkualitas tinggi', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (87, 'Kemeja Formal Quisquam', 'Tahan lama', 'ivan20@gmail.com');
+                         VALUES (87, 'Kaos Polos Voluptatem', 'Desain modern', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (88, 'Topi Baseball Cum', 'Desain modern', 'oskar15@aol.com');
+                         VALUES (88, 'Kemeja Formal Dolor', 'Nyaman dipakai', 'gilda79@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (89, 'Kemeja Formal Non', 'Desain modern', 'heryanto85@mail.com');
+                         VALUES (89, 'Tas Ransel Ut', 'Produk berkualitas tinggi', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (90, 'Dress Midi Aut', 'Desain modern', 'ivan20@gmail.com');
+                         VALUES (90, 'Topi Baseball Nesciunt', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (91, 'Jaket Hoodie Deleniti', 'Tahan lama', 'zulaikha2@outlook.com');
+                         VALUES (91, 'Kemeja Formal Veritatis', 'Produk berkualitas tinggi', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (92, 'Celana Jeans Dignissimos', 'Tahan lama', 'iriana68@yahoo.com');
+                         VALUES (92, 'Sepatu Sneakers Rem', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (93, 'Topi Baseball Aspernatur', 'Tahan lama', 'puji19@gmail.com');
+                         VALUES (93, 'Sepatu Sneakers Dolores', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (94, 'Sepatu Sneakers Aliquam', 'Desain modern', 'jamalia36@aol.com');
+                         VALUES (94, 'Jaket Hoodie Voluptate', 'Tahan lama', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (95, 'Dress Midi Totam', 'Desain modern', 'perkasa91@outlook.com');
+                         VALUES (95, 'Sepatu Sneakers Voluptates', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (96, 'Dress Midi Nostrum', 'Nyaman dipakai', 'oskar15@aol.com');
+                         VALUES (96, 'Sepatu Sneakers Atque', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (97, 'Jaket Hoodie Ex', 'Nyaman dipakai', 'budi58@gmail.com');
+                         VALUES (97, 'Kaos Polos Sed', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (98, 'Topi Baseball Enim', 'Produk berkualitas tinggi', 'heryanto85@mail.com');
+                         VALUES (98, 'Topi Baseball Voluptates', 'Desain modern', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (99, 'Sepatu Sneakers Praesentium', 'Nyaman dipakai', 'puji19@gmail.com');
+                         VALUES (99, 'Kaos Polos Aliquid', 'Nyaman dipakai', 'siska88@gmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (100, 'Jaket Hoodie Modi', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (100, 'Kaos Polos Ea', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (101, 'Celana Jeans Asperiores', 'Tahan lama', 'perkasa91@outlook.com');
+                         VALUES (101, 'Jaket Hoodie Voluptates', 'Desain modern', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (102, 'Tas Ransel At', 'Tahan lama', 'danuja30@yahoo.com');
+                         VALUES (102, 'Dress Midi Sint', 'Tahan lama', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (103, 'Kemeja Formal Consequatur', 'Produk berkualitas tinggi', 'heryanto85@mail.com');
+                         VALUES (103, 'Sepatu Sneakers Deleniti', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (104, 'Sepatu Sneakers Quam', 'Nyaman dipakai', 'lulut53@aol.com');
+                         VALUES (104, 'Celana Jeans Dolorum', 'Produk berkualitas tinggi', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (105, 'Tas Ransel Culpa', 'Tahan lama', 'dimaz63@outlook.com');
+                         VALUES (105, 'Tas Ransel Quibusdam', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (106, 'Celana Jeans Eum', 'Nyaman dipakai', 'salman90@protonmail.com');
+                         VALUES (106, 'Tas Ransel Quo', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (107, 'Kaos Polos Expedita', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (107, 'Celana Jeans Laudantium', 'Tahan lama', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (108, 'Jaket Hoodie Nemo', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (108, 'Topi Baseball Molestias', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (109, 'Kemeja Formal Accusamus', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (109, 'Tas Ransel Saepe', 'Desain modern', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (110, 'Topi Baseball Necessitatibus', 'Tahan lama', 'perkasa91@outlook.com');
+                         VALUES (110, 'Celana Jeans Iure', 'Nyaman dipakai', 'umar49@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (111, 'Dress Midi Occaecati', 'Tahan lama', 'dimaz63@outlook.com');
+                         VALUES (111, 'Kemeja Formal Quae', 'Desain modern', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (112, 'Topi Baseball Ullam', 'Produk berkualitas tinggi', 'budi58@gmail.com');
+                         VALUES (112, 'Celana Jeans Veritatis', 'Produk berkualitas tinggi', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (113, 'Kaos Polos Quia', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (113, 'Tas Ransel Modi', 'Tahan lama', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (114, 'Kemeja Formal Placeat', 'Produk berkualitas tinggi', 'umay10@aol.com');
+                         VALUES (114, 'Kemeja Formal Cumque', 'Produk berkualitas tinggi', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (115, 'Celana Jeans Blanditiis', 'Nyaman dipakai', 'harsanto74@mail.com');
+                         VALUES (115, 'Celana Jeans Natus', 'Desain modern', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (116, 'Tas Ransel Voluptatum', 'Nyaman dipakai', 'harsanto74@mail.com');
+                         VALUES (116, 'Sepatu Sneakers Illo', 'Tahan lama', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (117, 'Kemeja Formal Inventore', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (117, 'Tas Ransel Veniam', 'Nyaman dipakai', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (118, 'Kaos Polos Ab', 'Produk berkualitas tinggi', 'iriana68@yahoo.com');
+                         VALUES (118, 'Jaket Hoodie Veritatis', 'Tahan lama', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (119, 'Tas Ransel Consequuntur', 'Desain modern', 'salman90@protonmail.com');
+                         VALUES (119, 'Jaket Hoodie Nobis', 'Desain modern', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (120, 'Celana Jeans Cupiditate', 'Desain modern', 'oskar15@aol.com');
+                         VALUES (120, 'Tas Ransel Alias', 'Produk berkualitas tinggi', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (121, 'Jaket Hoodie Iure', 'Produk berkualitas tinggi', 'danuja30@yahoo.com');
+                         VALUES (121, 'Topi Baseball Assumenda', 'Produk berkualitas tinggi', 'umi33@outlook.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (122, 'Kemeja Formal Expedita', 'Produk berkualitas tinggi', 'iriana68@yahoo.com');
+                         VALUES (122, 'Dress Midi In', 'Produk berkualitas tinggi', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (123, 'Dress Midi Voluptas', 'Desain modern', 'lulut53@aol.com');
+                         VALUES (123, 'Jaket Hoodie Dolorem', 'Nyaman dipakai', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (124, 'Dress Midi Asperiores', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (124, 'Jaket Hoodie Ipsum', 'Desain modern', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (125, 'Dress Midi Ipsum', 'Desain modern', 'sakura70@aol.com');
+                         VALUES (125, 'Sepatu Sneakers Architecto', 'Desain modern', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (126, 'Celana Jeans At', 'Produk berkualitas tinggi', 'jamalia36@aol.com');
+                         VALUES (126, 'Kemeja Formal Asperiores', 'Nyaman dipakai', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (127, 'Jaket Hoodie Culpa', 'Tahan lama', 'ivan20@gmail.com');
+                         VALUES (127, 'Kemeja Formal Aliquid', 'Desain modern', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (128, 'Topi Baseball Laudantium', 'Desain modern', 'danuja30@yahoo.com');
+                         VALUES (128, 'Celana Jeans Illum', 'Nyaman dipakai', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (129, 'Celana Jeans At', 'Desain modern', 'jamalia36@aol.com');
+                         VALUES (129, 'Celana Jeans Sit', 'Tahan lama', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (130, 'Sepatu Sneakers Veritatis', 'Nyaman dipakai', 'budi58@gmail.com');
+                         VALUES (130, 'Kemeja Formal Consectetur', 'Produk berkualitas tinggi', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (131, 'Sepatu Sneakers Iure', 'Tahan lama', 'puji19@gmail.com');
+                         VALUES (131, 'Kemeja Formal Quis', 'Desain modern', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (132, 'Sepatu Sneakers Totam', 'Desain modern', 'perkasa91@outlook.com');
+                         VALUES (132, 'Kaos Polos Culpa', 'Produk berkualitas tinggi', 'hairyanto16@aol.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (133, 'Dress Midi Natus', 'Produk berkualitas tinggi', 'salman90@protonmail.com');
+                         VALUES (133, 'Dress Midi Doloremque', 'Tahan lama', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (134, 'Topi Baseball Facere', 'Nyaman dipakai', 'nadia54@gmail.com');
+                         VALUES (134, 'Dress Midi Expedita', 'Nyaman dipakai', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (135, 'Kemeja Formal Reiciendis', 'Nyaman dipakai', 'oskar15@aol.com');
+                         VALUES (135, 'Topi Baseball Tenetur', 'Nyaman dipakai', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (136, 'Dress Midi Corrupti', 'Produk berkualitas tinggi', 'lulut53@aol.com');
+                         VALUES (136, 'Kemeja Formal Nihil', 'Desain modern', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (137, 'Topi Baseball Illum', 'Desain modern', 'harsanto74@mail.com');
+                         VALUES (137, 'Sepatu Sneakers Nostrum', 'Produk berkualitas tinggi', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (138, 'Tas Ransel Saepe', 'Tahan lama', 'ivan20@gmail.com');
+                         VALUES (138, 'Dress Midi Quibusdam', 'Tahan lama', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (139, 'Dress Midi Cum', 'Desain modern', 'puji19@gmail.com');
+                         VALUES (139, 'Topi Baseball Omnis', 'Tahan lama', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (140, 'Tas Ransel Laboriosam', 'Nyaman dipakai', 'zulaikha2@outlook.com');
+                         VALUES (140, 'Kemeja Formal Eveniet', 'Produk berkualitas tinggi', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (141, 'Celana Jeans Nam', 'Produk berkualitas tinggi', 'oskar15@aol.com');
+                         VALUES (141, 'Kaos Polos Beatae', 'Produk berkualitas tinggi', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (142, 'Tas Ransel Accusantium', 'Produk berkualitas tinggi', 'ivan20@gmail.com');
+                         VALUES (142, 'Tas Ransel Similique', 'Nyaman dipakai', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (143, 'Celana Jeans Culpa', 'Tahan lama', 'harsanto74@mail.com');
+                         VALUES (143, 'Tas Ransel Recusandae', 'Nyaman dipakai', 'ophelia59@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (144, 'Kaos Polos Eos', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (144, 'Celana Jeans Aliquam', 'Desain modern', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (145, 'Dress Midi Ea', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (145, 'Kaos Polos Excepturi', 'Desain modern', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (146, 'Jaket Hoodie Nobis', 'Produk berkualitas tinggi', 'iriana68@yahoo.com');
+                         VALUES (146, 'Kaos Polos Exercitationem', 'Desain modern', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (147, 'Kaos Polos Vitae', 'Produk berkualitas tinggi', 'oskar15@aol.com');
+                         VALUES (147, 'Kemeja Formal Voluptates', 'Produk berkualitas tinggi', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (148, 'Kaos Polos Amet', 'Desain modern', 'jamalia36@aol.com');
+                         VALUES (148, 'Topi Baseball Quod', 'Tahan lama', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (149, 'Dress Midi Asperiores', 'Desain modern', 'harsanto74@mail.com');
+                         VALUES (149, 'Topi Baseball Ducimus', 'Nyaman dipakai', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (150, 'Dress Midi Error', 'Nyaman dipakai', 'umay10@aol.com');
+                         VALUES (150, 'Kemeja Formal Fuga', 'Desain modern', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (151, 'Sepatu Sneakers Ab', 'Nyaman dipakai', 'oskar15@aol.com');
+                         VALUES (151, 'Kaos Polos Quibusdam', 'Nyaman dipakai', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (152, 'Tas Ransel Rem', 'Nyaman dipakai', 'danuja30@yahoo.com');
+                         VALUES (152, 'Sepatu Sneakers Illo', 'Produk berkualitas tinggi', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (153, 'Topi Baseball Iusto', 'Produk berkualitas tinggi', 'zulaikha2@outlook.com');
+                         VALUES (153, 'Kaos Polos Atque', 'Produk berkualitas tinggi', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (154, 'Celana Jeans Laudantium', 'Desain modern', 'harsanto74@mail.com');
+                         VALUES (154, 'Kemeja Formal Occaecati', 'Produk berkualitas tinggi', 'naradi89@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (155, 'Kaos Polos Veniam', 'Produk berkualitas tinggi', 'salman90@protonmail.com');
+                         VALUES (155, 'Jaket Hoodie Nam', 'Produk berkualitas tinggi', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (156, 'Tas Ransel Dolor', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (156, 'Kemeja Formal Numquam', 'Tahan lama', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (157, 'Celana Jeans At', 'Produk berkualitas tinggi', 'salman90@protonmail.com');
+                         VALUES (157, 'Topi Baseball Hic', 'Desain modern', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (158, 'Topi Baseball Cum', 'Tahan lama', 'salman90@protonmail.com');
+                         VALUES (158, 'Dress Midi Sapiente', 'Tahan lama', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (159, 'Dress Midi Illum', 'Produk berkualitas tinggi', 'puji19@gmail.com');
+                         VALUES (159, 'Kaos Polos Repudiandae', 'Produk berkualitas tinggi', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (160, 'Kaos Polos Sint', 'Nyaman dipakai', 'ivan20@gmail.com');
+                         VALUES (160, 'Kaos Polos Illum', 'Nyaman dipakai', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (161, 'Celana Jeans Laborum', 'Produk berkualitas tinggi', 'salman90@protonmail.com');
+                         VALUES (161, 'Dress Midi Praesentium', 'Nyaman dipakai', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (162, 'Kaos Polos Laboriosam', 'Nyaman dipakai', 'ivan20@gmail.com');
+                         VALUES (162, 'Jaket Hoodie Unde', 'Nyaman dipakai', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (163, 'Sepatu Sneakers Totam', 'Produk berkualitas tinggi', 'budi58@gmail.com');
+                         VALUES (163, 'Jaket Hoodie Molestias', 'Produk berkualitas tinggi', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (164, 'Dress Midi Quod', 'Desain modern', 'nadia54@gmail.com');
+                         VALUES (164, 'Topi Baseball Earum', 'Desain modern', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (165, 'Celana Jeans Alias', 'Tahan lama', 'heryanto85@mail.com');
+                         VALUES (165, 'Jaket Hoodie Fugit', 'Tahan lama', 'kani82@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (166, 'Tas Ransel Facere', 'Nyaman dipakai', 'salman90@protonmail.com');
+                         VALUES (166, 'Tas Ransel Totam', 'Nyaman dipakai', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (167, 'Celana Jeans Et', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (167, 'Kemeja Formal Ab', 'Desain modern', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (168, 'Celana Jeans Deleniti', 'Tahan lama', 'nadia54@gmail.com');
+                         VALUES (168, 'Topi Baseball Quo', 'Produk berkualitas tinggi', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (169, 'Sepatu Sneakers Sit', 'Desain modern', 'zulaikha2@outlook.com');
+                         VALUES (169, 'Celana Jeans Exercitationem', 'Tahan lama', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (170, 'Sepatu Sneakers Dolores', 'Nyaman dipakai', 'budi58@gmail.com');
+                         VALUES (170, 'Jaket Hoodie Veritatis', 'Nyaman dipakai', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (171, 'Sepatu Sneakers Eaque', 'Tahan lama', 'puji19@gmail.com');
+                         VALUES (171, 'Kemeja Formal Dicta', 'Nyaman dipakai', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (172, 'Sepatu Sneakers Adipisci', 'Produk berkualitas tinggi', 'danuja30@yahoo.com');
+                         VALUES (172, 'Tas Ransel Tempore', 'Tahan lama', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (173, 'Kemeja Formal Eius', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (173, 'Kaos Polos Facilis', 'Tahan lama', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (174, 'Sepatu Sneakers Quo', 'Tahan lama', 'puji19@gmail.com');
+                         VALUES (174, 'Dress Midi Nulla', 'Produk berkualitas tinggi', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (175, 'Celana Jeans Nesciunt', 'Produk berkualitas tinggi', 'sakura70@aol.com');
+                         VALUES (175, 'Dress Midi Tempore', 'Nyaman dipakai', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (176, 'Kemeja Formal Magni', 'Desain modern', 'dimaz63@outlook.com');
+                         VALUES (176, 'Dress Midi Fuga', 'Produk berkualitas tinggi', 'luis86@protonmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (177, 'Dress Midi Labore', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (177, 'Topi Baseball Labore', 'Produk berkualitas tinggi', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (178, 'Celana Jeans Facere', 'Tahan lama', 'sakura70@aol.com');
+                         VALUES (178, 'Jaket Hoodie Sunt', 'Nyaman dipakai', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (179, 'Celana Jeans Veritatis', 'Tahan lama', 'sakura70@aol.com');
+                         VALUES (179, 'Celana Jeans Nihil', 'Desain modern', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (180, 'Kaos Polos Delectus', 'Nyaman dipakai', 'lulut53@aol.com');
+                         VALUES (180, 'Kaos Polos Quod', 'Nyaman dipakai', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (181, 'Celana Jeans Nostrum', 'Tahan lama', 'lulut53@aol.com');
+                         VALUES (181, 'Topi Baseball Culpa', 'Tahan lama', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (182, 'Dress Midi Architecto', 'Desain modern', 'umay10@aol.com');
+                         VALUES (182, 'Sepatu Sneakers Sed', 'Tahan lama', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (183, 'Kemeja Formal Voluptatem', 'Produk berkualitas tinggi', 'ivan20@gmail.com');
+                         VALUES (183, 'Kemeja Formal Impedit', 'Tahan lama', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (184, 'Tas Ransel Laudantium', 'Tahan lama', 'nadia54@gmail.com');
+                         VALUES (184, 'Sepatu Sneakers Illum', 'Produk berkualitas tinggi', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (185, 'Kemeja Formal Quis', 'Nyaman dipakai', 'umay10@aol.com');
+                         VALUES (185, 'Tas Ransel Quam', 'Tahan lama', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (186, 'Jaket Hoodie Porro', 'Tahan lama', 'dimaz63@outlook.com');
+                         VALUES (186, 'Dress Midi Dolorum', 'Nyaman dipakai', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (187, 'Celana Jeans Praesentium', 'Desain modern', 'budi58@gmail.com');
+                         VALUES (187, 'Kemeja Formal Illum', 'Desain modern', 'najib31@hotmail.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (188, 'Kemeja Formal Mollitia', 'Produk berkualitas tinggi', 'umay10@aol.com');
+                         VALUES (188, 'Topi Baseball Provident', 'Tahan lama', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (189, 'Kaos Polos Fuga', 'Tahan lama', 'umay10@aol.com');
+                         VALUES (189, 'Jaket Hoodie At', 'Nyaman dipakai', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (190, 'Topi Baseball Architecto', 'Nyaman dipakai', 'salman90@protonmail.com');
+                         VALUES (190, 'Celana Jeans Explicabo', 'Produk berkualitas tinggi', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (191, 'Jaket Hoodie Provident', 'Produk berkualitas tinggi', 'dimaz63@outlook.com');
+                         VALUES (191, 'Tas Ransel Repudiandae', 'Desain modern', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (192, 'Topi Baseball Nesciunt', 'Nyaman dipakai', 'perkasa91@outlook.com');
+                         VALUES (192, 'Kaos Polos Unde', 'Nyaman dipakai', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (193, 'Dress Midi Sit', 'Desain modern', 'umay10@aol.com');
+                         VALUES (193, 'Kemeja Formal Nihil', 'Tahan lama', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (194, 'Kaos Polos Aliquid', 'Desain modern', 'salman90@protonmail.com');
+                         VALUES (194, 'Dress Midi Praesentium', 'Nyaman dipakai', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (195, 'Tas Ransel Cupiditate', 'Produk berkualitas tinggi', 'oskar15@aol.com');
+                         VALUES (195, 'Celana Jeans Laborum', 'Nyaman dipakai', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (196, 'Kaos Polos Aspernatur', 'Tahan lama', 'sakura70@aol.com');
+                         VALUES (196, 'Kaos Polos Nihil', 'Nyaman dipakai', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (197, 'Kaos Polos Ipsam', 'Nyaman dipakai', 'nadia54@gmail.com');
+                         VALUES (197, 'Topi Baseball Dolorem', 'Tahan lama', 'talia73@yahoo.com');
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (198, 'Jaket Hoodie Deleniti', 'Desain modern', 'oskar15@aol.com');
-INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (199, 'Tas Ransel Officiis', 'Desain modern', 'lulut53@aol.com');
-INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
-                 VALUES (200, 'Dress Midi Veniam', 'Desain modern', 'umay10@aol.com');
+                         VALUES (198, 'Sepatu Sneakers Porro', 'Produk berkualitas tinggi', 'talia73@yahoo.com');
+-- Total produk: 198
 
 -- INSERT INTO gambar_produk
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (1, 'produk/6b3d0beb-513b-4b0d-afb8-47bd6e9c3223.jpg');
+                         VALUES (1, 'produk/e5124bfa-2793-4ccb-8d97-6d21c4586563.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (1, 'produk/1e4fba4a-3a2a-4661-ac2c-fdfca3780d6e.jpg');
+                         VALUES (2, 'produk/d28a3a40-fd41-4a81-8ee8-b412e4d05181.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (1, 'produk/3b72bd85-1054-4451-ab0d-5808c22dedc2.jpg');
+                         VALUES (2, 'produk/9ffb610f-02d3-49f5-86c3-1ada1c32f2ca.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (2, 'produk/75c40b7b-50e3-4d75-843b-ff76ecf6d648.jpg');
+                         VALUES (2, 'produk/1d0c362c-866e-4ab2-a207-7cf74cd789b4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (3, 'produk/a0be4fe3-0036-44ba-95a6-75b41ed57ae9.jpg');
+                         VALUES (3, 'produk/2bc7879a-c2b4-46e8-b282-e37ae72477f5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (3, 'produk/80b513e6-8229-4be9-879a-449e6da0c33d.jpg');
+                         VALUES (3, 'produk/a3e905f8-31c9-4250-ab5a-bd0ce142342d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (3, 'produk/efccacff-5a0a-4bc8-bac0-55e2143f08d7.jpg');
+                         VALUES (4, 'produk/eb11ed1e-19ca-4b34-9908-a8401a96f8c3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (4, 'produk/00cf86b6-7d47-41d0-9a67-6408c50c9be0.jpg');
+                         VALUES (4, 'produk/8ec8676a-fe6b-4905-9e5f-ba9c64f3f2e7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (4, 'produk/9376ba29-2a17-42c2-88fe-c887814ef42e.jpg');
+                         VALUES (4, 'produk/3b07111e-5039-40f8-8981-da1aa8048c9b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (5, 'produk/66a13b3d-0552-4b38-9c40-6ecbc1b56c92.jpg');
+                         VALUES (5, 'produk/6bc05012-ab36-4f24-af23-244f700ced73.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (6, 'produk/00a03aa9-4007-45e2-8d76-a0d3a829a531.jpg');
+                         VALUES (5, 'produk/df968aa5-5fc9-4661-bf1c-a7bd1e8b3a8f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (6, 'produk/4936217a-d7e6-4fc8-bf20-9bdebff90ce4.jpg');
+                         VALUES (6, 'produk/3a5dcfc3-7f2f-4379-8476-a371f36210a1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (7, 'produk/f10a0a74-c350-4ded-9103-bdc8e6542467.jpg');
+                         VALUES (6, 'produk/ddeefd43-f937-41d9-a477-e1896c9a8f24.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (8, 'produk/e05cc869-f7c8-4a04-a750-ec1987464034.jpg');
+                         VALUES (7, 'produk/32ce58e7-8098-4847-bb48-cc7bf8356c85.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (9, 'produk/b67d6947-d3bf-457f-8f50-7def4834b313.jpg');
+                         VALUES (7, 'produk/11430715-1df4-45da-9aff-1acf4b279cb2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (9, 'produk/910d3715-8d88-4adb-91cb-0129d1ae377c.jpg');
+                         VALUES (8, 'produk/9dd6a568-ddb1-4fef-b18d-453d97d1c3a5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (10, 'produk/cdceee8a-befd-4641-b074-fbde35b5b17b.jpg');
+                         VALUES (9, 'produk/21f033c1-4cc7-4d1b-8e28-91e501a3468c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (10, 'produk/61e653bb-42ed-4d65-a02a-54a03013463d.jpg');
+                         VALUES (10, 'produk/9a0e85c2-955b-4454-8e64-446c2c23b8fa.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (11, 'produk/8933916d-0253-46df-bd3d-d93825053b1a.jpg');
+                         VALUES (11, 'produk/2e660add-33dd-4abd-8ba7-ea69f17ec961.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (11, 'produk/b0223ba3-5520-45c7-89ff-b996b68934f7.jpg');
+                         VALUES (12, 'produk/abe5c3d2-542c-4d54-a000-c0f447c7538a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (11, 'produk/4dd1add3-307b-4708-a890-23ff3e530b9b.jpg');
+                         VALUES (12, 'produk/6b71d36a-2694-4eab-afcd-14301f50eff6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (12, 'produk/c448e1b5-7498-4a60-aba6-2c7b22bb7f86.jpg');
+                         VALUES (12, 'produk/3c6c577e-c717-435e-9b6b-0ce365f1f54b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (12, 'produk/72a315f2-96ec-4133-a59b-56e1ae1032c7.jpg');
+                         VALUES (13, 'produk/e0ea1f8a-6475-43f8-a7db-774bc51933e7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (12, 'produk/be1d2847-ab82-4401-bd0d-dcbf212d66b9.jpg');
+                         VALUES (13, 'produk/f349fd9a-a2d8-4573-88c8-84bb448afcd2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (13, 'produk/6790366a-a8d9-46f3-98a8-885be4b9a298.jpg');
+                         VALUES (14, 'produk/3babbca3-e61e-4ce3-bed1-d13712d04627.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (13, 'produk/2b19267e-caf4-4375-99bc-686310254424.jpg');
+                         VALUES (14, 'produk/9c97dc6b-6472-4ed6-b46f-6e072ce46497.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (14, 'produk/3b1dc61e-705d-403e-ac44-8a15e37a61e2.jpg');
+                         VALUES (14, 'produk/730ae57b-2f3f-44bc-acfd-83df32f9bdb9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (14, 'produk/6ba3f381-e182-469c-91c0-bdfa47974b0b.jpg');
+                         VALUES (15, 'produk/96c27cc3-f7d4-429c-8fb4-72b3dbf907c9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (14, 'produk/034e9518-0fa7-4ef3-82ca-e27e8c856edd.jpg');
+                         VALUES (15, 'produk/4dabaae9-96ac-4828-9574-eb1c15ca6aeb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (15, 'produk/7e5053e1-b24c-45df-8464-7b06429e1b3c.jpg');
+                         VALUES (16, 'produk/10621e4c-de2e-490b-b347-0364858f897f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (15, 'produk/fd4ecfa0-924a-4856-b3a2-c490cbb98bd8.jpg');
+                         VALUES (17, 'produk/b7a18a6d-0ce9-4aa3-b7eb-60a05959e205.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (15, 'produk/453aabae-3756-43f0-8b40-748c18534317.jpg');
+                         VALUES (17, 'produk/46018382-c0b6-47ed-91a6-cf79b4ba0e6e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (16, 'produk/842cb940-c1a0-4555-a15d-c702c37396c8.jpg');
+                         VALUES (17, 'produk/efd24220-3bf6-43b3-8a5b-d2d387e925a3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (16, 'produk/0b007c52-f327-46d3-91ad-f78a7d4dc14e.jpg');
+                         VALUES (18, 'produk/514d273c-defd-42bd-8455-572e00a2c32a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (16, 'produk/dcef2bb6-8cd7-4fab-a65d-58142d91f669.jpg');
+                         VALUES (18, 'produk/84cc37b1-93dd-48f5-9c46-3affb856c31d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (17, 'produk/e40d63fa-605e-4fd7-80ba-e81feb245665.jpg');
+                         VALUES (18, 'produk/c8f09b35-0d6a-4c37-bf59-3993f3f6f81b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (18, 'produk/aaef925c-ffd8-419c-9e7d-be6ec599287d.jpg');
+                         VALUES (19, 'produk/a1f7e9db-8cee-43ac-819c-d86ce899650a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (19, 'produk/72f7b332-b180-4466-b99e-0c9048aa0e8d.jpg');
+                         VALUES (20, 'produk/d8f23e15-4915-4cb7-8870-5034a190bee2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (19, 'produk/1dfbf19d-ab3e-4327-b6f7-ad47c1e43dd9.jpg');
+                         VALUES (20, 'produk/65ce5fe8-8378-490b-96d5-a8911c373f51.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (19, 'produk/405d0415-5839-4293-aeb1-ad31c7901112.jpg');
+                         VALUES (20, 'produk/d0872248-d3ee-4fdb-b9a4-66b22336fb9d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (20, 'produk/e2490bf5-4da4-4e29-bb2b-265b18e262a7.jpg');
+                         VALUES (21, 'produk/fa4af328-0f2c-47d9-9875-3177a7de42e7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (20, 'produk/e4570118-f9d8-4ab5-9f11-9d086b29af9e.jpg');
+                         VALUES (21, 'produk/b63d43cf-42b8-451d-a8c7-e59f8898bebc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (21, 'produk/8bbe412a-0912-46fb-aa15-fa1fd9c083de.jpg');
+                         VALUES (22, 'produk/d3fba470-2207-4b92-8bc6-67bbf6ab2bf3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (21, 'produk/60fae80e-e9f8-450b-b031-a3886a15f046.jpg');
+                         VALUES (22, 'produk/19e6d271-3c4f-4908-8096-dc6986003a35.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (22, 'produk/e2fa6a65-8c40-48dd-80a5-051a933ed59f.jpg');
+                         VALUES (22, 'produk/4e03551a-941b-422d-9aa3-2a3559b5a2e3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (22, 'produk/f0649ebf-5859-41c6-94bb-b37969093560.jpg');
+                         VALUES (23, 'produk/1a4e2563-853b-4293-9cbf-e4378c991ffa.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (22, 'produk/6817c89e-78cc-4ab7-b0ef-d33e4fddecf5.jpg');
+                         VALUES (23, 'produk/ce5951dd-3bc0-46ee-95ac-8aff7d81edd2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (23, 'produk/c3bf2712-0dc0-45fb-8542-ef4f6539dbe3.jpg');
+                         VALUES (24, 'produk/b6a8b614-ac74-436b-b5d3-bd0b5ed47f25.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (23, 'produk/67087841-5fdd-4aee-bb5d-ecb76b74c323.jpg');
+                         VALUES (24, 'produk/88b0519d-4ffb-475a-93f3-4f1883e93544.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (23, 'produk/dba97e79-edab-48c9-9ff6-262612fa5116.jpg');
+                         VALUES (25, 'produk/4fee374f-0ebe-4bf5-beb6-cbec563ed2a2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (24, 'produk/5ef55c12-88ff-4422-915f-2df7fac27b31.jpg');
+                         VALUES (26, 'produk/a4f741b4-c8b7-4927-93b1-3f7fb6b8b586.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (24, 'produk/f1733550-3f3d-40a1-b1d2-f84c1e75c804.jpg');
+                         VALUES (26, 'produk/011addf2-ec4f-4d83-89ea-e47dc35deb76.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (25, 'produk/25cc6054-8876-422d-9d5f-1e389598784b.jpg');
+                         VALUES (26, 'produk/b9e0999e-c49f-40e8-b810-57c599eb62cc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (26, 'produk/1b436961-8b0f-4cc3-bb45-5615a1fa51bd.jpg');
+                         VALUES (27, 'produk/345a9302-b99a-451c-a2e6-d20e27c7f8fe.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (26, 'produk/5a13ea35-b611-4e49-be5b-092d8b5981c3.jpg');
+                         VALUES (27, 'produk/b322e2a0-7a4c-44d8-900b-69925622e072.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (26, 'produk/b2ad0c2c-788d-4db9-98ab-aa8db6049dd9.jpg');
+                         VALUES (27, 'produk/4f7a7d8c-a2fd-4847-aa50-7f2643999619.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (27, 'produk/2e958646-bcc6-4def-ac58-dd30da0074dd.jpg');
+                         VALUES (28, 'produk/929a3840-e284-4356-9a07-c3c30dcd93ed.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (27, 'produk/43aa23d6-8613-43c4-9a39-03f8394f1341.jpg');
+                         VALUES (28, 'produk/0b4f3d2f-84a0-4f18-8686-f9af2878aa56.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (27, 'produk/1afd2700-4abb-4c52-9da7-4f843ff87cad.jpg');
+                         VALUES (29, 'produk/95c16541-fafe-4b33-ae91-5962ff620ed0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (28, 'produk/ebb133d2-0ea3-455c-be67-f9ef3368564f.jpg');
+                         VALUES (29, 'produk/c9a0b678-077d-479e-a7d6-b2bef20ed698.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (28, 'produk/d8d4f0e7-ccae-4fac-a6ce-6ebc7590d135.jpg');
+                         VALUES (30, 'produk/49489c9f-9ff8-4284-a21c-99d86db85dee.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (28, 'produk/d3fe37bc-cd9c-49c8-a6d9-df4cdb9de248.jpg');
+                         VALUES (30, 'produk/d25a4750-1130-4d3f-8d2b-f34975a6edbe.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (29, 'produk/de3df528-a27c-459d-b8b5-022c8ab38d4b.jpg');
+                         VALUES (31, 'produk/9d3ccbf3-4ead-4341-b269-7330ce5f8359.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (30, 'produk/d8a7b2bf-73d2-45cf-ba92-5157e85f031e.jpg');
+                         VALUES (32, 'produk/a58e5939-6c05-4075-ab92-386fa274bac6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (31, 'produk/2a9cac58-4e6c-4cb7-a308-4ad0065e92fd.jpg');
+                         VALUES (32, 'produk/baf62ec8-8b4b-4b87-9169-705a68e22b96.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (32, 'produk/054b5842-f7e5-48aa-8398-31ed7974cec0.jpg');
+                         VALUES (32, 'produk/d1449c54-72a3-416a-821b-26b25783322a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (32, 'produk/67559856-b902-4ecb-b3e6-8e67d334ce65.jpg');
+                         VALUES (33, 'produk/55513c54-4ccc-499c-ad50-e4ec63760198.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (33, 'produk/518550aa-89ef-4a5f-95a0-0ff9ce215592.jpg');
+                         VALUES (34, 'produk/2af1ffef-e1e8-474b-9264-9c9a9b9da1c6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (33, 'produk/b78a6c4f-9b27-4e1e-8b79-8096534b5513.jpg');
+                         VALUES (34, 'produk/62498453-0bdc-4ed7-b493-4deda8bd2997.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (33, 'produk/f7133d8d-616a-40b5-afdb-d8600576324d.jpg');
+                         VALUES (35, 'produk/f1917791-c3aa-4bf6-b5b5-e52d410c9dd4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (34, 'produk/12b49a96-ae68-4011-87cc-55133618eb56.jpg');
+                         VALUES (35, 'produk/735cf8ac-f49b-4111-95bd-1887636c0874.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (34, 'produk/e70b212a-3d56-472c-b73e-7e4c4afcb70e.jpg');
+                         VALUES (35, 'produk/5487d925-c5ae-42fc-a27f-fe93d6340de1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (34, 'produk/82c3cbb5-b54f-4451-bcf8-5e298ae8c4cf.jpg');
+                         VALUES (36, 'produk/9ac3e296-31a9-48a3-a80d-bac3cc60bcbb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (35, 'produk/71de2685-32a5-4b8c-ac3f-4dd30e491ba7.jpg');
+                         VALUES (36, 'produk/0c323df7-1556-47ed-aa80-1aca5873f915.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (35, 'produk/1408bd89-0369-424e-9198-ab9f50ec9b64.jpg');
+                         VALUES (37, 'produk/0dc846ad-3c31-42e7-848d-426a644951e3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (35, 'produk/b08da85b-9bdf-4961-ba5c-f9583f6acca3.jpg');
+                         VALUES (38, 'produk/f6d03285-1c8a-469a-8b0a-672a1a658add.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (36, 'produk/7bdd9549-204d-4649-872c-cb5af7dc9ce2.jpg');
+                         VALUES (39, 'produk/5003a6b3-7d8c-4d66-9243-da22c07a8e6b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (37, 'produk/5bf96af9-3a11-413c-a551-d9c671123251.jpg');
+                         VALUES (39, 'produk/4483fc80-e1e3-4816-80cf-dcb4cbe04368.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (37, 'produk/3a2c5aa5-e22a-4beb-89f8-5ffae9f4a387.jpg');
+                         VALUES (40, 'produk/6256fc16-9478-46f4-817c-635c218e22f2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (37, 'produk/19df8f53-381c-4e67-870e-701c628348bd.jpg');
+                         VALUES (41, 'produk/2c09b334-6295-4791-88fb-ce30db7f88de.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (38, 'produk/3b1ece0e-eaaa-47fc-bca7-53d53e72486f.jpg');
+                         VALUES (41, 'produk/de058424-5f21-4a2d-b96c-937e8eeec97b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (38, 'produk/02e5a2c1-f40d-44b8-bf2e-e565174a4386.jpg');
+                         VALUES (41, 'produk/76b13c0a-7960-4a49-9e32-15377457ba52.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (38, 'produk/da93c451-f332-4d62-85b0-9b8f718a4923.jpg');
+                         VALUES (42, 'produk/9ac7e771-ca5b-4fb7-81b6-fa03025a1280.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (39, 'produk/0a246bfc-11bb-4092-8767-6136c0dd2a17.jpg');
+                         VALUES (42, 'produk/a8a47b6f-5d69-4a77-94a7-0d94c7ca2f30.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (40, 'produk/11766e7d-5d0b-49fa-a51d-f9ef69e40306.jpg');
+                         VALUES (43, 'produk/b5bd45f9-8264-40fd-a7f3-cf5ed5057a69.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (40, 'produk/581a865f-5784-4d56-a57d-4efe412214cd.jpg');
+                         VALUES (43, 'produk/918d6d1e-bfa4-47b3-bc5d-ec1c0b18e89f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (40, 'produk/17513dea-818a-422b-953f-5fb4591cebd6.jpg');
+                         VALUES (44, 'produk/37a8dd72-5cfd-4011-aab1-2cb9c33b65bb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (41, 'produk/d32e4504-a86b-47bf-9283-709ad0646f1d.jpg');
+                         VALUES (44, 'produk/5e7a0bfd-6e8f-431a-9d47-4277777dc9e5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (42, 'produk/54b045b1-f567-4135-9e1f-b0a58a44535f.jpg');
+                         VALUES (45, 'produk/195ca7c5-d729-4033-8c24-6b3de63e5c99.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (42, 'produk/52d7dcf0-3710-41fa-8a4f-8464909bf59e.jpg');
+                         VALUES (45, 'produk/e385d751-a7a7-4a70-9573-874c37874aa2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (42, 'produk/4413a96c-db60-45fc-a405-8f2ebb6e30b4.jpg');
+                         VALUES (46, 'produk/f50ec701-52f5-4699-a25b-c2d185072272.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (43, 'produk/9294be31-6e4b-49e1-9ee4-dd8589aef964.jpg');
+                         VALUES (46, 'produk/cbf725b5-53ce-471d-ac47-b3b4c6d9dfbc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (44, 'produk/c872b25a-c4d4-4b18-8421-faa6e38304e1.jpg');
+                         VALUES (46, 'produk/5e2f5a4d-005a-42ac-88dd-f2bb86d363f5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (45, 'produk/e05bc5d6-9c8e-40f7-a899-824f7b04500e.jpg');
+                         VALUES (47, 'produk/229c436b-ad4b-4bbe-97f3-1282535a59d3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (45, 'produk/e471ff7f-1658-4770-844d-bd22c5a0b3ce.jpg');
+                         VALUES (47, 'produk/29ae57f6-4a3a-4f42-a377-f597460a6ea7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (46, 'produk/053618ef-4aad-46db-938c-75403c0ad150.jpg');
+                         VALUES (48, 'produk/0fbc5444-5942-4378-9bb3-bb1333e12edf.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (47, 'produk/a8bb9a41-609b-4f5f-b091-753173d9eb70.jpg');
+                         VALUES (49, 'produk/46e49d8c-b8bf-460e-b24e-7dde6254e6eb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (47, 'produk/2e4359ea-8465-4abc-a395-4913b785da8a.jpg');
+                         VALUES (49, 'produk/9f0e647b-80dd-4a82-8147-80c538b19618.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (47, 'produk/26f8ec08-c2ba-4432-9434-062767bcc43f.jpg');
+                         VALUES (50, 'produk/645d3b4f-7b10-4996-8009-05087ba27e33.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (48, 'produk/58a22c0f-9dcf-41a6-99d9-e15baa4a126e.jpg');
+                         VALUES (51, 'produk/ede9bfdb-072f-4626-9c04-e724026f02ab.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (48, 'produk/b5f98b34-0d25-4831-99e4-8bc3dea369c3.jpg');
+                         VALUES (52, 'produk/aa573004-7664-4a69-b6e7-e9dd77c5bc09.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (48, 'produk/f7150968-57d4-4a8c-be62-80eecc572b3f.jpg');
+                         VALUES (52, 'produk/02d0e038-1b93-41f9-b525-aeddb3c973ee.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (49, 'produk/ac2290c8-7f70-4b26-a382-d935a113f012.jpg');
+                         VALUES (52, 'produk/d228f895-d952-4d80-a13b-de04b0042c87.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (49, 'produk/f051439e-0f00-4756-baae-d15edb4a1e11.jpg');
+                         VALUES (53, 'produk/95965a25-a4c2-44d6-8a60-c825dccd2a0a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (49, 'produk/e556afd8-29d3-48bd-b521-a5e43c8352e0.jpg');
+                         VALUES (53, 'produk/27f1271b-74ef-41f5-9fe4-8b2ef12dbb93.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (50, 'produk/d8478e4e-0b53-4b55-af56-1fd4ee1308d1.jpg');
+                         VALUES (53, 'produk/8c401971-93b8-4e82-9d13-d436c24ca057.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (50, 'produk/7ba58425-3e3e-46e0-bb3f-9ada84fa8e26.jpg');
+                         VALUES (54, 'produk/77184e2c-4843-4e19-a2ca-732c4bfccac6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (51, 'produk/22ef90fb-2763-4088-adbf-9f3acbc5c1fe.jpg');
+                         VALUES (54, 'produk/6c411310-f9fc-4610-afd8-21b8e81d3bf5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (51, 'produk/bf563fc9-1882-4a05-8cae-aa62f91e8c07.jpg');
+                         VALUES (54, 'produk/c2640b36-19bb-43e4-bb19-722e69f32f53.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (52, 'produk/05dbceef-1ff3-4220-9904-0b8578d3887c.jpg');
+                         VALUES (55, 'produk/f990b4d6-619b-41e9-aacd-909bc1fd5206.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (53, 'produk/2d4fcbc0-4e33-4f39-9566-20441ad5223a.jpg');
+                         VALUES (55, 'produk/b8977ddc-5b04-452a-961f-67bab637348b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (53, 'produk/c85cfa9c-f070-4abe-bbd4-9577272378c0.jpg');
+                         VALUES (56, 'produk/e97ae008-b56e-4872-b24c-a862022a4884.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (54, 'produk/3ea0e9a8-9012-44ed-9771-12fc29166f55.jpg');
+                         VALUES (57, 'produk/4a6a92bf-2839-4785-8b4d-b531f76e5a81.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (54, 'produk/ebdee061-fb13-407b-aa00-17e616b8de37.jpg');
+                         VALUES (58, 'produk/1af69a3a-5b5a-4d27-9fd2-d55de350b68f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (55, 'produk/254bafdb-73da-4699-84be-16cace14bcc9.jpg');
+                         VALUES (58, 'produk/eed265db-a3c9-4264-8a4a-971a949ee62c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (55, 'produk/1356afb2-53dd-4ba1-83d3-71c6e84793c8.jpg');
+                         VALUES (59, 'produk/71d6afff-6e4e-42be-a4e0-a017fc27ad93.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (56, 'produk/ef644f75-8e23-4596-89d5-09677423b951.jpg');
+                         VALUES (60, 'produk/7e52b351-7b7e-49bd-800e-d4737de34852.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (57, 'produk/f280a08a-fca8-4c51-b2b4-650b6362364e.jpg');
+                         VALUES (60, 'produk/0a9453f9-f132-4b6c-bc4f-d1cabf82bdd1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (57, 'produk/d1934180-92a7-4702-82f0-b273ceada503.jpg');
+                         VALUES (60, 'produk/b0277079-f762-40d5-b1cc-f7361c389d34.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (57, 'produk/dd746d34-ce6e-4855-90c6-9cbd29b93134.jpg');
+                         VALUES (61, 'produk/f3e81582-0860-422b-a291-b878fd858171.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (58, 'produk/fbac2a4b-1d56-4afd-b3bd-ff36f34439fa.jpg');
+                         VALUES (61, 'produk/cf048f42-5501-4024-ac60-80ab37623e46.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (58, 'produk/42b5e761-3a5a-4645-84ba-adc5378c4ab0.jpg');
+                         VALUES (61, 'produk/f904fb96-c136-4c88-89a6-14b1694ae62b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (58, 'produk/db7d3945-4867-43b5-8b9a-36b46b1adcfa.jpg');
+                         VALUES (62, 'produk/05e23e33-00bc-4eeb-ba90-6bd3ede90c03.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (59, 'produk/da481805-e032-4e25-acd4-c97202ad6427.jpg');
+                         VALUES (62, 'produk/6d7fb760-91a1-4cd9-863c-b7ab5fbd0260.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (60, 'produk/9b1c639b-d8a6-4ad9-a98e-b13619fd685f.jpg');
+                         VALUES (63, 'produk/52ddb44d-e7e7-4665-8f48-14635dc414bf.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (60, 'produk/aec318af-68e5-4f71-9c08-715fd674828d.jpg');
+                         VALUES (64, 'produk/8090ed8b-3e93-463f-a579-648c6f2d1eb1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (60, 'produk/75bcebee-94e3-438d-8c3b-277263975869.jpg');
+                         VALUES (64, 'produk/7f57fe38-27c6-4b14-b62f-8ea4fb766b5d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (61, 'produk/3a5c3762-af65-47ce-86c6-893f7531cde9.jpg');
+                         VALUES (64, 'produk/6d7ddbbc-c79e-4e42-becd-c24566e514af.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (61, 'produk/1e34f5fd-2152-4785-897b-8a960b5f70bd.jpg');
+                         VALUES (65, 'produk/cf7f9d80-4f61-45df-abca-a156ad729bb0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (62, 'produk/d630ace8-b9bf-4c2f-bd67-56fa1ebc6096.jpg');
+                         VALUES (66, 'produk/6b97dca1-cf4e-4866-bd42-130d311459bb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (63, 'produk/0d78bcdc-3399-49fe-ae87-9ff8624255a2.jpg');
+                         VALUES (67, 'produk/897eac78-3cf5-4e05-9765-fc1e276b485e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (63, 'produk/c164468f-7f32-41a3-9c59-3f2248daa5ce.jpg');
+                         VALUES (67, 'produk/865470f9-722e-44fa-8bf6-1fe187093c84.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (63, 'produk/a81d024c-f0a3-410a-9d01-09cfecae4baf.jpg');
+                         VALUES (67, 'produk/fb3a9118-b3ea-497c-b155-d990b79d2ec0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (64, 'produk/d339e4b4-0540-41bd-b7f1-e619d93d9340.jpg');
+                         VALUES (68, 'produk/b103535f-c0d4-4af3-8ab1-8121499b2ab3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (64, 'produk/2bca59be-8121-4d9f-a937-6dbc558a52ba.jpg');
+                         VALUES (69, 'produk/bd7dd242-a1c0-4562-840f-75543121a105.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (64, 'produk/6dcd5030-d70a-47cf-be42-07649d500b79.jpg');
+                         VALUES (70, 'produk/02f78f03-f15c-4c2b-ac53-f542258be8bd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (65, 'produk/a407b313-bd6d-413a-9717-e5312d3985bd.jpg');
+                         VALUES (71, 'produk/488bbe35-dc25-4846-bffe-124bad170ff0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (65, 'produk/44145637-4222-4ce0-9e2d-5146369938af.jpg');
+                         VALUES (71, 'produk/ff446716-cc0b-4810-a62d-a33509dac635.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (66, 'produk/c25ded2a-ae83-473b-81a3-9b5636673421.jpg');
+                         VALUES (71, 'produk/4b8c0a0c-097a-4296-a319-e5e565685a5a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (67, 'produk/49f60515-cef9-4cb3-8a0e-6d645a0a8df4.jpg');
+                         VALUES (72, 'produk/88310c75-d4d6-4ae7-979f-a8f865e0557f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (68, 'produk/505d4ba5-0739-4bb7-a2c4-ac8e0e63680a.jpg');
+                         VALUES (73, 'produk/4538e07e-6a9a-476d-923a-e311eacd04e4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (69, 'produk/b69ff2c5-8521-4d0a-bc61-fdd21492d3c6.jpg');
+                         VALUES (74, 'produk/29e16abd-e809-4d14-8601-47fe22859f31.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (69, 'produk/ef171ef7-ce17-4e9c-a5c1-0a9bb7422ac7.jpg');
+                         VALUES (74, 'produk/771f0f11-8330-49c8-81c8-2b03eee8ae33.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (69, 'produk/7e75f4cf-7238-4224-b54d-65a133e24adf.jpg');
+                         VALUES (75, 'produk/21e3c200-8f62-4539-977b-4fdd8e5e9fe4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (70, 'produk/e062bf4b-92f2-47bf-8908-e4ab98385b60.jpg');
+                         VALUES (75, 'produk/4f14405b-a69a-4008-98df-1ec45831fa23.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (70, 'produk/8ee39bcd-6001-4d3b-b1d1-6cc6cebedc08.jpg');
+                         VALUES (75, 'produk/a7d32aeb-274b-4764-961e-9f6a278509d7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (71, 'produk/04b9ac0d-afc8-46c0-940a-1515de2bc67b.jpg');
+                         VALUES (76, 'produk/b17697a4-1235-4b3f-a37e-87227011293b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (72, 'produk/d82f6297-f825-4dc2-ba87-0924455fcb1c.jpg');
+                         VALUES (76, 'produk/0dc837d5-1058-48b8-926c-4860d2742933.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (73, 'produk/907a4253-e348-4012-803e-c63d4505694a.jpg');
+                         VALUES (77, 'produk/ae22ddd3-307c-4070-97d0-2d82a39b21f5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (73, 'produk/354378c4-4a1f-4f7d-8af2-6de16b53c6e6.jpg');
+                         VALUES (77, 'produk/6ec28c3a-ee05-41ef-a02e-a9cde96696b9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (73, 'produk/1ba10637-90b6-4ae7-8ee1-918b101049be.jpg');
+                         VALUES (77, 'produk/b519e6a1-0ce6-4cea-91a2-61b231fa3c3a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (74, 'produk/f88bbaa2-d1e0-4ddb-a7e1-ba10330fb3ba.jpg');
+                         VALUES (78, 'produk/dafa07e4-1db0-4434-9822-03566a988dcc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (74, 'produk/415de773-deaf-4821-9878-a057c1e107d5.jpg');
+                         VALUES (79, 'produk/e1838342-ed06-4184-ba7e-d5520967244f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (75, 'produk/88554f1c-9430-4d91-8089-cebc89d088f6.jpg');
+                         VALUES (80, 'produk/116d4520-b6b1-473f-82fe-56906df7a4e5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (75, 'produk/0a76915f-b4e5-4e05-a17d-83da3be491bc.jpg');
+                         VALUES (80, 'produk/0078a87a-035e-4bc9-a6d5-ad8356d72c20.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (76, 'produk/a33765f3-e4d8-4f65-aa6c-ccd68f1a3e89.jpg');
+                         VALUES (81, 'produk/684e0f59-f663-41f3-a422-d1249ff16dcf.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (76, 'produk/a52b09f9-0e35-4838-8cb0-0a98db43f314.jpg');
+                         VALUES (81, 'produk/9c9abfc4-2a12-4fb3-9f90-c6179ecb8cfc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (77, 'produk/9463a3d6-1d58-4bb0-ba6d-5c1f46affaaa.jpg');
+                         VALUES (82, 'produk/a586a857-5ee0-42d8-9c77-f30c5a83d110.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (77, 'produk/8d5025b1-9b10-4f85-a658-0a846b9c1c34.jpg');
+                         VALUES (82, 'produk/14edc8bd-2906-40bc-8dcf-55c7e08e7682.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (78, 'produk/353fce22-be1f-4a8b-8f15-0f90c7b6c64d.jpg');
+                         VALUES (82, 'produk/84dfc359-c068-483b-8578-6217ebe56b08.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (78, 'produk/93742077-bc30-4729-9cd6-c43856c8ff69.jpg');
+                         VALUES (83, 'produk/e784500e-c110-4438-b23e-b6421feff62b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (78, 'produk/d9b2f7d5-d764-4a71-89b5-0dd54978f44e.jpg');
+                         VALUES (83, 'produk/656b3a64-0d4f-4bb5-a171-0b03ad9d88dd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (79, 'produk/40a937ea-e51f-4ed7-be23-4565d36859f2.jpg');
+                         VALUES (84, 'produk/8f535ac0-6a13-4ac1-a69e-9ce82c624aa2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (79, 'produk/47c7b580-46d4-4c32-900f-7a6cfd27d31d.jpg');
+                         VALUES (84, 'produk/dcdc9441-2958-4fd0-8604-864e0c800bb2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (79, 'produk/2c2cdfbd-9b54-49a6-b69b-811580d11874.jpg');
+                         VALUES (84, 'produk/20c119a7-f2ba-4bc8-b72a-8717e5f93ec4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (80, 'produk/cab10fb9-d223-409e-84a8-a139d2f0c5d8.jpg');
+                         VALUES (85, 'produk/a42bbca5-d279-4789-a8b8-fd100dfc54dd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (81, 'produk/46fa3575-e43e-4edf-8a38-9563516e21d8.jpg');
+                         VALUES (85, 'produk/a58fcf50-8e6e-42c0-928c-346c00ba17f2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (82, 'produk/c0e0e600-d89e-47a6-9bf9-d65aa4935bb2.jpg');
+                         VALUES (86, 'produk/308f0eac-7613-4e9e-a67d-e0add21ac3c4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (83, 'produk/2793d00f-781c-4017-9d51-b66309cf0535.jpg');
+                         VALUES (86, 'produk/73cb27a5-403b-4344-b742-ba33046f91e9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (83, 'produk/9cc7e9a7-7464-4bef-8d8b-ddf00b57f31a.jpg');
+                         VALUES (87, 'produk/0b35776b-e207-42c7-b777-042697661666.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (84, 'produk/3d89312c-a8c4-46cb-81df-5f497779ee2c.jpg');
+                         VALUES (87, 'produk/99522237-2ac6-46d4-b46e-ab30c22b601b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (84, 'produk/0465a602-c280-4a02-abb7-f557978fec6b.jpg');
+                         VALUES (88, 'produk/8cc0fe91-b28c-4682-b0f4-df633344b53f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (85, 'produk/f8ac132e-4827-4bd2-875b-eab656268ad3.jpg');
+                         VALUES (89, 'produk/23b92ff4-8f01-40d4-85d7-7fcdda1a3a17.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (86, 'produk/8f2b75f8-9dea-43fe-b895-ae1df122098f.jpg');
+                         VALUES (89, 'produk/915f5430-aa72-42f0-adb4-694780967fa6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (86, 'produk/fefe50fd-a436-41be-a651-710ae5d04b60.jpg');
+                         VALUES (89, 'produk/731f1b00-1eb9-4219-8e0b-7a4e751e17de.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (86, 'produk/2741914d-f86a-48eb-b946-bc7d478d1e98.jpg');
+                         VALUES (90, 'produk/3d57cdd4-f428-4866-9823-9aea06c39b8f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (87, 'produk/1989f0dd-b6d7-414f-bba4-d52c227f3d77.jpg');
+                         VALUES (90, 'produk/f6620094-4988-4708-b163-766c73157b38.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (87, 'produk/8fde18c5-b14e-4c29-8b53-e55fa1051118.jpg');
+                         VALUES (90, 'produk/5bee6392-e1a6-44d1-b65e-657e81dcd7d1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (88, 'produk/b9ea63bf-abbd-4847-af0c-1154e7139665.jpg');
+                         VALUES (91, 'produk/a8221789-a7cd-43fc-bb07-c636acfca7f9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (88, 'produk/81aee4bc-45dc-4844-b293-4f71cf867604.jpg');
+                         VALUES (91, 'produk/7a36fbc2-2de9-41dc-a8c3-bb560f63e0e2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (89, 'produk/7d712d63-11fb-4cae-b575-04562bbe93d0.jpg');
+                         VALUES (91, 'produk/8a4aaa42-8b8d-42f1-913f-6f4cce0e5a26.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (89, 'produk/435ec659-94a6-4a29-8dd4-ef61e6d469af.jpg');
+                         VALUES (92, 'produk/4a20aeb1-d5f2-4ce8-b826-02f0ad75052b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (90, 'produk/89b7f616-c0c4-464b-a95e-ac024194b2f3.jpg');
+                         VALUES (93, 'produk/aad78a6e-6b1c-42bd-9de2-5d9aeb8a7609.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (91, 'produk/5e541cce-76c7-47c4-aead-af605c16fa75.jpg');
+                         VALUES (93, 'produk/50b66ab7-e16f-4c86-8db9-bb36cda8fd6a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (91, 'produk/e561df76-29a4-4cf0-a3df-2ba4982aeee2.jpg');
+                         VALUES (94, 'produk/588da288-0cf5-4a96-8a15-766882c24f6f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (91, 'produk/ec90184f-5684-49e2-9b6f-ecac3c915a6a.jpg');
+                         VALUES (95, 'produk/9bdcbde0-9ec9-41c7-aadc-0bf056ce648d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (92, 'produk/4aa39ddb-c3dc-4863-99ae-a6004697c573.jpg');
+                         VALUES (95, 'produk/dfbe37cb-c84e-46d5-b92c-15722061ce68.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (92, 'produk/895196ef-bc77-45ef-8a3e-c48cbea56897.jpg');
+                         VALUES (96, 'produk/d9e19d52-2c16-4ca3-8799-3677fd971a63.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (92, 'produk/2bb0656f-8a00-48b3-8840-e6e81a475906.jpg');
+                         VALUES (96, 'produk/073c23e9-ba8d-436c-8a06-add7287af660.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (93, 'produk/b1d616bc-e0fb-4bbc-a079-71f8fac7a18e.jpg');
+                         VALUES (97, 'produk/7c0a1153-25c5-46d0-897b-4090973b6fd6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (94, 'produk/eb3b6240-3ced-4047-b863-00734938cce3.jpg');
+                         VALUES (97, 'produk/171bf378-761d-4959-8768-fd9dfdfe26cc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (94, 'produk/9dcae312-ae65-4ca0-84ae-c71cb6c40218.jpg');
+                         VALUES (97, 'produk/dd4be552-5ba0-4a78-b961-98f507baffdb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (95, 'produk/6018442f-fa79-406e-bcac-3293f772ad90.jpg');
+                         VALUES (98, 'produk/15119e7b-25cd-4f9e-9c41-47aeb5f7afee.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (96, 'produk/4ece9d23-b0bf-403a-8261-ee33183dea40.jpg');
+                         VALUES (99, 'produk/bcd1b710-48ff-4735-b6c9-21042649d87b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (96, 'produk/fb4dffd9-a6ae-4861-a027-00958d8ab952.jpg');
+                         VALUES (100, 'produk/054f6ffb-63c0-42f3-a298-da1eb5641075.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (96, 'produk/77196476-c9ac-401e-9bb2-0d79c1f67d4d.jpg');
+                         VALUES (100, 'produk/5e912a2b-d1c8-4aa0-9a2f-83d3602238cf.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (97, 'produk/ddd2d34c-4a83-45bb-b0be-c8cbdaaa140c.jpg');
+                         VALUES (101, 'produk/78df4aad-b94d-4f3e-9224-add2bf7aacbd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (97, 'produk/1123e1fd-c77a-4663-9112-d1d57f57478c.jpg');
+                         VALUES (101, 'produk/68dbe783-f6a3-4ef1-a392-7336ad0dafc2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (97, 'produk/f88d09dc-50f9-4bfe-847d-b2c2dfb0eca2.jpg');
+                         VALUES (102, 'produk/6458194c-81cd-4971-b659-a28011adf579.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (98, 'produk/49c178ff-a949-4e31-bb6b-dc700ccab61b.jpg');
+                         VALUES (102, 'produk/0242926d-c3c3-4d6b-9df3-99b50eaf9ab5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (98, 'produk/ff6148ee-ea6b-492c-9a33-e48080dc5bd5.jpg');
+                         VALUES (103, 'produk/4c425451-3f99-471a-9420-b5f510122040.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (99, 'produk/c12a60ec-5301-4b40-82f2-7457d537d006.jpg');
+                         VALUES (103, 'produk/ad962bc3-658f-4705-9da2-2a68403c9570.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (99, 'produk/6dae028c-3a3c-4b77-9356-12ac739a27df.jpg');
+                         VALUES (103, 'produk/7fcaefcc-47bf-4315-b0f4-430482dfb090.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (99, 'produk/b1353230-59c3-4ded-9ef7-4c43c0d38fa5.jpg');
+                         VALUES (104, 'produk/72fde64e-9a7d-4d39-9240-7a994c6a7118.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (100, 'produk/bbd81429-45db-45eb-887a-e650b68e2e5f.jpg');
+                         VALUES (104, 'produk/46bac722-27ac-48d4-b114-e3b952a951ea.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (101, 'produk/5c1d7cfc-c24f-431e-bf6d-c60a17b672bb.jpg');
+                         VALUES (105, 'produk/ca8f0f1e-c668-489b-8c72-aa97a3bcb7b0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (102, 'produk/2834e43b-2d4a-42d1-82e5-6b0d7a78505a.jpg');
+                         VALUES (106, 'produk/a24ebd47-a10b-4bcc-992b-4c686e0fb605.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (103, 'produk/4fc0eb5f-5793-40bd-8cec-c68f0523082e.jpg');
+                         VALUES (106, 'produk/f0882493-141b-4d3b-b555-2dce71be0376.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (103, 'produk/64ee42b7-b8b1-42b6-b4c0-05c2ec02a8d6.jpg');
+                         VALUES (107, 'produk/f06d834a-e253-4bbd-9b2e-9cb459879ad6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (103, 'produk/f049225a-f54a-41ee-bf05-5202436ed6b9.jpg');
+                         VALUES (107, 'produk/5fbd7b43-6c01-4a28-bd8a-59d35bd295a2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (104, 'produk/a4c2fa59-9455-4f4d-a001-283b44d78d7f.jpg');
+                         VALUES (107, 'produk/a85ecd3d-2cd1-4032-b44a-0f2d895d9eb0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (104, 'produk/0788dd8a-4c41-4151-9258-47aeac749242.jpg');
+                         VALUES (108, 'produk/1b42a12c-a213-4349-8224-8feb8191e20b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (104, 'produk/f5223285-30a0-4a6e-b866-1ca522ae513c.jpg');
+                         VALUES (109, 'produk/234036f3-3ef0-4d05-8ff9-9ae758d95c3b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (105, 'produk/fb1f98af-2973-4e71-97ac-577e49e1fcf7.jpg');
+                         VALUES (110, 'produk/e02d7276-061d-4ed2-89cb-b114f9bf7752.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (106, 'produk/6517379c-09e7-4ce1-bc8a-f1ba059a1b9d.jpg');
+                         VALUES (110, 'produk/80673f75-ab62-47b6-931e-2a61ddc986c9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (106, 'produk/6250bd5c-2258-4225-b263-7eeaea091262.jpg');
+                         VALUES (111, 'produk/a18eaf9b-f611-460a-b388-7d7f13498a4a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (106, 'produk/bd572619-c619-4502-ba3c-914998bb503c.jpg');
+                         VALUES (112, 'produk/64e18543-ae70-4fd4-967f-86caea9ca9c8.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (107, 'produk/c1758d37-815b-459d-b902-1fbbb0fe00cf.jpg');
+                         VALUES (113, 'produk/4a6b58c7-3a48-4f1e-b4ee-213ed2d4a3f0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (107, 'produk/e4427db5-f7f5-44d7-a000-01a959fd9f87.jpg');
+                         VALUES (113, 'produk/e124041e-24fa-415e-82d6-ddef56b83ced.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (108, 'produk/3e7f27b7-41b8-452c-828f-aa277a03f21d.jpg');
+                         VALUES (114, 'produk/51006d85-4f48-466b-96b9-08184eb78767.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (108, 'produk/d2e9b4bd-c4c4-4bff-80f9-c32fffdf6c11.jpg');
+                         VALUES (114, 'produk/855f10c1-1c32-4900-a5dd-3052da3fe609.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (109, 'produk/3660a9a8-8d1f-4f79-99d2-a76e8690381b.jpg');
+                         VALUES (115, 'produk/3843f119-6ac7-4b2d-a801-c3075aaa0a6d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (110, 'produk/292a8844-a2c4-40ec-9f42-8343d786e13d.jpg');
+                         VALUES (115, 'produk/96d34cf1-f789-4ccd-a14c-87d3da81370b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (110, 'produk/0d195439-e240-4efe-b86a-f4d8cb516978.jpg');
+                         VALUES (116, 'produk/0ee7cc6e-909b-4c7c-bd33-9886195b8711.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (111, 'produk/48679d9e-3a9c-4109-b35d-41b499f2cab5.jpg');
+                         VALUES (116, 'produk/ae316d3c-08a9-4e85-a5df-7c7d3d8c6675.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (111, 'produk/eac8595c-ef15-4703-9e72-bc3bda7913e2.jpg');
+                         VALUES (116, 'produk/1a2ee1ea-18a3-408c-a3ee-1e76a135a6c7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (111, 'produk/c79409c6-96e3-48f3-8132-23bf7f4dcb31.jpg');
+                         VALUES (117, 'produk/56a59547-30ff-4764-8d8d-eafea09bcf29.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (112, 'produk/10de83c5-50be-4e15-895e-f39837b02bd3.jpg');
+                         VALUES (117, 'produk/f63e8b70-dd35-4165-bbf4-3e93df7fbebb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (112, 'produk/be8ac4eb-1630-431c-a0cd-ee901b8e9412.jpg');
+                         VALUES (118, 'produk/64165719-39c7-4d0a-b970-a659c375deaa.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (113, 'produk/5abcc44e-fa2a-473f-94c3-c3708576a11a.jpg');
+                         VALUES (118, 'produk/e98cddd8-89d1-439a-8d3e-9d07bbdf58fa.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (113, 'produk/d1c95b9a-63f2-4702-8673-5952dac0607d.jpg');
+                         VALUES (119, 'produk/a00ff5b8-1451-4715-be97-74b5816d4edc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (113, 'produk/41562ae4-289c-4b59-b391-93557db9989e.jpg');
+                         VALUES (119, 'produk/4dd63e79-c7fe-48a9-8bef-06d97eb1e1dd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (114, 'produk/916923f8-836f-4550-ab12-9798225906fb.jpg');
+                         VALUES (119, 'produk/aac11185-8b9a-45fe-a370-e8bb525b96e4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (114, 'produk/0036dc60-07a1-4ddd-81d9-3f5097481ade.jpg');
+                         VALUES (120, 'produk/f32a0f2d-ffa1-4c34-883f-3b9b47dfac40.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (115, 'produk/b940d9f6-4499-4983-9474-51dea21b4d86.jpg');
+                         VALUES (121, 'produk/e76e9f14-0982-40c1-80c2-6dfd37a03c40.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (116, 'produk/92dccb22-c1a6-403e-a483-abb8ce764425.jpg');
+                         VALUES (121, 'produk/e0014b13-c9d6-4b26-942f-e0d79f890092.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (117, 'produk/d6194fda-d2b9-405d-b3c1-a3a1ab6ffa70.jpg');
+                         VALUES (121, 'produk/05dccab1-6c35-4ed0-93dd-64aa34d97ecb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (117, 'produk/1806d9b2-56b8-4fe4-a424-348d49296f96.jpg');
+                         VALUES (122, 'produk/c402c6b4-75f4-49b7-b519-cb1c85c27fee.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (118, 'produk/77f83a78-ac82-4994-ba49-558cc2d9445a.jpg');
+                         VALUES (123, 'produk/fb029883-7ec3-4369-abca-e8ff1b998be1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (118, 'produk/6d2c520d-bca2-42a9-b72b-6987688bd889.jpg');
+                         VALUES (123, 'produk/eeafcf76-41dc-498f-8524-2bac5a892817.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (118, 'produk/681ad1ec-dc7d-4154-90e4-fd10a2bc9179.jpg');
+                         VALUES (123, 'produk/17602b6b-8207-4fd0-8be3-f25e6a804129.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (119, 'produk/0496bbaa-b847-411a-a09e-026cd4c610bb.jpg');
+                         VALUES (124, 'produk/f1494fdf-af4c-4686-a2de-04f81053e9bc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (119, 'produk/8cb69b79-bd7f-4dab-a146-d83f449997a5.jpg');
+                         VALUES (125, 'produk/e534cce9-bd9b-4d74-ae79-82b5c70e6387.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (120, 'produk/89ee2c22-c3cd-46a7-bc4a-e014e53b27b8.jpg');
+                         VALUES (125, 'produk/b7557fd8-95ce-46ef-9010-4597e2c93dd1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (121, 'produk/49191c44-623c-413a-9d6f-129f22d17da6.jpg');
+                         VALUES (125, 'produk/70e6e66f-bc13-4067-aab6-bbb7c103d382.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (121, 'produk/46346d0c-30e7-4391-a350-fc315a3dd185.jpg');
+                         VALUES (126, 'produk/8af350b4-1ef8-4e40-8bea-0ab9428ca7b4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (121, 'produk/7804cceb-a9e2-41cc-83d5-b6ac8a9d74df.jpg');
+                         VALUES (126, 'produk/90e0ca0e-6ce8-4d83-b311-563e692a592e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (122, 'produk/089793cc-b266-4c5d-9334-be48162e73fe.jpg');
+                         VALUES (126, 'produk/085b6d43-32ff-44ec-ad3b-7fe79dc02e25.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (123, 'produk/fd144ce7-1f85-476b-ab8b-ecc400fd7a5f.jpg');
+                         VALUES (127, 'produk/014e104b-9cb7-424e-8e69-2ad7650676aa.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (123, 'produk/1623545d-db20-4148-b33c-419ca8d2dbf8.jpg');
+                         VALUES (128, 'produk/3ecf8888-6b74-4504-a6e1-c623d6ea7672.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (123, 'produk/32e63869-b69e-48c6-a5f2-359aaae6d303.jpg');
+                         VALUES (129, 'produk/b6c5a84e-f12e-4aa8-9d79-6db2c888b0b1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (124, 'produk/0053d767-092c-4710-98e4-f9cb8e914b29.jpg');
+                         VALUES (129, 'produk/d67777e5-24e1-4485-9866-3bc74919be88.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (124, 'produk/4b97667f-9e22-4a86-b0da-d4f636f5ffe2.jpg');
+                         VALUES (130, 'produk/de9aa096-5743-464c-8505-c3c3e381e45e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (124, 'produk/268f4b12-7fb8-4b22-be82-34293a8ef275.jpg');
+                         VALUES (131, 'produk/932084e4-af6b-47d5-b70c-74b4d1125855.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (125, 'produk/f0bd1356-fc12-45ea-9535-b0f7714890d6.jpg');
+                         VALUES (131, 'produk/bd818623-f46e-40cb-bb57-92a5eade9b60.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (126, 'produk/bb510c08-dd0f-446f-a50c-a5e06db03267.jpg');
+                         VALUES (132, 'produk/955910b4-283b-450d-b0db-378215e53674.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (126, 'produk/773de2b8-3aca-42d1-a472-e18a4a50372a.jpg');
+                         VALUES (132, 'produk/efe9f530-13c7-4f04-8ffd-899c19a68edb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (127, 'produk/66d6d01c-18c2-4210-8828-f709b4e5f50e.jpg');
+                         VALUES (133, 'produk/73d06d01-1423-430f-a55a-8a2d4330d1b2.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (127, 'produk/1dd538ed-24a1-446e-a9c5-db0cfba677a8.jpg');
+                         VALUES (134, 'produk/a7388e7c-50ed-4752-863e-d24abacfd016.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (128, 'produk/f1385d3f-5573-46b7-9f7e-f8a5fe01d60a.jpg');
+                         VALUES (135, 'produk/727f1c38-fd04-4596-8eb2-236c2dd33c53.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (128, 'produk/df8d0dbc-fb80-4fd2-b83d-69ff307492b5.jpg');
+                         VALUES (135, 'produk/7a9e2285-e266-4cdb-8156-b95d17f5085f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (128, 'produk/296d6e81-7c9b-495f-a5f8-a963aa49fc9c.jpg');
+                         VALUES (135, 'produk/f9fb3434-ab17-4c70-8ed4-d3f581696a9f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (129, 'produk/31fbdafd-3adc-492a-b0a3-32d2dbd8c524.jpg');
+                         VALUES (136, 'produk/dbe2b24e-a0f4-41bc-927c-c693fb6f2256.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (129, 'produk/b8046e47-25e9-4b6c-976d-64f0cb104b53.jpg');
+                         VALUES (137, 'produk/fc96d36b-856c-408f-b619-b6b6ba844824.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (129, 'produk/715481ee-3e79-4f76-9669-87910309d992.jpg');
+                         VALUES (137, 'produk/7b7d1f14-bcd1-4392-8d99-bc5762f3ae53.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (130, 'produk/78fa9e92-1695-4da5-9cfd-cc4bc4796e0e.jpg');
+                         VALUES (138, 'produk/18959d39-ddfb-41f6-94e2-0e5fd96a6931.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (131, 'produk/6cde7ff9-89ad-4de3-a37b-62310b2308c5.jpg');
+                         VALUES (138, 'produk/e40c752a-ad42-4240-aff3-b3e1f49f1a81.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (131, 'produk/c76bfe0d-97b6-4201-ac15-728ca926c27a.jpg');
+                         VALUES (139, 'produk/a0655812-d714-4a44-92e6-b56b7af7bff3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (132, 'produk/3573a80e-04e8-4e52-95c8-6707f57f70be.jpg');
+                         VALUES (139, 'produk/8998cecf-eece-451d-bef2-b73de8d22627.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (132, 'produk/795f3337-a895-486a-a559-78c6d0b28cea.jpg');
+                         VALUES (139, 'produk/bb8fb3d2-68f0-4b9c-befb-6cbfeb170781.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (132, 'produk/d63fafd8-5ca5-470c-a8c2-bfa3a65229b3.jpg');
+                         VALUES (140, 'produk/cd99ba59-6118-4185-a231-ba5bad7ea2fd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (133, 'produk/6d330089-24d0-4ed7-8e76-172e8f28e402.jpg');
+                         VALUES (141, 'produk/f2f78479-165c-43be-9169-d9ab678ad75a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (134, 'produk/186a978a-89cb-44ec-babc-f2930cc7b04a.jpg');
+                         VALUES (141, 'produk/0d7e2021-db24-4613-8cf1-26ca26331e29.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (134, 'produk/7f2f0526-7aea-442a-bfb6-4b5dc905c0d4.jpg');
+                         VALUES (142, 'produk/66391a1f-5db6-46b8-be69-d84257c66d88.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (134, 'produk/91f8b1e2-f78a-4633-b8c0-daee6facbffe.jpg');
+                         VALUES (143, 'produk/1acb21b0-f671-40b0-87d5-f2f6beb4ea03.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (135, 'produk/31f98ab6-3d65-4bc1-93be-94eb5d6f86fd.jpg');
+                         VALUES (144, 'produk/fcfbd7bb-6ede-4f5c-b49e-599ede14caf8.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (136, 'produk/23cad934-ea0e-45b2-9e1e-d958b1452b79.jpg');
+                         VALUES (145, 'produk/14a3429b-d657-4798-89e9-d47103c70c5e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (137, 'produk/e0a04f89-af2d-4463-9407-cf6660f170d1.jpg');
+                         VALUES (145, 'produk/dd4acc69-9680-431d-989d-4240ed25f049.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (138, 'produk/e26eaa48-c037-4239-8fbd-b60712d39b07.jpg');
+                         VALUES (145, 'produk/453edbe3-f2f7-4998-bc8a-d8dc7b9b4dd3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (139, 'produk/4bb5f651-cd61-43dd-a1f2-c63c8c49e762.jpg');
+                         VALUES (146, 'produk/9bc0d7d0-c50c-4690-9ce0-0b468773f44e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (140, 'produk/317b2a56-bc8a-4ff3-8a9d-eeb1ca1ac0ae.jpg');
+                         VALUES (146, 'produk/2056bf3e-e5dd-4a5d-ac58-7ccb242c2c10.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (140, 'produk/918c5510-e6db-4a7e-9649-c5d150c3a274.jpg');
+                         VALUES (147, 'produk/2b26ce83-76bd-4141-83a9-99011a9a6c8c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (141, 'produk/85cc1483-1d06-4faf-8166-afccf5ea11e3.jpg');
+                         VALUES (147, 'produk/61ae3c6f-2d8b-40fc-bc7e-dcc0489761b6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (141, 'produk/ce586155-fa9d-473e-b789-ce2bdb1d9dba.jpg');
+                         VALUES (148, 'produk/cc5fdb05-87d4-4ce3-912c-d4cb1e3bb021.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (142, 'produk/944b3d76-c8f8-40f4-ab91-93769feedf19.jpg');
+                         VALUES (148, 'produk/0b0d6e82-7ee9-4ee3-a0dc-84dc1f1dc632.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (142, 'produk/1589ef3c-022e-4b39-9d7f-70ef868c3311.jpg');
+                         VALUES (148, 'produk/1ec3b07f-486c-4e25-bcef-c4da2bd944d4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (143, 'produk/db3147fd-0bcd-4a1a-84ea-26031fabe28f.jpg');
+                         VALUES (149, 'produk/d13550a0-c757-4df4-9b10-a6ff5edf3cdc.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (143, 'produk/b8d865cd-e016-4906-9eb8-f6a71950ef80.jpg');
+                         VALUES (150, 'produk/fab1fdc7-35ab-442e-b5e8-8f03c2e32026.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (143, 'produk/9a294ee9-520a-4ad6-8b98-90c09bedea84.jpg');
+                         VALUES (151, 'produk/9fa6f9f8-459c-4e00-b0fa-e62bf4c35ff9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (144, 'produk/2abeb706-6189-4b7d-b871-07e847f12012.jpg');
+                         VALUES (151, 'produk/3b7c148e-0e87-42db-8104-f6f3df216729.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (145, 'produk/48379d12-42d5-4137-88e9-c06d96f6dd23.jpg');
+                         VALUES (152, 'produk/44b885a9-782c-436b-940f-e4d6c962696e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (146, 'produk/b93b5706-5b73-4152-9412-e0ae5e7db76f.jpg');
+                         VALUES (152, 'produk/50a7ac43-395d-478e-9b96-44335b14a1a3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (146, 'produk/23a4f7cf-beae-4cfe-b59d-8709901aaead.jpg');
+                         VALUES (152, 'produk/7edc3eab-09b3-42b4-86bf-be9b7ff064b3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (147, 'produk/873b7987-0147-4514-8fbd-4c611ae62bce.jpg');
+                         VALUES (153, 'produk/2ff9e1a9-2405-4f64-9b41-3f4d1b9c8e65.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (147, 'produk/fcac8eb5-8c3f-4f22-a5a0-24e65a8d4671.jpg');
+                         VALUES (153, 'produk/d6bd6a22-0030-4746-bed1-fb1a37ff5df4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (148, 'produk/aac3ec1b-951c-443c-996a-0f610722c9ac.jpg');
+                         VALUES (153, 'produk/072f40dc-7b04-43fe-90f9-dec7c5fa503c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (148, 'produk/5aa229c6-0bfb-4da8-a930-1eb15834259f.jpg');
+                         VALUES (154, 'produk/b0490d1a-b00f-4c46-a4fc-73ab8fec0711.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (149, 'produk/f9ba7daf-3738-445c-b908-3be1119c34ab.jpg');
+                         VALUES (155, 'produk/b8b01c49-2936-4095-9866-5743f3be7af6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (149, 'produk/5ba99aba-9ad9-4220-a6c2-9c7701893e55.jpg');
+                         VALUES (155, 'produk/ee40de64-afa4-41c6-af50-de4aafbb9b10.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (149, 'produk/21eba4f2-15fa-4c03-9031-e92dbd19ba98.jpg');
+                         VALUES (156, 'produk/90bafe9a-3973-42c4-8c35-a766b691ec07.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (150, 'produk/93cababa-c32b-49fa-b24c-fb86f1d6b847.jpg');
+                         VALUES (157, 'produk/d7845bb8-0e2d-4880-a240-f65bfe99f68c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (151, 'produk/15bc66dd-2348-42e3-87ff-ab5e19eb9f67.jpg');
+                         VALUES (158, 'produk/eb4eafd2-d4d2-4b2d-88c6-dac02ead23ce.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (152, 'produk/db4f6807-ad1a-4996-8e75-4e2c5d1f3b20.jpg');
+                         VALUES (158, 'produk/1bf4f787-35c6-4ec5-b184-66c6b5d21f89.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (153, 'produk/6fe6f149-2c29-43e7-a5b8-83ff23377c16.jpg');
+                         VALUES (158, 'produk/eddbd26a-22f2-4050-8838-462987516993.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (153, 'produk/f6aaa553-8323-4347-b867-e7f448dfc72b.jpg');
+                         VALUES (159, 'produk/e9b8eebc-3031-49fd-9915-14a8bf9c62f5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (154, 'produk/04bcbabe-1f18-4bae-9344-f62650ea5dbb.jpg');
+                         VALUES (159, 'produk/240196a3-95ff-4e22-9269-58075738f8a9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (155, 'produk/12d75ef3-0096-445f-9ab9-76cb4c388384.jpg');
+                         VALUES (159, 'produk/92a4b50f-338f-42a2-91d9-f086994362ef.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (155, 'produk/7ddf7025-a6ac-4a72-a53c-503f5712a8d6.jpg');
+                         VALUES (160, 'produk/6cf8f432-56e3-4923-9af2-4df390a511ea.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (156, 'produk/c1d862a1-b153-4cfc-8799-5bf80be0be6e.jpg');
+                         VALUES (160, 'produk/067bb3a5-b5cb-4f52-a26e-9c4d12ca2dca.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (156, 'produk/67d00e89-5820-411f-a6ba-c8e730d91639.jpg');
+                         VALUES (161, 'produk/16deb02c-fc60-4455-bfda-b0aa0ab3d2f9.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (156, 'produk/5e16e466-0864-49c9-bb40-b3cb26378e86.jpg');
+                         VALUES (161, 'produk/9affdbf8-023f-4d91-8313-acc40f947040.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (157, 'produk/7890a4cd-6e6e-4ab4-8232-ed8b8622d654.jpg');
+                         VALUES (161, 'produk/a86b9d30-0ff1-45d3-bd0a-c12e2d620f77.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (157, 'produk/17a5b597-3320-428d-8e95-755af863e361.jpg');
+                         VALUES (162, 'produk/2afcd89c-04c6-4022-b760-b8c91f47205c.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (158, 'produk/dc47f88f-b0d5-41a5-8f8a-b53b646579cd.jpg');
+                         VALUES (163, 'produk/8d5a1871-d8cf-45e2-b428-b9068c625733.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (158, 'produk/8b62ad00-90c8-42e0-ba50-a65451df7134.jpg');
+                         VALUES (163, 'produk/8a96fdf1-f572-4ea3-a3b0-a39c7a183ba7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (159, 'produk/053b8969-8174-427a-8137-9e8dce504983.jpg');
+                         VALUES (164, 'produk/11a8bfa5-5f39-4d82-854c-a323a3828ac1.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (160, 'produk/62632471-fef2-4418-9440-7ba95fb4f051.jpg');
+                         VALUES (165, 'produk/c5f854c8-d851-4ecd-9681-684974b1a483.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (160, 'produk/ebef9261-16c0-4373-9f8f-144ca3d9acda.jpg');
+                         VALUES (166, 'produk/62bc1e37-cd79-462a-8895-66dd44bb6449.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (161, 'produk/cd6bf6eb-419e-4214-9d27-33b128cdcb51.jpg');
+                         VALUES (166, 'produk/aa5116d0-57cd-4633-b608-571c6df51d13.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (161, 'produk/dc7ac2a9-87a4-4912-bdfd-bfe1c9679254.jpg');
+                         VALUES (166, 'produk/2b048319-b87e-43db-8231-ca4e873fe9e4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (162, 'produk/b4d7009e-15c0-47a4-a08a-ac040b716427.jpg');
+                         VALUES (167, 'produk/d36dc165-f204-488d-90f0-6fdbcb9c2cb0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (162, 'produk/7fb9cfb6-b91b-4837-958d-f20022d61b3e.jpg');
+                         VALUES (167, 'produk/981dd2cb-9ea9-4576-bb88-fe0fcab89380.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (162, 'produk/ef10784b-66f8-4efe-a7a1-634944e0f0fa.jpg');
+                         VALUES (168, 'produk/2d6a07dd-af21-4a44-b400-a7e52fcd1133.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (163, 'produk/ac9fc47e-350d-4bd8-8e5a-5c9e1686b61c.jpg');
+                         VALUES (169, 'produk/b51478f2-eaa2-4606-bb8f-7afe5eb337a8.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (164, 'produk/b8921fab-06e7-4f12-8719-286bfec0eb62.jpg');
+                         VALUES (170, 'produk/f31ba183-d4c8-481b-96e1-031c1710726e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (164, 'produk/5f422a6f-1348-4602-a1bf-b1fcd0cbbd8e.jpg');
+                         VALUES (170, 'produk/c8b6a361-dffc-4d4c-b181-9324aaaf6217.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (165, 'produk/ce17b766-9d4f-41dd-9f06-7a3a0061b397.jpg');
+                         VALUES (170, 'produk/2b18735a-adfe-4cbf-858f-8af81e3c075b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (165, 'produk/f34a357e-2e71-4686-b487-98d5bcd701fb.jpg');
+                         VALUES (171, 'produk/61be0196-7ae3-4117-b644-81028ea9401b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (166, 'produk/86bfd9f7-7b7e-42d8-839a-8a61e461b01b.jpg');
+                         VALUES (171, 'produk/ba1d836a-ca67-4d50-afe9-895910bbb7ca.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (166, 'produk/c96f298d-cf23-45c1-9fb7-ea3122d22894.jpg');
+                         VALUES (172, 'produk/4278bca2-0218-420b-8686-e44de27b0cfd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (166, 'produk/633c47a7-e682-446c-98b8-396ee8662a2f.jpg');
+                         VALUES (172, 'produk/d1bdc457-205f-49a5-b2b7-7a6359c73c4f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (167, 'produk/eee048ea-825f-4c05-b58c-74c302557114.jpg');
+                         VALUES (172, 'produk/03a3132b-2b67-4992-a364-4643b41610f7.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (167, 'produk/c4d1def0-3468-4d4d-9147-af7d30e05dd7.jpg');
+                         VALUES (173, 'produk/786800e6-bd41-4853-b94a-288c6bb8ee4d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (167, 'produk/566d37af-5ce3-47e7-9eda-6173faf0ae2f.jpg');
+                         VALUES (173, 'produk/0f9f6a4d-dbd4-43b2-a92a-ca1b6174fa62.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (168, 'produk/1aa1e2a9-47e6-41fa-8e64-e82c6f713c79.jpg');
+                         VALUES (173, 'produk/ef4100b1-486e-42e9-a682-2693775e6542.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (168, 'produk/3869eb35-2f64-4ea1-a618-36a25e417ed2.jpg');
+                         VALUES (174, 'produk/f65040dd-b65b-4114-8df7-27c2aa9db923.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (169, 'produk/83bb2b02-ee58-4bf5-a0ad-f58fde85d0ed.jpg');
+                         VALUES (175, 'produk/62d1b714-2dec-4f7a-83ae-9bb1a6bde090.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (170, 'produk/11cb13b4-441d-4dc8-b6fc-d7a782408f8c.jpg');
+                         VALUES (176, 'produk/5932979a-0b78-47a9-8034-ffa49f7a8f76.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (170, 'produk/15c0d618-3524-4f8e-a66a-98a6d75393fd.jpg');
+                         VALUES (177, 'produk/43e6d123-c216-452b-bee2-6ea2802d4158.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (170, 'produk/1f82f0e9-eb2f-4b1f-9a75-5b40c4786c2e.jpg');
+                         VALUES (177, 'produk/2da5dee9-0413-4ecd-b316-f53cce13ed3e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (171, 'produk/beff2c7a-490e-4f5e-a25b-0e03dbba204e.jpg');
+                         VALUES (178, 'produk/2238692d-7e51-4513-a2e4-19ba721f4731.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (171, 'produk/169d1db7-7bcc-4aab-a5e8-e5511a5682b5.jpg');
+                         VALUES (178, 'produk/094a6601-ca03-43c3-a5b0-4e4f06ebec32.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (172, 'produk/b0a42753-9d2e-466c-9160-fbe9cdcfc17f.jpg');
+                         VALUES (179, 'produk/8dd5db1d-f095-42f8-b5aa-8ab7ab6fb8e6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (173, 'produk/208c0bfc-ea4a-4877-b1af-20328282b911.jpg');
+                         VALUES (179, 'produk/522167a9-c7a7-4811-8c22-e0330cf0648f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (173, 'produk/2be6b190-7aed-4708-a448-41c883948f90.jpg');
+                         VALUES (180, 'produk/115f12db-b466-46e1-bd29-0460ca9b6fbd.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (174, 'produk/9fe1a549-0168-451d-8a8f-45b6b4509708.jpg');
+                         VALUES (180, 'produk/413000b4-ec3d-4676-a14c-d8a4afa6711b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (175, 'produk/e6b69ea7-9fc0-479e-92e8-151b260552c9.jpg');
+                         VALUES (181, 'produk/93182daa-87a3-482f-8573-ba80f5447149.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (175, 'produk/44fa3da1-f4f5-4d5b-aff3-8da2c9c453b4.jpg');
+                         VALUES (181, 'produk/3cbca889-143a-4dc0-84ca-561aff29c940.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (176, 'produk/cf6f7e97-5b3d-49d3-97ce-fc4cbb7aa9a8.jpg');
+                         VALUES (181, 'produk/695b04e4-bc58-4723-990d-b0e584dbee3f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (176, 'produk/6712a0e2-7ac2-4797-a26e-5884a6f77c46.jpg');
+                         VALUES (182, 'produk/7c25c01d-b19f-4869-b38b-9376ca3bcb28.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (177, 'produk/1ee03df2-a272-4599-8867-aa70c811fcc4.jpg');
+                         VALUES (182, 'produk/17075469-8e63-43d2-b208-4a6f1f9eb66f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (177, 'produk/481937f8-2a0e-4bc5-9d43-f24e0f41a39d.jpg');
+                         VALUES (182, 'produk/e6b7619e-b901-4b83-8125-f9a37962545a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (177, 'produk/908e5a94-3701-403e-b726-d6b6be238888.jpg');
+                         VALUES (183, 'produk/4e62f572-69a4-45b3-8583-bda97695c731.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (178, 'produk/faa0e70a-faa6-4e5d-bf74-e35c45252b3c.jpg');
+                         VALUES (183, 'produk/c41ccb17-7db3-4dfe-9a75-b67d54db26cb.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (179, 'produk/3c5c03f4-b191-499a-84c1-c20b81a4642d.jpg');
+                         VALUES (183, 'produk/b194c0dd-2947-49d0-9bb2-d8357e2dfcda.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (180, 'produk/758a1884-e33a-4019-9605-8be628bf5e3d.jpg');
+                         VALUES (184, 'produk/7a19dc07-9a7b-421d-a083-800263231272.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (180, 'produk/113ad750-4e91-4c7e-863a-d4a82a913f83.jpg');
+                         VALUES (184, 'produk/0a6d2187-da13-4fd0-baa8-f34c1520c41d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (181, 'produk/08b0eaed-0f21-491a-81a1-9698dc5217fd.jpg');
+                         VALUES (184, 'produk/f833f7ba-6c21-49cb-84b6-89dcd1844163.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (181, 'produk/50f0a3d3-e717-4a0d-a8ed-93bfb2c0a96d.jpg');
+                         VALUES (185, 'produk/a3a0fedd-a3c9-4d25-9346-327c4f2555ad.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (181, 'produk/3c5ad27a-ccc2-4f9a-b944-140f6c7e5398.jpg');
+                         VALUES (185, 'produk/d01d8ee0-f694-4de7-a03c-2aa1843181a6.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (182, 'produk/72d9a781-7065-4e06-b9fe-c4d5feeb2bc5.jpg');
+                         VALUES (185, 'produk/413d6732-3598-4b75-bdfe-9f85d7bd5336.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (183, 'produk/086288b2-0545-45dc-b83a-a04e5fc76eb4.jpg');
+                         VALUES (186, 'produk/1eec5d9f-0bcf-40f6-8ab8-36d61dee3993.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (184, 'produk/dffdaf0f-f24e-48d0-a87f-8a761886c945.jpg');
+                         VALUES (186, 'produk/c20a1ff1-1abb-46e7-841c-0f547db12b29.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (184, 'produk/a7517de4-6d64-4488-aa64-8d46a3c2674f.jpg');
+                         VALUES (187, 'produk/d23e1f9e-0151-44a3-ab2d-3dd4fb808bd4.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (185, 'produk/19301422-8494-47f8-ac8a-aa3600bd94ef.jpg');
+                         VALUES (187, 'produk/3f59e7cc-5c6f-46b6-925a-f9d91a921d14.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (185, 'produk/0d58c7fc-25f6-448e-b7de-634804f6504b.jpg');
+                         VALUES (188, 'produk/0c5e14f1-a48e-444e-bafb-8c0ad217af4b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (186, 'produk/3bed75d6-9811-408d-9d14-c17e0d799b83.jpg');
+                         VALUES (188, 'produk/6eaa65b1-909e-4fe0-877b-fe907a228d0b.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (186, 'produk/8f1d6859-b97f-4ec1-b25c-c6274de71eb7.jpg');
+                         VALUES (189, 'produk/39925b44-f6cb-4e0b-912a-a8bbdef451c5.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (187, 'produk/c0c01bce-003d-4909-be7f-1c1332bcddf6.jpg');
+                         VALUES (190, 'produk/5017fa56-1e0e-4231-a73a-f7b4d05faffe.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (188, 'produk/44d9b516-ea8a-41e8-ae18-0695607e5aea.jpg');
+                         VALUES (191, 'produk/3555382a-81e5-4a24-a7f7-ca0419fbde15.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (188, 'produk/b1e1e54b-43f5-4906-8927-39dcbd49fac7.jpg');
+                         VALUES (191, 'produk/8d3d306b-74e2-40a9-b3bd-a009a554938a.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (188, 'produk/98d1e3aa-df5a-4aea-8482-166b7d22ff78.jpg');
+                         VALUES (192, 'produk/42225797-5a52-4375-be29-a8329541c3ae.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (189, 'produk/fbea2677-2213-4505-8cfe-7f13ca7a9a3d.jpg');
+                         VALUES (192, 'produk/a6eaaaf7-4339-4cb5-a1b6-2d4c33ce3a69.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (190, 'produk/5aaeff32-b3bb-4632-b538-7986592514cd.jpg');
+                         VALUES (192, 'produk/ccbd2229-92d5-4424-ae4c-e28ce0f297de.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (190, 'produk/e1c4df54-f1e8-4abb-9270-ee4ae93aa83c.jpg');
+                         VALUES (193, 'produk/2ae1237a-1271-49ef-989e-176386007755.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (191, 'produk/09697224-cbd6-4b50-8d0a-3b1060f3e086.jpg');
+                         VALUES (193, 'produk/9576f1fc-9b75-4272-bfc2-6fe54a23834d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (192, 'produk/84c1d39d-e77f-4dab-8a1a-8bd3d1a5313f.jpg');
+                         VALUES (194, 'produk/45b5c5d0-0256-4406-8a53-e41fd45bef4f.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (192, 'produk/ff07a66d-0954-44af-a017-8c07e5186c24.jpg');
+                         VALUES (194, 'produk/54907c1f-1b71-49ef-abf2-433e7593d3c0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (192, 'produk/eff4cba0-68cd-4aec-95e1-a72e267f7d3c.jpg');
+                         VALUES (195, 'produk/5991bdc7-8c68-477d-aebb-956cd5ab1f0e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (193, 'produk/0eedd622-2e46-4b28-b42e-cdb5dcc1e539.jpg');
+                         VALUES (195, 'produk/06bd85e9-14c6-4b9d-8925-d62123defc3e.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (194, 'produk/de6ef9be-686f-4341-9310-d408cd29777a.jpg');
+                         VALUES (195, 'produk/92d0b4db-1cb7-488b-923a-fafe7b277598.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (194, 'produk/f4256644-bc97-46dd-a73e-688765eb04c4.jpg');
+                         VALUES (196, 'produk/bb942157-b533-4eb0-b2bf-069db920e7a3.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (195, 'produk/6c7b4307-b4da-4458-925c-c56bbfc2c35a.jpg');
+                         VALUES (197, 'produk/c928af2c-072a-4c38-8aca-f425e0cfe3b0.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (196, 'produk/a89c51d1-e9ac-41f1-8c61-d94219e7b7ec.jpg');
+                         VALUES (198, 'produk/91e3587b-04ca-4e11-8f6c-270f14a3724d.jpg');
 INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (196, 'produk/bb23d628-9ea5-4be1-95fa-9a65c326abe5.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (197, 'produk/2a14c5ca-64f1-4054-9d6b-8f8ed9d4829b.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (197, 'produk/d2314e0b-eb36-4ba6-be8a-fe9d56faa8cc.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (197, 'produk/71fd06c1-8d39-4d3e-96a1-7d5beae15b29.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (198, 'produk/834f2fba-0224-488a-83af-0b35b6359aca.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (198, 'produk/156d6748-1d61-4fea-b887-ad2c62e07587.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (199, 'produk/f2ee4cc2-7684-4dc6-971b-c542970f84ee.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (199, 'produk/a7b97570-afd8-4d7d-8247-a030972ec67b.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (199, 'produk/9c360baf-bfed-47b3-9274-375cba597713.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (200, 'produk/700d3069-13f1-4940-bdd1-affbe68483c7.jpg');
-INSERT INTO gambar_produk (no_produk, gambar)
-                         VALUES (200, 'produk/66c6560d-8446-4494-b276-a141458f2374.jpg');
+                         VALUES (198, 'produk/01d529d7-3abd-4011-82ec-0269eb582e4e.jpg');
+-- Total gambar_produk: 385
 
 -- INSERT INTO tag_produk
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (1, 'Casual');
+                         VALUES (1, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (2, 'Formal');
+                         VALUES (1, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (2, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (2, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (3, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (3, 'Aksesoris');
+                         VALUES (3, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (4, 'Casual');
+                         VALUES (3, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (4, 'Aksesoris');
+                         VALUES (4, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (5, 'Pria');
+                         VALUES (4, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (5, 'Formal');
+                         VALUES (4, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (5, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (6, 'Casual');
+                         VALUES (6, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (7, 'Casual');
+                         VALUES (6, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (7, 'Sport');
+                         VALUES (6, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (7, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (8, 'Formal');
+                         VALUES (8, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (9, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (9, 'Sport');
+                         VALUES (8, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (9, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (10, 'Pria');
+                         VALUES (9, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (9, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (10, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (10, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (10, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (11, 'Pria');
+                         VALUES (11, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (11, 'Sport');
+                         VALUES (11, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (12, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (12, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (12, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (13, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (14, 'Aksesoris');
+                         VALUES (14, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (14, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (15, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (15, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (15, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (16, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (16, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (16, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (17, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (17, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (17, 'Pria');
+                         VALUES (17, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (18, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (18, 'Pria');
+                         VALUES (18, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (19, 'Wanita');
+                         VALUES (19, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (19, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (20, 'Fashion');
+                         VALUES (19, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (20, 'Casual');
+                         VALUES (20, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (20, 'Pria');
+                         VALUES (21, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (21, 'Aksesoris');
+                         VALUES (21, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (21, 'Casual');
+                         VALUES (21, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (21, 'Wanita');
+                         VALUES (22, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (22, 'Aksesoris');
+                         VALUES (22, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (23, 'Aksesoris');
+                         VALUES (23, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (23, 'Pria');
+                         VALUES (24, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (24, 'Aksesoris');
+                         VALUES (24, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (24, 'Wanita');
+                         VALUES (24, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (24, 'Fashion');
+                         VALUES (25, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (25, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (26, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (26, 'Aksesoris');
+                         VALUES (25, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (26, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (26, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (27, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (28, 'Fashion');
+                         VALUES (27, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (28, 'Pria');
+                         VALUES (27, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (28, 'Sport');
+                         VALUES (28, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (29, 'Pria');
+                         VALUES (29, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (29, 'Sport');
+                         VALUES (29, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (30, 'Pria');
+                         VALUES (30, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (30, 'Sport');
+                         VALUES (30, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (30, 'Formal');
+                         VALUES (31, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (31, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (32, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (32, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (32, 'Sport');
+                         VALUES (32, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (33, 'Pria');
+                         VALUES (33, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (34, 'Casual');
+                         VALUES (34, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (35, 'Sport');
+                         VALUES (34, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (34, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (35, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (35, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (36, 'Wanita');
+                         VALUES (36, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (36, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (36, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (37, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (37, 'Pria');
+                         VALUES (38, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (38, 'Pria');
+                         VALUES (38, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (38, 'Casual');
+                         VALUES (38, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (39, 'Fashion');
+                         VALUES (39, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (39, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (40, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (40, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (40, 'Pria');
+                         VALUES (40, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (41, 'Sport');
+                         VALUES (41, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (41, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (42, 'Casual');
+                         VALUES (42, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (42, 'Pria');
+                         VALUES (43, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (43, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (43, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (44, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (44, 'Fashion');
+                         VALUES (44, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (45, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (45, 'Pria');
+                         VALUES (46, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (45, 'Aksesoris');
+                         VALUES (46, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (46, 'Wanita');
+                         VALUES (47, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (47, 'Casual');
+                         VALUES (47, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (47, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (47, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (48, 'Formal');
+                         VALUES (47, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (48, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (48, 'Casual');
+                         VALUES (48, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (49, 'Sport');
+                         VALUES (49, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (49, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (49, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (50, 'Aksesoris');
+                         VALUES (50, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (51, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (52, 'Pria');
+                         VALUES (51, 'Aksesoris');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (51, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (52, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (52, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (53, 'Formal');
+                         VALUES (52, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (53, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (53, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (54, 'Wanita');
+                         VALUES (54, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (54, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (54, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (55, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (55, 'Sport');
+                         VALUES (54, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (55, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (56, 'Formal');
+                         VALUES (55, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (56, 'Sport');
+                         VALUES (55, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (56, 'Wanita');
+                         VALUES (56, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (57, 'Pria');
+                         VALUES (57, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (58, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (58, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (59, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (59, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (60, 'Wanita');
+                         VALUES (59, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (61, 'Pria');
+                         VALUES (60, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (61, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (62, 'Pria');
+                         VALUES (61, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (61, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (62, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (63, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (64, 'Sport');
+                         VALUES (64, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (64, 'Formal');
+                         VALUES (64, 'Aksesoris');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (65, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (65, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (66, 'Pria');
+                         VALUES (66, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (66, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (66, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (67, 'Wanita');
+                         VALUES (67, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (68, 'Pria');
+                         VALUES (67, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (68, 'Sport');
+                         VALUES (68, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (68, 'Formal');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (69, 'Formal');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (69, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (69, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (69, 'Fashion');
+                         VALUES (70, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (70, 'Fashion');
+                         VALUES (70, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (70, 'Formal');
+                         VALUES (70, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (71, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (71, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (71, 'Fashion');
+                         VALUES (72, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (72, 'Wanita');
+                         VALUES (72, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (73, 'Casual');
+                         VALUES (73, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (73, 'Aksesoris');
+                         VALUES (73, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (74, 'Formal');
+                         VALUES (74, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (74, 'Wanita');
+                         VALUES (74, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (75, 'Aksesoris');
+                         VALUES (74, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (76, 'Wanita');
+                         VALUES (75, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (77, 'Pria');
+                         VALUES (76, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (77, 'Sport');
+                         VALUES (76, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (78, 'Sport');
+                         VALUES (77, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (78, 'Fashion');
+                         VALUES (77, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (77, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (78, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (78, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (79, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (79, 'Pria');
+                         VALUES (78, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (79, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (80, 'Sport');
+                         VALUES (80, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (81, 'Fashion');
+                         VALUES (80, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (82, 'Casual');
+                         VALUES (81, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (83, 'Fashion');
+                         VALUES (82, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (83, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (83, 'Formal');
+                         VALUES (83, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (84, 'Casual');
+                         VALUES (83, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (84, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (84, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (85, 'Aksesoris');
+                         VALUES (85, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (86, 'Aksesoris');
+                         VALUES (85, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (87, 'Fashion');
+                         VALUES (86, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (87, 'Sport');
+                         VALUES (86, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (86, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (87, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (87, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (88, 'Aksesoris');
+                         VALUES (88, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (88, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (88, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (88, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (89, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (89, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (90, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (90, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (90, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (91, 'Casual');
+                         VALUES (91, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (91, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (92, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (92, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (92, 'Casual');
+                         VALUES (92, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (93, 'Casual');
+                         VALUES (93, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (94, 'Wanita');
+                         VALUES (94, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (94, 'Pria');
+                         VALUES (94, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (94, 'Sport');
+                         VALUES (95, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (95, 'Pria');
+                         VALUES (95, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (96, 'Wanita');
+                         VALUES (95, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (96, 'Aksesoris');
+                         VALUES (96, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (97, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (97, 'Formal');
+                         VALUES (97, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (97, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (98, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (98, 'Wanita');
+                         VALUES (98, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (98, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (99, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (99, 'Casual');
+                         VALUES (99, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (99, 'Formal');
+                         VALUES (99, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (100, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (100, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (100, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (101, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (102, 'Casual');
+                         VALUES (101, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (103, 'Pria');
+                         VALUES (101, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (104, 'Fashion');
+                         VALUES (102, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (104, 'Wanita');
+                         VALUES (102, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (105, 'Wanita');
+                         VALUES (103, 'Aksesoris');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (103, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (103, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (104, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (105, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (106, 'Aksesoris');
+                         VALUES (105, 'Formal');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (105, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (106, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (106, 'Formal');
+                         VALUES (106, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (107, 'Formal');
+                         VALUES (107, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (107, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (108, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (108, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (108, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (109, 'Formal');
+                         VALUES (108, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (110, 'Sport');
+                         VALUES (109, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (110, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (110, 'Aksesoris');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (110, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (111, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (111, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (111, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (112, 'Casual');
+                         VALUES (112, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (112, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (113, 'Pria');
+                         VALUES (113, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (114, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (114, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (114, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (115, 'Wanita');
+                         VALUES (114, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (115, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (116, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (116, 'Wanita');
+                         VALUES (117, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (117, 'Casual');
+                         VALUES (117, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (117, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (117, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (118, 'Pria');
+                         VALUES (117, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (118, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (118, 'Formal');
+                         VALUES (119, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (119, 'Pria');
+                         VALUES (120, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (119, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (119, 'Fashion');
+                         VALUES (120, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (120, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (121, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (121, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (121, 'Pria');
+                         VALUES (121, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (121, 'Formal');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (122, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (122, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (122, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (122, 'Sport');
+                         VALUES (123, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (123, 'Sport');
+                         VALUES (123, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (123, 'Wanita');
+                         VALUES (124, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (123, 'Aksesoris');
+                         VALUES (124, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (124, 'Aksesoris');
+                         VALUES (124, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (125, 'Wanita');
+                         VALUES (125, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (125, 'Pria');
+                         VALUES (125, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (125, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (126, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (126, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (126, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (127, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (127, 'Formal');
+                         VALUES (126, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (127, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (128, 'Sport');
+                         VALUES (128, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (129, 'Pria');
+                         VALUES (128, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (129, 'Fashion');
+                         VALUES (128, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (129, 'Aksesoris');
+                         VALUES (129, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (130, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (131, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (131, 'Pria');
+                         VALUES (131, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (132, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (132, 'Formal');
+                         VALUES (132, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (133, 'Pria');
+                         VALUES (132, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (133, 'Wanita');
+                         VALUES (133, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (134, 'Aksesoris');
+                         VALUES (133, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (134, 'Casual');
+                         VALUES (134, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (134, 'Formal');
+                         VALUES (135, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (135, 'Pria');
+                         VALUES (135, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (135, 'Formal');
+                         VALUES (135, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (135, 'Aksesoris');
+                         VALUES (136, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (136, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (136, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (136, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (137, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (137, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (137, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (138, 'Aksesoris');
+                         VALUES (137, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (138, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (138, 'Formal');
+                         VALUES (139, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (139, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (139, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (139, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (139, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (140, 'Casual');
+                         VALUES (140, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (141, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (141, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (142, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (142, 'Formal');
+                         VALUES (142, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (142, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (143, 'Formal');
+                         VALUES (142, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (143, 'Pria');
+                         VALUES (143, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (143, 'Aksesoris');
+                         VALUES (144, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (144, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (144, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (145, 'Aksesoris');
+                         VALUES (144, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (145, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (145, 'Pria');
+                         VALUES (145, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (145, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (146, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (146, 'Aksesoris');
+                         VALUES (147, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (147, 'Pria');
+                         VALUES (147, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (148, 'Formal');
+                         VALUES (148, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (148, 'Fashion');
+                         VALUES (148, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (149, 'Sport');
+                         VALUES (149, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (150, 'Casual');
+                         VALUES (149, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (150, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (150, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (151, 'Formal');
+                         VALUES (151, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (151, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (152, 'Pria');
+                         VALUES (152, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (153, 'Sport');
+                         VALUES (152, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (153, 'Formal');
+                         VALUES (152, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (154, 'Wanita');
+                         VALUES (153, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (154, 'Formal');
+                         VALUES (154, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (154, 'Aksesoris');
+                         VALUES (155, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (155, 'Formal');
+                         VALUES (156, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (155, 'Sport');
+                         VALUES (157, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (155, 'Aksesoris');
+                         VALUES (158, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (156, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (157, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (157, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (157, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (158, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (159, 'Fashion');
+                         VALUES (158, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (159, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (159, 'Pria');
+                         VALUES (159, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (160, 'Pria');
+                         VALUES (160, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (161, 'Pria');
+                         VALUES (161, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (161, 'Formal');
+                         VALUES (161, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (161, 'Fashion');
+                         VALUES (162, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (162, 'Formal');
+                         VALUES (163, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (163, 'Sport');
+                         VALUES (163, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (164, 'Pria');
+                         VALUES (163, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (164, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (164, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (164, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (165, 'Sport');
+                         VALUES (165, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (165, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (165, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (166, 'Pria');
+                         VALUES (165, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (166, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (166, 'Formal');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (166, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (167, 'Aksesoris');
+                         VALUES (167, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (167, 'Sport');
+                         VALUES (167, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (168, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (168, 'Fashion');
+                         VALUES (168, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (168, 'Aksesoris');
+                         VALUES (169, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (169, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (169, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (170, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (170, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (171, 'Aksesoris');
+                         VALUES (171, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (171, 'Formal');
+                         VALUES (171, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (172, 'Pria');
+                         VALUES (172, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (172, 'Wanita');
+                         VALUES (173, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (173, 'Sport');
+                         VALUES (173, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (174, 'Fashion');
+                         VALUES (174, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (174, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (174, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (175, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (175, 'Sport');
+                         VALUES (175, 'Fashion');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (175, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (176, 'Formal');
+                         VALUES (175, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (177, 'Pria');
+                         VALUES (176, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (176, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (176, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (177, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (177, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (177, 'Fashion');
+                         VALUES (177, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (178, 'Fashion');
+                         VALUES (178, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (179, 'Casual');
+                         VALUES (178, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (180, 'Pria');
+                         VALUES (178, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (180, 'Wanita');
+                         VALUES (179, 'Fashion');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (180, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (180, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
@@ -3014,2562 +2990,3185 @@ INSERT INTO tag_produk (no_produk, tag)
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (181, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (182, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (182, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (182, 'Aksesoris');
+                         VALUES (183, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (183, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (184, 'Fashion');
+                         VALUES (183, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (184, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (184, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (185, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (185, 'Formal');
+                         VALUES (185, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (185, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (186, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (186, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (187, 'Aksesoris');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (187, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (187, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (187, 'Wanita');
+                         VALUES (188, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (188, 'Fashion');
+                         VALUES (189, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (189, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (190, 'Casual');
+                         VALUES (190, 'Sport');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (190, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (190, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (191, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (192, 'Formal');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (192, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
                          VALUES (192, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (193, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (193, 'Pria');
+                         VALUES (193, 'Casual');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (193, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (194, 'Aksesoris');
+                         VALUES (193, 'Pria');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (194, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
                          VALUES (194, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (194, 'Wanita');
+INSERT INTO tag_produk (no_produk, tag)
+                         VALUES (195, 'Casual');
+INSERT INTO tag_produk (no_produk, tag)
                          VALUES (195, 'Sport');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (196, 'Formal');
+                         VALUES (195, 'Formal');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (196, 'Aksesoris');
+                         VALUES (196, 'Pria');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (196, 'Fashion');
+                         VALUES (197, 'Aksesoris');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (197, 'Fashion');
+                         VALUES (198, 'Wanita');
 INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (197, 'Casual');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (197, 'Wanita');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (198, 'Sport');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (198, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (198, 'Pria');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (199, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (199, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (200, 'Fashion');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (200, 'Aksesoris');
-INSERT INTO tag_produk (no_produk, tag)
-                         VALUES (200, 'Sport');
+                         VALUES (198, 'Fashion');
+-- Total tag_produk: 399
 
 -- INSERT INTO varian
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (1, '1-GREY', 'Warna: GREY', 12, 633229.69);
+                         VALUES (1, '1-WHITE-M', 'Warna: WHITE, Ukuran: M', 37, 166414.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (1, '1-RED', 'Warna: RED', 83, 697793.39);
+                         VALUES (1, '1-WHITE-L', 'Warna: WHITE, Ukuran: L', 59, 155309.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (1, '1-BLUE', 'Warna: BLUE', 12, 719006.97);
+                         VALUES (1, '1-GREY', 'Warna: GREY, Ukuran: L', 72, 348433.96);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (1, '1-BLACK', 'Warna: BLACK', 32, 793467.37);
+                         VALUES (1, '1-GREEN', 'Warna: GREEN, Ukuran: L', 51, 809054.96);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (2, '2-WHITE-M', 'Warna: WHITE, Ukuran: M', 16, 288908.62);
+                         VALUES (1, '1-RED', 'Warna: RED, Ukuran: L', 44, 266922.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (2, '2-GREY-M', 'Warna: GREY, Ukuran: M', 75, 538682.59);
+                         VALUES (2, '2-GREY', 'Warna: GREY, Ukuran: L', 12, 60792.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (2, '2-GREY', 'Warna: GREY, Ukuran: M', 49, 217611.28);
+                         VALUES (2, '2-GREY-M', 'Warna: GREY, Ukuran: M', 84, 995304.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (2, '2-GREEN-L', 'Warna: GREEN, Ukuran: L', 8, 468733.81);
+                         VALUES (2, '2-RED', 'Warna: RED, Ukuran: M', 64, 477136.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (2, '2-RED-S', 'Warna: RED, Ukuran: S', 12, 787300.88);
+                         VALUES (3, '3-NAVY-S', 'Warna: NAVY, Ukuran: S', 61, 231714.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (3, '3-GREEN', 'Warna: GREEN, Ukuran: S', 94, 470275.64);
+                         VALUES (3, '3-RED', 'Warna: RED, Ukuran: S', 97, 284696.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (3, '3-BLACK', 'Warna: BLACK, Ukuran: S', 13, 959637.94);
+                         VALUES (3, '3-GREY', 'Warna: GREY, Ukuran: S', 50, 113884.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (3, '3-WHITE-S', 'Warna: WHITE, Ukuran: S', 21, 582990.53);
+                         VALUES (3, '3-BLUE-28', 'Warna: BLUE, Ukuran: 28', 28, 712831.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (3, '3-GREY', 'Warna: GREY, Ukuran: S', 17, 906217.76);
+                         VALUES (4, '4-RED-S', 'Warna: RED, Ukuran: S', 82, 484395.06);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (3, '3-NAVY-M', 'Warna: NAVY, Ukuran: M', 0, 56395.05);
+                         VALUES (4, '4-GREY-M', 'Warna: GREY, Ukuran: M', 59, 869528.36);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (4, '4-BLACK-30', 'Warna: BLACK, Ukuran: 30', 74, 264633.17);
+                         VALUES (4, '4-BLUE-L', 'Warna: BLUE, Ukuran: L', 54, 565070.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (4, '4-GREEN-M', 'Warna: GREEN, Ukuran: M', 76, 409841.98);
+                         VALUES (4, '4-BLACK-32', 'Warna: BLACK, Ukuran: 32', 13, 221199.46);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (4, '4-WHITE-M', 'Warna: WHITE, Ukuran: M', 93, 366489.37);
+                         VALUES (4, '4-BLACK-L', 'Warna: BLACK, Ukuran: L', 42, 341269.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (5, '5-BLUE-28', 'Warna: BLUE, Ukuran: 28', 16, 532794.09);
+                         VALUES (5, '5-NAVY', 'Warna: NAVY, Ukuran: L', 92, 523990.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (5, '5-BLACK-28', 'Warna: BLACK, Ukuran: 28', 97, 759070.51);
+                         VALUES (5, '5-NAVY-28', 'Warna: NAVY, Ukuran: 28', 77, 305538.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (5, '5-GREEN-30', 'Warna: GREEN, Ukuran: 30', 99, 412868.85);
+                         VALUES (6, '6-RED-30', 'Warna: RED, Ukuran: 30', 5, 302693.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (5, '5-BLACK-L', 'Warna: BLACK, Ukuran: L', 20, 654691.99);
+                         VALUES (6, '6-GREY', 'Warna: GREY, Ukuran: 30', 26, 863900.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (6, '6-BLACK', 'Warna: BLACK, Ukuran: L', 43, 99628.06);
+                         VALUES (6, '6-BLUE-S', 'Warna: BLUE, Ukuran: S', 36, 388279.72);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (6, '6-RED-32', 'Warna: RED, Ukuran: 32', 39, 544161.03);
+                         VALUES (6, '6-NAVY-30', 'Warna: NAVY, Ukuran: 30', 75, 303259.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (6, '6-BLACK-L', 'Warna: BLACK, Ukuran: L', 43, 985619.85);
+                         VALUES (7, '7-GREY', 'Warna: GREY, Ukuran: 30', 8, 723660.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (6, '6-BLUE-M', 'Warna: BLUE, Ukuran: M', 91, 422067.26);
+                         VALUES (7, '7-BLACK', 'Warna: BLACK, Ukuran: 30', 45, 277302.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (7, '7-GREY', 'Warna: GREY, Ukuran: M', 86, 545653.42);
+                         VALUES (7, '7-BLACK-28', 'Warna: BLACK, Ukuran: 28', 24, 378059.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (7, '7-GREY-28', 'Warna: GREY, Ukuran: 28', 53, 400896.03);
+                         VALUES (7, '7-NAVY', 'Warna: NAVY, Ukuran: 28', 1, 145739.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (8, '8-BLACK-30', 'Warna: BLACK, Ukuran: 30', 4, 601973.17);
+                         VALUES (8, '8-WHITE', 'Warna: WHITE, Ukuran: 28', 42, 130459.14);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (8, '8-BLUE', 'Warna: BLUE, Ukuran: 30', 34, 272714.03);
+                         VALUES (8, '8-BLUE', 'Warna: BLUE, Ukuran: 28', 87, 658271.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (8, '8-NAVY-32', 'Warna: NAVY, Ukuran: 32', 22, 640066.41);
+                         VALUES (9, '9-GREEN', 'Warna: GREEN, Ukuran: 28', 24, 531582.25);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (8, '8-RED-M', 'Warna: RED, Ukuran: M', 4, 174843.23);
+                         VALUES (9, '9-BLUE-30', 'Warna: BLUE, Ukuran: 30', 88, 363057.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (8, '8-GREEN', 'Warna: GREEN, Ukuran: M', 80, 167469.27);
+                         VALUES (9, '9-GREEN-M', 'Warna: GREEN, Ukuran: M', 40, 910933.99);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (9, '9-BLACK', 'Warna: BLACK, Ukuran: M', 85, 569945.39);
+                         VALUES (9, '9-BLUE', 'Warna: BLUE, Ukuran: M', 79, 740548.43);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (9, '9-RED-32', 'Warna: RED, Ukuran: 32', 4, 794290.3);
+                         VALUES (9, '9-GREEN-L', 'Warna: GREEN, Ukuran: L', 87, 573020.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (10, '10-NAVY', 'Warna: NAVY, Ukuran: 32', 45, 196208.53);
+                         VALUES (10, '10-NAVY-30', 'Warna: NAVY, Ukuran: 30', 22, 267719.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (10, '10-BLUE', 'Warna: BLUE, Ukuran: 32', 79, 591630.26);
+                         VALUES (10, '10-RED-32', 'Warna: RED, Ukuran: 32', 86, 655220.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (11, '11-BLUE', 'Warna: BLUE, Ukuran: 32', 61, 355276.04);
+                         VALUES (10, '10-NAVY-L', 'Warna: NAVY, Ukuran: L', 61, 121327.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (11, '11-BLACK-28', 'Warna: BLACK, Ukuran: 28', 85, 909346.52);
+                         VALUES (11, '11-GREEN', 'Warna: GREEN, Ukuran: L', 10, 961393.21);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (11, '11-BLACK-M', 'Warna: BLACK, Ukuran: M', 0, 230445.73);
+                         VALUES (11, '11-WHITE', 'Warna: WHITE, Ukuran: L', 91, 490964.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (12, '12-GREEN', 'Warna: GREEN, Ukuran: M', 81, 282541.25);
+                         VALUES (12, '12-NAVY-M', 'Warna: NAVY, Ukuran: M', 51, 274989.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (12, '12-GREY', 'Warna: GREY, Ukuran: M', 44, 943954.18);
+                         VALUES (12, '12-BLACK-S', 'Warna: BLACK, Ukuran: S', 8, 755167.61);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (12, '12-BLUE-28', 'Warna: BLUE, Ukuran: 28', 69, 275266.2);
+                         VALUES (12, '12-NAVY', 'Warna: NAVY, Ukuran: S', 37, 360485.25);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (12, '12-NAVY-30', 'Warna: NAVY, Ukuran: 30', 12, 767421.53);
+                         VALUES (12, '12-BLACK-28', 'Warna: BLACK, Ukuran: 28', 56, 236538.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (12, '12-NAVY-28', 'Warna: NAVY, Ukuran: 28', 10, 141287.84);
+                         VALUES (12, '12-NAVY-30', 'Warna: NAVY, Ukuran: 30', 77, 812282.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (13, '13-WHITE-M', 'Warna: WHITE, Ukuran: M', 51, 387294.64);
+                         VALUES (13, '13-GREEN', 'Warna: GREEN, Ukuran: 30', 52, 681961.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (13, '13-BLACK-28', 'Warna: BLACK, Ukuran: 28', 40, 250797.56);
+                         VALUES (13, '13-RED-30', 'Warna: RED, Ukuran: 30', 59, 76319.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (14, '14-BLACK-32', 'Warna: BLACK, Ukuran: 32', 91, 891820.89);
+                         VALUES (13, '13-GREEN-L', 'Warna: GREEN, Ukuran: L', 77, 623751.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (14, '14-RED-32', 'Warna: RED, Ukuran: 32', 63, 688870.29);
+                         VALUES (13, '13-GREY', 'Warna: GREY, Ukuran: L', 41, 363415.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (14, '14-BLACK', 'Warna: BLACK, Ukuran: 32', 29, 197938.33);
+                         VALUES (13, '13-NAVY', 'Warna: NAVY, Ukuran: L', 86, 127596.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (14, '14-RED', 'Warna: RED, Ukuran: 32', 73, 118830.11);
+                         VALUES (14, '14-RED-M', 'Warna: RED, Ukuran: M', 24, 731075.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (15, '15-BLACK-32', 'Warna: BLACK, Ukuran: 32', 16, 456274.57);
+                         VALUES (14, '14-BLACK-M', 'Warna: BLACK, Ukuran: M', 30, 881773.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (15, '15-GREY-L', 'Warna: GREY, Ukuran: L', 27, 579650.71);
+                         VALUES (14, '14-NAVY', 'Warna: NAVY, Ukuran: M', 37, 432547.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (16, '16-RED', 'Warna: RED, Ukuran: L', 16, 976364.94);
+                         VALUES (14, '14-RED', 'Warna: RED, Ukuran: M', 68, 581307.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (16, '16-GREEN-M', 'Warna: GREEN, Ukuran: M', 41, 596371.01);
+                         VALUES (14, '14-NAVY-30', 'Warna: NAVY, Ukuran: 30', 98, 828300.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (16, '16-NAVY-30', 'Warna: NAVY, Ukuran: 30', 4, 272855.24);
+                         VALUES (15, '15-WHITE-28', 'Warna: WHITE, Ukuran: 28', 62, 718284.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (16, '16-GREEN-L', 'Warna: GREEN, Ukuran: L', 74, 405039.93);
+                         VALUES (15, '15-WHITE', 'Warna: WHITE, Ukuran: 28', 89, 547835.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (16, '16-BLUE-30', 'Warna: BLUE, Ukuran: 30', 66, 843486.04);
+                         VALUES (15, '15-GREY', 'Warna: GREY, Ukuran: 28', 54, 108301.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (17, '17-NAVY', 'Warna: NAVY, Ukuran: 30', 11, 146004.33);
+                         VALUES (16, '16-BLACK-S', 'Warna: BLACK, Ukuran: S', 97, 646094.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (17, '17-BLACK-S', 'Warna: BLACK, Ukuran: S', 3, 986625.95);
+                         VALUES (16, '16-RED-L', 'Warna: RED, Ukuran: L', 87, 741433.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (18, '18-RED-L', 'Warna: RED, Ukuran: L', 2, 458503.9);
+                         VALUES (16, '16-GREEN', 'Warna: GREEN, Ukuran: L', 21, 534027.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (18, '18-GREEN-32', 'Warna: GREEN, Ukuran: 32', 65, 527001.32);
+                         VALUES (17, '17-RED', 'Warna: RED, Ukuran: L', 11, 641842.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (18, '18-BLUE-M', 'Warna: BLUE, Ukuran: M', 68, 259929.6);
+                         VALUES (17, '17-BLACK-32', 'Warna: BLACK, Ukuran: 32', 76, 556759.62);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (19, '19-WHITE', 'Warna: WHITE, Ukuran: M', 34, 622186.45);
+                         VALUES (17, '17-NAVY', 'Warna: NAVY, Ukuran: 32', 54, 922599.57);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (19, '19-NAVY-M', 'Warna: NAVY, Ukuran: M', 76, 699572.89);
+                         VALUES (18, '18-GREY', 'Warna: GREY, Ukuran: 32', 47, 261290.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (19, '19-NAVY-28', 'Warna: NAVY, Ukuran: 28', 15, 708910.78);
+                         VALUES (18, '18-GREY-32', 'Warna: GREY, Ukuran: 32', 20, 437600.82);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (19, '19-NAVY', 'Warna: NAVY, Ukuran: 28', 17, 335588.7);
+                         VALUES (19, '19-NAVY', 'Warna: NAVY, Ukuran: 32', 87, 560978.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (19, '19-RED', 'Warna: RED, Ukuran: 28', 82, 531198.27);
+                         VALUES (19, '19-RED-30', 'Warna: RED, Ukuran: 30', 85, 577434.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (20, '20-GREY-28', 'Warna: GREY, Ukuran: 28', 8, 122896.7);
+                         VALUES (19, '19-NAVY-M', 'Warna: NAVY, Ukuran: M', 23, 769362.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (20, '20-BLACK', 'Warna: BLACK, Ukuran: 28', 13, 110714.69);
+                         VALUES (20, '20-RED-28', 'Warna: RED, Ukuran: 28', 33, 103250.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (20, '20-BLUE', 'Warna: BLUE, Ukuran: 28', 91, 100603.7);
+                         VALUES (20, '20-RED', 'Warna: RED, Ukuran: 28', 48, 493720.72);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (20, '20-BLACK-32', 'Warna: BLACK, Ukuran: 32', 23, 877850.32);
+                         VALUES (21, '21-GREY-L', 'Warna: GREY, Ukuran: L', 34, 293396.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (21, '21-WHITE-28', 'Warna: WHITE, Ukuran: 28', 12, 345826.32);
+                         VALUES (21, '21-WHITE-28', 'Warna: WHITE, Ukuran: 28', 62, 750862.33);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (21, '21-GREY', 'Warna: GREY, Ukuran: 28', 73, 661801.13);
+                         VALUES (21, '21-GREY-28', 'Warna: GREY, Ukuran: 28', 0, 149490.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (22, '22-WHITE', 'Warna: WHITE, Ukuran: 28', 91, 567048.57);
+                         VALUES (22, '22-BLUE-28', 'Warna: BLUE, Ukuran: 28', 98, 99988.07);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (22, '22-WHITE-32', 'Warna: WHITE, Ukuran: 32', 50, 499460.16);
+                         VALUES (22, '22-NAVY-30', 'Warna: NAVY, Ukuran: 30', 93, 540419.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (22, '22-NAVY', 'Warna: NAVY, Ukuran: 32', 83, 208840.11);
+                         VALUES (22, '22-NAVY-M', 'Warna: NAVY, Ukuran: M', 35, 297051.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (23, '23-GREY', 'Warna: GREY, Ukuran: 32', 65, 835963.12);
+                         VALUES (22, '22-BLACK-L', 'Warna: BLACK, Ukuran: L', 83, 836391.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (23, '23-BLACK-32', 'Warna: BLACK, Ukuran: 32', 31, 509232.96);
+                         VALUES (23, '23-GREEN-S', 'Warna: GREEN, Ukuran: S', 58, 81120.62);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (23, '23-BLACK-M', 'Warna: BLACK, Ukuran: M', 17, 542364.66);
+                         VALUES (23, '23-GREY-32', 'Warna: GREY, Ukuran: 32', 12, 567000.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (24, '24-GREEN', 'Warna: GREEN, Ukuran: M', 37, 322211.9);
+                         VALUES (23, '23-WHITE-L', 'Warna: WHITE, Ukuran: L', 97, 134208.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (24, '24-WHITE', 'Warna: WHITE, Ukuran: M', 11, 231679.8);
+                         VALUES (24, '24-BLACK-32', 'Warna: BLACK, Ukuran: 32', 68, 264231.31);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (24, '24-BLACK-32', 'Warna: BLACK, Ukuran: 32', 9, 915503.76);
+                         VALUES (24, '24-WHITE', 'Warna: WHITE, Ukuran: 32', 80, 871438.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (25, '25-BLACK-M', 'Warna: BLACK, Ukuran: M', 29, 476581.15);
+                         VALUES (24, '24-BLACK-30', 'Warna: BLACK, Ukuran: 30', 98, 908185.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (25, '25-NAVY', 'Warna: NAVY, Ukuran: M', 46, 865943.65);
+                         VALUES (24, '24-RED-S', 'Warna: RED, Ukuran: S', 96, 919583.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (25, '25-GREY-S', 'Warna: GREY, Ukuran: S', 79, 91045.51);
+                         VALUES (25, '25-WHITE', 'Warna: WHITE, Ukuran: S', 87, 505226.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (26, '26-GREY-M', 'Warna: GREY, Ukuran: M', 25, 903335.02);
+                         VALUES (25, '25-NAVY', 'Warna: NAVY, Ukuran: S', 48, 245272.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (26, '26-BLUE-28', 'Warna: BLUE, Ukuran: 28', 42, 563765.5);
+                         VALUES (26, '26-BLACK', 'Warna: BLACK, Ukuran: S', 47, 86567.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (27, '27-GREY-L', 'Warna: GREY, Ukuran: L', 0, 641743.74);
+                         VALUES (26, '26-RED', 'Warna: RED, Ukuran: S', 65, 636466.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (27, '27-GREEN', 'Warna: GREEN, Ukuran: L', 95, 149092.37);
+                         VALUES (26, '26-GREY-30', 'Warna: GREY, Ukuran: 30', 2, 289024.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (28, '28-NAVY', 'Warna: NAVY, Ukuran: L', 39, 931359.53);
+                         VALUES (27, '27-RED', 'Warna: RED, Ukuran: 30', 37, 202873.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (28, '28-BLUE', 'Warna: BLUE, Ukuran: L', 89, 831675.31);
+                         VALUES (27, '27-RED-28', 'Warna: RED, Ukuran: 28', 72, 954689.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (28, '28-GREY', 'Warna: GREY, Ukuran: L', 44, 467028.03);
+                         VALUES (27, '27-RED-M', 'Warna: RED, Ukuran: M', 43, 608565.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (28, '28-RED-M', 'Warna: RED, Ukuran: M', 44, 122900.27);
+                         VALUES (27, '27-BLACK-L', 'Warna: BLACK, Ukuran: L', 23, 842242.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (29, '29-BLUE-S', 'Warna: BLUE, Ukuran: S', 66, 122494.97);
+                         VALUES (27, '27-GREY-30', 'Warna: GREY, Ukuran: 30', 5, 880997.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (29, '29-GREY', 'Warna: GREY, Ukuran: S', 35, 417535.16);
+                         VALUES (28, '28-GREY', 'Warna: GREY, Ukuran: 30', 50, 676644.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (30, '30-GREEN-28', 'Warna: GREEN, Ukuran: 28', 62, 733053.85);
+                         VALUES (28, '28-BLUE', 'Warna: BLUE, Ukuran: 30', 62, 750727.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (30, '30-WHITE', 'Warna: WHITE, Ukuran: 28', 9, 129079.15);
+                         VALUES (29, '29-RED-32', 'Warna: RED, Ukuran: 32', 10, 129541.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (30, '30-RED', 'Warna: RED, Ukuran: 28', 71, 698351.49);
+                         VALUES (29, '29-GREEN-S', 'Warna: GREEN, Ukuran: S', 36, 106453.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (31, '31-BLUE-L', 'Warna: BLUE, Ukuran: L', 48, 453957.29);
+                         VALUES (29, '29-GREEN-28', 'Warna: GREEN, Ukuran: 28', 85, 908912.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (31, '31-RED-28', 'Warna: RED, Ukuran: 28', 3, 547719.81);
+                         VALUES (29, '29-NAVY-M', 'Warna: NAVY, Ukuran: M', 18, 344500.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (32, '32-GREY-L', 'Warna: GREY, Ukuran: L', 95, 124728.05);
+                         VALUES (30, '30-GREEN', 'Warna: GREEN, Ukuran: M', 54, 380397.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (32, '32-GREEN-S', 'Warna: GREEN, Ukuran: S', 46, 90024.61);
+                         VALUES (30, '30-GREY', 'Warna: GREY, Ukuran: M', 93, 731738.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (32, '32-NAVY-32', 'Warna: NAVY, Ukuran: 32', 65, 443290.06);
+                         VALUES (30, '30-BLUE', 'Warna: BLUE, Ukuran: M', 1, 834641.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (33, '33-WHITE-S', 'Warna: WHITE, Ukuran: S', 14, 763284.54);
+                         VALUES (30, '30-NAVY', 'Warna: NAVY, Ukuran: M', 50, 129417.53);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (33, '33-BLACK-M', 'Warna: BLACK, Ukuran: M', 89, 98884.07);
+                         VALUES (30, '30-BLACK-S', 'Warna: BLACK, Ukuran: S', 33, 626494.46);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (33, '33-BLACK', 'Warna: BLACK, Ukuran: M', 9, 677759.89);
+                         VALUES (31, '31-NAVY-L', 'Warna: NAVY, Ukuran: L', 16, 379922.53);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (33, '33-GREY', 'Warna: GREY, Ukuran: M', 4, 314666.39);
+                         VALUES (31, '31-NAVY-30', 'Warna: NAVY, Ukuran: 30', 41, 356040.78);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (34, '34-RED', 'Warna: RED, Ukuran: M', 77, 291545.95);
+                         VALUES (32, '32-GREEN', 'Warna: GREEN, Ukuran: 30', 63, 364932.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (34, '34-WHITE', 'Warna: WHITE, Ukuran: M', 92, 103389.45);
+                         VALUES (32, '32-BLACK-30', 'Warna: BLACK, Ukuran: 30', 7, 801624.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (34, '34-BLACK-S', 'Warna: BLACK, Ukuran: S', 8, 93609.28);
+                         VALUES (32, '32-GREY-L', 'Warna: GREY, Ukuran: L', 37, 315635.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (35, '35-RED', 'Warna: RED, Ukuran: S', 49, 606467.71);
+                         VALUES (32, '32-BLACK-32', 'Warna: BLACK, Ukuran: 32', 1, 163668.27);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (35, '35-GREEN', 'Warna: GREEN, Ukuran: S', 27, 659404.46);
+                         VALUES (32, '32-RED', 'Warna: RED, Ukuran: 32', 40, 674801.68);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (35, '35-NAVY-32', 'Warna: NAVY, Ukuran: 32', 31, 869749.81);
+                         VALUES (33, '33-GREY', 'Warna: GREY, Ukuran: 32', 99, 597437.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (35, '35-BLACK-M', 'Warna: BLACK, Ukuran: M', 77, 904650.94);
+                         VALUES (33, '33-NAVY-28', 'Warna: NAVY, Ukuran: 28', 18, 660148.48);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (36, '36-RED-L', 'Warna: RED, Ukuran: L', 72, 229577.07);
+                         VALUES (33, '33-GREY-32', 'Warna: GREY, Ukuran: 32', 42, 237405.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (36, '36-BLUE-L', 'Warna: BLUE, Ukuran: L', 86, 753667.85);
+                         VALUES (34, '34-WHITE', 'Warna: WHITE, Ukuran: 32', 81, 427405.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (36, '36-NAVY', 'Warna: NAVY, Ukuran: L', 48, 92134.01);
+                         VALUES (34, '34-RED', 'Warna: RED, Ukuran: 32', 34, 72849.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (36, '36-GREEN', 'Warna: GREEN, Ukuran: L', 6, 580356.85);
+                         VALUES (34, '34-BLACK-28', 'Warna: BLACK, Ukuran: 28', 54, 965554.42);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (36, '36-RED-M', 'Warna: RED, Ukuran: M', 54, 943624.62);
+                         VALUES (34, '34-GREY', 'Warna: GREY, Ukuran: 28', 78, 904073.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (37, '37-GREY', 'Warna: GREY, Ukuran: M', 77, 983186.74);
+                         VALUES (34, '34-NAVY', 'Warna: NAVY, Ukuran: 28', 88, 340562.72);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (37, '37-GREEN-30', 'Warna: GREEN, Ukuran: 30', 45, 608078.42);
+                         VALUES (35, '35-GREEN-S', 'Warna: GREEN, Ukuran: S', 89, 377977.6);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (37, '37-BLACK', 'Warna: BLACK, Ukuran: 30', 67, 282214.01);
+                         VALUES (35, '35-GREEN', 'Warna: GREEN, Ukuran: S', 50, 416414.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (37, '37-GREY-28', 'Warna: GREY, Ukuran: 28', 64, 435989.62);
+                         VALUES (36, '36-GREY', 'Warna: GREY, Ukuran: S', 48, 650005.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (38, '38-GREY-M', 'Warna: GREY, Ukuran: M', 89, 539979.77);
+                         VALUES (36, '36-NAVY', 'Warna: NAVY, Ukuran: S', 2, 240835.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (38, '38-NAVY-32', 'Warna: NAVY, Ukuran: 32', 97, 607005.55);
+                         VALUES (37, '37-RED-S', 'Warna: RED, Ukuran: S', 10, 854332.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (39, '39-GREEN', 'Warna: GREEN, Ukuran: 32', 18, 571708.9);
+                         VALUES (37, '37-GREEN-M', 'Warna: GREEN, Ukuran: M', 72, 406274.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (39, '39-BLUE', 'Warna: BLUE, Ukuran: 32', 96, 190707.54);
+                         VALUES (38, '38-NAVY', 'Warna: NAVY, Ukuran: M', 59, 148256.96);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (39, '39-BLACK', 'Warna: BLACK, Ukuran: 32', 72, 197751.96);
+                         VALUES (38, '38-WHITE-30', 'Warna: WHITE, Ukuran: 30', 77, 632737.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (40, '40-BLUE', 'Warna: BLUE, Ukuran: 32', 17, 518972.5);
+                         VALUES (38, '38-BLACK-M', 'Warna: BLACK, Ukuran: M', 41, 963708.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (40, '40-BLUE-30', 'Warna: BLUE, Ukuran: 30', 20, 584663.0);
+                         VALUES (39, '39-GREEN-M', 'Warna: GREEN, Ukuran: M', 89, 878668.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (40, '40-WHITE-M', 'Warna: WHITE, Ukuran: M', 25, 851026.49);
+                         VALUES (39, '39-GREEN-L', 'Warna: GREEN, Ukuran: L', 54, 57527.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (41, '41-WHITE', 'Warna: WHITE, Ukuran: M', 77, 116517.54);
+                         VALUES (39, '39-GREEN', 'Warna: GREEN, Ukuran: L', 73, 242348.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (41, '41-BLACK', 'Warna: BLACK, Ukuran: M', 67, 990797.92);
+                         VALUES (39, '39-GREY-M', 'Warna: GREY, Ukuran: M', 29, 214627.4);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (41, '41-BLUE', 'Warna: BLUE, Ukuran: M', 1, 627165.32);
+                         VALUES (40, '40-GREY-M', 'Warna: GREY, Ukuran: M', 67, 862331.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (41, '41-RED', 'Warna: RED, Ukuran: M', 71, 630746.32);
+                         VALUES (40, '40-RED', 'Warna: RED, Ukuran: M', 89, 812912.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (42, '42-BLACK', 'Warna: BLACK, Ukuran: M', 54, 402072.1);
+                         VALUES (41, '41-GREEN-M', 'Warna: GREEN, Ukuran: M', 27, 966717.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (42, '42-BLUE', 'Warna: BLUE, Ukuran: M', 87, 503676.6);
+                         VALUES (41, '41-GREEN', 'Warna: GREEN, Ukuran: M', 86, 961528.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (42, '42-RED', 'Warna: RED, Ukuran: M', 54, 835763.44);
+                         VALUES (41, '41-BLUE-32', 'Warna: BLUE, Ukuran: 32', 22, 447740.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (42, '42-NAVY-S', 'Warna: NAVY, Ukuran: S', 95, 247100.65);
+                         VALUES (41, '41-WHITE', 'Warna: WHITE, Ukuran: 32', 82, 855082.77);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (43, '43-WHITE-32', 'Warna: WHITE, Ukuran: 32', 69, 190631.51);
+                         VALUES (42, '42-BLACK-S', 'Warna: BLACK, Ukuran: S', 45, 638971.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (43, '43-GREEN-30', 'Warna: GREEN, Ukuran: 30', 40, 938001.15);
+                         VALUES (42, '42-BLUE-L', 'Warna: BLUE, Ukuran: L', 71, 688162.55);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (44, '44-NAVY-30', 'Warna: NAVY, Ukuran: 30', 8, 491101.62);
+                         VALUES (42, '42-GREY', 'Warna: GREY, Ukuran: L', 81, 256221.42);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (44, '44-BLACK', 'Warna: BLACK, Ukuran: 30', 66, 645409.15);
+                         VALUES (42, '42-WHITE', 'Warna: WHITE, Ukuran: L', 91, 274765.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (44, '44-WHITE-30', 'Warna: WHITE, Ukuran: 30', 97, 409156.22);
+                         VALUES (42, '42-WHITE-28', 'Warna: WHITE, Ukuran: 28', 4, 980067.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (44, '44-GREY', 'Warna: GREY, Ukuran: 30', 11, 997010.5);
+                         VALUES (43, '43-BLACK', 'Warna: BLACK, Ukuran: 28', 13, 464400.6);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (45, '45-NAVY', 'Warna: NAVY, Ukuran: 30', 100, 399306.51);
+                         VALUES (43, '43-GREY-28', 'Warna: GREY, Ukuran: 28', 44, 430602.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (45, '45-GREEN', 'Warna: GREEN, Ukuran: 30', 62, 134213.07);
+                         VALUES (44, '44-NAVY-S', 'Warna: NAVY, Ukuran: S', 19, 618352.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (45, '45-GREEN-32', 'Warna: GREEN, Ukuran: 32', 66, 939901.36);
+                         VALUES (44, '44-NAVY-L', 'Warna: NAVY, Ukuran: L', 87, 928943.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (45, '45-GREY', 'Warna: GREY, Ukuran: 32', 20, 330514.88);
+                         VALUES (44, '44-GREY-28', 'Warna: GREY, Ukuran: 28', 26, 331043.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (46, '46-BLACK', 'Warna: BLACK, Ukuran: 32', 20, 98071.25);
+                         VALUES (45, '45-BLACK', 'Warna: BLACK, Ukuran: 28', 47, 63314.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (46, '46-GREEN', 'Warna: GREEN, Ukuran: 32', 66, 353405.03);
+                         VALUES (45, '45-BLUE', 'Warna: BLUE, Ukuran: 28', 99, 669740.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (46, '46-BLUE', 'Warna: BLUE, Ukuran: 32', 23, 676852.49);
+                         VALUES (45, '45-BLUE-32', 'Warna: BLUE, Ukuran: 32', 73, 852644.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (47, '47-BLACK', 'Warna: BLACK, Ukuran: 32', 46, 55864.17);
+                         VALUES (46, '46-RED', 'Warna: RED, Ukuran: 32', 81, 897357.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (47, '47-BLUE', 'Warna: BLUE, Ukuran: 32', 86, 858246.65);
+                         VALUES (46, '46-NAVY-28', 'Warna: NAVY, Ukuran: 28', 99, 896786.75);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (47, '47-WHITE', 'Warna: WHITE, Ukuran: 32', 69, 776147.49);
+                         VALUES (46, '46-BLUE-28', 'Warna: BLUE, Ukuran: 28', 89, 54291.06);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (48, '48-RED-28', 'Warna: RED, Ukuran: 28', 51, 840313.8);
+                         VALUES (47, '47-BLACK-30', 'Warna: BLACK, Ukuran: 30', 34, 281543.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (48, '48-WHITE-M', 'Warna: WHITE, Ukuran: M', 80, 384180.55);
+                         VALUES (47, '47-GREY-L', 'Warna: GREY, Ukuran: L', 33, 617641.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (49, '49-GREEN', 'Warna: GREEN, Ukuran: M', 18, 282289.84);
+                         VALUES (47, '47-RED-28', 'Warna: RED, Ukuran: 28', 31, 266941.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (49, '49-NAVY-L', 'Warna: NAVY, Ukuran: L', 35, 790353.41);
+                         VALUES (47, '47-WHITE', 'Warna: WHITE, Ukuran: 28', 75, 514471.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (49, '49-BLACK', 'Warna: BLACK, Ukuran: L', 4, 504881.82);
+                         VALUES (48, '48-BLACK-L', 'Warna: BLACK, Ukuran: L', 86, 375624.72);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (50, '50-WHITE', 'Warna: WHITE, Ukuran: L', 59, 147372.05);
+                         VALUES (48, '48-BLUE', 'Warna: BLUE, Ukuran: L', 98, 488538.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (50, '50-RED', 'Warna: RED, Ukuran: L', 4, 72441.74);
+                         VALUES (48, '48-NAVY', 'Warna: NAVY, Ukuran: L', 83, 686187.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (50, '50-BLACK', 'Warna: BLACK, Ukuran: L', 69, 683169.41);
+                         VALUES (49, '49-BLACK', 'Warna: BLACK, Ukuran: L', 25, 543021.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (50, '50-WHITE-28', 'Warna: WHITE, Ukuran: 28', 55, 343174.7);
+                         VALUES (49, '49-NAVY', 'Warna: NAVY, Ukuran: L', 0, 77491.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (51, '51-RED-S', 'Warna: RED, Ukuran: S', 94, 58775.85);
+                         VALUES (49, '49-BLUE-32', 'Warna: BLUE, Ukuran: 32', 5, 978529.48);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (51, '51-NAVY-32', 'Warna: NAVY, Ukuran: 32', 1, 908861.71);
+                         VALUES (49, '49-GREEN', 'Warna: GREEN, Ukuran: 32', 72, 881191.36);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (51, '51-GREEN', 'Warna: GREEN, Ukuran: 32', 28, 137149.77);
+                         VALUES (50, '50-BLACK', 'Warna: BLACK, Ukuran: 32', 90, 888119.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (52, '52-NAVY-S', 'Warna: NAVY, Ukuran: S', 50, 588997.12);
+                         VALUES (50, '50-BLUE-L', 'Warna: BLUE, Ukuran: L', 4, 286948.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (52, '52-GREEN-M', 'Warna: GREEN, Ukuran: M', 44, 545441.43);
+                         VALUES (50, '50-GREEN-30', 'Warna: GREEN, Ukuran: 30', 5, 227744.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (52, '52-GREEN-30', 'Warna: GREEN, Ukuran: 30', 85, 650423.09);
+                         VALUES (50, '50-RED', 'Warna: RED, Ukuran: 30', 21, 967502.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (52, '52-BLACK-30', 'Warna: BLACK, Ukuran: 30', 37, 516626.24);
+                         VALUES (50, '50-BLUE-32', 'Warna: BLUE, Ukuran: 32', 34, 796419.21);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (53, '53-BLACK-L', 'Warna: BLACK, Ukuran: L', 23, 440724.36);
+                         VALUES (51, '51-GREY-L', 'Warna: GREY, Ukuran: L', 52, 55132.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (53, '53-RED-S', 'Warna: RED, Ukuran: S', 29, 187815.68);
+                         VALUES (51, '51-GREY', 'Warna: GREY, Ukuran: L', 58, 211765.62);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (53, '53-RED', 'Warna: RED, Ukuran: S', 59, 257410.33);
+                         VALUES (51, '51-GREEN-30', 'Warna: GREEN, Ukuran: 30', 45, 154414.99);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (53, '53-WHITE-32', 'Warna: WHITE, Ukuran: 32', 85, 319330.41);
+                         VALUES (52, '52-WHITE-S', 'Warna: WHITE, Ukuran: S', 6, 231163.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (53, '53-BLACK-32', 'Warna: BLACK, Ukuran: 32', 18, 360016.85);
+                         VALUES (52, '52-WHITE', 'Warna: WHITE, Ukuran: S', 85, 359900.77);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (54, '54-GREEN', 'Warna: GREEN, Ukuran: 32', 71, 547856.91);
+                         VALUES (52, '52-BLUE', 'Warna: BLUE, Ukuran: S', 64, 220754.55);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (54, '54-BLACK', 'Warna: BLACK, Ukuran: 32', 8, 450918.5);
+                         VALUES (52, '52-GREY-28', 'Warna: GREY, Ukuran: 28', 75, 637421.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (55, '55-BLUE-L', 'Warna: BLUE, Ukuran: L', 67, 994623.05);
+                         VALUES (53, '53-RED', 'Warna: RED, Ukuran: 28', 15, 609958.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (55, '55-GREEN-L', 'Warna: GREEN, Ukuran: L', 10, 320384.74);
+                         VALUES (53, '53-GREEN-L', 'Warna: GREEN, Ukuran: L', 53, 294678.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (56, '56-RED-M', 'Warna: RED, Ukuran: M', 61, 675864.81);
+                         VALUES (53, '53-BLUE-30', 'Warna: BLUE, Ukuran: 30', 31, 394605.18);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (56, '56-GREEN-L', 'Warna: GREEN, Ukuran: L', 74, 532882.46);
+                         VALUES (53, '53-BLUE-S', 'Warna: BLUE, Ukuran: S', 11, 602592.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (57, '57-BLACK-30', 'Warna: BLACK, Ukuran: 30', 58, 95047.62);
+                         VALUES (53, '53-NAVY-32', 'Warna: NAVY, Ukuran: 32', 87, 133743.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (57, '57-GREY-32', 'Warna: GREY, Ukuran: 32', 81, 328122.78);
+                         VALUES (54, '54-GREEN', 'Warna: GREEN, Ukuran: 32', 97, 670176.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (57, '57-GREEN-S', 'Warna: GREEN, Ukuran: S', 40, 375483.99);
+                         VALUES (54, '54-NAVY-30', 'Warna: NAVY, Ukuran: 30', 55, 331280.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (57, '57-BLACK-28', 'Warna: BLACK, Ukuran: 28', 67, 521614.34);
+                         VALUES (54, '54-WHITE-S', 'Warna: WHITE, Ukuran: S', 32, 725595.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (58, '58-WHITE-M', 'Warna: WHITE, Ukuran: M', 97, 785713.62);
+                         VALUES (54, '54-GREEN-S', 'Warna: GREEN, Ukuran: S', 5, 909711.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (58, '58-RED', 'Warna: RED, Ukuran: M', 33, 790644.21);
+                         VALUES (55, '55-RED', 'Warna: RED, Ukuran: S', 51, 237203.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (58, '58-GREEN', 'Warna: GREEN, Ukuran: M', 43, 320027.57);
+                         VALUES (55, '55-WHITE', 'Warna: WHITE, Ukuran: S', 91, 275575.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (59, '59-NAVY', 'Warna: NAVY, Ukuran: M', 32, 98580.48);
+                         VALUES (56, '56-NAVY-L', 'Warna: NAVY, Ukuran: L', 8, 964445.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (59, '59-WHITE-S', 'Warna: WHITE, Ukuran: S', 89, 558205.14);
+                         VALUES (56, '56-BLACK', 'Warna: BLACK, Ukuran: L', 15, 571329.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (59, '59-BLUE-L', 'Warna: BLUE, Ukuran: L', 19, 959846.85);
+                         VALUES (56, '56-BLUE-32', 'Warna: BLUE, Ukuran: 32', 46, 311768.28);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (59, '59-RED-28', 'Warna: RED, Ukuran: 28', 76, 144359.99);
+                         VALUES (56, '56-GREEN', 'Warna: GREEN, Ukuran: 32', 71, 853097.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (60, '60-BLUE-32', 'Warna: BLUE, Ukuran: 32', 5, 595004.89);
+                         VALUES (56, '56-NAVY', 'Warna: NAVY, Ukuran: 32', 50, 778021.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (60, '60-RED', 'Warna: RED, Ukuran: 32', 55, 501990.11);
+                         VALUES (57, '57-WHITE', 'Warna: WHITE, Ukuran: 32', 10, 917898.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (61, '61-RED-S', 'Warna: RED, Ukuran: S', 41, 162840.14);
+                         VALUES (57, '57-NAVY-M', 'Warna: NAVY, Ukuran: M', 42, 291529.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (61, '61-RED', 'Warna: RED, Ukuran: S', 49, 650865.86);
+                         VALUES (57, '57-BLUE-L', 'Warna: BLUE, Ukuran: L', 94, 50550.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (61, '61-BLACK-28', 'Warna: BLACK, Ukuran: 28', 85, 564770.54);
+                         VALUES (58, '58-RED', 'Warna: RED, Ukuran: L', 79, 517548.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (61, '61-NAVY', 'Warna: NAVY, Ukuran: 28', 60, 564546.27);
+                         VALUES (58, '58-RED-S', 'Warna: RED, Ukuran: S', 44, 66293.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (61, '61-WHITE', 'Warna: WHITE, Ukuran: 28', 97, 746596.65);
+                         VALUES (58, '58-NAVY', 'Warna: NAVY, Ukuran: S', 68, 421187.55);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (62, '62-RED', 'Warna: RED, Ukuran: 28', 96, 810412.04);
+                         VALUES (58, '58-RED-30', 'Warna: RED, Ukuran: 30', 42, 752151.43);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (62, '62-BLACK-L', 'Warna: BLACK, Ukuran: L', 22, 338394.42);
+                         VALUES (58, '58-WHITE-S', 'Warna: WHITE, Ukuran: S', 48, 905424.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (62, '62-WHITE-30', 'Warna: WHITE, Ukuran: 30', 79, 71801.16);
+                         VALUES (59, '59-NAVY', 'Warna: NAVY, Ukuran: S', 0, 329443.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (62, '62-WHITE', 'Warna: WHITE, Ukuran: 30', 85, 257547.31);
+                         VALUES (59, '59-WHITE', 'Warna: WHITE, Ukuran: S', 53, 138051.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (63, '63-GREEN', 'Warna: GREEN, Ukuran: 30', 89, 245348.17);
+                         VALUES (60, '60-GREEN-S', 'Warna: GREEN, Ukuran: S', 24, 55321.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (63, '63-GREY', 'Warna: GREY, Ukuran: 30', 66, 292556.0);
+                         VALUES (60, '60-WHITE', 'Warna: WHITE, Ukuran: S', 83, 232665.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (63, '63-BLUE-S', 'Warna: BLUE, Ukuran: S', 53, 580916.29);
+                         VALUES (60, '60-NAVY', 'Warna: NAVY, Ukuran: S', 93, 434865.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (64, '64-GREY-32', 'Warna: GREY, Ukuran: 32', 33, 371417.16);
+                         VALUES (60, '60-BLUE', 'Warna: BLUE, Ukuran: S', 18, 227100.63);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (64, '64-GREEN', 'Warna: GREEN, Ukuran: 32', 17, 738112.74);
+                         VALUES (61, '61-GREY', 'Warna: GREY, Ukuran: S', 61, 575224.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (65, '65-BLACK', 'Warna: BLACK, Ukuran: 32', 35, 254256.93);
+                         VALUES (61, '61-BLUE-M', 'Warna: BLUE, Ukuran: M', 22, 275604.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (65, '65-BLACK-32', 'Warna: BLACK, Ukuran: 32', 13, 823614.3);
+                         VALUES (61, '61-GREEN-S', 'Warna: GREEN, Ukuran: S', 61, 191820.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (65, '65-GREY', 'Warna: GREY, Ukuran: 32', 75, 946233.5);
+                         VALUES (61, '61-NAVY', 'Warna: NAVY, Ukuran: S', 37, 506080.06);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (65, '65-GREEN-M', 'Warna: GREEN, Ukuran: M', 3, 232788.23);
+                         VALUES (61, '61-RED-32', 'Warna: RED, Ukuran: 32', 21, 429237.16);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (65, '65-GREY-28', 'Warna: GREY, Ukuran: 28', 2, 996716.77);
+                         VALUES (62, '62-GREEN', 'Warna: GREEN, Ukuran: 32', 58, 646563.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (66, '66-BLUE', 'Warna: BLUE, Ukuran: 28', 1, 418157.76);
+                         VALUES (62, '62-WHITE', 'Warna: WHITE, Ukuran: 32', 15, 109330.07);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (66, '66-GREY', 'Warna: GREY, Ukuran: 28', 32, 692054.02);
+                         VALUES (63, '63-NAVY-M', 'Warna: NAVY, Ukuran: M', 19, 795861.78);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (67, '67-GREEN-S', 'Warna: GREEN, Ukuran: S', 42, 60086.83);
+                         VALUES (63, '63-NAVY', 'Warna: NAVY, Ukuran: M', 98, 301846.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (67, '67-WHITE', 'Warna: WHITE, Ukuran: S', 51, 527226.35);
+                         VALUES (64, '64-NAVY', 'Warna: NAVY, Ukuran: M', 1, 53603.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (67, '67-RED-30', 'Warna: RED, Ukuran: 30', 77, 450780.61);
+                         VALUES (64, '64-BLUE-S', 'Warna: BLUE, Ukuran: S', 2, 540506.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (68, '68-RED', 'Warna: RED, Ukuran: 30', 41, 479917.34);
+                         VALUES (65, '65-BLUE', 'Warna: BLUE, Ukuran: S', 40, 881525.31);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (68, '68-WHITE-30', 'Warna: WHITE, Ukuran: 30', 72, 698309.98);
+                         VALUES (65, '65-GREEN', 'Warna: GREEN, Ukuran: S', 40, 359452.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (68, '68-WHITE', 'Warna: WHITE, Ukuran: 30', 52, 710211.3);
+                         VALUES (65, '65-GREEN-32', 'Warna: GREEN, Ukuran: 32', 32, 761149.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (69, '69-RED', 'Warna: RED, Ukuran: 30', 79, 504497.39);
+                         VALUES (66, '66-BLACK', 'Warna: BLACK, Ukuran: 32', 75, 960284.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (69, '69-BLUE-S', 'Warna: BLUE, Ukuran: S', 14, 334532.44);
+                         VALUES (66, '66-BLUE-30', 'Warna: BLUE, Ukuran: 30', 6, 980047.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (70, '70-WHITE-30', 'Warna: WHITE, Ukuran: 30', 38, 406332.78);
+                         VALUES (67, '67-BLACK', 'Warna: BLACK, Ukuran: 30', 12, 209637.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (70, '70-BLACK-30', 'Warna: BLACK, Ukuran: 30', 57, 154884.47);
+                         VALUES (67, '67-GREY-30', 'Warna: GREY, Ukuran: 30', 51, 388777.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (71, '71-GREY', 'Warna: GREY, Ukuran: 30', 53, 891444.66);
+                         VALUES (67, '67-BLUE', 'Warna: BLUE, Ukuran: 30', 92, 963024.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (71, '71-RED-32', 'Warna: RED, Ukuran: 32', 86, 995809.41);
+                         VALUES (67, '67-RED-28', 'Warna: RED, Ukuran: 28', 53, 265338.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (72, '72-WHITE-32', 'Warna: WHITE, Ukuran: 32', 57, 576528.28);
+                         VALUES (68, '68-GREEN', 'Warna: GREEN, Ukuran: 28', 76, 999899.4);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (72, '72-BLUE-30', 'Warna: BLUE, Ukuran: 30', 44, 819457.59);
+                         VALUES (68, '68-BLUE-S', 'Warna: BLUE, Ukuran: S', 94, 296921.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (72, '72-RED', 'Warna: RED, Ukuran: 30', 35, 982648.13);
+                         VALUES (68, '68-NAVY-30', 'Warna: NAVY, Ukuran: 30', 11, 221546.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (73, '73-NAVY-M', 'Warna: NAVY, Ukuran: M', 43, 891951.04);
+                         VALUES (69, '69-GREEN-30', 'Warna: GREEN, Ukuran: 30', 59, 147262.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (73, '73-BLUE-30', 'Warna: BLUE, Ukuran: 30', 84, 138464.99);
+                         VALUES (69, '69-WHITE-30', 'Warna: WHITE, Ukuran: 30', 87, 703967.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (73, '73-WHITE', 'Warna: WHITE, Ukuran: 30', 53, 411516.61);
+                         VALUES (69, '69-BLACK', 'Warna: BLACK, Ukuran: 30', 6, 618894.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (73, '73-GREY', 'Warna: GREY, Ukuran: 30', 87, 465843.72);
+                         VALUES (70, '70-RED', 'Warna: RED, Ukuran: 30', 37, 229123.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (74, '74-RED', 'Warna: RED, Ukuran: 30', 81, 230824.79);
+                         VALUES (70, '70-NAVY-32', 'Warna: NAVY, Ukuran: 32', 100, 542856.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (74, '74-NAVY', 'Warna: NAVY, Ukuran: 30', 31, 525726.12);
+                         VALUES (70, '70-RED-L', 'Warna: RED, Ukuran: L', 17, 190649.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (74, '74-BLACK', 'Warna: BLACK, Ukuran: 30', 76, 803036.82);
+                         VALUES (71, '71-BLUE', 'Warna: BLUE, Ukuran: L', 13, 98020.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (74, '74-NAVY-30', 'Warna: NAVY, Ukuran: 30', 41, 717081.91);
+                         VALUES (71, '71-WHITE-S', 'Warna: WHITE, Ukuran: S', 10, 205321.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (75, '75-BLACK-28', 'Warna: BLACK, Ukuran: 28', 18, 277118.57);
+                         VALUES (71, '71-WHITE', 'Warna: WHITE, Ukuran: S', 64, 158495.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (75, '75-RED-L', 'Warna: RED, Ukuran: L', 0, 152927.23);
+                         VALUES (71, '71-GREY', 'Warna: GREY, Ukuran: S', 8, 480332.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (75, '75-GREY-M', 'Warna: GREY, Ukuran: M', 99, 130060.37);
+                         VALUES (72, '72-WHITE-30', 'Warna: WHITE, Ukuran: 30', 17, 154922.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (76, '76-BLUE-28', 'Warna: BLUE, Ukuran: 28', 12, 225641.92);
+                         VALUES (72, '72-BLACK', 'Warna: BLACK, Ukuran: 30', 33, 191217.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (76, '76-WHITE', 'Warna: WHITE, Ukuran: 28', 40, 587658.3);
+                         VALUES (73, '73-BLACK-M', 'Warna: BLACK, Ukuran: M', 75, 558698.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (76, '76-BLACK', 'Warna: BLACK, Ukuran: 28', 1, 68641.78);
+                         VALUES (73, '73-RED', 'Warna: RED, Ukuran: M', 54, 529073.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (76, '76-RED', 'Warna: RED, Ukuran: 28', 66, 779055.4);
+                         VALUES (73, '73-BLACK-32', 'Warna: BLACK, Ukuran: 32', 44, 927564.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (77, '77-BLUE-M', 'Warna: BLUE, Ukuran: M', 29, 963215.09);
+                         VALUES (73, '73-NAVY', 'Warna: NAVY, Ukuran: 32', 99, 905852.07);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (77, '77-GREY-32', 'Warna: GREY, Ukuran: 32', 67, 269135.4);
+                         VALUES (74, '74-NAVY', 'Warna: NAVY, Ukuran: 32', 63, 600828.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (77, '77-BLUE-30', 'Warna: BLUE, Ukuran: 30', 98, 281241.14);
+                         VALUES (74, '74-GREEN-28', 'Warna: GREEN, Ukuran: 28', 8, 675356.79);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (77, '77-RED-M', 'Warna: RED, Ukuran: M', 87, 534902.84);
+                         VALUES (74, '74-WHITE-M', 'Warna: WHITE, Ukuran: M', 44, 462054.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (78, '78-NAVY-28', 'Warna: NAVY, Ukuran: 28', 11, 756498.55);
+                         VALUES (75, '75-BLUE', 'Warna: BLUE, Ukuran: M', 56, 271495.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (78, '78-NAVY', 'Warna: NAVY, Ukuran: 28', 69, 384881.84);
+                         VALUES (75, '75-BLACK', 'Warna: BLACK, Ukuran: M', 22, 912760.16);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (78, '78-RED', 'Warna: RED, Ukuran: 28', 33, 429520.23);
+                         VALUES (75, '75-RED', 'Warna: RED, Ukuran: M', 95, 885109.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (78, '78-BLUE-30', 'Warna: BLUE, Ukuran: 30', 3, 918652.28);
+                         VALUES (76, '76-WHITE', 'Warna: WHITE, Ukuran: M', 13, 628434.6);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (79, '79-GREEN', 'Warna: GREEN, Ukuran: 30', 60, 332760.24);
+                         VALUES (76, '76-BLACK-28', 'Warna: BLACK, Ukuran: 28', 32, 608584.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (79, '79-BLACK-28', 'Warna: BLACK, Ukuran: 28', 21, 358269.42);
+                         VALUES (76, '76-BLACK', 'Warna: BLACK, Ukuran: 28', 60, 304350.31);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (79, '79-WHITE', 'Warna: WHITE, Ukuran: 28', 4, 958430.46);
+                         VALUES (77, '77-GREEN', 'Warna: GREEN, Ukuran: 28', 55, 479867.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (79, '79-GREY', 'Warna: GREY, Ukuran: 28', 12, 880856.94);
+                         VALUES (77, '77-BLACK-L', 'Warna: BLACK, Ukuran: L', 72, 473984.29);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (80, '80-GREEN', 'Warna: GREEN, Ukuran: 28', 29, 642570.08);
+                         VALUES (78, '78-GREY-L', 'Warna: GREY, Ukuran: L', 13, 877889.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (80, '80-NAVY-30', 'Warna: NAVY, Ukuran: 30', 73, 212205.41);
+                         VALUES (78, '78-BLACK', 'Warna: BLACK, Ukuran: L', 63, 827831.46);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (80, '80-WHITE-30', 'Warna: WHITE, Ukuran: 30', 37, 849635.17);
+                         VALUES (78, '78-BLACK-32', 'Warna: BLACK, Ukuran: 32', 36, 186897.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (81, '81-RED', 'Warna: RED, Ukuran: 30', 30, 162015.99);
+                         VALUES (79, '79-NAVY', 'Warna: NAVY, Ukuran: 32', 91, 377541.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (81, '81-GREEN-32', 'Warna: GREEN, Ukuran: 32', 1, 810724.96);
+                         VALUES (79, '79-WHITE', 'Warna: WHITE, Ukuran: 32', 55, 71917.13);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (81, '81-WHITE-M', 'Warna: WHITE, Ukuran: M', 70, 476269.02);
+                         VALUES (79, '79-WHITE-M', 'Warna: WHITE, Ukuran: M', 22, 555365.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (82, '82-WHITE-28', 'Warna: WHITE, Ukuran: 28', 58, 534757.4);
+                         VALUES (79, '79-GREEN', 'Warna: GREEN, Ukuran: M', 43, 276226.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (82, '82-GREY-30', 'Warna: GREY, Ukuran: 30', 10, 461722.93);
+                         VALUES (80, '80-GREY', 'Warna: GREY, Ukuran: M', 95, 981401.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (82, '82-GREY-L', 'Warna: GREY, Ukuran: L', 13, 929960.55);
+                         VALUES (80, '80-BLACK', 'Warna: BLACK, Ukuran: M', 76, 295821.53);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (82, '82-GREY', 'Warna: GREY, Ukuran: L', 41, 661818.33);
+                         VALUES (80, '80-GREY-S', 'Warna: GREY, Ukuran: S', 22, 663878.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (83, '83-GREEN', 'Warna: GREEN, Ukuran: L', 12, 515782.11);
+                         VALUES (81, '81-RED-32', 'Warna: RED, Ukuran: 32', 21, 501232.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (83, '83-GREY-32', 'Warna: GREY, Ukuran: 32', 10, 684330.23);
+                         VALUES (81, '81-GREEN', 'Warna: GREEN, Ukuran: 32', 63, 699763.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (83, '83-BLACK', 'Warna: BLACK, Ukuran: 32', 32, 577018.37);
+                         VALUES (81, '81-BLUE', 'Warna: BLUE, Ukuran: 32', 66, 709338.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (83, '83-WHITE-S', 'Warna: WHITE, Ukuran: S', 18, 559121.8);
+                         VALUES (81, '81-NAVY', 'Warna: NAVY, Ukuran: 32', 19, 305231.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (84, '84-GREEN', 'Warna: GREEN, Ukuran: S', 27, 333130.47);
+                         VALUES (82, '82-RED', 'Warna: RED, Ukuran: 32', 85, 960555.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (84, '84-RED-M', 'Warna: RED, Ukuran: M', 59, 690757.6);
+                         VALUES (82, '82-GREEN', 'Warna: GREEN, Ukuran: 32', 61, 625175.77);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (85, '85-WHITE-30', 'Warna: WHITE, Ukuran: 30', 19, 127058.13);
+                         VALUES (82, '82-GREY', 'Warna: GREY, Ukuran: 32', 90, 225184.6);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (85, '85-RED-30', 'Warna: RED, Ukuran: 30', 56, 918774.69);
+                         VALUES (82, '82-BLACK-28', 'Warna: BLACK, Ukuran: 28', 49, 189668.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (85, '85-GREEN-32', 'Warna: GREEN, Ukuran: 32', 10, 658623.73);
+                         VALUES (83, '83-BLUE', 'Warna: BLUE, Ukuran: 28', 57, 643903.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (85, '85-GREEN-L', 'Warna: GREEN, Ukuran: L', 45, 78933.49);
+                         VALUES (83, '83-RED-L', 'Warna: RED, Ukuran: L', 75, 202550.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (85, '85-NAVY-28', 'Warna: NAVY, Ukuran: 28', 57, 740177.78);
+                         VALUES (83, '83-NAVY-S', 'Warna: NAVY, Ukuran: S', 13, 845308.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (86, '86-RED', 'Warna: RED, Ukuran: 28', 51, 943747.6);
+                         VALUES (83, '83-GREEN-28', 'Warna: GREEN, Ukuran: 28', 12, 891416.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (86, '86-GREEN-M', 'Warna: GREEN, Ukuran: M', 90, 262831.91);
+                         VALUES (84, '84-BLACK', 'Warna: BLACK, Ukuran: 28', 53, 537079.75);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (87, '87-BLACK', 'Warna: BLACK, Ukuran: M', 88, 437476.23);
+                         VALUES (84, '84-BLACK-S', 'Warna: BLACK, Ukuran: S', 75, 908400.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (87, '87-WHITE', 'Warna: WHITE, Ukuran: M', 72, 733437.36);
+                         VALUES (85, '85-NAVY-32', 'Warna: NAVY, Ukuran: 32', 47, 923945.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (87, '87-WHITE-S', 'Warna: WHITE, Ukuran: S', 91, 264077.19);
+                         VALUES (85, '85-BLACK', 'Warna: BLACK, Ukuran: 32', 21, 139496.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (88, '88-BLACK', 'Warna: BLACK, Ukuran: S', 55, 413138.24);
+                         VALUES (85, '85-GREEN-M', 'Warna: GREEN, Ukuran: M', 19, 915639.31);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (88, '88-NAVY', 'Warna: NAVY, Ukuran: S', 10, 442686.97);
+                         VALUES (86, '86-NAVY', 'Warna: NAVY, Ukuran: M', 27, 898286.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (88, '88-GREEN', 'Warna: GREEN, Ukuran: S', 41, 818180.76);
+                         VALUES (86, '86-GREEN-30', 'Warna: GREEN, Ukuran: 30', 6, 708545.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (88, '88-RED-L', 'Warna: RED, Ukuran: L', 1, 90266.61);
+                         VALUES (87, '87-RED', 'Warna: RED, Ukuran: 30', 62, 740204.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (89, '89-BLUE', 'Warna: BLUE, Ukuran: L', 41, 281368.51);
+                         VALUES (87, '87-BLUE', 'Warna: BLUE, Ukuran: 30', 37, 83817.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (89, '89-RED-S', 'Warna: RED, Ukuran: S', 71, 359394.85);
+                         VALUES (87, '87-GREY-L', 'Warna: GREY, Ukuran: L', 91, 981763.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (89, '89-NAVY', 'Warna: NAVY, Ukuran: S', 37, 341319.02);
+                         VALUES (87, '87-RED-32', 'Warna: RED, Ukuran: 32', 4, 330274.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (89, '89-BLUE-S', 'Warna: BLUE, Ukuran: S', 9, 653407.95);
+                         VALUES (87, '87-GREEN-L', 'Warna: GREEN, Ukuran: L', 19, 313330.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (90, '90-WHITE-28', 'Warna: WHITE, Ukuran: 28', 90, 772295.76);
+                         VALUES (88, '88-GREY-L', 'Warna: GREY, Ukuran: L', 38, 786730.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (90, '90-GREEN', 'Warna: GREEN, Ukuran: 28', 90, 458509.68);
+                         VALUES (88, '88-NAVY-30', 'Warna: NAVY, Ukuran: 30', 0, 466820.21);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (91, '91-BLACK-30', 'Warna: BLACK, Ukuran: 30', 94, 353003.9);
+                         VALUES (88, '88-BLUE', 'Warna: BLUE, Ukuran: 30', 73, 405749.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (91, '91-RED-28', 'Warna: RED, Ukuran: 28', 33, 968833.63);
+                         VALUES (88, '88-BLACK-30', 'Warna: BLACK, Ukuran: 30', 94, 723016.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (91, '91-BLACK', 'Warna: BLACK, Ukuran: 28', 100, 282263.89);
+                         VALUES (89, '89-WHITE-L', 'Warna: WHITE, Ukuran: L', 61, 74317.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (91, '91-BLACK-S', 'Warna: BLACK, Ukuran: S', 95, 774802.26);
+                         VALUES (89, '89-NAVY', 'Warna: NAVY, Ukuran: L', 85, 440381.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (92, '92-NAVY', 'Warna: NAVY, Ukuran: 28', 2, 435126.97);
+                         VALUES (89, '89-GREEN', 'Warna: GREEN, Ukuran: L', 57, 875090.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (92, '92-GREEN-30', 'Warna: GREEN, Ukuran: 30', 2, 785528.17);
+                         VALUES (89, '89-GREY-S', 'Warna: GREY, Ukuran: S', 13, 440004.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (92, '92-BLUE', 'Warna: BLUE, Ukuran: 30', 83, 634550.0);
+                         VALUES (90, '90-GREY', 'Warna: GREY, Ukuran: S', 36, 112547.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (92, '92-BLACK-M', 'Warna: BLACK, Ukuran: M', 38, 803137.81);
+                         VALUES (90, '90-BLUE-S', 'Warna: BLUE, Ukuran: S', 47, 226084.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (92, '92-WHITE-32', 'Warna: WHITE, Ukuran: 32', 78, 596060.36);
+                         VALUES (90, '90-GREEN', 'Warna: GREEN, Ukuran: S', 6, 542202.82);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (93, '93-BLACK', 'Warna: BLACK, Ukuran: 32', 58, 815225.66);
+                         VALUES (90, '90-GREY-30', 'Warna: GREY, Ukuran: 30', 24, 390701.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (93, '93-NAVY-M', 'Warna: NAVY, Ukuran: M', 51, 846965.0);
+                         VALUES (91, '91-NAVY', 'Warna: NAVY, Ukuran: 30', 40, 231062.4);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (93, '93-BLACK-S', 'Warna: BLACK, Ukuran: S', 30, 707184.11);
+                         VALUES (91, '91-RED', 'Warna: RED, Ukuran: 30', 77, 252614.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (93, '93-WHITE-L', 'Warna: WHITE, Ukuran: L', 66, 140324.39);
+                         VALUES (91, '91-WHITE-28', 'Warna: WHITE, Ukuran: 28', 36, 464947.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (94, '94-GREEN', 'Warna: GREEN, Ukuran: L', 72, 200802.37);
+                         VALUES (91, '91-BLUE', 'Warna: BLUE, Ukuran: 28', 99, 169728.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (94, '94-NAVY-28', 'Warna: NAVY, Ukuran: 28', 72, 112069.38);
+                         VALUES (92, '92-GREEN', 'Warna: GREEN, Ukuran: 28', 95, 141611.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (95, '95-WHITE', 'Warna: WHITE, Ukuran: 28', 99, 978178.51);
+                         VALUES (92, '92-NAVY-30', 'Warna: NAVY, Ukuran: 30', 61, 116690.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (95, '95-NAVY-M', 'Warna: NAVY, Ukuran: M', 70, 257329.88);
+                         VALUES (92, '92-GREY', 'Warna: GREY, Ukuran: 30', 52, 597887.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (95, '95-BLACK-28', 'Warna: BLACK, Ukuran: 28', 29, 692288.85);
+                         VALUES (92, '92-NAVY-32', 'Warna: NAVY, Ukuran: 32', 38, 932740.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (96, '96-WHITE', 'Warna: WHITE, Ukuran: 28', 85, 733098.23);
+                         VALUES (92, '92-WHITE', 'Warna: WHITE, Ukuran: 32', 17, 244444.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (96, '96-NAVY-M', 'Warna: NAVY, Ukuran: M', 50, 290330.27);
+                         VALUES (93, '93-WHITE', 'Warna: WHITE, Ukuran: 32', 52, 709703.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (97, '97-GREY-S', 'Warna: GREY, Ukuran: S', 62, 776538.87);
+                         VALUES (93, '93-RED', 'Warna: RED, Ukuran: 32', 30, 827440.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (97, '97-BLACK-S', 'Warna: BLACK, Ukuran: S', 13, 729587.98);
+                         VALUES (94, '94-RED-30', 'Warna: RED, Ukuran: 30', 27, 464433.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (97, '97-BLUE', 'Warna: BLUE, Ukuran: S', 26, 460235.64);
+                         VALUES (94, '94-GREEN', 'Warna: GREEN, Ukuran: 30', 24, 601354.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (98, '98-GREEN', 'Warna: GREEN, Ukuran: S', 70, 292598.54);
+                         VALUES (94, '94-BLUE-28', 'Warna: BLUE, Ukuran: 28', 47, 965857.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (98, '98-BLUE-28', 'Warna: BLUE, Ukuran: 28', 36, 605682.91);
+                         VALUES (94, '94-GREY', 'Warna: GREY, Ukuran: 28', 36, 369799.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (98, '98-BLACK-32', 'Warna: BLACK, Ukuran: 32', 2, 356214.35);
+                         VALUES (95, '95-WHITE-30', 'Warna: WHITE, Ukuran: 30', 64, 835892.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (99, '99-RED-M', 'Warna: RED, Ukuran: M', 36, 96051.53);
+                         VALUES (95, '95-RED-S', 'Warna: RED, Ukuran: S', 98, 54934.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (99, '99-GREEN', 'Warna: GREEN, Ukuran: M', 58, 620564.36);
+                         VALUES (95, '95-GREEN-L', 'Warna: GREEN, Ukuran: L', 62, 596686.36);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (99, '99-GREEN-S', 'Warna: GREEN, Ukuran: S', 59, 110570.41);
+                         VALUES (95, '95-WHITE', 'Warna: WHITE, Ukuran: L', 11, 954990.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (100, '100-GREEN', 'Warna: GREEN, Ukuran: S', 78, 466928.69);
+                         VALUES (96, '96-RED', 'Warna: RED, Ukuran: L', 54, 460000.57);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (100, '100-RED-M', 'Warna: RED, Ukuran: M', 40, 124433.15);
+                         VALUES (96, '96-GREY', 'Warna: GREY, Ukuran: L', 31, 167478.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (101, '101-NAVY-M', 'Warna: NAVY, Ukuran: M', 67, 360847.65);
+                         VALUES (97, '97-WHITE-30', 'Warna: WHITE, Ukuran: 30', 54, 457600.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (101, '101-WHITE', 'Warna: WHITE, Ukuran: M', 1, 767386.86);
+                         VALUES (97, '97-GREY', 'Warna: GREY, Ukuran: 30', 51, 200292.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (102, '102-RED-L', 'Warna: RED, Ukuran: L', 21, 986112.15);
+                         VALUES (97, '97-NAVY', 'Warna: NAVY, Ukuran: 30', 74, 355387.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (102, '102-GREY-L', 'Warna: GREY, Ukuran: L', 79, 348098.76);
+                         VALUES (97, '97-NAVY-S', 'Warna: NAVY, Ukuran: S', 93, 447447.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (102, '102-RED', 'Warna: RED, Ukuran: L', 1, 351910.04);
+                         VALUES (97, '97-GREEN', 'Warna: GREEN, Ukuran: S', 19, 978010.14);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (102, '102-WHITE', 'Warna: WHITE, Ukuran: L', 9, 265149.62);
+                         VALUES (98, '98-GREY-32', 'Warna: GREY, Ukuran: 32', 19, 793325.29);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (102, '102-BLUE-30', 'Warna: BLUE, Ukuran: 30', 13, 689407.08);
+                         VALUES (98, '98-GREEN-S', 'Warna: GREEN, Ukuran: S', 67, 277749.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (103, '103-GREEN-28', 'Warna: GREEN, Ukuran: 28', 89, 215844.04);
+                         VALUES (98, '98-RED-28', 'Warna: RED, Ukuran: 28', 85, 585200.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (103, '103-NAVY', 'Warna: NAVY, Ukuran: 28', 19, 805197.37);
+                         VALUES (98, '98-GREEN-30', 'Warna: GREEN, Ukuran: 30', 97, 883431.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (103, '103-BLACK-M', 'Warna: BLACK, Ukuran: M', 13, 273788.49);
+                         VALUES (99, '99-RED', 'Warna: RED, Ukuran: 30', 82, 960269.55);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (104, '104-NAVY', 'Warna: NAVY, Ukuran: M', 3, 246233.62);
+                         VALUES (99, '99-WHITE-30', 'Warna: WHITE, Ukuran: 30', 61, 510212.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (104, '104-GREEN', 'Warna: GREEN, Ukuran: M', 20, 705397.08);
+                         VALUES (100, '100-BLUE', 'Warna: BLUE, Ukuran: 30', 52, 533211.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (105, '105-BLUE', 'Warna: BLUE, Ukuran: M', 94, 691739.88);
+                         VALUES (100, '100-NAVY-L', 'Warna: NAVY, Ukuran: L', 87, 692337.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (105, '105-NAVY', 'Warna: NAVY, Ukuran: M', 29, 384704.53);
+                         VALUES (101, '101-BLACK-30', 'Warna: BLACK, Ukuran: 30', 66, 230812.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (105, '105-WHITE', 'Warna: WHITE, Ukuran: M', 24, 389758.16);
+                         VALUES (101, '101-GREEN', 'Warna: GREEN, Ukuran: 30', 73, 453735.61);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (105, '105-NAVY-32', 'Warna: NAVY, Ukuran: 32', 98, 284008.41);
+                         VALUES (102, '102-BLUE-S', 'Warna: BLUE, Ukuran: S', 5, 375004.14);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (106, '106-GREY', 'Warna: GREY, Ukuran: 32', 56, 759979.64);
+                         VALUES (102, '102-GREY-L', 'Warna: GREY, Ukuran: L', 51, 756705.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (107, '107-NAVY', 'Warna: NAVY, Ukuran: 32', 24, 904498.21);
+                         VALUES (102, '102-BLACK', 'Warna: BLACK, Ukuran: L', 37, 202298.04);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (107, '107-BLUE', 'Warna: BLUE, Ukuran: 32', 95, 291655.51);
+                         VALUES (102, '102-BLUE-M', 'Warna: BLUE, Ukuran: M', 51, 201041.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (107, '107-GREY', 'Warna: GREY, Ukuran: 32', 29, 264659.46);
+                         VALUES (103, '103-GREEN', 'Warna: GREEN, Ukuran: M', 67, 816327.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (107, '107-WHITE', 'Warna: WHITE, Ukuran: 32', 0, 183772.43);
+                         VALUES (103, '103-RED-L', 'Warna: RED, Ukuran: L', 92, 264359.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (107, '107-WHITE-M', 'Warna: WHITE, Ukuran: M', 68, 693199.05);
+                         VALUES (103, '103-BLUE-M', 'Warna: BLUE, Ukuran: M', 38, 642333.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (108, '108-GREY-32', 'Warna: GREY, Ukuran: 32', 99, 100242.97);
+                         VALUES (104, '104-GREY-L', 'Warna: GREY, Ukuran: L', 27, 724112.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (108, '108-BLACK', 'Warna: BLACK, Ukuran: 32', 1, 558317.73);
+                         VALUES (104, '104-BLACK-28', 'Warna: BLACK, Ukuran: 28', 16, 540410.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (108, '108-WHITE-M', 'Warna: WHITE, Ukuran: M', 17, 742012.13);
+                         VALUES (104, '104-RED', 'Warna: RED, Ukuran: 28', 80, 530278.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (108, '108-GREY', 'Warna: GREY, Ukuran: M', 35, 446693.53);
+                         VALUES (104, '104-GREEN-S', 'Warna: GREEN, Ukuran: S', 86, 352676.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (108, '108-WHITE', 'Warna: WHITE, Ukuran: M', 28, 729616.8);
+                         VALUES (105, '105-BLUE-L', 'Warna: BLUE, Ukuran: L', 96, 239440.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (109, '109-NAVY-S', 'Warna: NAVY, Ukuran: S', 91, 550370.34);
+                         VALUES (105, '105-RED-30', 'Warna: RED, Ukuran: 30', 32, 833592.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (109, '109-WHITE', 'Warna: WHITE, Ukuran: S', 36, 470264.59);
+                         VALUES (106, '106-GREY-32', 'Warna: GREY, Ukuran: 32', 89, 294003.68);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (109, '109-GREEN-30', 'Warna: GREEN, Ukuran: 30', 74, 426770.34);
+                         VALUES (106, '106-BLUE', 'Warna: BLUE, Ukuran: 32', 85, 994951.42);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (110, '110-GREY-L', 'Warna: GREY, Ukuran: L', 98, 609379.02);
+                         VALUES (107, '107-GREEN-28', 'Warna: GREEN, Ukuran: 28', 20, 255227.29);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (110, '110-BLUE', 'Warna: BLUE, Ukuran: L', 88, 534292.76);
+                         VALUES (107, '107-BLUE-S', 'Warna: BLUE, Ukuran: S', 17, 920479.18);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (110, '110-GREY-M', 'Warna: GREY, Ukuran: M', 13, 493726.72);
+                         VALUES (107, '107-NAVY', 'Warna: NAVY, Ukuran: S', 76, 849142.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (110, '110-NAVY', 'Warna: NAVY, Ukuran: M', 23, 604889.66);
+                         VALUES (108, '108-GREEN', 'Warna: GREEN, Ukuran: S', 13, 361297.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (110, '110-GREY-32', 'Warna: GREY, Ukuran: 32', 58, 620652.61);
+                         VALUES (108, '108-GREY', 'Warna: GREY, Ukuran: S', 39, 682055.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (111, '111-WHITE-32', 'Warna: WHITE, Ukuran: 32', 35, 887760.1);
+                         VALUES (109, '109-GREEN', 'Warna: GREEN, Ukuran: S', 91, 358714.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (111, '111-BLACK-28', 'Warna: BLACK, Ukuran: 28', 99, 787540.34);
+                         VALUES (109, '109-NAVY-32', 'Warna: NAVY, Ukuran: 32', 45, 471961.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (111, '111-BLACK', 'Warna: BLACK, Ukuran: 28', 75, 288697.1);
+                         VALUES (109, '109-WHITE', 'Warna: WHITE, Ukuran: 32', 14, 755318.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (111, '111-GREY-32', 'Warna: GREY, Ukuran: 32', 88, 190375.06);
+                         VALUES (109, '109-RED-30', 'Warna: RED, Ukuran: 30', 46, 839215.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (111, '111-GREEN', 'Warna: GREEN, Ukuran: 32', 89, 514644.04);
+                         VALUES (110, '110-GREEN', 'Warna: GREEN, Ukuran: 30', 50, 651181.75);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (112, '112-BLUE-S', 'Warna: BLUE, Ukuran: S', 60, 463616.07);
+                         VALUES (110, '110-NAVY-30', 'Warna: NAVY, Ukuran: 30', 91, 818935.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (112, '112-NAVY', 'Warna: NAVY, Ukuran: S', 70, 106511.68);
+                         VALUES (110, '110-GREY', 'Warna: GREY, Ukuran: 30', 14, 247881.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (113, '113-BLACK-32', 'Warna: BLACK, Ukuran: 32', 12, 672550.65);
+                         VALUES (110, '110-BLACK', 'Warna: BLACK, Ukuran: 30', 63, 212543.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (113, '113-RED', 'Warna: RED, Ukuran: 32', 42, 191303.94);
+                         VALUES (110, '110-BLUE', 'Warna: BLUE, Ukuran: 30', 26, 824678.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (113, '113-GREEN', 'Warna: GREEN, Ukuran: 32', 22, 124498.57);
+                         VALUES (111, '111-GREEN', 'Warna: GREEN, Ukuran: 30', 61, 301705.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (113, '113-GREY', 'Warna: GREY, Ukuran: 32', 41, 376807.03);
+                         VALUES (111, '111-WHITE', 'Warna: WHITE, Ukuran: 30', 59, 312439.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (114, '114-GREEN-L', 'Warna: GREEN, Ukuran: L', 26, 988130.72);
+                         VALUES (111, '111-GREEN-M', 'Warna: GREEN, Ukuran: M', 66, 57489.77);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (114, '114-GREY-S', 'Warna: GREY, Ukuran: S', 17, 194838.03);
+                         VALUES (111, '111-BLACK', 'Warna: BLACK, Ukuran: M', 21, 364247.35);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (115, '115-WHITE-S', 'Warna: WHITE, Ukuran: S', 24, 318007.9);
+                         VALUES (112, '112-GREEN-S', 'Warna: GREEN, Ukuran: S', 80, 354460.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (115, '115-RED', 'Warna: RED, Ukuran: S', 47, 386304.22);
+                         VALUES (112, '112-RED', 'Warna: RED, Ukuran: S', 39, 790331.57);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (115, '115-GREEN-30', 'Warna: GREEN, Ukuran: 30', 66, 81452.84);
+                         VALUES (112, '112-BLACK', 'Warna: BLACK, Ukuran: S', 94, 852502.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (116, '116-GREY', 'Warna: GREY, Ukuran: 30', 17, 646587.03);
+                         VALUES (112, '112-WHITE-32', 'Warna: WHITE, Ukuran: 32', 81, 379817.36);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (116, '116-NAVY-32', 'Warna: NAVY, Ukuran: 32', 62, 496535.88);
+                         VALUES (113, '113-NAVY', 'Warna: NAVY, Ukuran: 32', 100, 681988.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (116, '116-RED-S', 'Warna: RED, Ukuran: S', 77, 430656.59);
+                         VALUES (113, '113-RED-28', 'Warna: RED, Ukuran: 28', 15, 128182.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (116, '116-BLACK', 'Warna: BLACK, Ukuran: S', 43, 53665.48);
+                         VALUES (113, '113-BLACK', 'Warna: BLACK, Ukuran: 28', 59, 708886.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (117, '117-BLUE-30', 'Warna: BLUE, Ukuran: 30', 72, 898365.16);
+                         VALUES (114, '114-GREEN-S', 'Warna: GREEN, Ukuran: S', 86, 411870.83);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (117, '117-NAVY-30', 'Warna: NAVY, Ukuran: 30', 71, 757749.82);
+                         VALUES (114, '114-RED', 'Warna: RED, Ukuran: S', 39, 154136.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (118, '118-WHITE', 'Warna: WHITE, Ukuran: 30', 90, 942635.97);
+                         VALUES (114, '114-WHITE', 'Warna: WHITE, Ukuran: S', 97, 850907.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (118, '118-BLACK', 'Warna: BLACK, Ukuran: 30', 11, 567087.64);
+                         VALUES (114, '114-BLACK-S', 'Warna: BLACK, Ukuran: S', 96, 359015.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (119, '119-BLUE', 'Warna: BLUE, Ukuran: 30', 37, 469036.52);
+                         VALUES (114, '114-BLACK', 'Warna: BLACK, Ukuran: S', 65, 150298.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (119, '119-WHITE-S', 'Warna: WHITE, Ukuran: S', 27, 93256.52);
+                         VALUES (115, '115-BLUE', 'Warna: BLUE, Ukuran: S', 82, 329118.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (119, '119-BLACK-M', 'Warna: BLACK, Ukuran: M', 8, 367325.37);
+                         VALUES (115, '115-WHITE-30', 'Warna: WHITE, Ukuran: 30', 9, 423451.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (119, '119-GREY', 'Warna: GREY, Ukuran: M', 18, 597547.18);
+                         VALUES (116, '116-NAVY', 'Warna: NAVY, Ukuran: 30', 47, 568208.16);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (120, '120-NAVY-M', 'Warna: NAVY, Ukuran: M', 53, 96442.43);
+                         VALUES (116, '116-GREEN-L', 'Warna: GREEN, Ukuran: L', 98, 767871.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (120, '120-WHITE', 'Warna: WHITE, Ukuran: M', 14, 55979.57);
+                         VALUES (117, '117-BLACK-30', 'Warna: BLACK, Ukuran: 30', 34, 292317.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (120, '120-BLUE-S', 'Warna: BLUE, Ukuran: S', 85, 443186.13);
+                         VALUES (117, '117-GREEN-L', 'Warna: GREEN, Ukuran: L', 89, 915224.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (121, '121-GREY', 'Warna: GREY, Ukuran: S', 46, 91606.37);
+                         VALUES (117, '117-BLUE-S', 'Warna: BLUE, Ukuran: S', 22, 185923.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (121, '121-BLUE', 'Warna: BLUE, Ukuran: S', 69, 492165.86);
+                         VALUES (117, '117-RED', 'Warna: RED, Ukuran: S', 4, 364420.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (121, '121-BLACK-28', 'Warna: BLACK, Ukuran: 28', 71, 769277.81);
+                         VALUES (118, '118-GREEN-S', 'Warna: GREEN, Ukuran: S', 80, 652583.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (122, '122-BLACK-28', 'Warna: BLACK, Ukuran: 28', 8, 683864.38);
+                         VALUES (118, '118-NAVY', 'Warna: NAVY, Ukuran: S', 91, 659036.33);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (122, '122-RED', 'Warna: RED, Ukuran: 28', 88, 850330.98);
+                         VALUES (118, '118-BLUE-M', 'Warna: BLUE, Ukuran: M', 1, 443702.03);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (123, '123-NAVY-M', 'Warna: NAVY, Ukuran: M', 30, 996932.25);
+                         VALUES (118, '118-NAVY-32', 'Warna: NAVY, Ukuran: 32', 13, 504877.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (123, '123-RED-L', 'Warna: RED, Ukuran: L', 4, 793446.73);
+                         VALUES (118, '118-GREEN', 'Warna: GREEN, Ukuran: 32', 21, 588998.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (124, '124-WHITE-M', 'Warna: WHITE, Ukuran: M', 53, 475844.52);
+                         VALUES (119, '119-BLUE-M', 'Warna: BLUE, Ukuran: M', 98, 255780.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (124, '124-RED-S', 'Warna: RED, Ukuran: S', 79, 213481.54);
+                         VALUES (119, '119-GREEN-M', 'Warna: GREEN, Ukuran: M', 97, 161545.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (124, '124-WHITE-30', 'Warna: WHITE, Ukuran: 30', 57, 453630.76);
+                         VALUES (120, '120-GREY', 'Warna: GREY, Ukuran: M', 56, 849331.4);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (124, '124-WHITE-28', 'Warna: WHITE, Ukuran: 28', 32, 616808.04);
+                         VALUES (120, '120-RED', 'Warna: RED, Ukuran: M', 18, 376774.79);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (125, '125-GREY-28', 'Warna: GREY, Ukuran: 28', 16, 284897.51);
+                         VALUES (120, '120-BLACK', 'Warna: BLACK, Ukuran: M', 68, 122274.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (125, '125-BLUE', 'Warna: BLUE, Ukuran: 28', 80, 595074.7);
+                         VALUES (121, '121-BLACK', 'Warna: BLACK, Ukuran: M', 29, 131533.18);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (126, '126-BLUE-L', 'Warna: BLUE, Ukuran: L', 77, 726790.57);
+                         VALUES (121, '121-BLACK-M', 'Warna: BLACK, Ukuran: M', 68, 633518.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (126, '126-BLUE-S', 'Warna: BLUE, Ukuran: S', 43, 68046.17);
+                         VALUES (122, '122-GREEN-32', 'Warna: GREEN, Ukuran: 32', 70, 546349.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (126, '126-WHITE', 'Warna: WHITE, Ukuran: S', 75, 553917.77);
+                         VALUES (122, '122-BLACK-32', 'Warna: BLACK, Ukuran: 32', 86, 107379.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (126, '126-RED', 'Warna: RED, Ukuran: S', 12, 151279.11);
+                         VALUES (122, '122-RED-28', 'Warna: RED, Ukuran: 28', 67, 649086.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (126, '126-GREY', 'Warna: GREY, Ukuran: S', 16, 282412.77);
+                         VALUES (122, '122-WHITE', 'Warna: WHITE, Ukuran: 28', 44, 663338.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (127, '127-RED', 'Warna: RED, Ukuran: S', 34, 205598.93);
+                         VALUES (122, '122-RED', 'Warna: RED, Ukuran: 28', 20, 340987.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (127, '127-NAVY-32', 'Warna: NAVY, Ukuran: 32', 9, 217026.08);
+                         VALUES (123, '123-NAVY-L', 'Warna: NAVY, Ukuran: L', 99, 792335.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (127, '127-WHITE-32', 'Warna: WHITE, Ukuran: 32', 50, 446188.99);
+                         VALUES (123, '123-BLACK-30', 'Warna: BLACK, Ukuran: 30', 13, 671309.62);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (127, '127-BLACK-M', 'Warna: BLACK, Ukuran: M', 12, 715638.47);
+                         VALUES (124, '124-GREY-L', 'Warna: GREY, Ukuran: L', 93, 680405.99);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (127, '127-GREY-28', 'Warna: GREY, Ukuran: 28', 52, 272805.61);
+                         VALUES (124, '124-BLACK', 'Warna: BLACK, Ukuran: L', 91, 532227.42);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (128, '128-GREY', 'Warna: GREY, Ukuran: 28', 21, 739085.41);
+                         VALUES (125, '125-BLUE-28', 'Warna: BLUE, Ukuran: 28', 14, 91263.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (128, '128-NAVY', 'Warna: NAVY, Ukuran: 28', 4, 998742.3);
+                         VALUES (125, '125-BLACK', 'Warna: BLACK, Ukuran: 28', 41, 938350.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (128, '128-BLUE-M', 'Warna: BLUE, Ukuran: M', 23, 962025.98);
+                         VALUES (125, '125-WHITE', 'Warna: WHITE, Ukuran: 28', 22, 852843.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (128, '128-RED-30', 'Warna: RED, Ukuran: 30', 41, 980466.67);
+                         VALUES (125, '125-NAVY', 'Warna: NAVY, Ukuran: 28', 59, 470816.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (129, '129-BLACK-32', 'Warna: BLACK, Ukuran: 32', 23, 825361.42);
+                         VALUES (125, '125-BLUE', 'Warna: BLUE, Ukuran: 28', 38, 946666.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (129, '129-NAVY-M', 'Warna: NAVY, Ukuran: M', 8, 499381.7);
+                         VALUES (126, '126-GREEN-28', 'Warna: GREEN, Ukuran: 28', 71, 893759.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (129, '129-GREEN-32', 'Warna: GREEN, Ukuran: 32', 39, 477729.02);
+                         VALUES (126, '126-GREY', 'Warna: GREY, Ukuran: 28', 49, 144063.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (129, '129-RED-L', 'Warna: RED, Ukuran: L', 93, 724070.48);
+                         VALUES (126, '126-BLUE-M', 'Warna: BLUE, Ukuran: M', 37, 652040.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (130, '130-GREY', 'Warna: GREY, Ukuran: L', 42, 877579.15);
+                         VALUES (127, '127-NAVY-30', 'Warna: NAVY, Ukuran: 30', 82, 731723.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (130, '130-BLUE-S', 'Warna: BLUE, Ukuran: S', 71, 468179.17);
+                         VALUES (127, '127-GREEN-L', 'Warna: GREEN, Ukuran: L', 99, 317058.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (130, '130-GREEN-L', 'Warna: GREEN, Ukuran: L', 32, 990589.23);
+                         VALUES (127, '127-GREY-32', 'Warna: GREY, Ukuran: 32', 14, 169141.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (130, '130-BLACK-M', 'Warna: BLACK, Ukuran: M', 37, 266921.67);
+                         VALUES (128, '128-BLACK', 'Warna: BLACK, Ukuran: 32', 8, 979280.36);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (130, '130-WHITE', 'Warna: WHITE, Ukuran: M', 47, 639248.26);
+                         VALUES (128, '128-WHITE-S', 'Warna: WHITE, Ukuran: S', 17, 874827.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (131, '131-WHITE', 'Warna: WHITE, Ukuran: M', 27, 410423.89);
+                         VALUES (128, '128-WHITE-M', 'Warna: WHITE, Ukuran: M', 25, 330939.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (131, '131-GREEN', 'Warna: GREEN, Ukuran: M', 80, 565088.38);
+                         VALUES (129, '129-GREEN', 'Warna: GREEN, Ukuran: M', 47, 906282.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (131, '131-WHITE-M', 'Warna: WHITE, Ukuran: M', 76, 929520.1);
+                         VALUES (129, '129-RED', 'Warna: RED, Ukuran: M', 11, 154022.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (132, '132-GREY', 'Warna: GREY, Ukuran: M', 72, 938165.17);
+                         VALUES (129, '129-NAVY', 'Warna: NAVY, Ukuran: M', 16, 438973.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (132, '132-WHITE-28', 'Warna: WHITE, Ukuran: 28', 41, 789518.55);
+                         VALUES (129, '129-BLUE', 'Warna: BLUE, Ukuran: M', 43, 642387.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (132, '132-BLUE-L', 'Warna: BLUE, Ukuran: L', 43, 434958.93);
+                         VALUES (130, '130-BLACK-L', 'Warna: BLACK, Ukuran: L', 30, 919577.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (132, '132-GREEN-M', 'Warna: GREEN, Ukuran: M', 9, 142247.35);
+                         VALUES (130, '130-RED-28', 'Warna: RED, Ukuran: 28', 43, 169743.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (132, '132-BLUE-32', 'Warna: BLUE, Ukuran: 32', 71, 495645.73);
+                         VALUES (131, '131-GREY', 'Warna: GREY, Ukuran: 28', 95, 270637.33);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (133, '133-NAVY', 'Warna: NAVY, Ukuran: 32', 20, 649808.91);
+                         VALUES (131, '131-NAVY-30', 'Warna: NAVY, Ukuran: 30', 92, 516779.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (133, '133-BLUE-32', 'Warna: BLUE, Ukuran: 32', 84, 224902.34);
+                         VALUES (132, '132-NAVY', 'Warna: NAVY, Ukuran: 30', 52, 201896.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (133, '133-BLACK', 'Warna: BLACK, Ukuran: 32', 58, 970531.45);
+                         VALUES (132, '132-BLACK', 'Warna: BLACK, Ukuran: 30', 83, 252178.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (134, '134-GREY', 'Warna: GREY, Ukuran: 32', 81, 218664.38);
+                         VALUES (132, '132-BLACK-28', 'Warna: BLACK, Ukuran: 28', 23, 233666.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (134, '134-BLUE', 'Warna: BLUE, Ukuran: 32', 54, 669450.56);
+                         VALUES (133, '133-WHITE-28', 'Warna: WHITE, Ukuran: 28', 10, 813357.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (134, '134-GREEN', 'Warna: GREEN, Ukuran: 32', 65, 344670.26);
+                         VALUES (133, '133-RED', 'Warna: RED, Ukuran: 28', 58, 710804.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (135, '135-BLUE', 'Warna: BLUE, Ukuran: 32', 98, 384940.17);
+                         VALUES (133, '133-WHITE', 'Warna: WHITE, Ukuran: 28', 70, 437483.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (135, '135-BLUE-28', 'Warna: BLUE, Ukuran: 28', 98, 103301.05);
+                         VALUES (134, '134-BLACK', 'Warna: BLACK, Ukuran: 28', 59, 247580.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (136, '136-GREY-L', 'Warna: GREY, Ukuran: L', 39, 553582.4);
+                         VALUES (134, '134-RED-30', 'Warna: RED, Ukuran: 30', 33, 863089.44);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (136, '136-NAVY', 'Warna: NAVY, Ukuran: L', 68, 650138.05);
+                         VALUES (134, '134-BLUE-S', 'Warna: BLUE, Ukuran: S', 4, 582128.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (136, '136-GREEN', 'Warna: GREEN, Ukuran: L', 17, 201137.28);
+                         VALUES (135, '135-GREEN-S', 'Warna: GREEN, Ukuran: S', 16, 261953.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (136, '136-BLUE-M', 'Warna: BLUE, Ukuran: M', 56, 249684.51);
+                         VALUES (135, '135-GREY-M', 'Warna: GREY, Ukuran: M', 45, 206979.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (137, '137-RED', 'Warna: RED, Ukuran: M', 62, 881499.92);
+                         VALUES (135, '135-WHITE', 'Warna: WHITE, Ukuran: M', 79, 592129.07);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (137, '137-GREY-M', 'Warna: GREY, Ukuran: M', 80, 826580.17);
+                         VALUES (135, '135-NAVY', 'Warna: NAVY, Ukuran: M', 3, 118274.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (138, '138-NAVY-30', 'Warna: NAVY, Ukuran: 30', 43, 117165.07);
+                         VALUES (135, '135-BLUE-M', 'Warna: BLUE, Ukuran: M', 53, 913608.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (138, '138-BLACK', 'Warna: BLACK, Ukuran: 30', 16, 223504.51);
+                         VALUES (136, '136-GREEN', 'Warna: GREEN, Ukuran: M', 89, 745011.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (139, '139-NAVY', 'Warna: NAVY, Ukuran: 30', 41, 396726.06);
+                         VALUES (136, '136-RED-30', 'Warna: RED, Ukuran: 30', 75, 585844.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (139, '139-GREEN', 'Warna: GREEN, Ukuran: 30', 15, 639541.75);
+                         VALUES (137, '137-BLUE-S', 'Warna: BLUE, Ukuran: S', 92, 854010.25);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (139, '139-BLUE', 'Warna: BLUE, Ukuran: 30', 81, 835921.69);
+                         VALUES (137, '137-BLACK', 'Warna: BLACK, Ukuran: S', 9, 98107.65);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (140, '140-GREY', 'Warna: GREY, Ukuran: 30', 58, 274434.42);
+                         VALUES (137, '137-BLUE', 'Warna: BLUE, Ukuran: S', 22, 156863.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (140, '140-WHITE-S', 'Warna: WHITE, Ukuran: S', 47, 367320.38);
+                         VALUES (138, '138-GREEN-28', 'Warna: GREEN, Ukuran: 28', 51, 378914.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (140, '140-GREEN', 'Warna: GREEN, Ukuran: S', 83, 80347.52);
+                         VALUES (138, '138-WHITE-28', 'Warna: WHITE, Ukuran: 28', 25, 232475.43);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (140, '140-NAVY', 'Warna: NAVY, Ukuran: S', 2, 383074.29);
+                         VALUES (138, '138-NAVY-28', 'Warna: NAVY, Ukuran: 28', 63, 354752.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (141, '141-NAVY', 'Warna: NAVY, Ukuran: S', 3, 347654.35);
+                         VALUES (139, '139-WHITE-30', 'Warna: WHITE, Ukuran: 30', 38, 603479.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (141, '141-WHITE-28', 'Warna: WHITE, Ukuran: 28', 24, 359699.19);
+                         VALUES (139, '139-BLACK-L', 'Warna: BLACK, Ukuran: L', 96, 133738.42);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (142, '142-BLUE-32', 'Warna: BLUE, Ukuran: 32', 65, 214064.46);
+                         VALUES (139, '139-GREY', 'Warna: GREY, Ukuran: L', 29, 306446.46);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (142, '142-BLUE-30', 'Warna: BLUE, Ukuran: 30', 94, 878910.12);
+                         VALUES (140, '140-GREY-S', 'Warna: GREY, Ukuran: S', 77, 934624.13);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (142, '142-NAVY', 'Warna: NAVY, Ukuran: 30', 72, 253519.5);
+                         VALUES (140, '140-BLUE', 'Warna: BLUE, Ukuran: S', 85, 625239.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (143, '143-BLUE-30', 'Warna: BLUE, Ukuran: 30', 60, 787524.48);
+                         VALUES (140, '140-WHITE-S', 'Warna: WHITE, Ukuran: S', 14, 916570.01);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (143, '143-WHITE-32', 'Warna: WHITE, Ukuran: 32', 3, 689202.92);
+                         VALUES (140, '140-RED', 'Warna: RED, Ukuran: S', 93, 457719.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (144, '144-GREEN', 'Warna: GREEN, Ukuran: 32', 92, 714793.32);
+                         VALUES (140, '140-GREEN', 'Warna: GREEN, Ukuran: S', 1, 409042.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (144, '144-WHITE-L', 'Warna: WHITE, Ukuran: L', 4, 159924.62);
+                         VALUES (141, '141-NAVY', 'Warna: NAVY, Ukuran: S', 0, 536661.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (144, '144-WHITE-M', 'Warna: WHITE, Ukuran: M', 84, 388770.94);
+                         VALUES (141, '141-GREY-L', 'Warna: GREY, Ukuran: L', 57, 831211.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (145, '145-GREEN', 'Warna: GREEN, Ukuran: M', 15, 236930.33);
+                         VALUES (141, '141-GREEN-28', 'Warna: GREEN, Ukuran: 28', 66, 278407.84);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (145, '145-BLACK-M', 'Warna: BLACK, Ukuran: M', 34, 87057.71);
+                         VALUES (142, '142-NAVY', 'Warna: NAVY, Ukuran: 28', 13, 107791.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (145, '145-BLACK-L', 'Warna: BLACK, Ukuran: L', 3, 846434.98);
+                         VALUES (142, '142-RED-32', 'Warna: RED, Ukuran: 32', 41, 959935.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (145, '145-WHITE', 'Warna: WHITE, Ukuran: L', 63, 269998.98);
+                         VALUES (143, '143-WHITE', 'Warna: WHITE, Ukuran: 32', 30, 51432.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (146, '146-RED', 'Warna: RED, Ukuran: L', 3, 119646.87);
+                         VALUES (143, '143-GREY-S', 'Warna: GREY, Ukuran: S', 10, 737907.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (146, '146-GREEN', 'Warna: GREEN, Ukuran: L', 33, 135276.74);
+                         VALUES (144, '144-NAVY-M', 'Warna: NAVY, Ukuran: M', 35, 812475.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (146, '146-GREY-S', 'Warna: GREY, Ukuran: S', 28, 281201.73);
+                         VALUES (144, '144-GREEN-M', 'Warna: GREEN, Ukuran: M', 11, 491332.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (147, '147-GREY-L', 'Warna: GREY, Ukuran: L', 97, 526761.06);
+                         VALUES (145, '145-GREY-30', 'Warna: GREY, Ukuran: 30', 2, 255052.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (147, '147-BLACK-28', 'Warna: BLACK, Ukuran: 28', 83, 83996.24);
+                         VALUES (145, '145-GREEN-L', 'Warna: GREEN, Ukuran: L', 22, 956983.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (147, '147-BLUE-32', 'Warna: BLUE, Ukuran: 32', 89, 964556.91);
+                         VALUES (145, '145-BLUE', 'Warna: BLUE, Ukuran: L', 48, 956613.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (147, '147-BLACK-30', 'Warna: BLACK, Ukuran: 30', 48, 339357.69);
+                         VALUES (145, '145-WHITE', 'Warna: WHITE, Ukuran: L', 94, 866697.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (147, '147-RED-30', 'Warna: RED, Ukuran: 30', 57, 82159.35);
+                         VALUES (146, '146-BLUE-M', 'Warna: BLUE, Ukuran: M', 55, 736016.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (148, '148-BLACK-S', 'Warna: BLACK, Ukuran: S', 13, 573898.46);
+                         VALUES (146, '146-GREY-M', 'Warna: GREY, Ukuran: M', 34, 310366.39);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (148, '148-BLACK', 'Warna: BLACK, Ukuran: S', 45, 613328.04);
+                         VALUES (146, '146-NAVY-S', 'Warna: NAVY, Ukuran: S', 33, 710927.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (148, '148-GREY-28', 'Warna: GREY, Ukuran: 28', 81, 505578.9);
+                         VALUES (146, '146-RED-S', 'Warna: RED, Ukuran: S', 49, 229257.62);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (149, '149-GREY', 'Warna: GREY, Ukuran: 28', 68, 88642.4);
+                         VALUES (146, '146-GREEN', 'Warna: GREEN, Ukuran: S', 49, 961399.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (149, '149-RED-28', 'Warna: RED, Ukuran: 28', 21, 125310.66);
+                         VALUES (147, '147-WHITE-30', 'Warna: WHITE, Ukuran: 30', 13, 495016.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (149, '149-NAVY', 'Warna: NAVY, Ukuran: 28', 16, 840329.58);
+                         VALUES (147, '147-NAVY-32', 'Warna: NAVY, Ukuran: 32', 69, 175439.24);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (149, '149-GREY-32', 'Warna: GREY, Ukuran: 32', 19, 214018.98);
+                         VALUES (147, '147-BLACK-28', 'Warna: BLACK, Ukuran: 28', 30, 625316.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (150, '150-BLACK-L', 'Warna: BLACK, Ukuran: L', 29, 734620.05);
+                         VALUES (147, '147-GREEN-L', 'Warna: GREEN, Ukuran: L', 32, 163660.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (150, '150-GREEN', 'Warna: GREEN, Ukuran: L', 48, 874810.27);
+                         VALUES (147, '147-BLACK', 'Warna: BLACK, Ukuran: L', 90, 824459.78);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (151, '151-NAVY', 'Warna: NAVY, Ukuran: L', 67, 992315.6);
+                         VALUES (148, '148-GREY-M', 'Warna: GREY, Ukuran: M', 88, 287665.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (151, '151-RED', 'Warna: RED, Ukuran: L', 94, 178010.3);
+                         VALUES (148, '148-WHITE-30', 'Warna: WHITE, Ukuran: 30', 84, 235503.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (151, '151-BLACK', 'Warna: BLACK, Ukuran: L', 98, 709592.67);
+                         VALUES (148, '148-NAVY', 'Warna: NAVY, Ukuran: 30', 85, 423449.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (152, '152-RED-32', 'Warna: RED, Ukuran: 32', 74, 730076.97);
+                         VALUES (148, '148-WHITE', 'Warna: WHITE, Ukuran: 30', 47, 793049.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (152, '152-NAVY-30', 'Warna: NAVY, Ukuran: 30', 12, 131020.37);
+                         VALUES (148, '148-GREEN', 'Warna: GREEN, Ukuran: 30', 96, 160058.34);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (153, '153-BLACK-M', 'Warna: BLACK, Ukuran: M', 58, 572691.57);
+                         VALUES (149, '149-RED-30', 'Warna: RED, Ukuran: 30', 9, 726724.96);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (153, '153-GREY-28', 'Warna: GREY, Ukuran: 28', 6, 497684.24);
+                         VALUES (149, '149-GREY-28', 'Warna: GREY, Ukuran: 28', 59, 52312.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (153, '153-GREEN', 'Warna: GREEN, Ukuran: 28', 19, 215414.84);
+                         VALUES (149, '149-GREY', 'Warna: GREY, Ukuran: 28', 60, 362486.18);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (153, '153-BLACK-30', 'Warna: BLACK, Ukuran: 30', 10, 730168.42);
+                         VALUES (150, '150-RED-32', 'Warna: RED, Ukuran: 32', 100, 167960.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (154, '154-RED', 'Warna: RED, Ukuran: 30', 78, 376850.1);
+                         VALUES (150, '150-BLACK-M', 'Warna: BLACK, Ukuran: M', 19, 284790.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (154, '154-BLACK-28', 'Warna: BLACK, Ukuran: 28', 90, 275323.62);
+                         VALUES (150, '150-GREY', 'Warna: GREY, Ukuran: M', 36, 603560.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (155, '155-RED', 'Warna: RED, Ukuran: 28', 31, 922662.37);
+                         VALUES (150, '150-GREEN', 'Warna: GREEN, Ukuran: M', 55, 972240.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (155, '155-BLUE-L', 'Warna: BLUE, Ukuran: L', 24, 992333.15);
+                         VALUES (151, '151-BLUE-30', 'Warna: BLUE, Ukuran: 30', 82, 503898.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (155, '155-GREY-L', 'Warna: GREY, Ukuran: L', 37, 593960.24);
+                         VALUES (151, '151-GREEN-L', 'Warna: GREEN, Ukuran: L', 20, 903359.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (156, '156-WHITE-L', 'Warna: WHITE, Ukuran: L', 12, 324999.37);
+                         VALUES (152, '152-BLACK-30', 'Warna: BLACK, Ukuran: 30', 40, 89215.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (156, '156-RED', 'Warna: RED, Ukuran: L', 0, 509579.71);
+                         VALUES (152, '152-WHITE', 'Warna: WHITE, Ukuran: 30', 63, 667495.77);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (157, '157-RED', 'Warna: RED, Ukuran: L', 90, 210618.56);
+                         VALUES (153, '153-NAVY-L', 'Warna: NAVY, Ukuran: L', 36, 559492.61);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (157, '157-WHITE-32', 'Warna: WHITE, Ukuran: 32', 28, 954994.27);
+                         VALUES (153, '153-NAVY', 'Warna: NAVY, Ukuran: L', 6, 739885.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (157, '157-NAVY', 'Warna: NAVY, Ukuran: 32', 82, 223356.02);
+                         VALUES (153, '153-GREEN-S', 'Warna: GREEN, Ukuran: S', 5, 389873.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (157, '157-WHITE', 'Warna: WHITE, Ukuran: 32', 80, 774156.92);
+                         VALUES (153, '153-GREY-S', 'Warna: GREY, Ukuran: S', 100, 520616.12);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (158, '158-GREEN-32', 'Warna: GREEN, Ukuran: 32', 92, 624254.23);
+                         VALUES (153, '153-GREEN', 'Warna: GREEN, Ukuran: S', 53, 727101.13);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (158, '158-WHITE', 'Warna: WHITE, Ukuran: 32', 85, 503532.17);
+                         VALUES (154, '154-BLUE', 'Warna: BLUE, Ukuran: S', 75, 446701.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (158, '158-NAVY-M', 'Warna: NAVY, Ukuran: M', 52, 656270.24);
+                         VALUES (154, '154-GREY-S', 'Warna: GREY, Ukuran: S', 14, 792219.01);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (158, '158-BLUE-32', 'Warna: BLUE, Ukuran: 32', 94, 739536.73);
+                         VALUES (155, '155-BLUE', 'Warna: BLUE, Ukuran: S', 14, 135552.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (158, '158-GREEN-S', 'Warna: GREEN, Ukuran: S', 38, 964866.29);
+                         VALUES (155, '155-GREEN', 'Warna: GREEN, Ukuran: S', 66, 240011.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (159, '159-WHITE-M', 'Warna: WHITE, Ukuran: M', 75, 630679.27);
+                         VALUES (155, '155-BLUE-L', 'Warna: BLUE, Ukuran: L', 91, 645859.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (159, '159-BLUE-M', 'Warna: BLUE, Ukuran: M', 96, 152014.29);
+                         VALUES (155, '155-GREEN-M', 'Warna: GREEN, Ukuran: M', 40, 939434.63);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (159, '159-GREY', 'Warna: GREY, Ukuran: M', 63, 737638.02);
+                         VALUES (155, '155-WHITE-S', 'Warna: WHITE, Ukuran: S', 33, 436509.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (159, '159-RED-S', 'Warna: RED, Ukuran: S', 87, 643581.18);
+                         VALUES (156, '156-WHITE-30', 'Warna: WHITE, Ukuran: 30', 28, 398809.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (159, '159-BLUE-32', 'Warna: BLUE, Ukuran: 32', 40, 197935.13);
+                         VALUES (156, '156-NAVY-L', 'Warna: NAVY, Ukuran: L', 40, 441085.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (160, '160-WHITE-32', 'Warna: WHITE, Ukuran: 32', 31, 729377.65);
+                         VALUES (156, '156-BLACK-M', 'Warna: BLACK, Ukuran: M', 38, 78973.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (160, '160-GREEN', 'Warna: GREEN, Ukuran: 32', 88, 562478.18);
+                         VALUES (157, '157-BLUE', 'Warna: BLUE, Ukuran: M', 1, 206510.61);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (160, '160-WHITE', 'Warna: WHITE, Ukuran: 32', 23, 393644.19);
+                         VALUES (157, '157-RED-30', 'Warna: RED, Ukuran: 30', 33, 973987.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (160, '160-BLACK', 'Warna: BLACK, Ukuran: 32', 12, 467304.87);
+                         VALUES (157, '157-RED-28', 'Warna: RED, Ukuran: 28', 92, 953630.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (161, '161-WHITE-L', 'Warna: WHITE, Ukuran: L', 95, 613559.99);
+                         VALUES (158, '158-BLACK-L', 'Warna: BLACK, Ukuran: L', 57, 210914.13);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (161, '161-RED', 'Warna: RED, Ukuran: L', 9, 667110.91);
+                         VALUES (158, '158-GREEN-L', 'Warna: GREEN, Ukuran: L', 93, 132056.76);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (161, '161-BLUE', 'Warna: BLUE, Ukuran: L', 23, 888318.27);
+                         VALUES (158, '158-RED', 'Warna: RED, Ukuran: L', 5, 533174.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (161, '161-GREEN-32', 'Warna: GREEN, Ukuran: 32', 5, 459201.19);
+                         VALUES (158, '158-BLUE-M', 'Warna: BLUE, Ukuran: M', 56, 469279.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (162, '162-NAVY-L', 'Warna: NAVY, Ukuran: L', 30, 760878.32);
+                         VALUES (159, '159-NAVY', 'Warna: NAVY, Ukuran: M', 20, 71030.87);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (162, '162-WHITE-L', 'Warna: WHITE, Ukuran: L', 53, 227079.33);
+                         VALUES (159, '159-GREEN', 'Warna: GREEN, Ukuran: M', 65, 885368.79);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (162, '162-RED', 'Warna: RED, Ukuran: L', 57, 342097.41);
+                         VALUES (159, '159-NAVY-32', 'Warna: NAVY, Ukuran: 32', 14, 395817.06);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (163, '163-BLUE-28', 'Warna: BLUE, Ukuran: 28', 61, 469964.87);
+                         VALUES (159, '159-BLACK-28', 'Warna: BLACK, Ukuran: 28', 2, 914500.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (163, '163-RED-M', 'Warna: RED, Ukuran: M', 15, 198240.12);
+                         VALUES (159, '159-WHITE', 'Warna: WHITE, Ukuran: 28', 72, 719380.53);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (163, '163-WHITE-32', 'Warna: WHITE, Ukuran: 32', 40, 540322.08);
+                         VALUES (160, '160-BLACK', 'Warna: BLACK, Ukuran: 28', 86, 227803.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (163, '163-NAVY', 'Warna: NAVY, Ukuran: 32', 69, 413601.67);
+                         VALUES (160, '160-BLACK-28', 'Warna: BLACK, Ukuran: 28', 40, 968158.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (164, '164-NAVY', 'Warna: NAVY, Ukuran: 32', 12, 329736.28);
+                         VALUES (160, '160-BLUE', 'Warna: BLUE, Ukuran: 28', 7, 658701.25);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (164, '164-RED-32', 'Warna: RED, Ukuran: 32', 2, 442246.5);
+                         VALUES (161, '161-BLACK-L', 'Warna: BLACK, Ukuran: L', 52, 714725.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (164, '164-BLACK-S', 'Warna: BLACK, Ukuran: S', 72, 610203.29);
+                         VALUES (161, '161-GREY', 'Warna: GREY, Ukuran: L', 18, 231874.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (165, '165-RED-L', 'Warna: RED, Ukuran: L', 98, 389013.66);
+                         VALUES (161, '161-RED-S', 'Warna: RED, Ukuran: S', 46, 103993.82);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (165, '165-BLUE-28', 'Warna: BLUE, Ukuran: 28', 4, 671170.85);
+                         VALUES (161, '161-RED', 'Warna: RED, Ukuran: S', 52, 187191.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (165, '165-BLACK-L', 'Warna: BLACK, Ukuran: L', 78, 190226.29);
+                         VALUES (162, '162-WHITE-M', 'Warna: WHITE, Ukuran: M', 33, 639690.26);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (165, '165-NAVY', 'Warna: NAVY, Ukuran: L', 50, 715756.55);
+                         VALUES (162, '162-BLACK', 'Warna: BLACK, Ukuran: M', 86, 951894.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (165, '165-BLACK', 'Warna: BLACK, Ukuran: L', 35, 162111.76);
+                         VALUES (162, '162-BLUE-32', 'Warna: BLUE, Ukuran: 32', 46, 961003.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (166, '166-BLACK', 'Warna: BLACK, Ukuran: L', 11, 558572.67);
+                         VALUES (163, '163-GREY', 'Warna: GREY, Ukuran: 32', 83, 598973.84);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (166, '166-RED', 'Warna: RED, Ukuran: L', 93, 97363.04);
+                         VALUES (163, '163-RED-S', 'Warna: RED, Ukuran: S', 20, 349558.18);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (167, '167-BLACK', 'Warna: BLACK, Ukuran: L', 19, 839268.04);
+                         VALUES (163, '163-WHITE-30', 'Warna: WHITE, Ukuran: 30', 83, 763987.21);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (167, '167-BLACK-32', 'Warna: BLACK, Ukuran: 32', 67, 340326.39);
+                         VALUES (164, '164-GREY-32', 'Warna: GREY, Ukuran: 32', 36, 987572.16);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (167, '167-GREEN', 'Warna: GREEN, Ukuran: 32', 83, 189793.45);
+                         VALUES (164, '164-NAVY-28', 'Warna: NAVY, Ukuran: 28', 36, 439041.16);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (167, '167-RED', 'Warna: RED, Ukuran: 32', 61, 677129.92);
+                         VALUES (164, '164-BLACK', 'Warna: BLACK, Ukuran: 28', 0, 892183.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (167, '167-BLUE-30', 'Warna: BLUE, Ukuran: 30', 88, 738003.78);
+                         VALUES (164, '164-GREEN', 'Warna: GREEN, Ukuran: 28', 80, 827747.01);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (168, '168-GREEN-M', 'Warna: GREEN, Ukuran: M', 15, 118141.51);
+                         VALUES (164, '164-WHITE-30', 'Warna: WHITE, Ukuran: 30', 90, 614237.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (168, '168-NAVY-M', 'Warna: NAVY, Ukuran: M', 8, 749879.29);
+                         VALUES (165, '165-GREEN', 'Warna: GREEN, Ukuran: 30', 98, 693911.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (168, '168-NAVY', 'Warna: NAVY, Ukuran: M', 38, 879826.36);
+                         VALUES (165, '165-BLACK', 'Warna: BLACK, Ukuran: 30', 43, 240334.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (169, '169-GREY-S', 'Warna: GREY, Ukuran: S', 81, 575394.07);
+                         VALUES (165, '165-GREY-M', 'Warna: GREY, Ukuran: M', 90, 544561.37);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (169, '169-GREEN', 'Warna: GREEN, Ukuran: S', 49, 510546.15);
+                         VALUES (165, '165-WHITE-28', 'Warna: WHITE, Ukuran: 28', 70, 624674.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (169, '169-BLACK-M', 'Warna: BLACK, Ukuran: M', 11, 911157.34);
+                         VALUES (165, '165-WHITE', 'Warna: WHITE, Ukuran: 28', 82, 719540.33);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (170, '170-NAVY-M', 'Warna: NAVY, Ukuran: M', 50, 443929.97);
+                         VALUES (166, '166-GREY', 'Warna: GREY, Ukuran: 28', 6, 185698.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (170, '170-WHITE', 'Warna: WHITE, Ukuran: M', 7, 123215.58);
+                         VALUES (166, '166-NAVY', 'Warna: NAVY, Ukuran: 28', 55, 191357.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (170, '170-GREEN-32', 'Warna: GREEN, Ukuran: 32', 97, 762371.43);
+                         VALUES (166, '166-NAVY-30', 'Warna: NAVY, Ukuran: 30', 34, 523229.71);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (171, '171-WHITE-S', 'Warna: WHITE, Ukuran: S', 33, 941846.26);
+                         VALUES (166, '166-BLUE', 'Warna: BLUE, Ukuran: 30', 32, 700979.09);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (171, '171-GREEN', 'Warna: GREEN, Ukuran: S', 48, 507793.53);
+                         VALUES (167, '167-BLUE-S', 'Warna: BLUE, Ukuran: S', 82, 295467.01);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (171, '171-RED-28', 'Warna: RED, Ukuran: 28', 77, 367296.68);
+                         VALUES (167, '167-GREY-L', 'Warna: GREY, Ukuran: L', 48, 782034.63);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (171, '171-NAVY', 'Warna: NAVY, Ukuran: 28', 48, 168326.87);
+                         VALUES (167, '167-WHITE', 'Warna: WHITE, Ukuran: L', 85, 155449.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (172, '172-GREY-30', 'Warna: GREY, Ukuran: 30', 13, 826212.8);
+                         VALUES (168, '168-BLACK', 'Warna: BLACK, Ukuran: L', 8, 819860.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (172, '172-GREY-S', 'Warna: GREY, Ukuran: S', 59, 929290.32);
+                         VALUES (168, '168-NAVY-S', 'Warna: NAVY, Ukuran: S', 80, 592774.21);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (173, '173-NAVY', 'Warna: NAVY, Ukuran: S', 36, 635113.37);
+                         VALUES (169, '169-RED-S', 'Warna: RED, Ukuran: S', 80, 803869.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (173, '173-GREEN', 'Warna: GREEN, Ukuran: S', 84, 62633.73);
+                         VALUES (169, '169-RED', 'Warna: RED, Ukuran: S', 71, 778661.94);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (173, '173-GREY', 'Warna: GREY, Ukuran: S', 37, 890454.24);
+                         VALUES (169, '169-BLUE-28', 'Warna: BLUE, Ukuran: 28', 67, 339552.98);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (174, '174-RED', 'Warna: RED, Ukuran: S', 61, 443053.25);
+                         VALUES (169, '169-GREEN-28', 'Warna: GREEN, Ukuran: 28', 53, 59822.66);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (174, '174-NAVY', 'Warna: NAVY, Ukuran: S', 18, 361845.55);
+                         VALUES (170, '170-NAVY', 'Warna: NAVY, Ukuran: 28', 71, 640004.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (174, '174-GREEN-S', 'Warna: GREEN, Ukuran: S', 60, 505237.67);
+                         VALUES (170, '170-GREEN', 'Warna: GREEN, Ukuran: 28', 92, 636534.86);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (174, '174-BLUE-32', 'Warna: BLUE, Ukuran: 32', 55, 210786.97);
+                         VALUES (171, '171-NAVY-30', 'Warna: NAVY, Ukuran: 30', 76, 221734.48);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (174, '174-GREEN-L', 'Warna: GREEN, Ukuran: L', 14, 737091.32);
+                         VALUES (171, '171-GREY-32', 'Warna: GREY, Ukuran: 32', 3, 395999.07);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (175, '175-BLACK', 'Warna: BLACK, Ukuran: L', 60, 953268.85);
+                         VALUES (171, '171-NAVY-28', 'Warna: NAVY, Ukuran: 28', 92, 137895.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (175, '175-RED-32', 'Warna: RED, Ukuran: 32', 83, 271183.37);
+                         VALUES (172, '172-RED', 'Warna: RED, Ukuran: 32', 49, 381731.13);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (176, '176-GREEN-28', 'Warna: GREEN, Ukuran: 28', 48, 919062.17);
+                         VALUES (172, '172-GREEN-28', 'Warna: GREEN, Ukuran: 28', 77, 368582.92);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (176, '176-GREY-L', 'Warna: GREY, Ukuran: L', 53, 234376.39);
+                         VALUES (172, '172-BLUE', 'Warna: BLUE, Ukuran: 28', 23, 101744.31);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (176, '176-NAVY', 'Warna: NAVY, Ukuran: L', 49, 789446.54);
+                         VALUES (172, '172-GREEN', 'Warna: GREEN, Ukuran: 28', 5, 811297.74);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (176, '176-BLUE', 'Warna: BLUE, Ukuran: L', 22, 294718.62);
+                         VALUES (172, '172-GREEN-L', 'Warna: GREEN, Ukuran: L', 38, 369811.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (176, '176-GREY', 'Warna: GREY, Ukuran: L', 61, 748332.26);
+                         VALUES (173, '173-NAVY', 'Warna: NAVY, Ukuran: L', 92, 248376.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (177, '177-GREEN-L', 'Warna: GREEN, Ukuran: L', 64, 824546.9);
+                         VALUES (173, '173-GREEN', 'Warna: GREEN, Ukuran: L', 99, 630606.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (177, '177-GREEN', 'Warna: GREEN, Ukuran: L', 67, 55284.55);
+                         VALUES (173, '173-WHITE-L', 'Warna: WHITE, Ukuran: L', 8, 972698.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (177, '177-RED', 'Warna: RED, Ukuran: L', 92, 726054.67);
+                         VALUES (174, '174-BLACK', 'Warna: BLACK, Ukuran: L', 25, 882239.33);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (177, '177-BLUE-S', 'Warna: BLUE, Ukuran: S', 36, 343460.36);
+                         VALUES (174, '174-GREY', 'Warna: GREY, Ukuran: L', 7, 102109.91);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (178, '178-BLACK', 'Warna: BLACK, Ukuran: S', 68, 853227.69);
+                         VALUES (174, '174-BLUE-30', 'Warna: BLUE, Ukuran: 30', 14, 708849.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (179, '179-RED-M', 'Warna: RED, Ukuran: M', 3, 362339.22);
+                         VALUES (175, '175-NAVY', 'Warna: NAVY, Ukuran: 30', 19, 591724.96);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (179, '179-GREY-32', 'Warna: GREY, Ukuran: 32', 66, 524574.67);
+                         VALUES (175, '175-GREY', 'Warna: GREY, Ukuran: 30', 51, 759900.51);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (180, '180-WHITE-S', 'Warna: WHITE, Ukuran: S', 26, 769906.47);
+                         VALUES (175, '175-RED', 'Warna: RED, Ukuran: 30', 90, 643623.89);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (180, '180-WHITE-30', 'Warna: WHITE, Ukuran: 30', 23, 331735.27);
+                         VALUES (175, '175-BLUE', 'Warna: BLUE, Ukuran: 30', 35, 959849.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (180, '180-NAVY-M', 'Warna: NAVY, Ukuran: M', 83, 906605.57);
+                         VALUES (176, '176-GREY-L', 'Warna: GREY, Ukuran: L', 84, 971151.47);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (180, '180-NAVY', 'Warna: NAVY, Ukuran: M', 46, 836006.81);
+                         VALUES (176, '176-WHITE-L', 'Warna: WHITE, Ukuran: L', 95, 795620.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (181, '181-GREY-32', 'Warna: GREY, Ukuran: 32', 43, 886228.27);
+                         VALUES (176, '176-WHITE-S', 'Warna: WHITE, Ukuran: S', 91, 378615.02);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (181, '181-GREY-30', 'Warna: GREY, Ukuran: 30', 24, 982900.03);
+                         VALUES (176, '176-BLUE-28', 'Warna: BLUE, Ukuran: 28', 26, 248347.57);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (181, '181-BLUE-S', 'Warna: BLUE, Ukuran: S', 77, 696102.11);
+                         VALUES (177, '177-GREY', 'Warna: GREY, Ukuran: 28', 63, 797654.15);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (182, '182-WHITE-M', 'Warna: WHITE, Ukuran: M', 78, 321913.47);
+                         VALUES (177, '177-RED-30', 'Warna: RED, Ukuran: 30', 94, 57849.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (182, '182-RED', 'Warna: RED, Ukuran: M', 52, 833939.88);
+                         VALUES (177, '177-NAVY', 'Warna: NAVY, Ukuran: 30', 50, 311586.84);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (182, '182-BLACK', 'Warna: BLACK, Ukuran: M', 90, 752407.88);
+                         VALUES (177, '177-WHITE', 'Warna: WHITE, Ukuran: 30', 31, 988029.27);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (183, '183-GREEN-S', 'Warna: GREEN, Ukuran: S', 89, 862487.42);
+                         VALUES (177, '177-BLUE-32', 'Warna: BLUE, Ukuran: 32', 2, 792578.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (183, '183-NAVY', 'Warna: NAVY, Ukuran: S', 3, 751850.27);
+                         VALUES (178, '178-RED', 'Warna: RED, Ukuran: 32', 86, 834608.73);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (183, '183-WHITE-30', 'Warna: WHITE, Ukuran: 30', 48, 625924.65);
+                         VALUES (178, '178-NAVY', 'Warna: NAVY, Ukuran: 32', 48, 177777.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (183, '183-BLUE-L', 'Warna: BLUE, Ukuran: L', 77, 863888.34);
+                         VALUES (178, '178-GREY', 'Warna: GREY, Ukuran: 32', 80, 847174.29);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (184, '184-BLACK-L', 'Warna: BLACK, Ukuran: L', 95, 441572.48);
+                         VALUES (179, '179-GREY-30', 'Warna: GREY, Ukuran: 30', 66, 106510.9);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (184, '184-NAVY', 'Warna: NAVY, Ukuran: L', 19, 167575.5);
+                         VALUES (179, '179-NAVY-30', 'Warna: NAVY, Ukuran: 30', 14, 962590.64);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (185, '185-NAVY-30', 'Warna: NAVY, Ukuran: 30', 36, 971690.38);
+                         VALUES (180, '180-WHITE', 'Warna: WHITE, Ukuran: 30', 89, 250521.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (185, '185-GREY', 'Warna: GREY, Ukuran: 30', 29, 275901.64);
+                         VALUES (180, '180-RED', 'Warna: RED, Ukuran: 30', 69, 619980.2);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (185, '185-WHITE-32', 'Warna: WHITE, Ukuran: 32', 38, 601171.55);
+                         VALUES (180, '180-BLACK', 'Warna: BLACK, Ukuran: 30', 31, 914238.45);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (185, '185-WHITE', 'Warna: WHITE, Ukuran: 32', 71, 664372.29);
+                         VALUES (180, '180-BLUE-32', 'Warna: BLUE, Ukuran: 32', 76, 825471.68);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (186, '186-GREEN-30', 'Warna: GREEN, Ukuran: 30', 80, 518503.53);
+                         VALUES (181, '181-GREY', 'Warna: GREY, Ukuran: 32', 29, 504452.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (186, '186-WHITE', 'Warna: WHITE, Ukuran: 30', 43, 221565.7);
+                         VALUES (181, '181-GREEN-32', 'Warna: GREEN, Ukuran: 32', 29, 452439.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (187, '187-NAVY-L', 'Warna: NAVY, Ukuran: L', 51, 531312.88);
+                         VALUES (182, '182-BLUE-30', 'Warna: BLUE, Ukuran: 30', 88, 465061.7);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (187, '187-BLACK-32', 'Warna: BLACK, Ukuran: 32', 53, 887826.86);
+                         VALUES (182, '182-BLUE-L', 'Warna: BLUE, Ukuran: L', 30, 564875.69);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (188, '188-BLUE', 'Warna: BLUE, Ukuran: 32', 31, 67860.67);
+                         VALUES (182, '182-GREY-L', 'Warna: GREY, Ukuran: L', 68, 333133.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (188, '188-GREEN', 'Warna: GREEN, Ukuran: 32', 18, 166895.8);
+                         VALUES (182, '182-GREEN-32', 'Warna: GREEN, Ukuran: 32', 73, 589163.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (188, '188-WHITE', 'Warna: WHITE, Ukuran: 32', 28, 839375.39);
+                         VALUES (183, '183-RED', 'Warna: RED, Ukuran: 32', 55, 340794.23);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (188, '188-GREEN-S', 'Warna: GREEN, Ukuran: S', 69, 719928.63);
+                         VALUES (183, '183-NAVY', 'Warna: NAVY, Ukuran: 32', 86, 463569.41);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (189, '189-GREY', 'Warna: GREY, Ukuran: S', 26, 590142.39);
+                         VALUES (184, '184-BLUE', 'Warna: BLUE, Ukuran: 32', 23, 341172.48);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (189, '189-BLACK', 'Warna: BLACK, Ukuran: S', 89, 764801.56);
+                         VALUES (184, '184-WHITE', 'Warna: WHITE, Ukuran: 32', 27, 888016.99);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (190, '190-RED', 'Warna: RED, Ukuran: S', 74, 642737.86);
+                         VALUES (184, '184-GREEN-S', 'Warna: GREEN, Ukuran: S', 50, 477084.48);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (190, '190-GREY', 'Warna: GREY, Ukuran: S', 23, 524369.16);
+                         VALUES (185, '185-BLUE-30', 'Warna: BLUE, Ukuran: 30', 2, 107020.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (190, '190-WHITE-M', 'Warna: WHITE, Ukuran: M', 12, 704048.33);
+                         VALUES (185, '185-GREY-30', 'Warna: GREY, Ukuran: 30', 38, 435290.32);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (190, '190-BLACK-30', 'Warna: BLACK, Ukuran: 30', 20, 398840.98);
+                         VALUES (185, '185-BLACK', 'Warna: BLACK, Ukuran: 30', 73, 435038.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (191, '191-RED-M', 'Warna: RED, Ukuran: M', 93, 736911.85);
+                         VALUES (185, '185-GREEN-M', 'Warna: GREEN, Ukuran: M', 34, 70271.59);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (191, '191-BLACK-28', 'Warna: BLACK, Ukuran: 28', 59, 637463.18);
+                         VALUES (186, '186-NAVY-M', 'Warna: NAVY, Ukuran: M', 42, 564992.93);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (191, '191-NAVY-L', 'Warna: NAVY, Ukuran: L', 56, 64085.33);
+                         VALUES (186, '186-GREEN-M', 'Warna: GREEN, Ukuran: M', 10, 335455.81);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (191, '191-BLUE-S', 'Warna: BLUE, Ukuran: S', 58, 298434.97);
+                         VALUES (186, '186-GREY', 'Warna: GREY, Ukuran: M', 4, 182360.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (192, '192-GREY-M', 'Warna: GREY, Ukuran: M', 34, 796669.8);
+                         VALUES (187, '187-NAVY', 'Warna: NAVY, Ukuran: M', 36, 723735.01);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (192, '192-GREEN', 'Warna: GREEN, Ukuran: M', 20, 426036.25);
+                         VALUES (187, '187-GREEN', 'Warna: GREEN, Ukuran: M', 34, 290688.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (192, '192-WHITE', 'Warna: WHITE, Ukuran: M', 92, 285880.68);
+                         VALUES (187, '187-BLACK', 'Warna: BLACK, Ukuran: M', 2, 509291.49);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (192, '192-BLACK-30', 'Warna: BLACK, Ukuran: 30', 93, 768972.19);
+                         VALUES (188, '188-GREEN-S', 'Warna: GREEN, Ukuran: S', 76, 681795.19);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (193, '193-NAVY', 'Warna: NAVY, Ukuran: 30', 26, 93058.29);
+                         VALUES (188, '188-NAVY-S', 'Warna: NAVY, Ukuran: S', 79, 109061.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (193, '193-BLUE-30', 'Warna: BLUE, Ukuran: 30', 58, 294683.93);
+                         VALUES (189, '189-BLUE-32', 'Warna: BLUE, Ukuran: 32', 93, 978447.52);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (193, '193-GREEN', 'Warna: GREEN, Ukuran: 30', 16, 236372.73);
+                         VALUES (189, '189-WHITE', 'Warna: WHITE, Ukuran: 32', 100, 467036.56);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (193, '193-GREEN-32', 'Warna: GREEN, Ukuran: 32', 100, 742001.11);
+                         VALUES (190, '190-NAVY-S', 'Warna: NAVY, Ukuran: S', 81, 421290.11);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (194, '194-BLUE-L', 'Warna: BLUE, Ukuran: L', 56, 452127.62);
+                         VALUES (190, '190-GREY-S', 'Warna: GREY, Ukuran: S', 3, 820705.22);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (194, '194-GREEN-32', 'Warna: GREEN, Ukuran: 32', 73, 132548.93);
+                         VALUES (191, '191-GREEN', 'Warna: GREEN, Ukuran: S', 10, 410285.05);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (194, '194-RED', 'Warna: RED, Ukuran: 32', 8, 531009.77);
+                         VALUES (191, '191-RED', 'Warna: RED, Ukuran: S', 76, 135585.8);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (194, '194-GREEN-28', 'Warna: GREEN, Ukuran: 28', 10, 460691.73);
+                         VALUES (191, '191-RED-28', 'Warna: RED, Ukuran: 28', 70, 499864.54);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (195, '195-RED-28', 'Warna: RED, Ukuran: 28', 87, 961599.04);
+                         VALUES (191, '191-BLACK-28', 'Warna: BLACK, Ukuran: 28', 6, 377398.3);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (195, '195-BLACK', 'Warna: BLACK, Ukuran: 28', 68, 760240.62);
+                         VALUES (192, '192-NAVY-32', 'Warna: NAVY, Ukuran: 32', 32, 253908.97);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (195, '195-GREY-S', 'Warna: GREY, Ukuran: S', 31, 703218.77);
+                         VALUES (192, '192-RED-32', 'Warna: RED, Ukuran: 32', 43, 842890.1);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (195, '195-RED', 'Warna: RED, Ukuran: S', 2, 147437.49);
+                         VALUES (193, '193-BLUE-L', 'Warna: BLUE, Ukuran: L', 95, 306752.84);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (195, '195-BLUE', 'Warna: BLUE, Ukuran: S', 12, 520924.57);
+                         VALUES (193, '193-NAVY', 'Warna: NAVY, Ukuran: L', 100, 819636.88);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (196, '196-RED-S', 'Warna: RED, Ukuran: S', 41, 708279.07);
+                         VALUES (193, '193-GREY-S', 'Warna: GREY, Ukuran: S', 48, 687600.67);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (196, '196-GREEN-M', 'Warna: GREEN, Ukuran: M', 4, 248399.64);
+                         VALUES (193, '193-RED', 'Warna: RED, Ukuran: S', 5, 422375.5);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (196, '196-BLUE-L', 'Warna: BLUE, Ukuran: L', 52, 661298.86);
+                         VALUES (194, '194-GREEN', 'Warna: GREEN, Ukuran: S', 8, 816401.85);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (197, '197-NAVY-S', 'Warna: NAVY, Ukuran: S', 75, 856195.77);
+                         VALUES (194, '194-BLACK-L', 'Warna: BLACK, Ukuran: L', 17, 373811.38);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (197, '197-WHITE-S', 'Warna: WHITE, Ukuran: S', 80, 856293.48);
+                         VALUES (195, '195-GREY', 'Warna: GREY, Ukuran: L', 68, 495298.95);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (198, '198-GREY', 'Warna: GREY, Ukuran: S', 47, 808741.61);
+                         VALUES (195, '195-BLACK', 'Warna: BLACK, Ukuran: L', 34, 308748.58);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (198, '198-GREY-M', 'Warna: GREY, Ukuran: M', 49, 87741.03);
+                         VALUES (196, '196-NAVY', 'Warna: NAVY, Ukuran: L', 47, 103675.53);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (199, '199-WHITE-28', 'Warna: WHITE, Ukuran: 28', 79, 360561.77);
+                         VALUES (196, '196-NAVY-M', 'Warna: NAVY, Ukuran: M', 69, 297283.08);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (199, '199-WHITE', 'Warna: WHITE, Ukuran: 28', 70, 458989.67);
+                         VALUES (196, '196-BLUE', 'Warna: BLUE, Ukuran: M', 34, 467889.17);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (199, '199-GREEN', 'Warna: GREEN, Ukuran: 28', 5, 664850.26);
+                         VALUES (196, '196-WHITE', 'Warna: WHITE, Ukuran: M', 90, 427678.27);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (200, '200-BLACK', 'Warna: BLACK, Ukuran: 28', 7, 252748.27);
+                         VALUES (197, '197-BLUE-30', 'Warna: BLUE, Ukuran: 30', 45, 659179.0);
 INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
-                         VALUES (200, '200-GREEN-S', 'Warna: GREEN, Ukuran: S', 100, 695594.05);
+                         VALUES (197, '197-WHITE', 'Warna: WHITE, Ukuran: 30', 38, 699068.5);
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
+                         VALUES (198, '198-GREY', 'Warna: GREY, Ukuran: 30', 65, 434721.07);
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
+                         VALUES (198, '198-BLACK', 'Warna: BLACK, Ukuran: 30', 74, 169818.24);
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
+                         VALUES (198, '198-GREEN-30', 'Warna: GREEN, Ukuran: 30', 100, 936039.07);
+-- Total varian: 656
 
 -- INSERT INTO pesanan
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (1, 'Menunggu Pembayaran', 2205403.55, 'Transfer Bank', NULL, '2024-05-17 16:02:36', 'Same Day', 'jarwadi70@mail.com', 82, 'puji19@gmail.com');
+                 VALUES (1, 'Dikirim', 2235113.5, 'Kartu Kredit', 'Libero voluptas enim itaque vero laudantium ratione corporis.', '2024-07-17 19:12:55', 'Same Day', 'rini42@yahoo.com', 45, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (2, 'Menunggu Pembayaran', 3021824.07, 'Transfer Bank', NULL, '2024-11-30 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 63, 'ivan20@gmail.com');
+                 VALUES (2, 'Selesai', 1574842.68, 'Transfer Bank', NULL, '2025-01-20 19:12:55', 'Same Day', 'oni39@yahoo.com', 42, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (3, 'Menunggu Pembayaran', 1544578.39, 'Kartu Kredit', NULL, '2024-10-10 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 92, 'salman90@protonmail.com');
+                 VALUES (3, 'Dikirim', 4616295.59, 'Kartu Kredit', NULL, '2024-10-26 19:12:55', 'Ambil di Tempat', 'mariadi4@outlook.com', 40, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (4, 'Selesai', 898009.1, 'Transfer Bank', 'Odio temporibus architecto sed nam perspiciatis.', '2024-06-30 16:02:36', 'Instant Courier', 'mulyono88@protonmail.com', 98, 'heryanto85@mail.com');
+                 VALUES (4, 'Menunggu Pembayaran', 3399518.38, 'COD', NULL, '2025-04-17 19:12:55', 'Kurir Standar', 'kayla22@gmail.com', 81, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (5, 'Dibatalkan', 2311737.43, 'Kartu Kredit', NULL, '2024-06-07 16:02:36', 'Kurir Standar', 'ciaobella63@protonmail.com', 1, 'budi58@gmail.com');
+                 VALUES (5, 'Dikirim', 3252101.74, 'Kartu Kredit', NULL, '2025-05-09 19:12:55', 'Kurir Standar', 'ophelia59@protonmail.com', 41, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (6, 'Menunggu Pembayaran', 1948028.76, 'COD', NULL, '2024-07-31 16:02:36', 'Instant Courier', 'kusuma42@hotmail.com', 41, 'zulaikha2@outlook.com');
+                 VALUES (6, 'Selesai', 2446940.5, 'COD', NULL, '2024-10-17 19:12:55', 'Kurir Standar', 'cinta78@outlook.com', 50, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (7, 'Selesai', 3745840.38, 'E-Wallet', 'Ullam ea at velit labore ipsam.', '2025-03-25 16:02:36', 'Kurir Standar', 'kala24@hotmail.com', 71, 'ivan20@gmail.com');
+                 VALUES (7, 'Menunggu Pembayaran', 1570210.1, 'COD', NULL, '2025-03-25 19:12:55', 'Ambil di Tempat', 'cinta78@outlook.com', 63, 'gawati55@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (8, 'Selesai', 244057.41, 'Kartu Kredit', 'Architecto sint explicabo error perspiciatis voluptate incidunt.', '2025-04-09 16:02:36', 'Ambil di Tempat', 'yuni97@gmail.com', 5, 'jamalia36@aol.com');
+                 VALUES (8, 'Diproses', 3709122.9, 'COD', NULL, '2024-09-17 19:12:55', 'Instant Courier', 'pardi19@protonmail.com', 64, 'hairyanto16@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (9, 'Menunggu Pembayaran', 4938326.63, 'COD', 'Consectetur dolorem voluptates aspernatur pariatur.', '2024-11-25 16:02:36', 'Same Day', 'maimunah64@yahoo.com', 72, 'iriana68@yahoo.com');
+                 VALUES (9, 'Menunggu Pembayaran', 3841943.35, 'Kartu Kredit', 'Quaerat eum magnam.', '2025-02-10 19:12:55', 'Same Day', 'kusuma34@gmail.com', 21, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (10, 'Dikirim', 1962473.68, 'COD', NULL, '2024-12-28 16:02:36', 'Ambil di Tempat', 'dimaz63@outlook.com', 4, 'budi58@gmail.com');
+                 VALUES (10, 'Diproses', 1544270.03, 'Transfer Bank', NULL, '2024-07-02 19:12:55', 'Instant Courier', 'rini42@yahoo.com', 23, 'luis86@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (11, 'Diproses', 4072220.38, 'COD', 'Cum quisquam quibusdam sit.', '2024-06-18 16:02:36', 'Kurir Standar', 'elisa62@gmail.com', 6, 'nadia54@gmail.com');
+                 VALUES (11, 'Selesai', 1308013.13, 'E-Wallet', NULL, '2025-01-21 19:12:55', 'Instant Courier', 'laswi20@aol.com', 84, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (12, 'Menunggu Pembayaran', 4551325.52, 'COD', 'Soluta maiores aliquid quae nisi rerum.', '2024-11-09 16:02:36', 'Instant Courier', 'budi58@gmail.com', 78, 'danuja30@yahoo.com');
+                 VALUES (12, 'Selesai', 455558.48, 'Kartu Kredit', 'Corrupti voluptatem odit molestiae.', '2025-05-15 19:12:55', 'Instant Courier', 'kayla22@gmail.com', 36, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (13, 'Menunggu Pembayaran', 3796035.25, 'COD', NULL, '2024-12-14 16:02:36', 'Same Day', 'nyana52@yahoo.com', 96, 'ivan20@gmail.com');
+                 VALUES (13, 'Menunggu Pembayaran', 2445057.8, 'E-Wallet', NULL, '2024-12-17 19:12:55', 'Instant Courier', 'ade21@protonmail.com', 82, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (14, 'Menunggu Pembayaran', 2482175.0, 'COD', NULL, '2024-05-17 16:02:36', 'Instant Courier', 'sakura70@aol.com', 82, 'salman90@protonmail.com');
+                 VALUES (14, 'Dikirim', 2013837.49, 'Transfer Bank', NULL, '2024-06-09 19:12:55', 'Ambil di Tempat', 'gara24@hotmail.com', 90, 'ophelia59@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (15, 'Dikirim', 1105445.88, 'Kartu Kredit', 'Ad occaecati sequi ex.', '2024-07-04 16:02:36', 'Ambil di Tempat', 'kala24@hotmail.com', 40, 'sakura70@aol.com');
+                 VALUES (15, 'Menunggu Pembayaran', 1161099.68, 'E-Wallet', 'Itaque praesentium molestiae corporis odit voluptas.', '2025-04-20 19:12:55', 'Instant Courier', 'gilda79@gmail.com', 46, 'luis86@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (16, 'Dibatalkan', 2762358.84, 'Transfer Bank', 'A ut quisquam omnis vitae magni placeat quo.', '2024-07-19 16:02:36', 'Same Day', 'mahfud5@protonmail.com', 42, 'lulut53@aol.com');
+                 VALUES (16, 'Diproses', 2340608.8, 'COD', 'Dicta voluptates eveniet odio.', '2025-04-08 19:12:55', 'Kurir Standar', 'heru90@hotmail.com', 71, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (17, 'Diproses', 1484800.23, 'COD', NULL, '2025-01-13 16:02:36', 'Instant Courier', 'nyana52@yahoo.com', 31, 'ivan20@gmail.com');
+                 VALUES (17, 'Diproses', 4172609.86, 'COD', NULL, '2024-11-30 19:12:55', 'Kurir Standar', 'opung93@gmail.com', 49, 'ophelia59@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (18, 'Diproses', 3957700.82, 'Transfer Bank', 'Optio voluptates corporis quae expedita fuga mollitia animi.', '2024-06-12 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 43, 'zulaikha2@outlook.com');
+                 VALUES (18, 'Menunggu Pembayaran', 2435608.94, 'COD', NULL, '2025-02-27 19:12:55', 'Ambil di Tempat', 'oni39@yahoo.com', 62, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (19, 'Selesai', 692855.64, 'Kartu Kredit', NULL, '2024-12-22 16:02:36', 'Instant Courier', 'ciaobella63@protonmail.com', 4, 'zulaikha2@outlook.com');
+                 VALUES (19, 'Dikirim', 4798331.65, 'COD', 'Ipsum vel voluptate consequatur omnis perspiciatis voluptatibus consequatur.', '2024-07-23 19:12:55', 'Ambil di Tempat', 'oni39@yahoo.com', 43, 'gilda79@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (20, 'Dibatalkan', 795939.38, 'Kartu Kredit', 'Delectus at rem ex illo sunt facilis eius.', '2024-08-09 16:02:36', 'Kurir Standar', 'dimaz63@outlook.com', 90, 'puji19@gmail.com');
+                 VALUES (20, 'Dikirim', 2169590.34, 'COD', 'Tempore aspernatur quasi maxime.', '2024-09-26 19:12:55', 'Kurir Standar', 'siska88@gmail.com', 11, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (21, 'Diproses', 3533558.59, 'E-Wallet', 'Debitis dignissimos esse iste repudiandae.', '2024-11-28 16:02:36', 'Instant Courier', 'yuni97@gmail.com', 71, 'danuja30@yahoo.com');
+                 VALUES (21, 'Menunggu Pembayaran', 1620816.16, 'E-Wallet', 'Ipsam eos nam voluptas debitis molestias alias vitae.', '2025-01-14 19:12:55', 'Same Day', 'opung93@gmail.com', 95, 'gilda79@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (22, 'Diproses', 1766996.51, 'Transfer Bank', NULL, '2025-05-13 16:02:36', 'Same Day', 'umay10@aol.com', 86, 'lulut53@aol.com');
+                 VALUES (22, 'Selesai', 715295.09, 'Kartu Kredit', 'Beatae amet perspiciatis quia.', '2025-01-23 19:12:55', 'Instant Courier', 'cemplunk31@aol.com', 15, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (23, 'Selesai', 4593191.28, 'E-Wallet', 'Officiis laboriosam eligendi voluptates.', '2024-07-26 16:02:36', 'Ambil di Tempat', 'elisa62@gmail.com', 95, 'sakura70@aol.com');
+                 VALUES (23, 'Dibatalkan', 3269575.72, 'Kartu Kredit', 'Magnam delectus nisi officia at nisi officia odio.', '2024-05-19 19:12:55', 'Ambil di Tempat', 'nasim25@aol.com', 81, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (24, 'Dibatalkan', 332481.86, 'Transfer Bank', NULL, '2024-12-13 16:02:36', 'Kurir Standar', 'ayu65@hotmail.com', 93, 'puji19@gmail.com');
+                 VALUES (24, 'Diproses', 982615.01, 'E-Wallet', 'Iste accusantium repudiandae pariatur quibusdam.', '2025-03-29 19:12:55', 'Kurir Standar', 'rangga32@gmail.com', 5, 'nugraha66@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (25, 'Selesai', 4421356.5, 'E-Wallet', 'Tempora ratione inventore eveniet vel.', '2024-12-08 16:02:36', 'Ambil di Tempat', 'eman5@aol.com', 13, 'zulaikha2@outlook.com');
+                 VALUES (25, 'Menunggu Pembayaran', 4515707.66, 'COD', NULL, '2025-02-22 19:12:55', 'Ambil di Tempat', 'cemplunk31@aol.com', 78, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (26, 'Selesai', 1098298.87, 'E-Wallet', NULL, '2025-02-03 16:02:36', 'Instant Courier', 'oskar15@aol.com', 93, 'perkasa91@outlook.com');
+                 VALUES (26, 'Dikirim', 4378762.27, 'COD', NULL, '2024-11-11 19:12:55', 'Instant Courier', 'hairyanto16@aol.com', 59, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (27, 'Diproses', 4971334.21, 'Kartu Kredit', NULL, '2024-12-08 16:02:36', 'Same Day', 'jumadi52@gmail.com', 62, 'dimaz63@outlook.com');
+                 VALUES (27, 'Selesai', 3694408.2, 'COD', 'Incidunt occaecati ullam esse ipsam amet.', '2025-04-29 19:12:55', 'Ambil di Tempat', 'atma30@outlook.com', 21, 'luis86@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (28, 'Dikirim', 1351965.21, 'E-Wallet', NULL, '2024-07-27 16:02:36', 'Kurir Standar', 'maimunah64@yahoo.com', 16, 'dimaz63@outlook.com');
+                 VALUES (28, 'Menunggu Pembayaran', 2575148.44, 'E-Wallet', 'Laudantium eum et ipsam aspernatur.', '2024-10-15 19:12:55', 'Ambil di Tempat', 'heru90@hotmail.com', 84, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (29, 'Dibatalkan', 756179.02, 'E-Wallet', NULL, '2025-03-01 16:02:36', 'Instant Courier', 'ivan42@aol.com', 79, 'nadia54@gmail.com');
+                 VALUES (29, 'Selesai', 2655453.26, 'E-Wallet', NULL, '2024-08-19 19:12:55', 'Same Day', 'irsad44@protonmail.com', 94, 'luis86@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (30, 'Dikirim', 2984730.35, 'Transfer Bank', 'Debitis incidunt voluptatibus modi numquam esse accusamus iure.', '2024-10-24 16:02:36', 'Same Day', 'cawisadi28@yahoo.com', 75, 'zulaikha2@outlook.com');
+                 VALUES (30, 'Dikirim', 3869441.6, 'E-Wallet', NULL, '2024-05-30 19:12:55', 'Kurir Standar', 'opung93@gmail.com', 90, 'harimurti12@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (31, 'Dibatalkan', 4879576.56, 'E-Wallet', 'Ex veritatis ipsum esse quis.', '2024-11-26 16:02:36', 'Instant Courier', 'jarwadi70@mail.com', 46, 'lulut53@aol.com');
+                 VALUES (31, 'Selesai', 3368727.96, 'Transfer Bank', 'Reiciendis repellat mollitia ullam.', '2024-06-05 19:12:55', 'Same Day', 'kayla22@gmail.com', 47, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (32, 'Selesai', 4300585.53, 'Kartu Kredit', NULL, '2024-08-17 16:02:36', 'Instant Courier', 'jumadi52@gmail.com', 17, 'zulaikha2@outlook.com');
+                 VALUES (32, 'Selesai', 3243661.64, 'E-Wallet', NULL, '2024-07-21 19:12:55', 'Same Day', 'heru90@hotmail.com', 51, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (33, 'Dikirim', 3125989.47, 'Transfer Bank', NULL, '2024-12-14 16:02:36', 'Same Day', 'dimaz63@outlook.com', 14, 'umay10@aol.com');
+                 VALUES (33, 'Menunggu Pembayaran', 4385577.38, 'Kartu Kredit', NULL, '2024-10-27 19:12:55', 'Ambil di Tempat', 'siska88@gmail.com', 36, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (34, 'Dibatalkan', 3289460.84, 'Transfer Bank', NULL, '2025-01-23 16:02:36', 'Ambil di Tempat', 'hendri93@yahoo.com', 74, 'perkasa91@outlook.com');
+                 VALUES (34, 'Dibatalkan', 2987236.53, 'Kartu Kredit', 'Omnis eveniet explicabo amet.', '2024-10-31 19:12:55', 'Ambil di Tempat', 'asmianto10@yahoo.com', 6, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (35, 'Dikirim', 1915972.91, 'E-Wallet', 'Reiciendis odit quidem velit quas quod repudiandae.', '2024-10-13 16:02:36', 'Ambil di Tempat', 'kusuma42@hotmail.com', 87, 'jamalia36@aol.com');
+                 VALUES (35, 'Dikirim', 1294456.37, 'E-Wallet', 'Facere quasi adipisci.', '2024-10-04 19:12:55', 'Ambil di Tempat', 'umar49@yahoo.com', 30, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (36, 'Menunggu Pembayaran', 1997187.36, 'COD', 'Consequuntur architecto quaerat.', '2025-01-06 16:02:36', 'Ambil di Tempat', 'jaya68@outlook.com', 37, 'harsanto74@mail.com');
+                 VALUES (36, 'Menunggu Pembayaran', 604242.17, 'Kartu Kredit', NULL, '2025-03-12 19:12:55', 'Instant Courier', 'atma30@outlook.com', 39, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (37, 'Dikirim', 969362.5, 'Kartu Kredit', NULL, '2024-09-03 16:02:36', 'Same Day', 'jaya68@outlook.com', 85, 'oskar15@aol.com');
+                 VALUES (37, 'Diproses', 3559591.85, 'COD', 'Earum ab corrupti eius illo officia neque.', '2024-12-25 19:12:55', 'Kurir Standar', 'rachel31@mail.com', 86, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (38, 'Dibatalkan', 4713423.08, 'Kartu Kredit', NULL, '2025-04-22 16:02:36', 'Instant Courier', 'elisa62@gmail.com', 89, 'oskar15@aol.com');
+                 VALUES (38, 'Menunggu Pembayaran', 630331.89, 'Kartu Kredit', 'Ipsam necessitatibus repudiandae quas.', '2024-06-24 19:12:55', 'Ambil di Tempat', 'siska88@gmail.com', 13, 'gawati55@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (39, 'Dibatalkan', 1087339.21, 'Kartu Kredit', NULL, '2024-09-10 16:02:36', 'Same Day', 'zahra10@mail.com', 90, 'heryanto85@mail.com');
+                 VALUES (39, 'Selesai', 897481.45, 'Transfer Bank', NULL, '2025-03-15 19:12:55', 'Instant Courier', 'cinta78@outlook.com', 68, 'najib31@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (40, 'Selesai', 3832756.19, 'COD', 'Et quasi aliquid.', '2024-10-20 16:02:36', 'Same Day', 'ciaobella63@protonmail.com', 88, 'nadia54@gmail.com');
+                 VALUES (40, 'Dibatalkan', 910491.24, 'Kartu Kredit', NULL, '2025-04-17 19:12:55', 'Kurir Standar', 'pardi19@protonmail.com', 29, 'kani82@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (41, 'Dikirim', 4450955.03, 'COD', 'Mollitia sapiente corrupti repellendus sunt.', '2024-07-30 16:02:36', 'Same Day', 'maimunah64@yahoo.com', 95, 'dimaz63@outlook.com');
+                 VALUES (41, 'Menunggu Pembayaran', 3331398.01, 'E-Wallet', NULL, '2024-12-07 19:12:55', 'Instant Courier', 'kani82@hotmail.com', 87, 'najib31@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (42, 'Selesai', 877349.38, 'Transfer Bank', 'Iusto eaque vitae fugiat dicta exercitationem.', '2024-10-16 16:02:36', 'Kurir Standar', 'iriana68@yahoo.com', 38, 'zulaikha2@outlook.com');
+                 VALUES (42, 'Menunggu Pembayaran', 704847.52, 'COD', 'Nesciunt magni cupiditate sapiente ducimus.', '2024-12-01 19:12:55', 'Kurir Standar', 'mariadi4@outlook.com', 28, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (43, 'Dikirim', 1901327.45, 'Kartu Kredit', NULL, '2024-09-24 16:02:36', 'Kurir Standar', 'jarwadi70@mail.com', 44, 'sakura70@aol.com');
+                 VALUES (43, 'Menunggu Pembayaran', 764766.64, 'Kartu Kredit', NULL, '2025-03-14 19:12:55', 'Instant Courier', 'jati14@gmail.com', 69, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (44, 'Selesai', 3714770.35, 'Kartu Kredit', 'Omnis repudiandae facere iusto deleniti doloribus.', '2025-01-12 16:02:36', 'Kurir Standar', 'jarwadi70@mail.com', 59, 'iriana68@yahoo.com');
+                 VALUES (44, 'Dibatalkan', 569940.21, 'COD', NULL, '2025-03-01 19:12:55', 'Ambil di Tempat', 'gara24@hotmail.com', 84, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (45, 'Selesai', 350030.34, 'E-Wallet', NULL, '2024-05-24 16:02:36', 'Ambil di Tempat', 'asmadi11@outlook.com', 56, 'danuja30@yahoo.com');
+                 VALUES (45, 'Dibatalkan', 1419417.29, 'E-Wallet', NULL, '2024-07-11 19:12:55', 'Same Day', 'gara24@hotmail.com', 13, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (46, 'Dibatalkan', 4949600.5, 'E-Wallet', 'Illo laborum et deleniti incidunt possimus.', '2025-02-18 16:02:36', 'Same Day', 'kusuma42@hotmail.com', 3, 'harsanto74@mail.com');
+                 VALUES (46, 'Menunggu Pembayaran', 226005.54, 'Kartu Kredit', 'Et expedita modi dolorum explicabo occaecati modi minus.', '2024-10-29 19:12:55', 'Same Day', 'opung93@gmail.com', 66, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (47, 'Dikirim', 2624360.61, 'Transfer Bank', 'Cum numquam nisi quasi harum voluptatem molestias.', '2024-10-02 16:02:36', 'Instant Courier', 'perkasa91@outlook.com', 67, 'zulaikha2@outlook.com');
+                 VALUES (47, 'Diproses', 3702659.46, 'Kartu Kredit', 'Corrupti enim voluptatum ea magni id facilis accusantium.', '2025-05-07 19:12:55', 'Instant Courier', 'najib31@hotmail.com', 60, 'gawati55@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (48, 'Dibatalkan', 343114.19, 'Kartu Kredit', NULL, '2024-08-30 16:02:36', 'Kurir Standar', 'maria16@outlook.com', 59, 'iriana68@yahoo.com');
+                 VALUES (48, 'Diproses', 2533009.7, 'Transfer Bank', NULL, '2024-10-20 19:12:55', 'Kurir Standar', 'kayla22@gmail.com', 41, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (49, 'Dikirim', 3928792.78, 'Kartu Kredit', 'Quos tenetur illo fugiat voluptatibus omnis excepturi.', '2025-05-14 16:02:36', 'Instant Courier', 'sakura70@aol.com', 31, 'lulut53@aol.com');
+                 VALUES (49, 'Selesai', 767212.55, 'E-Wallet', NULL, '2025-03-10 19:12:55', 'Same Day', 'jati14@gmail.com', 52, 'hairyanto16@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (50, 'Dikirim', 134763.22, 'COD', NULL, '2024-07-01 16:02:36', 'Ambil di Tempat', 'hendri93@yahoo.com', 33, 'oskar15@aol.com');
+                 VALUES (50, 'Diproses', 3284678.57, 'Kartu Kredit', NULL, '2025-02-03 19:12:55', 'Kurir Standar', 'siska88@gmail.com', 15, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (51, 'Selesai', 4973003.53, 'Transfer Bank', NULL, '2024-12-17 16:02:36', 'Ambil di Tempat', 'maimunah64@yahoo.com', 74, 'sakura70@aol.com');
+                 VALUES (51, 'Selesai', 1819527.0, 'E-Wallet', 'Quo autem repellat quas possimus impedit est.', '2024-06-05 19:12:55', 'Instant Courier', 'heru90@hotmail.com', 55, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (52, 'Dibatalkan', 4148589.79, 'E-Wallet', NULL, '2025-01-10 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 1, 'sakura70@aol.com');
+                 VALUES (52, 'Dikirim', 2521748.01, 'Transfer Bank', NULL, '2024-09-11 19:12:55', 'Instant Courier', 'heru90@hotmail.com', 33, 'umi33@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (53, 'Diproses', 1977633.31, 'E-Wallet', NULL, '2024-09-11 16:02:36', 'Kurir Standar', 'ayu65@hotmail.com', 52, 'dimaz63@outlook.com');
+                 VALUES (53, 'Dikirim', 2213303.9, 'COD', 'Harum ullam suscipit.', '2024-09-05 19:12:55', 'Instant Courier', 'irsad44@protonmail.com', 96, 'harimurti12@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (54, 'Dikirim', 3854832.1, 'Transfer Bank', NULL, '2024-08-17 16:02:36', 'Ambil di Tempat', 'ciaobella63@protonmail.com', 30, 'ivan20@gmail.com');
+                 VALUES (54, 'Dikirim', 4195329.78, 'COD', 'Temporibus totam deserunt maxime repellat.', '2024-07-03 19:12:55', 'Same Day', 'irsad44@protonmail.com', 47, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (55, 'Menunggu Pembayaran', 769189.15, 'Kartu Kredit', 'Quae unde rerum tempore minus.', '2024-09-22 16:02:36', 'Same Day', 'jaya68@outlook.com', 90, 'oskar15@aol.com');
+                 VALUES (55, 'Menunggu Pembayaran', 4801169.15, 'Transfer Bank', 'Odit voluptatibus aspernatur aperiam modi cum.', '2025-01-20 19:12:55', 'Ambil di Tempat', 'jati14@gmail.com', 1, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (56, 'Diproses', 3858202.01, 'Transfer Bank', NULL, '2024-10-12 16:02:36', 'Same Day', 'elisa62@gmail.com', 26, 'iriana68@yahoo.com');
+                 VALUES (56, 'Dibatalkan', 2207985.4, 'E-Wallet', 'Esse nobis ipsam voluptatum non ducimus temporibus.', '2024-08-22 19:12:55', 'Kurir Standar', 'edi69@hotmail.com', 84, 'kani82@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (57, 'Diproses', 4821487.94, 'Transfer Bank', NULL, '2024-07-27 16:02:36', 'Kurir Standar', 'mulyono88@protonmail.com', 43, 'umay10@aol.com');
+                 VALUES (57, 'Dibatalkan', 4615911.01, 'COD', NULL, '2024-09-05 19:12:55', 'Kurir Standar', 'hairyanto16@aol.com', 81, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (58, 'Selesai', 3713630.64, 'COD', NULL, '2024-09-06 16:02:36', 'Same Day', 'jarwadi70@mail.com', 17, 'harsanto74@mail.com');
+                 VALUES (58, 'Menunggu Pembayaran', 2218642.78, 'Kartu Kredit', 'Perspiciatis fuga et incidunt dolorum ratione minus.', '2024-08-18 19:12:55', 'Kurir Standar', 'ophelia59@protonmail.com', 72, 'kani82@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (59, 'Diproses', 1147527.59, 'COD', NULL, '2025-03-12 16:02:36', 'Same Day', 'wadi81@hotmail.com', 57, 'perkasa91@outlook.com');
+                 VALUES (59, 'Selesai', 2497054.07, 'Kartu Kredit', NULL, '2025-03-29 19:12:55', 'Instant Courier', 'laswi20@aol.com', 80, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (60, 'Menunggu Pembayaran', 3090139.76, 'COD', NULL, '2024-12-17 16:02:36', 'Kurir Standar', 'hendri93@yahoo.com', 12, 'umay10@aol.com');
+                 VALUES (60, 'Selesai', 4716720.16, 'COD', 'Fugit veniam tempora ratione.', '2025-01-18 19:12:55', 'Instant Courier', 'rini42@yahoo.com', 48, 'kani82@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (61, 'Menunggu Pembayaran', 2701593.82, 'Transfer Bank', 'Reprehenderit consectetur officiis nihil laudantium odio.', '2024-12-28 16:02:36', 'Ambil di Tempat', 'puji19@gmail.com', 75, 'jamalia36@aol.com');
+                 VALUES (61, 'Dibatalkan', 653837.33, 'Transfer Bank', NULL, '2024-05-21 19:12:55', 'Instant Courier', 'mariadi4@outlook.com', 32, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (62, 'Diproses', 4120839.66, 'COD', NULL, '2025-03-11 16:02:36', 'Ambil di Tempat', 'umay10@aol.com', 55, 'iriana68@yahoo.com');
+                 VALUES (62, 'Diproses', 1970866.47, 'COD', NULL, '2025-03-10 19:12:55', 'Same Day', 'rangga32@gmail.com', 7, 'gilda79@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (63, 'Selesai', 1477669.32, 'COD', NULL, '2024-09-30 16:02:36', 'Ambil di Tempat', 'legawa24@protonmail.com', 42, 'harsanto74@mail.com');
+                 VALUES (63, 'Selesai', 2526694.06, 'Transfer Bank', NULL, '2025-04-03 19:12:55', 'Kurir Standar', 'luis86@protonmail.com', 72, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (64, 'Dikirim', 1765746.75, 'E-Wallet', 'Ea nesciunt aliquam blanditiis ipsa quos.', '2024-05-30 16:02:36', 'Same Day', 'mulyono88@protonmail.com', 10, 'iriana68@yahoo.com');
+                 VALUES (64, 'Dibatalkan', 1637546.58, 'Kartu Kredit', NULL, '2025-01-02 19:12:55', 'Instant Courier', 'jati14@gmail.com', 37, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (65, 'Diproses', 934890.66, 'Transfer Bank', 'Expedita consequuntur laborum nemo velit tenetur dicta.', '2024-12-07 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 99, 'heryanto85@mail.com');
+                 VALUES (65, 'Dikirim', 4413207.27, 'COD', 'Magnam nihil cupiditate omnis repudiandae accusamus dolorum.', '2024-07-19 19:12:55', 'Same Day', 'rangga32@gmail.com', 67, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (66, 'Dikirim', 2599935.83, 'Transfer Bank', NULL, '2024-06-28 16:02:36', 'Kurir Standar', 'irfan87@gmail.com', 81, 'iriana68@yahoo.com');
+                 VALUES (66, 'Selesai', 516760.46, 'Transfer Bank', 'Et exercitationem dolorem natus itaque similique.', '2024-07-17 19:12:55', 'Ambil di Tempat', 'prayitna38@gmail.com', 91, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (67, 'Dikirim', 2675029.45, 'Kartu Kredit', NULL, '2024-10-31 16:02:36', 'Kurir Standar', 'umay10@aol.com', 48, 'harsanto74@mail.com');
+                 VALUES (67, 'Selesai', 3116976.76, 'Transfer Bank', 'Non quia sapiente sapiente.', '2025-03-31 19:12:55', 'Kurir Standar', 'opung93@gmail.com', 85, 'umi33@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (68, 'Menunggu Pembayaran', 123793.66, 'Kartu Kredit', 'Aut sint sunt quam quod numquam.', '2024-09-07 16:02:36', 'Instant Courier', 'kusuma42@hotmail.com', 90, 'sakura70@aol.com');
+                 VALUES (68, 'Dibatalkan', 506113.45, 'Transfer Bank', NULL, '2025-03-19 19:12:55', 'Kurir Standar', 'luis86@protonmail.com', 87, 'najib31@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (69, 'Selesai', 4063787.54, 'COD', 'Possimus nihil ad magni.', '2024-07-03 16:02:36', 'Instant Courier', 'nyana52@yahoo.com', 23, 'ivan20@gmail.com');
+                 VALUES (69, 'Diproses', 4902091.5, 'COD', 'Accusamus illo cum soluta voluptate explicabo.', '2024-09-07 19:12:55', 'Kurir Standar', 'kayla22@gmail.com', 74, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (70, 'Diproses', 2656489.02, 'Transfer Bank', NULL, '2024-08-05 16:02:36', 'Kurir Standar', 'wadi81@hotmail.com', 85, 'umay10@aol.com');
+                 VALUES (70, 'Selesai', 839398.67, 'COD', 'Sapiente magni consectetur voluptate quis a ab.', '2025-04-11 19:12:55', 'Same Day', 'jati14@gmail.com', 44, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (71, 'Diproses', 2226770.46, 'E-Wallet', 'Debitis libero repellat laudantium voluptatem dicta.', '2024-09-18 16:02:36', 'Ambil di Tempat', 'umay10@aol.com', 68, 'nadia54@gmail.com');
+                 VALUES (71, 'Dikirim', 1693728.6, 'COD', NULL, '2025-02-16 19:12:55', 'Ambil di Tempat', 'najib31@hotmail.com', 94, 'najib31@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (72, 'Dikirim', 951426.88, 'Transfer Bank', NULL, '2025-03-29 16:02:36', 'Same Day', 'mahfud5@protonmail.com', 87, 'lulut53@aol.com');
+                 VALUES (72, 'Dikirim', 4040724.8, 'Kartu Kredit', 'Quos quasi at beatae nesciunt ullam.', '2024-06-21 19:12:55', 'Instant Courier', 'kusuma34@gmail.com', 23, 'umi33@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (73, 'Selesai', 413530.02, 'E-Wallet', NULL, '2024-10-21 16:02:36', 'Ambil di Tempat', 'ivan42@aol.com', 15, 'heryanto85@mail.com');
+                 VALUES (73, 'Dibatalkan', 3140109.25, 'E-Wallet', 'Rerum officia modi recusandae omnis eveniet necessitatibus.', '2025-02-10 19:12:55', 'Ambil di Tempat', 'gilda79@gmail.com', 33, 'luis86@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (74, 'Selesai', 4009881.87, 'Kartu Kredit', NULL, '2024-12-23 16:02:36', 'Instant Courier', 'wadi81@hotmail.com', 8, 'salman90@protonmail.com');
+                 VALUES (74, 'Selesai', 2194145.04, 'Transfer Bank', 'Voluptatum omnis laudantium iste laboriosam quia a.', '2024-05-17 19:12:55', 'Same Day', 'ade21@protonmail.com', 44, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (75, 'Diproses', 749829.78, 'E-Wallet', 'Veniam similique laborum nihil nostrum.', '2025-02-18 16:02:36', 'Kurir Standar', 'olga77@gmail.com', 10, 'heryanto85@mail.com');
+                 VALUES (75, 'Dikirim', 1790638.14, 'COD', NULL, '2024-09-12 19:12:55', 'Kurir Standar', 'ophelia59@protonmail.com', 96, 'ophelia59@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (76, 'Dikirim', 2283599.19, 'Kartu Kredit', 'Dolor voluptates molestias porro dicta aspernatur.', '2025-04-07 16:02:36', 'Ambil di Tempat', 'nyana52@yahoo.com', 91, 'lulut53@aol.com');
+                 VALUES (76, 'Menunggu Pembayaran', 1060427.32, 'Kartu Kredit', 'Consequatur delectus autem repellat.', '2024-11-14 19:12:55', 'Kurir Standar', 'ophelia59@protonmail.com', 87, 'naradi89@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (77, 'Dikirim', 2943771.91, 'COD', 'Assumenda molestias nemo neque at et quo tenetur.', '2025-01-13 16:02:36', 'Same Day', 'iriana68@yahoo.com', 55, 'danuja30@yahoo.com');
+                 VALUES (77, 'Selesai', 1212623.41, 'Kartu Kredit', 'Eaque eius ipsa aut ratione voluptates.', '2024-09-30 19:12:55', 'Kurir Standar', 'laswi20@aol.com', 21, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (78, 'Menunggu Pembayaran', 2232882.88, 'COD', 'Nisi modi commodi expedita hic eligendi.', '2025-05-14 16:02:36', 'Kurir Standar', 'jaya68@outlook.com', 11, 'zulaikha2@outlook.com');
+                 VALUES (78, 'Diproses', 585996.21, 'COD', 'Numquam voluptas quaerat aut suscipit impedit.', '2024-07-12 19:12:55', 'Same Day', 'gilda79@gmail.com', 5, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (79, 'Selesai', 1787835.93, 'Kartu Kredit', 'Illum voluptate non inventore exercitationem dignissimos.', '2025-01-18 16:02:36', 'Instant Courier', 'kusuma42@hotmail.com', 89, 'budi58@gmail.com');
+                 VALUES (79, 'Diproses', 1636596.29, 'Transfer Bank', 'Rem voluptatum id quia praesentium debitis fugit quia.', '2024-12-27 19:12:55', 'Same Day', 'prayitna38@gmail.com', 5, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (80, 'Diproses', 2901935.87, 'E-Wallet', NULL, '2025-02-06 16:02:36', 'Same Day', 'hendri93@yahoo.com', 30, 'lulut53@aol.com');
+                 VALUES (80, 'Diproses', 3546627.96, 'Kartu Kredit', 'Dicta minus ad consectetur.', '2024-12-01 19:12:55', 'Ambil di Tempat', 'irnanto43@protonmail.com', 65, 'hairyanto16@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (81, 'Dibatalkan', 819189.02, 'COD', NULL, '2024-11-01 16:02:36', 'Kurir Standar', 'ayu65@hotmail.com', 86, 'jamalia36@aol.com');
+                 VALUES (81, 'Menunggu Pembayaran', 493758.01, 'Kartu Kredit', NULL, '2025-03-27 19:12:55', 'Instant Courier', 'kayla22@gmail.com', 8, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (82, 'Diproses', 1986033.08, 'E-Wallet', NULL, '2024-12-16 16:02:36', 'Same Day', 'yani96@mail.com', 82, 'zulaikha2@outlook.com');
+                 VALUES (82, 'Dikirim', 1417455.76, 'E-Wallet', 'Ipsa et dolor laboriosam beatae cum animi error.', '2024-12-05 19:12:55', 'Kurir Standar', 'kani82@hotmail.com', 47, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (83, 'Selesai', 1673178.93, 'Kartu Kredit', NULL, '2024-07-17 16:02:36', 'Instant Courier', 'eman5@aol.com', 3, 'jamalia36@aol.com');
+                 VALUES (83, 'Diproses', 3869560.53, 'E-Wallet', NULL, '2024-06-26 19:12:55', 'Same Day', 'hairyanto16@aol.com', 70, 'nugraha66@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (84, 'Selesai', 2936953.89, 'Transfer Bank', NULL, '2024-06-06 16:02:36', 'Instant Courier', 'iriana68@yahoo.com', 45, 'jamalia36@aol.com');
+                 VALUES (84, 'Selesai', 3505128.94, 'Transfer Bank', 'Est ipsum corrupti eos.', '2025-04-26 19:12:55', 'Ambil di Tempat', 'atma30@outlook.com', 50, 'umar49@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (85, 'Dibatalkan', 3519527.31, 'COD', 'Reprehenderit officiis et tempore.', '2024-09-17 16:02:36', 'Same Day', 'mulyono88@protonmail.com', 76, 'umay10@aol.com');
+                 VALUES (85, 'Diproses', 384623.58, 'COD', 'Aut impedit eos debitis.', '2025-02-18 19:12:55', 'Ambil di Tempat', 'gara24@hotmail.com', 93, 'ophelia59@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (86, 'Dibatalkan', 2153851.9, 'Transfer Bank', NULL, '2024-11-18 16:02:36', 'Ambil di Tempat', 'patricia49@gmail.com', 60, 'sakura70@aol.com');
+                 VALUES (86, 'Selesai', 4891018.1, 'COD', NULL, '2025-04-26 19:12:55', 'Kurir Standar', 'umi33@outlook.com', 89, 'harimurti12@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (87, 'Selesai', 3291665.24, 'E-Wallet', 'Earum ullam similique inventore.', '2024-11-10 16:02:36', 'Ambil di Tempat', 'patricia49@gmail.com', 57, 'sakura70@aol.com');
+                 VALUES (87, 'Menunggu Pembayaran', 599539.11, 'E-Wallet', NULL, '2025-03-09 19:12:55', 'Kurir Standar', 'oni39@yahoo.com', 14, 'gara24@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (88, 'Diproses', 3470793.27, 'Kartu Kredit', NULL, '2024-07-15 16:02:36', 'Instant Courier', 'elisa62@gmail.com', 81, 'sakura70@aol.com');
+                 VALUES (88, 'Menunggu Pembayaran', 1715166.52, 'Transfer Bank', 'Inventore fugit quaerat molestias.', '2025-04-05 19:12:55', 'Instant Courier', 'luis86@protonmail.com', 10, 'abyasa18@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (89, 'Selesai', 1069569.56, 'Transfer Bank', 'Corporis qui fugit totam dolorem.', '2024-07-09 16:02:36', 'Instant Courier', 'ciaobella63@protonmail.com', 80, 'ivan20@gmail.com');
+                 VALUES (89, 'Diproses', 3806940.83, 'COD', 'Laboriosam error earum quia.', '2024-06-13 19:12:55', 'Kurir Standar', 'gara24@hotmail.com', 55, 'ophelia59@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (90, 'Dikirim', 2557398.37, 'E-Wallet', NULL, '2024-09-17 16:02:36', 'Ambil di Tempat', 'rahmi63@gmail.com', 7, 'ivan20@gmail.com');
+                 VALUES (90, 'Dikirim', 1844590.72, 'Transfer Bank', 'Architecto praesentium nemo molestiae.', '2024-06-14 19:12:55', 'Instant Courier', 'naradi89@yahoo.com', 66, 'najib31@hotmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (91, 'Menunggu Pembayaran', 2265209.96, 'Transfer Bank', 'Doloribus aperiam laudantium tempore quis consequatur laborum.', '2025-04-18 16:02:36', 'Ambil di Tempat', 'yuni97@gmail.com', 69, 'nadia54@gmail.com');
+                 VALUES (91, 'Dikirim', 1261432.45, 'COD', NULL, '2024-11-07 19:12:55', 'Kurir Standar', 'gawati55@mail.com', 37, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (92, 'Selesai', 1504174.77, 'COD', 'Exercitationem sed maxime.', '2025-04-16 16:02:36', 'Instant Courier', 'ivan42@aol.com', 85, 'iriana68@yahoo.com');
+                 VALUES (92, 'Selesai', 572168.61, 'Transfer Bank', NULL, '2024-06-11 19:12:55', 'Same Day', 'siska88@gmail.com', 59, 'talia73@yahoo.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (93, 'Menunggu Pembayaran', 4575268.45, 'Transfer Bank', NULL, '2025-03-18 16:02:36', 'Same Day', 'patricia49@gmail.com', 25, 'danuja30@yahoo.com');
+                 VALUES (93, 'Selesai', 880334.72, 'Kartu Kredit', NULL, '2024-07-14 19:12:55', 'Instant Courier', 'kayla22@gmail.com', 38, 'nugraha66@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (94, 'Dikirim', 4026286.95, 'Kartu Kredit', 'Quis quaerat blanditiis accusamus.', '2025-04-02 16:02:36', 'Ambil di Tempat', 'umay10@aol.com', 74, 'ivan20@gmail.com');
+                 VALUES (94, 'Menunggu Pembayaran', 4016945.45, 'E-Wallet', 'Reiciendis odio velit nisi dolor eaque.', '2025-04-14 19:12:55', 'Kurir Standar', 'ophelia59@protonmail.com', 73, 'harimurti12@outlook.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (95, 'Diproses', 2907435.94, 'COD', 'Consequuntur voluptatem numquam excepturi non asperiores.', '2024-10-15 16:02:36', 'Same Day', 'irfan87@gmail.com', 82, 'jamalia36@aol.com');
+                 VALUES (95, 'Dibatalkan', 2112521.3, 'E-Wallet', 'Sit molestias aperiam nostrum delectus maxime eveniet.', '2025-03-29 19:12:55', 'Same Day', 'rini42@yahoo.com', 86, 'rudi57@aol.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (96, 'Dibatalkan', 3405557.51, 'E-Wallet', NULL, '2025-04-03 16:02:36', 'Instant Courier', 'patricia49@gmail.com', 16, 'iriana68@yahoo.com');
+                 VALUES (96, 'Diproses', 1052106.2, 'COD', 'Corrupti aut magni impedit cum.', '2025-02-13 19:12:55', 'Kurir Standar', 'vivi67@mail.com', 21, 'ade21@protonmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (97, 'Selesai', 3168836.56, 'Transfer Bank', NULL, '2024-12-10 16:02:36', 'Ambil di Tempat', 'irfan87@gmail.com', 99, 'ivan20@gmail.com');
+                 VALUES (97, 'Selesai', 237492.87, 'Kartu Kredit', 'In doloremque quas doloribus excepturi.', '2024-08-16 19:12:55', 'Instant Courier', 'cornelia71@outlook.com', 96, 'gawati55@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (98, 'Diproses', 4681185.14, 'COD', NULL, '2024-08-14 16:02:36', 'Instant Courier', 'kala24@hotmail.com', 23, 'salman90@protonmail.com');
+                 VALUES (98, 'Dibatalkan', 2291700.47, 'E-Wallet', 'Voluptatibus quisquam doloremque inventore delectus.', '2024-06-15 19:12:55', 'Ambil di Tempat', 'atma30@outlook.com', 26, 'gawati55@mail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (99, 'Dikirim', 4979192.86, 'COD', NULL, '2024-10-23 16:02:36', 'Instant Courier', 'yani96@mail.com', 64, 'puji19@gmail.com');
+                 VALUES (99, 'Menunggu Pembayaran', 3369647.64, 'Transfer Bank', NULL, '2024-11-26 19:12:55', 'Ambil di Tempat', 'siska88@gmail.com', 78, 'siska88@gmail.com');
 INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
-                 VALUES (100, 'Menunggu Pembayaran', 544043.19, 'COD', NULL, '2025-01-22 16:02:36', 'Instant Courier', 'oskar15@aol.com', 74, 'oskar15@aol.com');
+                 VALUES (100, 'Dibatalkan', 3995757.58, 'Transfer Bank', NULL, '2024-09-22 19:12:55', 'Ambil di Tempat', 'vivi67@mail.com', 67, 'ade21@protonmail.com');
+-- Total pesanan: 100
 
 -- INSERT INTO rincian_pesanan
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (1, 124, '124-WHITE-28', 1);
+                         VALUES (1, 109, '109-WHITE', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (1, 31, '31-RED-28', 2);
+                         VALUES (1, 109, '109-GREEN', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (2, 138, '138-BLACK', 5);
+                         VALUES (1, 109, '109-RED-30', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (3, 133, '133-NAVY', 4);
+                         VALUES (2, 57, '57-BLUE-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (3, 106, '106-GREY', 5);
+                         VALUES (2, 59, '59-NAVY', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (3, 166, '166-BLACK', 2);
+                         VALUES (3, 66, '66-BLUE-30', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (4, 98, '98-BLACK-32', 1);
+                         VALUES (3, 58, '58-RED', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (5, 48, '48-RED-28', 4);
+                         VALUES (3, 57, '57-NAVY-M', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (5, 113, '113-GREY', 4);
+                         VALUES (4, 25, '25-NAVY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (5, 64, '64-GREEN', 4);
+                         VALUES (4, 25, '25-WHITE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (6, 22, '22-NAVY', 4);
+                         VALUES (4, 30, '30-GREY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (7, 2, '2-WHITE-M', 3);
+                         VALUES (5, 107, '107-NAVY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (7, 127, '127-WHITE-32', 4);
+                         VALUES (5, 106, '106-GREY-32', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (7, 162, '162-RED', 4);
+                         VALUES (6, 89, '89-WHITE-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (8, 94, '94-NAVY-28', 4);
+                         VALUES (7, 2, '2-GREY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (8, 126, '126-RED', 2);
+                         VALUES (8, 129, '129-BLUE', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (9, 33, '33-BLACK', 1);
+                         VALUES (8, 124, '124-BLACK', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (10, 113, '113-GREEN', 2);
+                         VALUES (9, 22, '22-BLUE-28', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (10, 57, '57-GREY-32', 5);
+                         VALUES (9, 13, '13-GREEN', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (11, 184, '184-BLACK-L', 1);
+                         VALUES (10, 176, '176-GREY-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (11, 61, '61-RED', 3);
+                         VALUES (10, 166, '166-BLUE', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (12, 40, '40-WHITE-M', 1);
+                         VALUES (10, 175, '175-BLUE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (13, 2, '2-WHITE-M', 2);
+                         VALUES (11, 197, '197-BLUE-30', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (14, 106, '106-GREY', 2);
+                         VALUES (11, 197, '197-WHITE', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (15, 179, '179-GREY-32', 1);
+                         VALUES (11, 192, '192-RED-32', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (15, 178, '178-BLACK', 3);
+                         VALUES (12, 96, '96-GREY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (15, 196, '196-GREEN-M', 1);
+                         VALUES (12, 95, '95-GREEN-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (16, 29, '29-BLUE-S', 4);
+                         VALUES (13, 17, '17-NAVY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (16, 42, '42-BLACK', 4);
+                         VALUES (13, 16, '16-BLACK-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (17, 142, '142-BLUE-32', 2);
+                         VALUES (13, 15, '15-GREY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (17, 87, '87-WHITE', 5);
+                         VALUES (14, 139, '139-BLACK-L', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (17, 90, '90-WHITE-28', 3);
+                         VALUES (14, 139, '139-WHITE-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (18, 12, '12-BLUE-28', 3);
+                         VALUES (15, 175, '175-NAVY', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (19, 153, '153-GREEN', 1);
+                         VALUES (15, 173, '173-NAVY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (19, 153, '153-BLACK-M', 2);
+                         VALUES (15, 166, '166-GREY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (19, 52, '52-GREEN-30', 3);
+                         VALUES (16, 26, '26-RED', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (20, 10, '10-NAVY', 1);
+                         VALUES (16, 29, '29-GREEN-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (21, 121, '121-BLUE', 3);
+                         VALUES (17, 140, '140-RED', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (21, 128, '128-BLUE-M', 5);
+                         VALUES (17, 139, '139-WHITE-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (21, 121, '121-BLACK-28', 5);
+                         VALUES (18, 55, '55-WHITE', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (22, 104, '104-GREEN', 2);
+                         VALUES (19, 86, '86-GREEN-30', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (23, 196, '196-RED-S', 4);
+                         VALUES (19, 86, '86-NAVY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (24, 124, '124-WHITE-30', 2);
+                         VALUES (20, 196, '196-WHITE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (24, 93, '93-BLACK', 4);
+                         VALUES (20, 194, '194-BLACK-L', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (24, 34, '34-RED', 1);
+                         VALUES (20, 194, '194-GREEN', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (25, 3, '3-BLACK', 3);
+                         VALUES (21, 88, '88-BLACK-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (25, 12, '12-GREY', 4);
+                         VALUES (21, 84, '84-BLACK-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (26, 192, '192-BLACK-30', 4);
+                         VALUES (22, 96, '96-RED', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (26, 101, '101-WHITE', 2);
+                         VALUES (22, 93, '93-RED', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (27, 1, '1-BLACK', 5);
+                         VALUES (23, 61, '61-RED-32', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (27, 79, '79-GREEN', 3);
+                         VALUES (23, 64, '64-BLUE-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (28, 177, '177-RED', 3);
+                         VALUES (24, 71, '71-BLUE', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (28, 79, '79-BLACK-28', 5);
+                         VALUES (25, 93, '93-WHITE', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (29, 70, '70-WHITE-30', 4);
+                         VALUES (25, 94, '94-GREY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (30, 43, '43-GREEN-30', 3);
+                         VALUES (25, 97, '97-GREY', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (31, 123, '123-NAVY-M', 4);
+                         VALUES (26, 99, '99-WHITE-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (32, 140, '140-WHITE-S', 5);
+                         VALUES (26, 96, '96-GREY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (33, 182, '182-BLACK', 2);
+                         VALUES (26, 93, '93-RED', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (33, 185, '185-NAVY-30', 5);
+                         VALUES (27, 174, '174-GREY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (33, 25, '25-GREY-S', 1);
+                         VALUES (27, 168, '168-NAVY-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (34, 192, '192-WHITE', 2);
+                         VALUES (28, 32, '32-GREY-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (34, 101, '101-NAVY-M', 2);
+                         VALUES (28, 24, '24-RED-S', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (34, 109, '109-NAVY-S', 4);
+                         VALUES (28, 32, '32-GREEN', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (35, 126, '126-GREY', 1);
+                         VALUES (29, 173, '173-NAVY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (36, 137, '137-GREY-M', 4);
+                         VALUES (29, 174, '174-GREY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (36, 149, '149-NAVY', 1);
+                         VALUES (29, 166, '166-NAVY-30', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (36, 116, '116-BLACK', 2);
+                         VALUES (30, 42, '42-GREY', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (37, 141, '141-NAVY', 1);
+                         VALUES (30, 36, '36-NAVY', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (37, 55, '55-GREEN-L', 4);
+                         VALUES (31, 193, '193-BLUE-L', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (38, 96, '96-WHITE', 5);
+                         VALUES (32, 15, '15-WHITE', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (38, 96, '96-NAVY-M', 2);
+                         VALUES (33, 151, '151-GREEN-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (38, 65, '65-BLACK-32', 3);
+                         VALUES (33, 152, '152-WHITE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (39, 37, '37-GREY', 4);
+                         VALUES (34, 151, '151-GREEN-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (39, 103, '103-GREEN-28', 3);
+                         VALUES (34, 153, '153-NAVY-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (40, 68, '68-WHITE-30', 3);
+                         VALUES (35, 49, '49-NAVY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (40, 68, '68-RED', 4);
+                         VALUES (36, 144, '144-NAVY-M', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (40, 197, '197-WHITE-S', 1);
+                         VALUES (36, 151, '151-BLUE-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (41, 72, '72-BLUE-30', 5);
+                         VALUES (37, 31, '31-NAVY-30', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (41, 41, '41-RED', 1);
+                         VALUES (37, 25, '25-WHITE', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (41, 79, '79-GREY', 5);
+                         VALUES (37, 25, '25-NAVY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (42, 140, '140-GREEN', 3);
+                         VALUES (38, 8, '8-WHITE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (42, 153, '153-GREY-28', 5);
+                         VALUES (39, 186, '186-NAVY-M', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (42, 32, '32-NAVY-32', 3);
+                         VALUES (39, 184, '184-BLUE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (43, 196, '196-GREEN-M', 1);
+                         VALUES (39, 178, '178-NAVY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (43, 175, '175-RED-32', 4);
+                         VALUES (40, 165, '165-BLACK', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (44, 122, '122-RED', 3);
+                         VALUES (40, 155, '155-GREEN', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (44, 74, '74-NAVY-30', 2);
+                         VALUES (40, 157, '157-RED-28', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (45, 27, '27-GREY-L', 2);
+                         VALUES (41, 179, '179-NAVY-30', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (45, 121, '121-BLUE', 4);
+                         VALUES (41, 186, '186-NAVY-M', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (46, 137, '137-RED', 5);
+                         VALUES (42, 28, '28-BLUE', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (47, 22, '22-WHITE-32', 3);
+                         VALUES (43, 13, '13-GREEN-L', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (48, 30, '30-GREEN-28', 3);
+                         VALUES (44, 98, '98-GREEN-S', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (49, 29, '29-BLUE-S', 4);
+                         VALUES (44, 94, '94-GREEN', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (49, 11, '11-BLACK-M', 3);
+                         VALUES (44, 98, '98-GREEN-30', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (49, 6, '6-BLUE-M', 2);
+                         VALUES (45, 47, '47-BLACK-30', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (50, 80, '80-WHITE-30', 4);
+                         VALUES (45, 49, '49-BLUE-32', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (50, 135, '135-BLUE', 1);
+                         VALUES (46, 57, '57-WHITE', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (51, 13, '13-BLACK-28', 5);
+                         VALUES (46, 56, '56-BLACK', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (52, 66, '66-BLUE', 5);
+                         VALUES (47, 7, '7-NAVY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (53, 79, '79-GREY', 3);
+                         VALUES (48, 63, '63-NAVY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (53, 44, '44-NAVY-30', 1);
+                         VALUES (48, 58, '58-RED-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (54, 15, '15-BLACK-32', 4);
+                         VALUES (49, 125, '125-BLACK', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (54, 183, '183-WHITE-30', 1);
+                         VALUES (50, 107, '107-BLUE-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (55, 147, '147-BLUE-32', 2);
+                         VALUES (50, 109, '109-NAVY-32', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (55, 65, '65-GREY-28', 1);
+                         VALUES (50, 104, '104-GREEN-S', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (56, 74, '74-RED', 2);
+                         VALUES (51, 144, '144-NAVY-M', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (56, 49, '49-GREEN', 2);
+                         VALUES (52, 117, '117-GREEN-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (56, 33, '33-GREY', 1);
+                         VALUES (53, 35, '35-GREEN', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (57, 200, '200-GREEN-S', 4);
+                         VALUES (54, 190, '190-GREY-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (57, 185, '185-WHITE-32', 1);
+                         VALUES (55, 20, '20-RED-28', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (57, 188, '188-WHITE', 5);
+                         VALUES (55, 12, '12-NAVY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (58, 116, '116-GREY', 4);
+                         VALUES (55, 15, '15-GREY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (58, 137, '137-GREY-M', 5);
+                         VALUES (56, 159, '159-GREEN', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (59, 38, '38-GREY-M', 2);
+                         VALUES (56, 163, '163-GREY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (59, 8, '8-BLACK-30', 5);
+                         VALUES (57, 107, '107-BLUE-S', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (60, 182, '182-BLACK', 1);
+                         VALUES (58, 158, '158-RED', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (61, 148, '148-BLACK', 4);
+                         VALUES (59, 149, '149-GREY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (61, 94, '94-GREEN', 4);
+                         VALUES (60, 165, '165-GREEN', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (61, 126, '126-WHITE', 5);
+                         VALUES (60, 161, '161-BLACK-L', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (62, 92, '92-BLUE', 5);
+                         VALUES (61, 103, '103-BLUE-M', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (63, 115, '115-GREEN-30', 1);
+                         VALUES (61, 100, '100-BLUE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (64, 49, '49-BLACK', 1);
+                         VALUES (61, 110, '110-BLUE', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (64, 69, '69-BLUE-S', 2);
+                         VALUES (62, 87, '87-RED', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (65, 165, '165-BLACK', 1);
+                         VALUES (62, 80, '80-GREY-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (66, 122, '122-BLACK-28', 3);
+                         VALUES (63, 192, '192-RED-32', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (67, 143, '143-WHITE-32', 4);
+                         VALUES (63, 197, '197-BLUE-30', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (67, 137, '137-GREY-M', 4);
+                         VALUES (63, 195, '195-BLACK', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (67, 149, '149-RED-28', 2);
+                         VALUES (64, 57, '57-NAVY-M', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (68, 178, '178-BLACK', 2);
+                         VALUES (64, 60, '60-NAVY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (69, 142, '142-BLUE-32', 3);
+                         VALUES (64, 64, '64-BLUE-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (70, 114, '114-GREY-S', 3);
+                         VALUES (65, 60, '60-GREEN-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (71, 70, '70-WHITE-30', 2);
+                         VALUES (66, 22, '22-BLACK-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (71, 68, '68-WHITE-30', 4);
+                         VALUES (67, 119, '119-BLUE-M', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (71, 184, '184-NAVY', 1);
+                         VALUES (67, 121, '121-BLACK-M', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (72, 26, '26-GREY-M', 4);
+                         VALUES (67, 119, '119-GREEN-M', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (72, 26, '26-BLUE-28', 4);
+                         VALUES (68, 179, '179-GREY-30', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (73, 89, '89-BLUE-S', 1);
+                         VALUES (68, 181, '181-GREEN-32', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (73, 165, '165-BLACK-L', 2);
+                         VALUES (69, 93, '93-WHITE', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (74, 20, '20-BLACK', 3);
+                         VALUES (70, 54, '54-WHITE-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (74, 194, '194-RED', 3);
+                         VALUES (71, 178, '178-GREY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (74, 161, '161-BLUE', 3);
+                         VALUES (71, 184, '184-BLUE', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (75, 37, '37-GREY-28', 4);
+                         VALUES (71, 180, '180-BLUE-32', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (76, 26, '26-BLUE-28', 4);
+                         VALUES (72, 118, '118-GREEN', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (76, 71, '71-GREY', 1);
+                         VALUES (72, 111, '111-GREEN-M', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (76, 181, '181-GREY-30', 3);
+                         VALUES (72, 113, '113-NAVY', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (77, 121, '121-BLUE', 4);
+                         VALUES (73, 170, '170-NAVY', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (77, 152, '152-NAVY-30', 4);
+                         VALUES (73, 171, '171-GREY-32', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (78, 52, '52-BLACK-30', 5);
+                         VALUES (74, 189, '189-BLUE-32', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (78, 52, '52-GREEN-M', 3);
+                         VALUES (74, 195, '195-BLACK', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (78, 140, '140-GREEN', 4);
+                         VALUES (74, 191, '191-RED', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (79, 97, '97-GREY-S', 4);
+                         VALUES (75, 135, '135-GREY-M', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (80, 11, '11-BLUE', 5);
+                         VALUES (75, 140, '140-BLUE', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (81, 78, '78-NAVY', 2);
+                         VALUES (76, 148, '148-WHITE-30', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (81, 19, '19-RED', 4);
+                         VALUES (76, 151, '151-GREEN-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (82, 169, '169-GREY-S', 4);
+                         VALUES (76, 149, '149-GREY', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (82, 140, '140-GREY', 5);
+                         VALUES (77, 52, '52-BLUE', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (83, 19, '19-RED', 2);
+                         VALUES (77, 51, '51-GREY-L', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (84, 129, '129-BLACK-32', 4);
+                         VALUES (77, 49, '49-BLUE-32', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (85, 188, '188-GREEN-S', 1);
+                         VALUES (78, 107, '107-BLUE-S', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (86, 179, '179-RED-M', 5);
+                         VALUES (79, 102, '102-BLUE-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (86, 13, '13-WHITE-M', 4);
+                         VALUES (79, 108, '108-GREEN', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (87, 13, '13-BLACK-28', 4);
+                         VALUES (79, 109, '109-RED-30', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (88, 179, '179-GREY-32', 4);
+                         VALUES (80, 122, '122-BLACK-32', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (89, 127, '127-WHITE-32', 2);
+                         VALUES (80, 129, '129-NAVY', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (89, 127, '127-GREY-28', 5);
+                         VALUES (80, 130, '130-RED-28', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (90, 90, '90-GREEN', 4);
+                         VALUES (81, 50, '50-GREEN-30', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (91, 134, '134-GREEN', 4);
+                         VALUES (82, 94, '94-BLUE-28', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (91, 86, '86-RED', 3);
+                         VALUES (82, 95, '95-WHITE-30', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (92, 118, '118-BLACK', 2);
+                         VALUES (82, 90, '90-BLUE-S', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (92, 81, '81-GREEN-32', 2);
+                         VALUES (83, 71, '71-WHITE-S', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (93, 172, '172-GREY-S', 3);
+                         VALUES (83, 77, '77-BLACK-L', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (93, 128, '128-NAVY', 4);
+                         VALUES (83, 77, '77-GREEN', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (93, 102, '102-RED', 5);
+                         VALUES (84, 106, '106-BLUE', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (94, 67, '67-RED-30', 3);
+                         VALUES (85, 136, '136-RED-30', 2);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (95, 129, '129-RED-L', 2);
+                         VALUES (85, 142, '142-RED-32', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (95, 19, '19-NAVY-28', 4);
+                         VALUES (85, 143, '143-GREY-S', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (96, 74, '74-RED', 5);
+                         VALUES (86, 37, '37-RED-S', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (97, 142, '142-BLUE-32', 1);
+                         VALUES (86, 42, '42-BLACK-S', 3);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (98, 119, '119-BLUE', 4);
+                         VALUES (86, 37, '37-GREEN-M', 5);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (98, 45, '45-GREEN', 1);
+                         VALUES (87, 53, '53-GREEN-L', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (99, 99, '99-GREEN-S', 2);
+                         VALUES (87, 47, '47-GREY-L', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (99, 139, '139-NAVY', 2);
+                         VALUES (88, 21, '21-GREY-28', 1);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (100, 135, '135-BLUE-28', 1);
+                         VALUES (88, 19, '19-NAVY-M', 4);
 INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
-                         VALUES (100, 88, '88-RED-L', 4);
+                         VALUES (88, 17, '17-BLACK-32', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (89, 142, '142-NAVY', 1);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (90, 181, '181-GREEN-32', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (90, 187, '187-GREEN', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (91, 194, '194-GREEN', 2);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (92, 194, '194-BLACK-L', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (92, 189, '189-BLUE-32', 1);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (92, 198, '198-BLACK', 2);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (93, 72, '72-BLACK', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (93, 76, '76-BLACK-28', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (93, 69, '69-GREEN-30', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (94, 43, '43-BLACK', 4);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (94, 44, '44-NAVY-L', 1);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (95, 31, '31-NAVY-30', 4);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (95, 31, '31-NAVY-L', 1);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (96, 66, '66-BLACK', 2);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (96, 56, '56-BLUE-32', 3);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (96, 59, '59-NAVY', 4);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (97, 10, '10-NAVY-30', 1);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (97, 8, '8-WHITE', 4);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (98, 1, '1-WHITE-L', 2);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (99, 94, '94-BLUE-28', 5);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (99, 96, '96-GREY', 2);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (99, 97, '97-WHITE-30', 4);
+INSERT INTO rincian_pesanan (no_pesanan, no_produk, sku, jumlah)
+                         VALUES (100, 59, '59-NAVY', 5);
+-- Total rincian_pesanan: 208
 
 -- INSERT INTO ulasan
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('mahfud5@protonmail.com', 46, NULL, 2.7);
+                 VALUES ('cemplunk31@aol.com', 10, 'Debitis autem iusto. Ipsam temporibus non laboriosam culpa.', 4.0);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('zulaikha2@outlook.com', 11, 'Maiores ab eligendi suscipit. Voluptates rerum fugiat. Earum libero numquam fugiat.', 3.6);
+                 VALUES ('rachel31@mail.com', 46, 'Beatae quas iusto quod ab laboriosam nesciunt. Nam dolores alias corporis.', 2.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('cawisadi28@yahoo.com', 83, 'In tempore ipsum quibusdam molestiae distinctio. Illum cupiditate doloribus delectus totam. Qui maxime quis fugiat.', 2.2);
+                 VALUES ('kayla22@gmail.com', 67, 'Nesciunt nam hic vitae exercitationem dignissimos quos. Rerum numquam culpa asperiores blanditiis fugit. Magnam voluptatem pariatur hic magni quaerat sapiente aliquam. Autem doloribus porro doloremque nulla repellat tempora.', 1.3);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('maria16@outlook.com', 75, 'Voluptates quisquam officiis sit. Hic aspernatur consectetur.', 3.5);
+                 VALUES ('oni39@yahoo.com', 21, 'Hic eos similique. Quas nemo veniam sequi. Facere ducimus illo voluptate asperiores aut.', 1.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jaya68@outlook.com', 70, NULL, 2.3);
+                 VALUES ('kusuma34@gmail.com', 74, NULL, 3.2);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('maria16@outlook.com', 74, NULL, 0.3);
+                 VALUES ('jati14@gmail.com', 90, NULL, 2.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('zahra10@mail.com', 77, 'Accusamus nemo porro minima nostrum aspernatur maiores. Suscipit assumenda labore consectetur explicabo molestiae labore.', 1.6);
+                 VALUES ('oni39@yahoo.com', 10, 'Reprehenderit dolore iusto excepturi sed veritatis consequuntur. Cum non minima incidunt dolor sapiente dolorum. Odio eaque magni ea.', 0.3);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jarwadi70@mail.com', 30, 'Laborum rerum non. Officia aliquam blanditiis ullam labore quos.', 2.3);
+                 VALUES ('najib31@hotmail.com', 17, NULL, 3.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('iriana68@yahoo.com', 95, 'Dicta quos quis delectus autem praesentium pariatur. Consequuntur ea totam ab ipsa.', 3.3);
+                 VALUES ('umar49@yahoo.com', 5, 'Aliquid harum consequuntur fugit at at possimus. Maiores quis nisi expedita.', 0.7);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('oskar15@aol.com', 77, 'Eius ipsam voluptatem sit voluptatum inventore perspiciatis.', 4.2);
+                 VALUES ('atma30@outlook.com', 60, NULL, 3.3);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('cawisadi28@yahoo.com', 80, 'Repudiandae dolorem dolores asperiores a. Assumenda voluptate vero expedita. Dicta adipisci perspiciatis corrupti quidem excepturi. Explicabo quas ex.', 3.8);
+                 VALUES ('kusuma34@gmail.com', 63, 'Officia ut optio consectetur. Iste suscipit qui in incidunt enim exercitationem eligendi. Neque architecto est vel.', 3.6);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('legawa24@protonmail.com', 8, NULL, 2.4);
+                 VALUES ('oni39@yahoo.com', 28, 'Voluptas asperiores autem perferendis cumque rem. Iste similique iure ut assumenda delectus dolorem quod. Rem ratione dolore tempora asperiores doloribus blanditiis.', 2.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('mulyono88@protonmail.com', 23, 'At provident voluptatibus veniam commodi similique tempore. Qui quis inventore fugit. Expedita dicta alias porro.', 2.5);
+                 VALUES ('nasim25@aol.com', 53, NULL, 3.2);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('ivan42@aol.com', 96, NULL, 0.2);
+                 VALUES ('mariadi4@outlook.com', 41, 'Atque voluptatem enim voluptas quod sunt accusamus. Distinctio itaque laudantium soluta ad nobis at.', 3.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('umay10@aol.com', 50, NULL, 0.4);
+                 VALUES ('umar49@yahoo.com', 100, NULL, 1.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('mulyono88@protonmail.com', 24, NULL, 1.9);
+                 VALUES ('cornelia71@outlook.com', 36, NULL, 0.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('mahfud5@protonmail.com', 87, 'Debitis nobis libero nostrum ullam doloribus. Iste esse ipsa id. Cumque autem pariatur.', 4.7);
+                 VALUES ('nasim25@aol.com', 3, NULL, 3.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('elisa62@gmail.com', 25, 'Reprehenderit temporibus facere voluptate quo corporis.', 4.0);
+                 VALUES ('irnanto43@protonmail.com', 61, NULL, 1.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('dimaz63@outlook.com', 17, NULL, 1.3);
+                 VALUES ('ade21@protonmail.com', 57, NULL, 4.0);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('cawisadi28@yahoo.com', 60, NULL, 3.8);
+                 VALUES ('mariadi4@outlook.com', 51, 'Aperiam quasi cum earum in iusto molestias alias. Ab quaerat beatae vel nam magnam. Porro laboriosam placeat tenetur.', 0.6);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('olga77@gmail.com', 57, NULL, 0.0);
+                 VALUES ('siska88@gmail.com', 25, 'Animi ea dolor. Maiores soluta harum impedit omnis fugit sapiente. Unde assumenda aliquid minus sint. Officia laudantium architecto dignissimos ipsam.', 0.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('cawisadi28@yahoo.com', 57, NULL, 4.6);
+                 VALUES ('gara24@hotmail.com', 48, 'Nesciunt vitae quam suscipit non occaecati. Quos fugit vero dolore laboriosam. Porro consectetur maiores blanditiis in praesentium assumenda.', 4.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('kusuma42@hotmail.com', 21, 'Nesciunt qui delectus iure magni. Repellat error dignissimos sed.', 4.6);
+                 VALUES ('rini42@yahoo.com', 72, 'Eligendi tenetur impedit delectus hic. Provident perspiciatis temporibus fugit fugit.', 0.7);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('maria16@outlook.com', 31, 'Velit nam sint ipsum sunt dolore reiciendis eius.', 3.5);
+                 VALUES ('rini42@yahoo.com', 46, 'Perferendis magni deserunt quaerat quae dolorum. Molestiae eligendi minus at quo.', 0.7);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('oskar15@aol.com', 90, NULL, 3.6);
+                 VALUES ('irnanto43@protonmail.com', 7, 'Quo itaque quasi maiores inventore. Cum aperiam nihil inventore.', 1.6);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('eman5@aol.com', 13, 'Error tempore nemo laboriosam distinctio esse aspernatur. Dolor vero error vitae officiis. Velit ullam alias sequi eius aperiam eligendi.', 1.2);
+                 VALUES ('laswi20@aol.com', 96, NULL, 3.0);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('wadi81@hotmail.com', 43, 'Aliquam quibusdam laborum. Consectetur repellat harum quidem vel maiores. Officia voluptas consequatur.', 4.0);
+                 VALUES ('laswi20@aol.com', 71, NULL, 3.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('puji19@gmail.com', 53, NULL, 3.8);
+                 VALUES ('prayitna38@gmail.com', 73, NULL, 3.2);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('eman5@aol.com', 40, NULL, 0.2);
+                 VALUES ('gara24@hotmail.com', 63, NULL, 0.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jarwadi70@mail.com', 47, NULL, 2.2);
+                 VALUES ('heru90@hotmail.com', 85, 'Saepe praesentium quibusdam cum cum ut. Cumque provident tempore rerum.', 3.6);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('ciaobella63@protonmail.com', 26, NULL, 1.2);
+                 VALUES ('rangga32@gmail.com', 96, 'A molestiae qui labore accusantium. Iusto unde aperiam vero. Fugiat autem reprehenderit nobis.', 3.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('nyana52@yahoo.com', 34, 'Eum quae quas tenetur. Alias unde voluptatem suscipit impedit optio voluptas. Ea totam dignissimos tempore in.', 0.2);
+                 VALUES ('cornelia71@outlook.com', 55, 'Tempora porro ea quisquam necessitatibus. Natus quas officia omnis. Perspiciatis soluta amet totam quaerat.', 4.7);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jumadi52@gmail.com', 34, NULL, 2.5);
+                 VALUES ('cornelia71@outlook.com', 93, NULL, 3.8);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('eman5@aol.com', 86, NULL, 5.0);
+                 VALUES ('heru90@hotmail.com', 60, 'Qui inventore incidunt aliquam dolor. Delectus laudantium incidunt temporibus animi laudantium iure.', 2.3);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('yani96@mail.com', 90, 'Minima perspiciatis iure sit esse. Omnis corrupti minus modi maxime.', 4.2);
+                 VALUES ('kusuma34@gmail.com', 84, 'Consequuntur ut at sint. Expedita repellendus officia dolores. Odio accusamus consectetur voluptas impedit inventore.', 4.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('nyana52@yahoo.com', 74, NULL, 4.7);
+                 VALUES ('ade21@protonmail.com', 48, NULL, 2.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('budi58@gmail.com', 66, NULL, 4.0);
+                 VALUES ('pardi19@protonmail.com', 53, NULL, 1.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('eman5@aol.com', 57, NULL, 2.0);
+                 VALUES ('irnanto43@protonmail.com', 8, NULL, 4.6);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('yuni97@gmail.com', 16, 'Earum nulla doloremque optio possimus amet similique. Quo expedita ullam provident sed. Maxime voluptates omnis laudantium quo.', 4.2);
+                 VALUES ('siska88@gmail.com', 43, NULL, 2.5);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('olga77@gmail.com', 73, 'Tempora tenetur harum doloremque quos. Tempora architecto dolores repellat.', 2.7);
+                 VALUES ('vivi67@mail.com', 71, NULL, 3.0);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jaya68@outlook.com', 30, NULL, 4.6);
+                 VALUES ('asmianto10@yahoo.com', 33, NULL, 1.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('zahra10@mail.com', 17, 'Molestias sequi soluta. Excepturi maxime nulla corrupti ullam provident eligendi.', 3.8);
+                 VALUES ('opung93@gmail.com', 65, 'Quod consequuntur enim quisquam adipisci recusandae. Commodi voluptatem quas cupiditate.', 4.9);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('wadi81@hotmail.com', 45, 'Tenetur incidunt beatae iure assumenda ipsa vitae. Expedita ab aperiam porro. Quidem sequi iste sed optio tempora. Quam eaque quibusdam enim aspernatur voluptates optio reiciendis.', 3.1);
+                 VALUES ('kusuma34@gmail.com', 18, NULL, 1.0);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('jarwadi70@mail.com', 32, NULL, 4.9);
+                 VALUES ('mariadi4@outlook.com', 7, 'Laudantium distinctio vero.', 0.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('kusuma42@hotmail.com', 20, 'Ut porro blanditiis ea sit. Modi modi est debitis nesciunt numquam praesentium.', 3.0);
+                 VALUES ('rini42@yahoo.com', 30, NULL, 2.4);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('eman5@aol.com', 56, NULL, 1.0);
+                 VALUES ('cinta78@outlook.com', 20, 'Optio dolores animi. Pariatur totam laboriosam quia amet.', 3.7);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('ayu65@hotmail.com', 12, 'Vel nemo rerum dolorum. Ipsam tempora aliquid dignissimos alias animi. Animi sit debitis. Laboriosam ratione velit consequuntur qui.', 3.2);
+                 VALUES ('gilda79@gmail.com', 2, 'Eius sint voluptate dicta. Possimus eaque eius adipisci aliquam laboriosam. Quidem quasi nemo perferendis ipsum impedit corporis.', 4.1);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('cawisadi28@yahoo.com', 97, NULL, 3.3);
+                 VALUES ('vivi67@mail.com', 41, NULL, 1.1);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('ciaobella63@protonmail.com', 81, NULL, 3.2);
+                 VALUES ('ophelia59@protonmail.com', 78, NULL, 2.2);
 INSERT INTO ulasan (email_pembeli, no_pesanan, konten, nilai)
-                 VALUES ('iriana68@yahoo.com', 97, 'Corporis quia eum modi aperiam tempora ab.', 4.7);
+                 VALUES ('rini42@yahoo.com', 9, 'Itaque atque a quam ex doloribus atque eligendi. Explicabo quaerat quod.', 3.4);
+-- Total ulasan: 50
 
 -- INSERT INTO wishlist
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (1, 'ayu65@hotmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (2, 'yuni97@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (3, 'asmadi11@outlook.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (4, 'nyana52@yahoo.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (5, 'legawa24@protonmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (6, 'eman5@aol.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (7, 'zahra10@mail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (8, 'kusuma42@hotmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (9, 'budi58@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (10, 'mulyono88@protonmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (11, 'wadi81@hotmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (12, 'jumadi52@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (13, 'maimunah64@yahoo.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (14, 'puji19@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (15, 'jaya68@outlook.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (16, 'jarwadi70@mail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (17, 'iriana68@yahoo.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (18, 'sakura70@aol.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (19, 'umay10@aol.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (20, 'ivan42@aol.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (21, 'olga77@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (22, 'elisa62@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (23, 'dimaz63@outlook.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (24, 'oskar15@aol.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (25, 'kala24@hotmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (26, 'zulaikha2@outlook.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (27, 'irfan87@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (28, 'patricia49@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (29, 'yani96@mail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (30, 'rahmi63@gmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (31, 'ciaobella63@protonmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (32, 'hendri93@yahoo.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (33, 'cawisadi28@yahoo.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (34, 'mahfud5@protonmail.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (35, 'perkasa91@outlook.com');
-INSERT INTO wishlist (wishlist_id, email_pembeli)
-                 VALUES (36, 'maria16@outlook.com');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (1, 'heru90@hotmail.com', 'Wishlist 8');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (2, 'heru90@hotmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (3, 'gawati55@mail.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (4, 'gawati55@mail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (5, 'opung93@gmail.com', 'Wishlist 2');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (6, 'opung93@gmail.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (7, 'opung93@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (8, 'cemplunk31@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (9, 'cemplunk31@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (10, 'vivi67@mail.com', 'Wishlist 10');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (11, 'vivi67@mail.com', 'Wishlist 7');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (12, 'vivi67@mail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (13, 'gara24@hotmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (14, 'gara24@hotmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (15, 'gara24@hotmail.com', 'Wishlist 9');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (16, 'ade21@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (17, 'ade21@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (18, 'rachel31@mail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (19, 'laswi20@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (20, 'edi69@hotmail.com', 'Wishlist 6');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (21, 'oni39@yahoo.com', 'Wishlist 8');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (22, 'jati14@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (23, 'jati14@gmail.com', 'Wishlist 4');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (24, 'nasim25@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (25, 'irnanto43@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (26, 'irnanto43@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (27, 'irnanto43@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (28, 'gilda79@gmail.com', 'Wishlist 10');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (29, 'siska88@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (30, 'siska88@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (31, 'siska88@gmail.com', 'Wishlist 3');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (32, 'cinta78@outlook.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (33, 'cinta78@outlook.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (34, 'cinta78@outlook.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (35, 'rangga32@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (36, 'rangga32@gmail.com', 'Wishlist 10');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (37, 'kusuma34@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (38, 'kusuma34@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (39, 'kusuma34@gmail.com', 'Wishlist 9');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (40, 'mariadi4@outlook.com', 'Wishlist 7');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (41, 'mariadi4@outlook.com', 'Wishlist 4');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (42, 'mariadi4@outlook.com', 'Wishlist 8');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (43, 'cornelia71@outlook.com', 'Wishlist 7');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (44, 'cornelia71@outlook.com', 'Wishlist 9');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (45, 'cornelia71@outlook.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (46, 'atma30@outlook.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (47, 'atma30@outlook.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (48, 'umar49@yahoo.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (49, 'umar49@yahoo.com', 'Wishlist 4');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (50, 'umi33@outlook.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (51, 'hairyanto16@aol.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (52, 'hairyanto16@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (53, 'hairyanto16@aol.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (54, 'pardi19@protonmail.com', 'Wishlist 8');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (55, 'ophelia59@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (56, 'ophelia59@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (57, 'naradi89@yahoo.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (58, 'naradi89@yahoo.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (59, 'naradi89@yahoo.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (60, 'kani82@hotmail.com', 'Wishlist 3');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (61, 'kani82@hotmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (62, 'kayla22@gmail.com', 'Wishlist 10');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (63, 'kayla22@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (64, 'kayla22@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (65, 'luis86@protonmail.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (66, 'irsad44@protonmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (67, 'asmianto10@yahoo.com', 'Wishlist 1');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (68, 'asmianto10@yahoo.com', 'Wishlist 2');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (69, 'prayitna38@gmail.com', 'Wishlist 3');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (70, 'prayitna38@gmail.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (71, 'rini42@yahoo.com', NULL);
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (72, 'najib31@hotmail.com', 'Wishlist 5');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (73, 'najib31@hotmail.com', 'Wishlist 9');
+INSERT INTO wishlist (wishlist_id, email_pembeli, nama_wishlist)
+                     VALUES (74, 'najib31@hotmail.com', 'Wishlist 7');
+-- Total wishlist: 74
 
 -- INSERT INTO keranjang
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (1, 'ayu65@hotmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (2, 'yuni97@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (3, 'asmadi11@outlook.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (4, 'nyana52@yahoo.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (5, 'legawa24@protonmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (6, 'eman5@aol.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (7, 'zahra10@mail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (8, 'kusuma42@hotmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (9, 'budi58@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (10, 'mulyono88@protonmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (11, 'wadi81@hotmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (12, 'jumadi52@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (13, 'maimunah64@yahoo.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (14, 'puji19@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (15, 'jaya68@outlook.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (16, 'jarwadi70@mail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (17, 'iriana68@yahoo.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (18, 'sakura70@aol.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (19, 'umay10@aol.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (20, 'ivan42@aol.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (21, 'olga77@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (22, 'elisa62@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (23, 'dimaz63@outlook.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (24, 'oskar15@aol.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (25, 'kala24@hotmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (26, 'zulaikha2@outlook.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (27, 'irfan87@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (28, 'patricia49@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (29, 'yani96@mail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (30, 'rahmi63@gmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (31, 'ciaobella63@protonmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (32, 'hendri93@yahoo.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (33, 'cawisadi28@yahoo.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (34, 'mahfud5@protonmail.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (35, 'perkasa91@outlook.com');
-INSERT INTO keranjang (keranjang_id, email_pembeli)
-                 VALUES (36, 'maria16@outlook.com');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (1, 'heru90@hotmail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (2, 'gawati55@mail.com', 'Keranjang 1');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (3, 'gawati55@mail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (4, 'opung93@gmail.com', 'Keranjang 9');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (5, 'opung93@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (6, 'cemplunk31@aol.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (7, 'cemplunk31@aol.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (8, 'vivi67@mail.com', 'Keranjang 3');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (9, 'gara24@hotmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (10, 'gara24@hotmail.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (11, 'gara24@hotmail.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (12, 'ade21@protonmail.com', 'Keranjang 1');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (13, 'ade21@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (14, 'rachel31@mail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (15, 'rachel31@mail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (16, 'laswi20@aol.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (17, 'edi69@hotmail.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (18, 'oni39@yahoo.com', 'Keranjang 5');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (19, 'oni39@yahoo.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (20, 'jati14@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (21, 'nasim25@aol.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (22, 'nasim25@aol.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (23, 'irnanto43@protonmail.com', 'Keranjang 1');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (24, 'irnanto43@protonmail.com', 'Keranjang 6');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (25, 'irnanto43@protonmail.com', 'Keranjang 3');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (26, 'gilda79@gmail.com', 'Keranjang 4');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (27, 'gilda79@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (28, 'siska88@gmail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (29, 'siska88@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (30, 'cinta78@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (31, 'cinta78@outlook.com', 'Keranjang 9');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (32, 'cinta78@outlook.com', 'Keranjang 3');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (33, 'rangga32@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (34, 'rangga32@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (35, 'rangga32@gmail.com', 'Keranjang 1');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (36, 'kusuma34@gmail.com', 'Keranjang 10');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (37, 'mariadi4@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (38, 'mariadi4@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (39, 'mariadi4@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (40, 'cornelia71@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (41, 'cornelia71@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (42, 'atma30@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (43, 'atma30@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (44, 'atma30@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (45, 'umar49@yahoo.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (46, 'umi33@outlook.com', 'Keranjang 4');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (47, 'umi33@outlook.com', 'Keranjang 1');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (48, 'umi33@outlook.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (49, 'hairyanto16@aol.com', 'Keranjang 2');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (50, 'hairyanto16@aol.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (51, 'pardi19@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (52, 'pardi19@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (53, 'pardi19@protonmail.com', 'Keranjang 9');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (54, 'ophelia59@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (55, 'ophelia59@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (56, 'naradi89@yahoo.com', 'Keranjang 6');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (57, 'naradi89@yahoo.com', 'Keranjang 2');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (58, 'kani82@hotmail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (59, 'kani82@hotmail.com', 'Keranjang 5');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (60, 'kani82@hotmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (61, 'kayla22@gmail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (62, 'kayla22@gmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (63, 'kayla22@gmail.com', 'Keranjang 7');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (64, 'luis86@protonmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (65, 'luis86@protonmail.com', 'Keranjang 5');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (66, 'irsad44@protonmail.com', 'Keranjang 2');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (67, 'asmianto10@yahoo.com', 'Keranjang 8');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (68, 'asmianto10@yahoo.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (69, 'asmianto10@yahoo.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (70, 'prayitna38@gmail.com', 'Keranjang 2');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (71, 'prayitna38@gmail.com', 'Keranjang 6');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (72, 'rini42@yahoo.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (73, 'rini42@yahoo.com', 'Keranjang 9');
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (74, 'najib31@hotmail.com', NULL);
+INSERT INTO keranjang (keranjang_id, email_pembeli, nama_keranjang)
+                     VALUES (75, 'najib31@hotmail.com', NULL);
+-- Total keranjang: 75
 
 -- INSERT INTO rincian_wishlist
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (1, 105);
+                         VALUES (1, 97);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (1, 43);
+                         VALUES (1, 125);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (2, 148);
+                         VALUES (1, 157);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (2, 24);
+                         VALUES (1, 85);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (2, 179);
+                         VALUES (1, 53);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (2, 123);
+                         VALUES (2, 103);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (2, 27);
+                         VALUES (2, 169);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (3, 52);
+                         VALUES (2, 12);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (3, 25);
+                         VALUES (3, 185);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (3, 21);
+                         VALUES (4, 65);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (4, 149);
+                         VALUES (4, 36);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (4, 25);
+                         VALUES (5, 97);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (5, 146);
+                         VALUES (5, 2);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (5, 1);
+                         VALUES (6, 57);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (5, 142);
+                         VALUES (6, 86);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (5, 20);
+                         VALUES (6, 56);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (6, 124);
+                         VALUES (7, 62);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (7, 64);
+                         VALUES (8, 34);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (7, 150);
+                         VALUES (8, 97);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (8, 45);
+                         VALUES (8, 196);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (9, 33);
+                         VALUES (9, 129);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (9, 55);
+                         VALUES (10, 87);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (9, 194);
+                         VALUES (10, 48);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (10, 11);
+                         VALUES (11, 129);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (11, 155);
+                         VALUES (11, 168);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (11, 190);
+                         VALUES (11, 131);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (11, 52);
+                         VALUES (12, 64);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (12, 145);
+                         VALUES (12, 104);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (12, 49);
+                         VALUES (12, 18);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (12, 62);
+                         VALUES (12, 186);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (12, 29);
+                         VALUES (13, 93);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (12, 174);
+                         VALUES (13, 115);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (13, 175);
+                         VALUES (13, 137);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (13, 138);
-INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (13, 54);
-INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (13, 13);
-INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (14, 127);
-INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (14, 68);
-INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (14, 161);
+                         VALUES (14, 2);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
                          VALUES (14, 189);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (15, 49);
+                         VALUES (14, 125);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (15, 107);
+                         VALUES (15, 15);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (15, 1);
+                         VALUES (15, 81);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (15, 99);
+                         VALUES (16, 104);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (16, 133);
+                         VALUES (17, 173);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (17, 24);
+                         VALUES (17, 10);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (18, 38);
+                         VALUES (17, 57);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (18, 75);
+                         VALUES (17, 83);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (19, 139);
+                         VALUES (18, 25);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (19, 168);
+                         VALUES (18, 177);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (20, 198);
+                         VALUES (18, 78);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (21, 21);
+                         VALUES (19, 149);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (22, 174);
+                         VALUES (19, 17);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (22, 2);
+                         VALUES (19, 78);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (23, 170);
+                         VALUES (20, 180);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (23, 159);
+                         VALUES (20, 197);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (23, 106);
+                         VALUES (20, 24);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (23, 112);
+                         VALUES (20, 98);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (23, 13);
+                         VALUES (20, 151);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (24, 183);
+                         VALUES (21, 59);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (24, 119);
+                         VALUES (21, 118);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (24, 26);
+                         VALUES (21, 117);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (24, 17);
+                         VALUES (22, 129);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (24, 8);
+                         VALUES (23, 99);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (25, 41);
+                         VALUES (24, 122);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (25, 100);
+                         VALUES (24, 70);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (25, 31);
+                         VALUES (24, 189);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (25, 113);
+                         VALUES (25, 121);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (26, 7);
+                         VALUES (25, 192);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (26, 103);
+                         VALUES (25, 187);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (26, 174);
+                         VALUES (25, 182);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (26, 85);
+                         VALUES (26, 39);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (27, 175);
+                         VALUES (26, 69);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (27, 115);
+                         VALUES (26, 197);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (27, 24);
+                         VALUES (26, 67);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (27, 60);
+                         VALUES (27, 22);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (28, 86);
+                         VALUES (27, 137);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (29, 18);
+                         VALUES (28, 183);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (29, 99);
+                         VALUES (29, 62);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (29, 163);
+                         VALUES (29, 66);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (29, 104);
+                         VALUES (29, 72);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (30, 188);
+                         VALUES (29, 102);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (31, 161);
+                         VALUES (29, 191);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (32, 156);
+                         VALUES (30, 18);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (33, 48);
+                         VALUES (30, 6);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (33, 165);
+                         VALUES (30, 91);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (33, 68);
+                         VALUES (31, 58);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (33, 69);
+                         VALUES (32, 149);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (34, 77);
+                         VALUES (33, 141);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (35, 170);
+                         VALUES (33, 27);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (35, 198);
+                         VALUES (34, 160);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (36, 187);
+                         VALUES (34, 18);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (36, 86);
+                         VALUES (34, 134);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (36, 46);
+                         VALUES (34, 90);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (36, 197);
+                         VALUES (35, 96);
 INSERT INTO rincian_wishlist (wishlist_id, no_produk)
-                         VALUES (36, 94);
+                         VALUES (35, 132);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (36, 183);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (37, 118);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (37, 63);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (37, 175);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (37, 23);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (37, 15);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (38, 161);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (38, 20);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (38, 112);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (38, 127);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (38, 128);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (39, 16);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (39, 160);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (39, 113);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (40, 73);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (40, 133);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (40, 154);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (41, 190);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (41, 88);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (41, 169);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (41, 48);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (41, 57);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (42, 89);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (42, 31);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (42, 145);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (43, 130);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (44, 42);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (44, 5);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (44, 161);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (44, 128);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (45, 4);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (45, 138);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (46, 91);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (47, 151);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (47, 139);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (47, 53);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (47, 108);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (47, 180);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (48, 188);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (48, 136);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (48, 49);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (49, 133);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (50, 65);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (50, 195);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (50, 54);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (50, 105);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (51, 83);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (51, 157);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (51, 184);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (51, 189);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (51, 102);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (52, 37);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (52, 15);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (52, 195);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (53, 166);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (53, 5);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (53, 40);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (53, 182);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (53, 155);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (54, 3);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (54, 142);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (54, 59);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (54, 190);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (55, 57);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (55, 90);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (55, 98);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (55, 181);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (55, 170);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (56, 10);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (56, 193);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (56, 138);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (56, 132);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (57, 89);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (58, 64);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (58, 188);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (58, 42);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (58, 9);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (58, 126);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (59, 73);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (59, 124);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (59, 195);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (60, 184);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (60, 95);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (60, 151);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (60, 30);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (60, 130);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (61, 141);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (61, 15);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (62, 152);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (62, 174);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (62, 46);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (63, 95);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (63, 134);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (63, 179);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (63, 180);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (64, 33);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (65, 124);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (65, 44);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (65, 32);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (65, 77);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (66, 115);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (66, 90);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (67, 19);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (67, 4);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (68, 113);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (69, 184);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (69, 37);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (69, 116);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (69, 68);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (70, 83);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (70, 70);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (70, 185);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (71, 41);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (71, 127);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (72, 152);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (72, 67);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (72, 115);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (72, 122);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (72, 164);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (73, 81);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (73, 70);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (73, 98);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (73, 93);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (74, 40);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (74, 87);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (74, 2);
+INSERT INTO rincian_wishlist (wishlist_id, no_produk)
+                         VALUES (74, 117);
+-- Total rincian_wishlist: 218
 
 -- INSERT INTO rincian_keranjang
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (1, 45, '45-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (1, 75, '75-BLACK-28');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (1, 168, '168-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (2, 182, '182-RED');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (2, 7, '7-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (2, 94, '94-GREEN');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (3, 176, '176-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (3, 127, '127-WHITE-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (3, 10, '10-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (4, 106, '106-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (4, 165, '165-RED-L');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (5, 189, '189-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (5, 120, '120-BLUE-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (5, 172, '172-GREY-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (6, 47, '47-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (7, 63, '63-GREEN');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (7, 39, '39-BLUE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (7, 60, '60-RED');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (8, 25, '25-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (8, 193, '193-GREEN-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (8, 197, '197-NAVY-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (9, 107, '107-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (10, 175, '175-RED-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (10, 104, '104-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (11, 80, '80-NAVY-30');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (11, 94, '94-GREEN');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (12, 131, '131-GREEN');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (12, 115, '115-WHITE-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (13, 95, '95-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (13, 10, '10-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (14, 126, '126-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (14, 192, '192-GREY-M');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (15, 76, '76-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (16, 77, '77-BLUE-30');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (16, 19, '19-NAVY-28');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (17, 19, '19-NAVY-M');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (17, 38, '38-NAVY-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (17, 99, '99-GREEN-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (18, 46, '46-BLUE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (19, 73, '73-NAVY-M');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (20, 161, '161-BLUE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (20, 75, '75-RED-L');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (20, 10, '10-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (21, 71, '71-RED-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (21, 108, '108-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (21, 37, '37-GREEN-30');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (22, 110, '110-GREY-L');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (22, 119, '119-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (23, 54, '54-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (23, 167, '167-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (24, 96, '96-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (24, 171, '171-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (25, 157, '157-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (25, 107, '107-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (26, 11, '11-BLUE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (26, 71, '71-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (27, 93, '93-BLACK-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (27, 192, '192-BLACK-30');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (28, 42, '42-NAVY-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (28, 1, '1-RED');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (28, 64, '64-GREEN');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (29, 164, '164-RED-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (29, 121, '121-BLUE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (29, 41, '41-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (30, 29, '29-GREY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (30, 181, '181-BLUE-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (30, 30, '30-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (31, 104, '104-NAVY');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (31, 34, '34-WHITE');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (32, 196, '196-GREEN-M');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (33, 32, '32-GREEN-S');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (33, 44, '44-BLACK');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (34, 85, '85-NAVY-28');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (34, 142, '142-BLUE-32');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (34, 177, '177-GREEN-L');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (35, 56, '56-GREEN-L');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (35, 82, '82-WHITE-28');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (35, 144, '144-WHITE-M');
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku)
-                         VALUES (36, 179, '179-GREY-32');
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (1, 71, '71-GREY', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (1, 145, '145-WHITE', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (1, 103, '103-RED-L', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (2, 78, '78-BLACK', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (2, 8, '8-WHITE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (2, 93, '93-WHITE', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (3, 50, '50-GREEN-30', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (3, 31, '31-NAVY-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (3, 114, '114-GREEN-S', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (4, 92, '92-WHITE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (4, 154, '154-GREY-S', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (5, 118, '118-BLUE-M', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (5, 84, '84-BLACK', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (6, 50, '50-GREEN-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (6, 45, '45-BLUE', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (7, 193, '193-BLUE-L', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (7, 182, '182-BLUE-L', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (7, 39, '39-GREEN-M', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (8, 60, '60-BLUE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (9, 56, '56-NAVY-L', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (10, 179, '179-GREY-30', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (10, 2, '2-GREY', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (11, 84, '84-BLACK', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (12, 126, '126-GREEN-28', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (12, 105, '105-BLUE-L', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (13, 1, '1-WHITE-M', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (13, 50, '50-BLUE-32', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (14, 153, '153-GREEN', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (14, 84, '84-BLACK', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (15, 5, '5-NAVY-28', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (15, 86, '86-NAVY', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (16, 189, '189-WHITE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (16, 75, '75-BLACK', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (17, 100, '100-BLUE', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (18, 48, '48-BLUE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (19, 158, '158-BLUE-M', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (19, 186, '186-GREY', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (20, 32, '32-GREEN', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (20, 149, '149-RED-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (20, 76, '76-BLACK-28', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (21, 9, '9-BLUE-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (21, 81, '81-NAVY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (21, 147, '147-NAVY-32', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (22, 164, '164-GREY-32', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (22, 90, '90-BLUE-S', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (23, 189, '189-BLUE-32', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (23, 135, '135-GREEN-S', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (24, 64, '64-NAVY', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (25, 59, '59-WHITE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (25, 47, '47-BLACK-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (25, 172, '172-RED', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (26, 114, '114-RED', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (26, 5, '5-NAVY', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (27, 137, '137-BLACK', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (27, 55, '55-WHITE', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (28, 21, '21-GREY-L', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (28, 24, '24-BLACK-32', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (28, 44, '44-NAVY-L', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (29, 146, '146-BLUE-M', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (30, 109, '109-GREEN', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (30, 148, '148-WHITE-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (30, 151, '151-BLUE-30', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (31, 178, '178-RED', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (31, 120, '120-RED', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (32, 52, '52-GREY-28', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (32, 41, '41-GREEN-M', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (32, 50, '50-BLUE-L', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (33, 148, '148-GREY-M', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (33, 177, '177-RED-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (33, 24, '24-BLACK-32', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (34, 89, '89-NAVY', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (34, 97, '97-NAVY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (34, 168, '168-NAVY-S', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (35, 176, '176-WHITE-S', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (36, 116, '116-GREEN-L', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (36, 130, '130-BLACK-L', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (36, 84, '84-BLACK', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (37, 153, '153-GREEN', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (37, 160, '160-BLACK-28', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (38, 30, '30-NAVY', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (38, 173, '173-NAVY', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (39, 116, '116-NAVY', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (40, 161, '161-RED', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (40, 155, '155-GREEN', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (41, 102, '102-BLUE-M', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (41, 177, '177-BLUE-32', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (41, 89, '89-WHITE-L', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (42, 175, '175-GREY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (43, 24, '24-BLACK-30', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (43, 129, '129-BLUE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (43, 49, '49-GREEN', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (44, 55, '55-RED', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (44, 105, '105-RED-30', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (44, 55, '55-WHITE', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (45, 69, '69-WHITE-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (45, 9, '9-BLUE-30', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (45, 179, '179-GREY-30', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (46, 157, '157-RED-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (46, 7, '7-BLACK-28', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (46, 19, '19-NAVY-M', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (47, 120, '120-BLACK', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (47, 11, '11-WHITE', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (48, 63, '63-NAVY', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (48, 167, '167-GREY-L', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (48, 120, '120-GREY', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (49, 129, '129-RED', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (50, 90, '90-BLUE-S', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (51, 104, '104-RED', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (51, 197, '197-BLUE-30', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (51, 13, '13-NAVY', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (52, 174, '174-GREY', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (52, 66, '66-BLACK', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (52, 38, '38-WHITE-30', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (53, 196, '196-NAVY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (53, 148, '148-NAVY', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (54, 93, '93-RED', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (55, 71, '71-WHITE-S', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (56, 114, '114-RED', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (57, 100, '100-NAVY-L', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (57, 18, '18-GREY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (57, 9, '9-GREEN', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (58, 85, '85-NAVY-32', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (58, 75, '75-BLUE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (58, 66, '66-BLUE-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (59, 72, '72-WHITE-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (59, 15, '15-GREY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (59, 157, '157-BLUE', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (60, 87, '87-BLUE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (60, 43, '43-GREY-28', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (61, 68, '68-BLUE-S', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (61, 145, '145-BLUE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (61, 16, '16-GREEN', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (62, 1, '1-RED', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (63, 6, '6-BLUE-S', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (63, 87, '87-RED-32', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (64, 48, '48-NAVY', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (64, 198, '198-BLACK', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (64, 133, '133-WHITE', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (65, 153, '153-GREEN', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (66, 190, '190-NAVY-S', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (67, 156, '156-WHITE-30', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (67, 131, '131-NAVY-30', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (68, 73, '73-RED', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (68, 164, '164-BLACK', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (68, 80, '80-GREY-S', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (69, 58, '58-RED-S', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (69, 126, '126-GREY', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (69, 193, '193-NAVY', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (70, 7, '7-BLACK', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (70, 153, '153-GREY-S', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (70, 133, '133-RED', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (71, 144, '144-GREEN-M', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (71, 154, '154-GREY-S', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (72, 109, '109-RED-30', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (72, 114, '114-BLACK', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (72, 159, '159-NAVY', 4);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (73, 65, '65-GREEN', 1);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (73, 99, '99-RED', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (73, 170, '170-NAVY', 5);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (74, 48, '48-BLUE', 2);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (74, 29, '29-RED-32', 3);
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku, jumlah)
+                         VALUES (75, 41, '41-GREEN', 3);
+-- Total rincian_keranjang: 162
