@@ -16,8 +16,8 @@ gambar_produk(no_produk, gambar)
 tag_produk(no_produk, tag)
 varian(no_produk, sku, nama_varian, stok, harga)
 
-wishlist(wishlist_id, email_pembeli)
-keranjang(keranjang_id, email_pembeli)
+wishlist(wishlist_id, email_pembeli, nama_wishlist)
+keranjang(keranjang_id, email_pembeli, nama_keranjang)
 rincian_wishlist(wishlist_id, no_produk)
 rincian_keranjang(keranjang_id, no_produk, sku, jumlah)
 
