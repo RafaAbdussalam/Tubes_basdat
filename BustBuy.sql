@@ -271,6 +271,26 @@ END;
 //
 DELIMITER ;
 
+-- TRIGGER: memastikan bahwa insert produk hanya boleh dilakukan pada pengguna yang verified
+DELIMITER //
+CREATE TRIGGER verifikasi_penjual_trigger
+BEFORE INSERT ON produk
+FOR EACH ROW
+BEGIN
+    DECLARE verifikasi_status BOOLEAN;
+
+    SELECT is_verified INTO verifikasi_status
+    FROM penjual
+    WHERE email = NEW.email_penjual;
+
+    IF verifikasi_status IS NULL OR verifikasi_status = FALSE THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Penjual belum terverifikasi.';
+    END IF;
+END;
+//
+DELIMITER ;
+
 
 -- ======================== INSERT DATA ===============================
 
@@ -369,23 +389,23 @@ INSERT INTO pembeli (email, alamat_utama_id) VALUES
 ('halim35@protonmail.com', 16);
 
 -- PENJUAL
-INSERT INTO penjual (email) VALUES
-('argono11@aol.com'),
-('jindra4@protonmail.com'),
-('jane49@protonmail.com'),
-('dono72@gmail.com'),
-('tantri37@outlook.com'),
-('bakidin22@hotmail.com'),
-('jaiman22@mail.com'),
-('ajiono27@mail.com'),
-('maria7@hotmail.com'),
-('jarwi97@mail.com'),
-('adinata11@gmail.com'),
-('harimurti20@yahoo.com'),
-('luwes56@gmail.com'),
-('unjani96@hotmail.com'),
-('jagapati36@gmail.com'),
-('anastasia68@outlook.com');
+INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) VALUES
+('argono11@aol.com', '/path/ktp/argono11.png', '/path/diri/argono11.png', TRUE),
+('jindra4@protonmail.com', '/path/ktp/jindra4.png', '/path/diri/jindra4.png', TRUE),
+('jane49@protonmail.com', '/path/ktp/jane49.png', '/path/diri/jane49.png', TRUE),
+('dono72@gmail.com', '/path/ktp/dono72.png', '/path/diri/dono72.png', TRUE),
+('tantri37@outlook.com', '/path/ktp/tantri37.png', '/path/diri/tantri37.png', TRUE),
+('bakidin22@hotmail.com', '/path/ktp/bakidin22.png', '/path/diri/bakidin22.png', TRUE),
+('jaiman22@mail.com', '/path/ktp/jaiman22.png', '/path/diri/jaiman22.png', TRUE),
+('ajiono27@mail.com', '/path/ktp/ajiono27.png', '/path/diri/ajiono27.png', TRUE),
+('maria7@hotmail.com', NULL, NULL, FALSE),
+('jarwi97@mail.com', NULL, NULL, FALSE),
+('adinata11@gmail.com', NULL, NULL, FALSE),
+('harimurti20@yahoo.com', NULL, NULL, FALSE),
+('luwes56@gmail.com', NULL, NULL, FALSE),
+('unjani96@hotmail.com', NULL, NULL, FALSE),
+('jagapati36@gmail.com', NULL, NULL, FALSE),
+('anastasia68@outlook.com', NULL, NULL, FALSE);
 
 -- PRODUK
 INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
@@ -397,8 +417,8 @@ INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
 (6, 'Kacamata Fashion', 'Kacamata gaya dengan filter cahaya biru', 'bakidin22@hotmail.com'),
 (7, 'Topi Baseball', 'Topi dengan desain modern untuk aktivitas outdoor', 'jaiman22@mail.com'),
 (8, 'Masker Kain', 'Masker kain dengan 3 lapisan yang dapat dicuci ulang', 'ajiono27@mail.com'),
-(9, 'Handphone Case', 'Pelindung handphone dengan desain premium', 'maria7@hotmail.com'),
-(10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'jarwi97@mail.com');
+(9, 'Handphone Case', 'Pelindung handphone dengan desain premium', 'ajiono27@mail.com'),
+(10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'bakidin22@hotmail.com');
 
 -- GAMBAR PRODUK
 INSERT INTO gambar_produk (no_produk, gambar) VALUES
