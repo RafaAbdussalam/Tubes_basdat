@@ -331,7 +331,7 @@ DELIMITER ;
 -- ======================== INSERT DATA ===============================
 
 -- PENGGUNA
-INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual) 
+INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual) VALUES
 ('oskar64@aol.com', 'oskd3%4qJj', 'Oskar Pertiwi', '+62-527-118-537', '2003-06-29', NULL, True, False),
 ('argono11@aol.com', 'arg9-adbb_', 'Argono Nurdiyanti', '+62-015-017-362', '1973-01-29', NULL, True, True),
 ('jindra4@protonmail.com', 'jinm+Tzz7&', 'Jindra Hassanah', '+62-243-379-819', '2000-12-15', NULL, True, True),
@@ -354,7 +354,7 @@ INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_
 ('anastasia68@outlook.com', 'anadAs!v8a', 'Anastasia Mahendra', '+62-988-870-238', '1983-07-15', NULL, False, True);
 
 -- ALAMAT
-INSERT INTO alamat (alamat_id, provinsi, kota, jalan) 
+INSERT INTO alamat (alamat_id, provinsi, kota, jalan) VALUES
 (1,'Pennsylvania','Lake Retha','11192 Annette Run Apt. 066'),
 (2,'Connecticut','Maximofort','112 Branson Lane Suite 535'),
 (3,'Mississippi','Kuhicborough','253 Rodrick Fields Apt. 758'),
@@ -407,7 +407,7 @@ INSERT INTO alamat (alamat_id, provinsi, kota, jalan)
 (50,'Georgia','Ankundingfurt','3574 Desiree Mills');
 
 -- PEMBELI
-INSERT INTO pembeli (email, alamat_utama_id) 
+INSERT INTO pembeli (email, alamat_utama_id) VALUES
 ('oskar64@aol.com', 1),
 ('argono11@aol.com', 2),
 ('jindra4@protonmail.com', 3),
@@ -425,7 +425,7 @@ INSERT INTO pembeli (email, alamat_utama_id)
 ('halim35@protonmail.com', 16);
 
 -- PENJUAL
-INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) 
+INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified) VALUES
 ('argono11@aol.com', '/path/ktp/argono11.png', '/path/diri/argono11.png', TRUE),
 ('jindra4@protonmail.com', '/path/ktp/jindra4.png', '/path/diri/jindra4.png', TRUE),
 ('jane49@protonmail.com', '/path/ktp/jane49.png', '/path/diri/jane49.png', TRUE),
@@ -444,7 +444,7 @@ INSERT INTO penjual (email, foto_ktp, foto_diri, is_verified)
 ('anastasia68@outlook.com', NULL, NULL, FALSE);
 
 -- PRODUK
-INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) 
+INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual) VALUES
 (1, 'Kemeja Formal Pria', 'Kemeja formal untuk acara resmi dan kantor', 'argono11@aol.com'),
 (2, 'Celana Chino', 'Celana casual yang nyaman untuk aktivitas sehari-hari', 'jindra4@protonmail.com'),
 (3, 'Sepatu Sneakers', 'Sepatu olahraga yang stylish dan nyaman', 'jane49@protonmail.com'),
@@ -457,7 +457,7 @@ INSERT INTO produk (no_produk, nama_produk, deskripsi, email_penjual)
 (10, 'Kaos Polos', 'Kaos dengan bahan katun berkualitas tinggi', 'bakidin22@hotmail.com');
 
 -- GAMBAR_PRODUK
-INSERT INTO gambar_produk (no_produk, gambar) 
+INSERT INTO gambar_produk (no_produk, gambar) VALUES
 (1, "/path/to/kemeja1.jpg"),
 (1, "/path/to/kemeja2.jpg"),
 (2, "/path/to/celana1.jpg"),
@@ -471,7 +471,7 @@ INSERT INTO gambar_produk (no_produk, gambar)
 (10, "/path/to/kaos1.jpg");
 
 -- TAG_PRODUK
-INSERT INTO tag_produk (no_produk, tag) 
+INSERT INTO tag_produk (no_produk, tag) VALUES
 (1, 'Formal'),
 (1, 'Kemeja'),
 (1, 'Kantor'),
@@ -495,7 +495,7 @@ INSERT INTO tag_produk (no_produk, tag)
 (10, 'Kaos');
 
 -- VARIAN
-INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) 
+INSERT INTO varian (no_produk, sku, nama_varian, stok, harga) VALUES
 (1, '1-BLUE-S', 'Kemeja Biru Ukuran S', 10, 150000.00),
 (1, '1-BLUE-M', 'Kemeja Biru Ukuran M', 15, 150000.00),
 (1, '1-BLUE-L', 'Kemeja Biru Ukuran L', 12, 155000.00),
@@ -522,7 +522,7 @@ INSERT INTO varian (no_produk, sku, nama_varian, stok, harga)
 (5, '5-GOLD', 'Jam Tangan Digital Gold', 10, 190000.00);
 
 -- WISHLIST
-INSERT INTO wishlist (wishlist_id, email_pembeli) 
+INSERT INTO wishlist (wishlist_id, email_pembeli) VALUES
 (1, 'oskar64@aol.com'), 
 (2, 'argono11@aol.com'), 
 (3, 'jindra4@protonmail.com'), 
@@ -540,7 +540,7 @@ INSERT INTO wishlist (wishlist_id, email_pembeli)
 (15, 'halim35@protonmail.com');
 
 -- KERANJANG
-INSERT INTO keranjang (keranjang_id, email_pembeli) 
+INSERT INTO keranjang (keranjang_id, email_pembeli) VALUES
 (1, 'oskar64@aol.com'),
 (2, 'argono11@aol.com'),
 (3, 'jindra4@protonmail.com'),
@@ -558,7 +558,7 @@ INSERT INTO keranjang (keranjang_id, email_pembeli)
 (15, 'halim35@protonmail.com');
 
 -- RINCIAN_WISHLIST
-INSERT INTO rincian_wishlist (wishlist_id, no_produk) 
+INSERT INTO rincian_wishlist (wishlist_id, no_produk) VALUES
 (1, 1),
 (1, 2),
 (2, 10),
@@ -588,7 +588,7 @@ INSERT INTO rincian_wishlist (wishlist_id, no_produk)
 (15, 6);
 
 -- RINCIAN_KERANJANG
-INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) 
+INSERT INTO rincian_keranjang (keranjang_id, no_produk, sku) VALUES
 (1, 2, '2-BLACK-28'),
 (1, 1, '1-BLUE-S'),
 (2, 1, '1-BLUE-M'),
