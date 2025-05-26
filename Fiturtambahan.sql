@@ -18,6 +18,36 @@ END
 DELIMITER ;
 
 -- Validasi Umur
+-- Query testing
+INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
+                 VALUES ('Bocil@gmail.com', 'Cilcilbocil', 'Bocil cil', '+62-605-117-123', '2012-06-05', NULL, TRUE, FALSE);
+
+--Query Manipulasi
+DELIMITER //
+
+
+CREATE TRIGGER validate_pengguna_age_insert
+BEFORE INSERT ON pengguna
+FOR EACH ROW
+BEGIN
+    IF TIMESTAMPDIFF(YEAR, NEW.tgl_lahir, CURDATE()) <= 17 THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Pengguna harus berusia lebih dari 17 tahun.';
+    END IF;
+END//
+
+
+CREATE TRIGGER validate_pengguna_age_update
+BEFORE UPDATE ON pengguna
+FOR EACH ROW
+BEGIN
+    IF TIMESTAMPDIFF(YEAR, NEW.tgl_lahir, CURDATE()) <= 17 THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Pengguna harus berusia lebih dari 17 tahun.';
+    END IF;
+END//
+
+DELIMITER ;
 
 -- Verifikasi Produk
 --Query testing 
@@ -58,3 +88,29 @@ LIMIT 5;
 
 
 -- Validasi status pengiriman
+-- Query testing
+INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, waktu_pesan, metode_kirim, email_pembeli, alamat_id, email_penjual)
+                 VALUES (102, 'Paket hilang di DC Cakung', 2235113.5, 'Kartu Kredit', 'Pedes ya bang.', '2024-07-17 19:12:55', 'Same Day', 'rini42@yahoo.com', 45, 'umar49@yahoo.com');
+
+
+-- -- Query Manipulasi
+-- DELIMITER //
+
+-- CREATE TRIGGER validate_status_pesanan_insert
+-- BEFORE INSERT ON pesanan
+-- FOR EACH ROW
+-- BEGIN
+--     IF NEW.status_pesanan NOT IN (
+--         'Pesanan belum dibayar',
+--         'Pesanan sedang disiapkan',
+--         'Pesanan sedang dikirim',
+--         'Pesanan sampai',
+--         'Pesanan dibatalkan'
+--     ) THEN
+--         SIGNAL SQLSTATE '45000'
+--         SET MESSAGE_TEXT = 'Status pesanan tidak valid. Harus salah satu dari: Pesanan belum dibayar, Pesanan sedang disiapkan, Pesanan sedang dikirim, Pesanan sampai, Pesanan dibatalkan';
+--     END IF;
+-- END
+-- //
+-- DELIMITER ;
+
