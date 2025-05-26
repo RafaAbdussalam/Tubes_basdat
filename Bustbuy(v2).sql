@@ -222,6 +222,14 @@ SELECT
     TIMESTAMPDIFF(YEAR, tgl_lahir, CURDATE()) AS umur
 FROM pengguna;
 
+-- VIEW: menampilkan top 5 tags
+CREATE OR REPLACE VIEW top_5_tags AS
+SELECT tag, COUNT(no_produk) AS jumlah_produk
+FROM tag_produk
+GROUP BY tag
+ORDER BY jumlah_produk DESC
+LIMIT 5;
+
 
 -- ======================== TRIGGERS ===============================
 
