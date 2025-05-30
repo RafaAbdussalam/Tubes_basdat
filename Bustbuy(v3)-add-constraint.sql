@@ -408,6 +408,39 @@ BEGIN
 END //
 DELIMITER ;
 
+-- Trigger: mengisi waktu_pesan dengan waktu saat ini
+DELIMITER //
+
+CREATE TRIGGER isi_waktu_pesan
+BEFORE INSERT ON pesanan
+FOR EACH ROW
+BEGIN
+    IF NEW.waktu_pesan IS NULL THEN
+        SET NEW.waktu_pesan = NOW();
+    END IF;
+END;
+//
+
+DELIMITER ;
+
+-- Trigger: verifikasi foto_ktp dan foto_diri pada penjual
+DELIMITER //
+
+CREATE TRIGGER verifikasi_penjual_foto
+BEFORE UPDATE ON penjual
+FOR EACH ROW
+BEGIN
+    IF NEW.is_verified = TRUE THEN
+        IF NEW.foto_diri IS NULL OR NEW.foto_diri = ''
+           OR NEW.foto_ktp IS NULL OR NEW.foto_ktp = '' THEN
+            SIGNAL SQLSTATE '45000'
+            SET MESSAGE_TEXT = 'Penjual tidak dapat diverifikasi tanpa mengunggah foto pribadi dan foto KTP.';
+        END IF;
+    END IF;
+END//
+
+DELIMITER ;
+
 -- INSERT INTO pengguna
 -- INSERT INTO pengguna
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)

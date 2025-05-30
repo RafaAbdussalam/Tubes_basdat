@@ -135,3 +135,57 @@ BEGIN
 END//
 
 DELIMITER ;
+
+
+-- Business Rule
+
+-- Wah aneh nih
+-- Query Testing
+UPDATE penjual SET foto_ktp = NULL, is_verified = TRUE WHERE email = 'talia73@yahoo.com';
+UPDATE penjual SET foto_ktp = 'ktp/737329cb-33ee-4b77.jpg', is_verified = TRUE WHERE email = 'talia73@yahoo.com';
+
+ktp/737329cb-33ee-4b77.jpg
+-- Query Manipulasi
+DELIMITER //
+
+CREATE TRIGGER verifikasi_penjual_foto
+BEFORE UPDATE ON penjual
+FOR EACH ROW
+BEGIN
+    IF NEW.is_verified = TRUE THEN
+        IF NEW.foto_diri IS NULL OR NEW.foto_diri = ''
+           OR NEW.foto_ktp IS NULL OR NEW.foto_ktp = '' THEN
+            SIGNAL SQLSTATE '45000'
+            SET MESSAGE_TEXT = 'Penjual tidak dapat diverifikasi tanpa mengunggah foto pribadi dan foto KTP.';
+        END IF;
+    END IF;
+END//
+
+DELIMITER ;
+
+
+INSERT INTO pesanan (
+    no_pesanan, status_pesanan, harga_total, metode_bayar, catatan, 
+    metode_kirim, email_pembeli, alamat_id, email_penjual
+)
+VALUES (
+    102, 'Dikirim', 2235113.5, 'Kartu Kredit', 
+    'Libero voluptas enim itaque vero laudantium ratione corporis.', 
+    'Same Day', 'rini42@yahoo.com', 45, 'umar49@yahoo.com'
+);
+
+
+-- Trigger mengisi waktu_pesan dengan waktu saat ini
+DELIMITER //
+
+CREATE TRIGGER isi_waktu_pesan
+BEFORE INSERT ON pesanan
+FOR EACH ROW
+BEGIN
+    IF NEW.waktu_pesan IS NULL THEN
+        SET NEW.waktu_pesan = NOW();
+    END IF;
+END;
+//
+
+DELIMITER ;
