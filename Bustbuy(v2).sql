@@ -341,6 +341,23 @@ END;
 //
 DELIMITER ;
 
+-- TRIGGER: memastikan bahwa update status pesanan valid dalam trasition constraint
+DELIMITER //
+
+CREATE TRIGGER validate_pesanan_status_transition
+BEFORE UPDATE ON pesanan
+FOR EACH ROW
+BEGIN
+    IF OLD.status_pesanan = 'Menunggu Pembayaran' 
+       AND NEW.status_pesanan = 'Dikirim' 
+       AND NEW.metode_bayar IS NULL THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Metode pembayaran harus diisi sebelum status pesanan berubah ke Dikirim.';
+    END IF;
+END//
+
+DELIMITER ;
+
 -- INSERT INTO pengguna
 -- INSERT INTO pengguna
 INSERT INTO pengguna (email, kata_sandi, nama_panjang, no_telp, tgl_lahir, foto_profil, is_pembeli, is_penjual)
