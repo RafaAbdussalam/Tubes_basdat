@@ -114,3 +114,24 @@ INSERT INTO pesanan (no_pesanan, status_pesanan, harga_total, metode_bayar, cata
 -- //
 -- DELIMITER ;
 
+-- Tambahan transition Constraint
+-- Query Testing
+UPDATE pesanan
+SET status_pesanan = 'Dikirim', metode_bayar = NULL
+WHERE no_pesanan = 4 AND status_pesanan = 'Menunggu Pembayaran';
+
+DELIMITER //
+
+CREATE TRIGGER validate_pesanan_status_transition
+BEFORE UPDATE ON pesanan
+FOR EACH ROW
+BEGIN
+    IF OLD.status_pesanan = 'Menunggu Pembayaran' 
+       AND NEW.status_pesanan = 'Dikirim' 
+       AND NEW.metode_bayar IS NULL THEN
+        SIGNAL SQLSTATE '45000'
+        SET MESSAGE_TEXT = 'Metode pembayaran harus diisi sebelum status pesanan berubah ke Dikirim.';
+    END IF;
+END//
+
+DELIMITER ;
